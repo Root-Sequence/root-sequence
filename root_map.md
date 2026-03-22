@@ -26,4 +26,27 @@ This file serves as a **compass for the whole repo** — showing how folders and
 
 ---
 
+## systems
+
+How things behave.
+
+Focuses on structure, dependency, stress, failure, and response.
+
+This layer examines what actually happens when systems are exposed to real conditions rather than ideal assumptions.
+
+### current
+
+- fragility -> small failure -> large consequence
+- cascades -> how failure propagates through connections
+- recovery -> how systems restore function
+- coherence -> alignment between assumptions and reality
+- adaptation -> how systems change under stress
+
+### relationships
+
+- concepts define what things are
+- analysis examines what is happening
+- systems explain how things behave
+- futures explore what could emerge
+
 > This map is compost too — update it as the forest grows.

@@ -44,7 +44,8 @@ A recursive process rather than a fixed path.
 
 ## 📂 Repository Map
 
-- `/core/` — foundational texts and framework documents  
+- `/core/` — foundational texts and framework documents
+- `/systems/` — models and methods for understanding how systems behave under stress and failure  
 - `/concepts/` — glossary and key definitions  
 - `/analysis/` — system diagnosis (power, capitalism, infrastructure)  
 - `/ideology/` — political and cultural frameworks  
