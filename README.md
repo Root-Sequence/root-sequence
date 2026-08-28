@@ -8,6 +8,9 @@ It combines philosophy, systems thinking, and technical exploration into a modul
 
 It's a process, not a blueprint.
 
+> **This repository is the conceptual commons, not the entire GitHub organization.**  
+> See the [Ecosystem Map](ECOSYSTEM.md) for the relationships among Root Sequence, Liberated Intelligence, the Universal Coherence Framework, Being Human(e), Liberation Mass, Coherent World, *No One Noticed*, the Museum of Ordinary Life, and adjacent implementation work.
+
 ---
 
 ## 🌀 Framework
@@ -54,12 +57,15 @@ A recursive process rather than a fixed path.
 - `/cli/` — experimental scripts and tools  
 - `/assets/` — visuals and diagrams  
 
+The internal repository map is also described in [`root_map.md`](root_map.md). The organization-wide map lives in [`ECOSYSTEM.md`](ECOSYSTEM.md).
+
 ---
 
 ## 📚 Start Here
 
 Suggested entry points:
 
+- [Ecosystem Map](ECOSYSTEM.md) — understand the wider project family  
 - [Framework](core/framework.md)  
 - [Liberation Sequence](core/liberation_sequence.md)  
 - [Manifesto](core/manifesto.md)  
