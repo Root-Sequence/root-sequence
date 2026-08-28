@@ -15,6 +15,8 @@ It is not the map of the entire GitHub organization. For that, use the [Root Seq
 - [`systems/`](systems/) — structure, dependency, stress, failure, feedback, recovery, coherence, and adaptation.
 - [`futures/`](futures/) — trajectories, alternatives, collapse, resilience, and possible liberations.
 - [`commons/`](commons/) — zines, fragments, maps, and practices intended for practical or public reuse.
+  - [`commons/fragments/`](commons/fragments/) — short, unfinished, poetic, or compostable material.
+  - [`commons/zines/`](commons/zines/) — longer public and printable artifacts.
 - [`cli/`](cli/) — experimental scripts and tools.
 - [`assets/`](assets/) — visual material and diagrams.
 
@@ -27,7 +29,7 @@ Root-level orientation files:
 - [`contributing.md`](contributing.md) — contribution guidance.
 - [`license`](license) — repository license text.
 
-**Fragments remain a valid content role**, but there is currently no dedicated `fragments/` directory. Place raw fragments in the most relevant existing folder—or leave them in a temporary inbox—until enough material justifies a separate path.
+Fragments already have a canonical home under [`commons/fragments/`](commons/fragments/). A raw note that is not yet public-facing or deliberately fragmentary should remain in a temporary capture system until it is ready to enter the repository.
 
 ---
 
