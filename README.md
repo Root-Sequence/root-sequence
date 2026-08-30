@@ -8,6 +8,11 @@ It combines philosophy, systems thinking, and technical exploration into a modul
 
 It's a process, not a blueprint.
 
+**Ecosystem role:** umbrella inquiry / conceptual commons  
+**Canonical scope:** broad systems research, concepts, analysis, shared patterns, futures, and organization-level orientation  
+**Does not own:** project-specific software, gathering practice, intelligence-specific conclusions, fictional canon, or Museum governance/consent  
+**Status:** active / public / living
+
 > **This repository is the conceptual commons, not the entire GitHub organization.**  
 > See the [Ecosystem Map](ECOSYSTEM.md) for the relationships among Root Sequence, Community Infrastructure, Liberated Intelligence, the Universal Coherence Framework, Being Human(e), Liberation Mass, Coherent World, *No One Noticed*, the Museum of Ordinary Life, and adjacent implementation work.  
 > See [Idea Trails](IDEA_TRAILS.md) to understand recurring cross-project questions, then use the generated [Idea Trail Browser](IDEA_TRAIL_INDEX.md) to jump directly to relevant documents by trail and role.
