@@ -16,6 +16,7 @@ Analysis is not the final layer. It should produce clearer causal questions, exp
 - [`billionaires.md`](billionaires.md) — wealth concentration and systemic capture.
 - [`money_pipeline.md`](money_pipeline.md) — tribute economics, bailouts, and asset capture.
 - [`exploitation.md`](exploitation.md) — labor, extraction, and invisible work.
+- [`externalized-responsibility.md`](externalized-responsibility.md) — how systems disconnect causal power, benefit, responsibility, and consequence by pushing risk and costs outward.
 
 ### Digital enclosure and infrastructure
 
