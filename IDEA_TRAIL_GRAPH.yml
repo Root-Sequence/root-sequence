@@ -34,7 +34,6 @@ trails:
     title: Accountability, Consequences & Externalization
 
 documents:
-  # Root Sequence routing / analysis layer
   - repo: Root-Sequence/root-sequence
     path: IDEA_TRAILS.md
     role: routing-map
@@ -63,7 +62,6 @@ documents:
       - maintenance-invisible-labor
       - right-to-stay-small
 
-  # Community Infrastructure — real-system treatments
   - repo: Root-Sequence/community-infrastructure
     path: docs/concepts/community-discovery.md
     role: real-system
@@ -224,7 +222,6 @@ documents:
       - right-to-stay-small
       - accountability-externalization
 
-  # Liberation Mass — embodied-practice treatments
   - repo: Root-Sequence/liberation-mass
     path: README.md
     role: embodied-practice
@@ -288,7 +285,6 @@ documents:
       - maintenance-invisible-labor
       - right-to-stay-small
 
-  # Being Human(e) — ordinary human / relational treatments
   - repo: Root-Sequence/beinghumane-guide
     path: README.md
     role: human-practice
@@ -319,7 +315,6 @@ documents:
       - space-liberation
       - accountability-externalization
 
-  # Liberated Intelligence — focused intelligence layer
   - repo: Root-Sequence/liberated-intelligence
     path: README.md
     role: research
@@ -341,7 +336,6 @@ documents:
       - maintenance-invisible-labor
       - accountability-externalization
 
-  # Universal Coherence Framework — analytical lens
   - repo: Root-Sequence/universal-coherence-framework
     path: README.md
     role: analytical-lens
@@ -361,7 +355,6 @@ documents:
       - resilience-failure
       - intelligence-authority
 
-  # Coherent World / No One Noticed — speculative + narrative layer
   - repo: Root-Sequence/coherent-world
     path: README.md
     role: speculative-design
@@ -410,6 +403,17 @@ documents:
       - memory-provenance
       - space-liberation
       - right-to-stay-small
+      - accountability-externalization
+
+  - repo: Root-Sequence/coherent-world
+    path: no-one-noticed/README.md
+    role: narrative
+    trails:
+      - intelligence-authority
+      - stewardship-authority
+      - privacy-coordination
+      - maintenance-invisible-labor
+      - memory-provenance
       - accountability-externalization
 
   # Museum of Ordinary Life is intentionally referenced but not mutated here.
