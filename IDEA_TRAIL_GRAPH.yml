@@ -74,6 +74,17 @@ documents:
       - accountability-externalization
 
   - repo: Root-Sequence/root-sequence
+    path: analysis/externalized-responsibility.md
+    role: research
+    canonical_for:
+      - accountability-externalization
+    trails:
+      - accountability-externalization
+      - stewardship-authority
+      - commons-shared-capacity
+      - maintenance-invisible-labor
+
+  - repo: Root-Sequence/root-sequence
     path: systems/resilience-and-graceful-degradation.md
     role: research
     canonical_for:
@@ -402,6 +413,16 @@ documents:
       - memory-provenance
       - space-liberation
       - accountability-externalization
+
+  - repo: Root-Sequence/beinghumane-guide
+    path: notes/responsibility-accountability-and-consequences.md
+    role: human-practice
+    canonical_for:
+      - accountability-externalization
+    trails:
+      - accountability-externalization
+      - stewardship-authority
+      - mutual-aid-need
 
   - repo: Root-Sequence/beinghumane-guide
     path: IDEA_TRAILS.md
