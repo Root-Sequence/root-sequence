@@ -225,6 +225,15 @@ documents:
       - accountability-externalization
 
   - repo: Root-Sequence/community-infrastructure
+    path: prototypes/space-access/README.md
+    role: real-system
+    trails:
+      - space-liberation
+      - accessibility-participation
+      - discoverability-belonging
+      - privacy-coordination
+
+  - repo: Root-Sequence/community-infrastructure
     path: docs/IDEA_TRAILS.md
     role: routing-map
     trails:
