@@ -68,6 +68,8 @@ Suggested entry points:
 
 - [Ecosystem Map](ECOSYSTEM.md) — understand the wider project family  
 - [Idea Trails](IDEA_TRAILS.md) — follow recurring questions across projects without collapsing their boundaries  
+- [Idea Trail Metadata Convention](IDEA_TRAIL_METADATA.md) — lightweight visible + machine-searchable metadata for participating documents  
+- [`IDEA_TRAIL_GRAPH.yml`](IDEA_TRAIL_GRAPH.yml) — seeded machine-readable document ↔ trail graph across the ecosystem  
 - [Framework](core/framework.md)  
 - [Liberation Sequence](core/liberation_sequence.md)  
 - [Manifesto](core/manifesto.md)  
