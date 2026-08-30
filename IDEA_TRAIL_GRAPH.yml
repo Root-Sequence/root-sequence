@@ -1,0 +1,417 @@
+version: 0.1
+updated: 2026-08-30
+canonical_trails: IDEA_TRAILS.md
+metadata_convention: IDEA_TRAIL_METADATA.md
+
+trails:
+  discoverability-belonging:
+    title: Community Discoverability & Belonging
+  stewardship-authority:
+    title: Stewardship, Authority & Power
+  mutual-aid-need:
+    title: Mutual Aid, Reciprocity & Need
+  privacy-coordination:
+    title: Privacy vs. Coordination
+  accessibility-participation:
+    title: Accessibility, Dependence & Participation
+  commons-shared-capacity:
+    title: Commons, Ownership & Shared Capacity
+  federation-autonomy:
+    title: Federation, Autonomy & Networks of Networks
+  maintenance-invisible-labor:
+    title: Maintenance, Repair & Invisible Labor
+  intelligence-authority:
+    title: Intelligence, Automation & Legitimate Authority
+  resilience-failure:
+    title: Resilience, Failure & Graceful Degradation
+  memory-provenance:
+    title: Memory, Provenance & Continuity
+  space-liberation:
+    title: Space, Mobility & Spatial Liberation
+  right-to-stay-small:
+    title: Growth, Scale & the Right to Stay Small
+  accountability-externalization:
+    title: Accountability, Consequences & Externalization
+
+documents:
+  # Root Sequence routing / analysis layer
+  - repo: Root-Sequence/root-sequence
+    path: IDEA_TRAILS.md
+    role: routing-map
+    trails:
+      - discoverability-belonging
+      - stewardship-authority
+      - mutual-aid-need
+      - privacy-coordination
+      - accessibility-participation
+      - commons-shared-capacity
+      - federation-autonomy
+      - maintenance-invisible-labor
+      - intelligence-authority
+      - resilience-failure
+      - memory-provenance
+      - space-liberation
+      - right-to-stay-small
+      - accountability-externalization
+
+  - repo: Root-Sequence/root-sequence
+    path: ECOSYSTEM.md
+    role: routing-map
+    trails:
+      - stewardship-authority
+      - federation-autonomy
+      - maintenance-invisible-labor
+      - right-to-stay-small
+
+  # Community Infrastructure — real-system treatments
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/concepts/community-discovery.md
+    role: real-system
+    canonical_for:
+      - discoverability-belonging
+    trails:
+      - discoverability-belonging
+      - privacy-coordination
+      - accessibility-participation
+      - right-to-stay-small
+
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/concepts/discovery-profile.md
+    role: real-system
+    trails:
+      - discoverability-belonging
+      - privacy-coordination
+      - accessibility-participation
+
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/concepts/community-forms.md
+    role: real-system
+    trails:
+      - discoverability-belonging
+      - right-to-stay-small
+      - federation-autonomy
+
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/concepts/groups-and-membership.md
+    role: real-system
+    trails:
+      - stewardship-authority
+      - privacy-coordination
+      - federation-autonomy
+      - right-to-stay-small
+
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/concepts/needs-and-offers.md
+    role: real-system
+    canonical_for:
+      - mutual-aid-need
+    trails:
+      - mutual-aid-need
+      - accountability-externalization
+      - privacy-coordination
+
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/concepts/resource-commons.md
+    role: real-system
+    trails:
+      - commons-shared-capacity
+      - mutual-aid-need
+      - stewardship-authority
+      - maintenance-invisible-labor
+
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/concepts/permissions-and-consent.md
+    role: real-system
+    trails:
+      - privacy-coordination
+      - federation-autonomy
+      - intelligence-authority
+      - accountability-externalization
+
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/concepts/community-knowledge.md
+    role: real-system
+    trails:
+      - memory-provenance
+      - privacy-coordination
+      - stewardship-authority
+
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/concepts/community-home.md
+    role: real-system
+    trails:
+      - maintenance-invisible-labor
+      - accountability-externalization
+      - accessibility-participation
+
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/design/accessibility.md
+    role: real-system
+    canonical_for:
+      - accessibility-participation
+    trails:
+      - accessibility-participation
+      - discoverability-belonging
+      - resilience-failure
+
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/design/trust-and-safety.md
+    role: real-system
+    trails:
+      - stewardship-authority
+      - privacy-coordination
+      - accountability-externalization
+      - discoverability-belonging
+
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/design/threat-model.md
+    role: real-system
+    trails:
+      - privacy-coordination
+      - stewardship-authority
+      - accountability-externalization
+      - resilience-failure
+
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/research/karrot-hands-on.md
+    role: research
+    trails:
+      - stewardship-authority
+      - mutual-aid-need
+      - federation-autonomy
+      - maintenance-invisible-labor
+
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/research/community-discovery-precedents.md
+    role: research
+    trails:
+      - discoverability-belonging
+      - privacy-coordination
+      - right-to-stay-small
+
+  - repo: Root-Sequence/community-infrastructure
+    path: prototypes/community-discovery/README.md
+    role: real-system
+    trails:
+      - discoverability-belonging
+      - privacy-coordination
+      - accessibility-participation
+      - right-to-stay-small
+
+  - repo: Root-Sequence/community-infrastructure
+    path: prototypes/needs-offers/README.md
+    role: real-system
+    trails:
+      - mutual-aid-need
+      - privacy-coordination
+      - accountability-externalization
+
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/IDEA_TRAILS.md
+    role: routing-map
+    trails:
+      - discoverability-belonging
+      - stewardship-authority
+      - mutual-aid-need
+      - privacy-coordination
+      - accessibility-participation
+      - commons-shared-capacity
+      - federation-autonomy
+      - maintenance-invisible-labor
+      - intelligence-authority
+      - resilience-failure
+      - memory-provenance
+      - right-to-stay-small
+      - accountability-externalization
+
+  # Liberation Mass — embodied-practice treatments
+  - repo: Root-Sequence/liberation-mass
+    path: README.md
+    role: embodied-practice
+    trails:
+      - discoverability-belonging
+      - stewardship-authority
+      - mutual-aid-need
+      - accessibility-participation
+      - commons-shared-capacity
+      - right-to-stay-small
+
+  - repo: Root-Sequence/liberation-mass
+    path: docs/roles.md
+    role: embodied-practice
+    trails:
+      - stewardship-authority
+      - maintenance-invisible-labor
+
+  - repo: Root-Sequence/liberation-mass
+    path: docs/safety/accessibility.md
+    role: embodied-practice
+    trails:
+      - accessibility-participation
+      - discoverability-belonging
+
+  - repo: Root-Sequence/liberation-mass
+    path: docs/safety/consent-practices.md
+    role: embodied-practice
+    trails:
+      - privacy-coordination
+      - accountability-externalization
+
+  - repo: Root-Sequence/liberation-mass
+    path: docs/federation.md
+    role: embodied-practice
+    trails:
+      - federation-autonomy
+      - right-to-stay-small
+
+  - repo: Root-Sequence/liberation-mass
+    path: docs/community-infrastructure.md
+    role: routing-map
+    trails:
+      - discoverability-belonging
+      - stewardship-authority
+      - mutual-aid-need
+      - accessibility-participation
+      - federation-autonomy
+      - maintenance-invisible-labor
+
+  - repo: Root-Sequence/liberation-mass
+    path: docs/idea-trails.md
+    role: routing-map
+    trails:
+      - discoverability-belonging
+      - stewardship-authority
+      - mutual-aid-need
+      - accessibility-participation
+      - commons-shared-capacity
+      - federation-autonomy
+      - maintenance-invisible-labor
+      - right-to-stay-small
+
+  # Being Human(e) — ordinary human / relational treatments
+  - repo: Root-Sequence/beinghumane-guide
+    path: README.md
+    role: human-practice
+    trails:
+      - discoverability-belonging
+      - stewardship-authority
+      - mutual-aid-need
+      - privacy-coordination
+      - accessibility-participation
+      - maintenance-invisible-labor
+      - intelligence-authority
+      - memory-provenance
+      - space-liberation
+      - accountability-externalization
+
+  - repo: Root-Sequence/beinghumane-guide
+    path: IDEA_TRAILS.md
+    role: routing-map
+    trails:
+      - discoverability-belonging
+      - stewardship-authority
+      - mutual-aid-need
+      - privacy-coordination
+      - accessibility-participation
+      - maintenance-invisible-labor
+      - intelligence-authority
+      - memory-provenance
+      - space-liberation
+      - accountability-externalization
+
+  # Liberated Intelligence — focused intelligence layer
+  - repo: Root-Sequence/liberated-intelligence
+    path: README.md
+    role: research
+    trails:
+      - intelligence-authority
+      - privacy-coordination
+      - federation-autonomy
+      - maintenance-invisible-labor
+      - accountability-externalization
+
+  - repo: Root-Sequence/liberated-intelligence
+    path: meta/idea-trails.md
+    role: routing-map
+    trails:
+      - intelligence-authority
+      - privacy-coordination
+      - stewardship-authority
+      - federation-autonomy
+      - maintenance-invisible-labor
+      - accountability-externalization
+
+  # Universal Coherence Framework — analytical lens
+  - repo: Root-Sequence/universal-coherence-framework
+    path: README.md
+    role: analytical-lens
+    trails:
+      - discoverability-belonging
+      - stewardship-authority
+      - federation-autonomy
+      - resilience-failure
+
+  - repo: Root-Sequence/universal-coherence-framework
+    path: docs/idea-trails.md
+    role: routing-map
+    trails:
+      - discoverability-belonging
+      - stewardship-authority
+      - federation-autonomy
+      - resilience-failure
+      - intelligence-authority
+
+  # Coherent World / No One Noticed — speculative + narrative layer
+  - repo: Root-Sequence/coherent-world
+    path: README.md
+    role: speculative-design
+    trails:
+      - discoverability-belonging
+      - stewardship-authority
+      - privacy-coordination
+      - federation-autonomy
+      - maintenance-invisible-labor
+      - intelligence-authority
+      - resilience-failure
+      - memory-provenance
+      - right-to-stay-small
+      - accountability-externalization
+
+  - repo: Root-Sequence/coherent-world
+    path: PROJECT-MAP.md
+    role: routing-map
+    trails:
+      - discoverability-belonging
+      - stewardship-authority
+      - mutual-aid-need
+      - privacy-coordination
+      - accessibility-participation
+      - federation-autonomy
+      - maintenance-invisible-labor
+      - intelligence-authority
+      - resilience-failure
+      - memory-provenance
+      - accountability-externalization
+
+  - repo: Root-Sequence/coherent-world
+    path: IDEA-TRAILS.md
+    role: routing-map
+    trails:
+      - discoverability-belonging
+      - stewardship-authority
+      - mutual-aid-need
+      - privacy-coordination
+      - accessibility-participation
+      - commons-shared-capacity
+      - federation-autonomy
+      - maintenance-invisible-labor
+      - intelligence-authority
+      - resilience-failure
+      - memory-provenance
+      - space-liberation
+      - right-to-stay-small
+      - accountability-externalization
+
+  # Museum of Ordinary Life is intentionally referenced but not mutated here.
+  # Add exact canonical Museum document paths only through the Museum's own
+  # governance/workflow when those documents explicitly adopt Idea Trail metadata.
