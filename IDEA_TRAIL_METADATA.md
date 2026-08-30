@@ -9,6 +9,8 @@ This convention is deliberately small. It should make conceptual relationships e
 
 The canonical trail definitions live in [`IDEA_TRAILS.md`](IDEA_TRAILS.md).
 
+The document-level graph lives in [`IDEA_TRAIL_GRAPH.yml`](IDEA_TRAIL_GRAPH.yml), and the human browser generated from that graph lives in [`IDEA_TRAIL_INDEX.md`](IDEA_TRAIL_INDEX.md).
+
 ---
 
 # The convention
@@ -94,6 +96,39 @@ When canonicality matters, state it in prose or in the graph index rather than o
 
 ---
 
+# Graph and generated browser
+
+`IDEA_TRAIL_GRAPH.yml` is the central document-to-trail registry for high-signal material that should be discoverable even before every underlying file has been retrofitted with visible metadata.
+
+The graph records:
+
+- repository;
+- path;
+- trail role;
+- trail IDs;
+- optional `canonical_for` relationships.
+
+`cli/generate_idea_trail_index.py` validates that graph and generates `IDEA_TRAIL_INDEX.md`, grouping documents by trail and role.
+
+The GitHub Actions workflow at `.github/workflows/idea-trails.yml` regenerates the browser whenever the graph, metadata convention, generator, or workflow changes. It validates the generated result and commits the generated browser only when necessary.
+
+This creates three complementary layers:
+
+```text
+IDEA_TRAILS.md
+human meaning / cross-project questions
+        ↓
+IDEA_TRAIL_GRAPH.yml
+machine-readable document relationships
+        ↓
+IDEA_TRAIL_INDEX.md
+generated human browser
+```
+
+Inline document metadata remains valuable because it makes the relationship visible **inside the document itself** and can eventually support repository-wide discovery without relying only on the central registry.
+
+---
+
 # What not to do
 
 Do not:
@@ -133,7 +168,9 @@ Stewardship, Authority & Power
 └── Museum preservation artifact
 ```
 
-The generated graph should point to canonical documents rather than copy their contents.
+The current graph/browser generator is deliberately registry-based rather than cloning/searching every repository. A later tool may reconcile the central graph with inline metadata and report drift between them.
+
+Generated maps should point to canonical documents rather than copy their contents.
 
 ---
 
@@ -146,6 +183,7 @@ Prefer:
 1. tag high-signal documents when they are actively touched;
 2. maintain the central graph index for important existing documents;
 3. add metadata during normal revision;
-4. periodically generate/check trail maps once enough documents participate.
+4. let CI validate/generate the browser;
+5. periodically reconcile inline metadata with the graph once enough documents participate.
 
 The convention succeeds if it makes connections easier to find while remaining cheap enough that contributors actually use it.
