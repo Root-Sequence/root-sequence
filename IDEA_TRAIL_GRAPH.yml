@@ -62,6 +62,17 @@ documents:
       - maintenance-invisible-labor
       - right-to-stay-small
 
+  - repo: Root-Sequence/root-sequence
+    path: analysis/spatial-liberation.md
+    role: research
+    canonical_for:
+      - space-liberation
+    trails:
+      - space-liberation
+      - accessibility-participation
+      - commons-shared-capacity
+      - accountability-externalization
+
   - repo: Root-Sequence/community-infrastructure
     path: docs/concepts/community-discovery.md
     role: real-system
@@ -143,6 +154,15 @@ documents:
       - accessibility-participation
 
   - repo: Root-Sequence/community-infrastructure
+    path: docs/concepts/space-mobility-and-access.md
+    role: real-system
+    trails:
+      - space-liberation
+      - accessibility-participation
+      - commons-shared-capacity
+      - discoverability-belonging
+
+  - repo: Root-Sequence/community-infrastructure
     path: docs/design/accessibility.md
     role: real-system
     canonical_for:
@@ -219,6 +239,7 @@ documents:
       - intelligence-authority
       - resilience-failure
       - memory-provenance
+      - space-liberation
       - right-to-stay-small
       - accountability-externalization
 
@@ -262,6 +283,23 @@ documents:
       - right-to-stay-small
 
   - repo: Root-Sequence/liberation-mass
+    path: docs/spaces/spaces.md
+    role: embodied-practice
+    trails:
+      - space-liberation
+      - accessibility-participation
+      - commons-shared-capacity
+
+  - repo: Root-Sequence/liberation-mass
+    path: docs/spatial-principles.md
+    role: embodied-practice
+    trails:
+      - space-liberation
+      - accessibility-participation
+      - discoverability-belonging
+      - commons-shared-capacity
+
+  - repo: Root-Sequence/liberation-mass
     path: docs/community-infrastructure.md
     role: routing-map
     trails:
@@ -283,6 +321,7 @@ documents:
       - commons-shared-capacity
       - federation-autonomy
       - maintenance-invisible-labor
+      - space-liberation
       - right-to-stay-small
 
   - repo: Root-Sequence/beinghumane-guide
@@ -404,6 +443,15 @@ documents:
       - space-liberation
       - right-to-stay-small
       - accountability-externalization
+
+  - repo: Root-Sequence/coherent-world
+    path: world/space-mobility-and-belonging.md
+    role: speculative-design
+    trails:
+      - space-liberation
+      - accessibility-participation
+      - commons-shared-capacity
+      - resilience-failure
 
   - repo: Root-Sequence/coherent-world
     path: no-one-noticed/README.md
