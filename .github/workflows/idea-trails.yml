@@ -39,7 +39,7 @@ jobs:
       - name: Commit generated browser when changed
         shell: bash
         run: |
-          if git diff --quiet -- IDEA_TRAIL_INDEX.md; then
+          if [ -z "$(git status --porcelain -- IDEA_TRAIL_INDEX.md)" ]; then
             echo "Idea Trail browser is already current."
             exit 0
           fi
