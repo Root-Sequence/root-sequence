@@ -73,6 +73,17 @@ documents:
       - commons-shared-capacity
       - accountability-externalization
 
+  - repo: Root-Sequence/root-sequence
+    path: systems/resilience-and-graceful-degradation.md
+    role: research
+    canonical_for:
+      - resilience-failure
+    trails:
+      - resilience-failure
+      - maintenance-invisible-labor
+      - federation-autonomy
+      - accountability-externalization
+
   - repo: Root-Sequence/community-infrastructure
     path: docs/concepts/community-discovery.md
     role: real-system
@@ -191,6 +202,15 @@ documents:
       - resilience-failure
 
   - repo: Root-Sequence/community-infrastructure
+    path: docs/design/resilience-and-graceful-degradation.md
+    role: real-system
+    trails:
+      - resilience-failure
+      - maintenance-invisible-labor
+      - accessibility-participation
+      - federation-autonomy
+
+  - repo: Root-Sequence/community-infrastructure
     path: docs/research/karrot-hands-on.md
     role: research
     trails:
@@ -206,6 +226,24 @@ documents:
       - discoverability-belonging
       - privacy-coordination
       - right-to-stay-small
+
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/research/space-access-interoperability.md
+    role: research
+    trails:
+      - space-liberation
+      - accessibility-participation
+      - federation-autonomy
+      - resilience-failure
+
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/research/resilient-communications.md
+    role: research
+    trails:
+      - resilience-failure
+      - federation-autonomy
+      - privacy-coordination
+      - maintenance-invisible-labor
 
   - repo: Root-Sequence/community-infrastructure
     path: prototypes/community-discovery/README.md
@@ -232,6 +270,14 @@ documents:
       - accessibility-participation
       - discoverability-belonging
       - privacy-coordination
+
+  - repo: Root-Sequence/community-infrastructure
+    path: prototypes/degraded-mode/README.md
+    role: real-system
+    trails:
+      - resilience-failure
+      - maintenance-invisible-labor
+      - accessibility-participation
 
   - repo: Root-Sequence/community-infrastructure
     path: docs/IDEA_TRAILS.md
@@ -309,6 +355,14 @@ documents:
       - commons-shared-capacity
 
   - repo: Root-Sequence/liberation-mass
+    path: docs/resilience-and-low-tech.md
+    role: embodied-practice
+    trails:
+      - resilience-failure
+      - maintenance-invisible-labor
+      - accessibility-participation
+
+  - repo: Root-Sequence/liberation-mass
     path: docs/community-infrastructure.md
     role: routing-map
     trails:
@@ -331,6 +385,7 @@ documents:
       - federation-autonomy
       - maintenance-invisible-labor
       - space-liberation
+      - resilience-failure
       - right-to-stay-small
 
   - repo: Root-Sequence/beinghumane-guide
@@ -463,6 +518,15 @@ documents:
       - resilience-failure
 
   - repo: Root-Sequence/coherent-world
+    path: world/resilience-failure-and-continuity.md
+    role: speculative-design
+    trails:
+      - resilience-failure
+      - maintenance-invisible-labor
+      - federation-autonomy
+      - intelligence-authority
+
+  - repo: Root-Sequence/coherent-world
     path: no-one-noticed/README.md
     role: narrative
     trails:
@@ -470,7 +534,9 @@ documents:
       - stewardship-authority
       - privacy-coordination
       - maintenance-invisible-labor
+      - resilience-failure
       - memory-provenance
+      - space-liberation
       - accountability-externalization
 
   # Museum of Ordinary Life is intentionally referenced but not mutated here.
