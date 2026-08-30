@@ -9,7 +9,8 @@ It combines philosophy, systems thinking, and technical exploration into a modul
 It's a process, not a blueprint.
 
 > **This repository is the conceptual commons, not the entire GitHub organization.**  
-> See the [Ecosystem Map](ECOSYSTEM.md) for the relationships among Root Sequence, Liberated Intelligence, the Universal Coherence Framework, Being Human(e), Liberation Mass, Coherent World, *No One Noticed*, the Museum of Ordinary Life, and adjacent implementation work.
+> See the [Ecosystem Map](ECOSYSTEM.md) for the relationships among Root Sequence, Community Infrastructure, Liberated Intelligence, the Universal Coherence Framework, Being Human(e), Liberation Mass, Coherent World, *No One Noticed*, the Museum of Ordinary Life, and adjacent implementation work.  
+> See [Idea Trails](IDEA_TRAILS.md) to follow recurring questions such as discoverability, stewardship, mutual aid, privacy, accessibility, federation, maintenance, AI/authority, memory, and accountability across those projects.
 
 ---
 
@@ -57,7 +58,7 @@ A recursive process rather than a fixed path.
 - `/cli/` — experimental scripts and tools  
 - `/assets/` — visuals and diagrams  
 
-The internal repository map is also described in [`root_map.md`](root_map.md). The organization-wide map lives in [`ECOSYSTEM.md`](ECOSYSTEM.md).
+The internal repository map is also described in [`root_map.md`](root_map.md). The organization-wide map lives in [`ECOSYSTEM.md`](ECOSYSTEM.md), and recurring cross-project questions are traced in [`IDEA_TRAILS.md`](IDEA_TRAILS.md).
 
 ---
 
@@ -66,6 +67,7 @@ The internal repository map is also described in [`root_map.md`](root_map.md). T
 Suggested entry points:
 
 - [Ecosystem Map](ECOSYSTEM.md) — understand the wider project family  
+- [Idea Trails](IDEA_TRAILS.md) — follow recurring questions across projects without collapsing their boundaries  
 - [Framework](core/framework.md)  
 - [Liberation Sequence](core/liberation_sequence.md)  
 - [Manifesto](core/manifesto.md)  
