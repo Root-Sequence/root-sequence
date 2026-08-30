@@ -123,6 +123,17 @@ def github_url(repo: str, path: str) -> str:
     return f"https://github.com/{repo}/blob/main/{path}"
 
 
+def short_repo(repo: str) -> str:
+    return repo.split("/", 1)[-1]
+
+
+def doc_link(doc: dict, trail_id: str) -> str:
+    repo = doc["repo"]
+    path = doc["path"]
+    marker = " ★" if trail_id in (doc.get("canonical_for") or []) else ""
+    return f"[`{short_repo(repo)}/{path}`]({github_url(repo, path)}){marker}"
+
+
 def render(data: dict) -> str:
     trails: dict = data["trails"]
     documents: list[dict] = data.get("documents") or []
@@ -137,28 +148,23 @@ def render(data: dict) -> str:
         "",
         "<!-- GENERATED FILE: edit IDEA_TRAIL_GRAPH.yml, not this file. -->",
         "",
-        "This index is generated from [`IDEA_TRAIL_GRAPH.yml`](IDEA_TRAIL_GRAPH.yml). "
-        "It provides a document-level view of the cross-project Idea Trails defined in "
-        "[`IDEA_TRAILS.md`](IDEA_TRAILS.md).",
+        "This index is generated from [`IDEA_TRAIL_GRAPH.yml`](IDEA_TRAIL_GRAPH.yml) and provides a compact document-level browser for the cross-project trails in [`IDEA_TRAILS.md`](IDEA_TRAILS.md).",
         "",
-        "> **Trail membership indicates a meaningful relationship, not canonical authority.** "
-        "Each project's own source-of-truth rules still apply.",
+        "> **Trail membership indicates a meaningful relationship, not canonical authority.** Each project's own source-of-truth rules still apply. A ★ marks a document explicitly listed as a canonical treatment for that trail.",
         "",
         "## Trails",
         "",
     ]
 
     for trail_id, trail in trails.items():
-        title = trail["title"]
-        lines.append(f"- [{title}](#{trail_id}) — `{trail_id}`")
+        lines.append(f"- [{trail['title']}](#{trail_id}) — `{trail_id}`")
 
     lines.extend(["", "---", ""])
 
     for trail_id, trail in trails.items():
-        title = trail["title"]
         lines.extend([
             f"<a id=\"{trail_id}\"></a>",
-            f"## {title}",
+            f"## {trail['title']}",
             "",
             f"**Stable ID:** `{trail_id}`",
             "",
@@ -174,18 +180,13 @@ def render(data: dict) -> str:
             grouped[doc["role"]].append(doc)
 
         for role in sorted(grouped, key=lambda r: (ROLE_ORDER.get(r, 999), r)):
-            lines.append(f"### {ROLE_LABELS.get(role, role)}")
-            lines.append("")
-            for doc in sorted(grouped[role], key=lambda d: (d["repo"], d["path"])):
-                repo = doc["repo"]
-                path = doc["path"]
-                marker = " **(canonical treatment)**" if trail_id in (doc.get("canonical_for") or []) else ""
-                lines.append(
-                    f"- [`{repo}/{path}`]({github_url(repo, path)}){marker}"
-                )
-            lines.append("")
+            links = [
+                doc_link(doc, trail_id)
+                for doc in sorted(grouped[role], key=lambda d: (d["repo"], d["path"]))
+            ]
+            lines.append(f"- **{ROLE_LABELS.get(role, role)}:** " + " · ".join(links))
 
-        lines.extend(["---", ""])
+        lines.extend(["", "---", ""])
 
     lines.extend([
         "## Maintenance",
