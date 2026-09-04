@@ -2,7 +2,7 @@
 
 **Document role:** Cross-project concept routing map  
 **Status:** Living / exploratory  
-**Last updated:** 2026-08-30
+**Last updated:** 2026-09-03
 
 Root Sequence projects repeatedly encounter the same underlying questions at different scales and in different forms.
 
@@ -335,6 +335,31 @@ The point is **appropriate transformation**, not symmetry.
 
 ---
 
+# Trail 15 — Collective Judgment, Dissent, and Manufactured Consensus
+
+## Root question
+
+> How can groups make consequential decisions without treating disagreement as failure, social pressure as persuasion, or a clean vote count as proof of genuine consensus?
+
+| Project | Treatment |
+|---|---|
+| **Root Sequence** | Analyze how many situated judgments become one institutional action, including conformity, dominance, uncertainty, aggregation, decision thresholds, reversibility, and the difference between genuine convergence and manufactured consensus. |
+| **Being Human(e)** | Explore what dissent feels like inside actual humans: peer pressure, conflict avoidance, fatigue, self-doubt, dignity, changing one's mind, being understood before being overridden, and preserving plurality without romanticizing every dissenter. |
+| **UCF** | Distinguish independent agreement, adaptive convergence, unresolved but functional plurality, and false coherence; never infer that majority = coherent and minority = incoherent from vote distribution alone. |
+| **Community Infrastructure** | Test practical protocols such as independent first-pass judgment, anonymous issue mapping, accessible/asynchronous deliberation, protected dissent, private reassessment, consequence-weighted thresholds, reversible trials, and Decision Memory. |
+| **Liberation Mass** | Test facilitation practices in real gatherings where consensus, conflict, unequal stamina, informal status, and the right not to converge become embodied rather than abstract problems. |
+| **Liberated Intelligence** | Ask whether an intelligent system can map arguments, retrieve evidence, or facilitate deliberation without its framing, ranking, prediction, or summarization silently becoming authority. |
+| **Coherent World** | Design plural institutions in which collective action need not require homogeneous belief and more coercive or irreversible actions face stronger authorization burdens. |
+| **No One Noticed** | Show the idea through lived texture: people surprised that a decision can pass with dissent preserved, vote totals hidden until independent judgment closes, process-contamination flags, and Auryn's unresolved power to frame disagreement. |
+| **Museum of Ordinary Life** | Preserve ordinary evidence of how people historically made collective decisions: ballots, meeting notes, jury instructions, comment cards, facilitation guides, board packets, consensus hand signals, software interfaces, and records of dissent. |
+
+**Broad systems home:** [`analysis/collective-judgment-and-manufactured-consensus.md`](analysis/collective-judgment-and-manufactured-consensus.md)  
+**Developing human-scale work:** `Root-Sequence/beinghumane-atlas/seeds/humane-collective-decision-architecture.md`  
+**Real-system proving ground:** `Root-Sequence/community-infrastructure/docs/concepts/collective-decision-making.md`  
+**Speculative world treatment:** `Root-Sequence/coherent-world/world/collective-decision-and-dissent.md`
+
+---
+
 # Idea Trail index
 
 | Trail | Core tension | Most relevant current project(s) |
@@ -353,6 +378,7 @@ The point is **appropriate transformation**, not symmetry.
 | Space & Liberation | infrastructure vs. agency | Root Sequence / Coherent World |
 | Scale & Staying Small | capacity vs. growth | Community Infrastructure / Root Sequence |
 | Accountability & Externalization | benefit vs. consequence | Root Sequence / Being Human(e) |
+| Collective Judgment & Dissent | action vs. manufactured agreement | Being Human(e) / Community Infrastructure / Coherent World / UCF |
 
 ---
 
