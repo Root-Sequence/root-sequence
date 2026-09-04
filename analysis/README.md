@@ -31,6 +31,10 @@ Analysis is not the final layer. It should produce clearer causal questions, exp
 - [`historical-contingency.md`](historical-contingency.md) — the present as one historically produced configuration rather than the endpoint of human nature.
 - [`spatial-liberation.md`](spatial-liberation.md) — who can occupy, move through, shape, use, rest in, and belong within space.
 
+### Collective judgment and institutional decisions
+
+- [`collective-judgment-and-manufactured-consensus.md`](collective-judgment-and-manufactured-consensus.md) — how groups turn many situated judgments into one institutional action, and how conformity, dominance, fatigue, uncertainty, dissent, and decision thresholds can disappear behind a clean vote count.
+
 ---
 
 ## Purpose
