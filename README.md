@@ -120,6 +120,23 @@ The goal is not perfection, but continuity and iteration.
 
 ---
 
+## 🔧 Navigation maintenance convention
+
+For work across Root Sequence repositories, substantive structural changes should update their navigation **in the same change**.
+
+When a file, concept, system, canonical treatment, or project relationship is added, moved, renamed, retired, or materially expanded:
+
+1. update the **nearest relevant README or local index**;
+2. update any affected **canonical map / Idea Trail / project index**;
+3. update a top-level README only when the change matters at that level;
+4. avoid unrelated README churn merely to make every repository look synchronized.
+
+> **If a reader could reasonably miss the new work because the old navigation does not point to it, the navigation is part of the change.**
+
+This convention is intended to keep repository work self-indexing rather than relying on memory or a later cleanup pass.
+
+---
+
 ## 🔄 Use & Remix
 
 **CC0 / Public Domain**
