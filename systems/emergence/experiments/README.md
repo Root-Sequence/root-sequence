@@ -2,6 +2,10 @@
 
 Controlled experiments for testing specific emergence mechanisms without treating analogy as evidence.
 
+## Research umbrella
+
+- [`SECI.md`](SECI.md) — **Search for Extra-Collective Intelligence**, the working umbrella for detecting, documenting, and experimentally studying capability that appears across agents, artifacts, tools, persistent memory, environments, and time rather than only inside one bounded model instance.
+
 ## Current experiments
 
 - [`agent-environment-communication.md`](agent-environment-communication.md) — experiment design for testing how separate authorized AI agents discover and use persistent environmental traces as external memory, communication, and coordination.
