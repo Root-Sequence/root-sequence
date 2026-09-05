@@ -1,0 +1,10 @@
+A small research team is trying to reconstruct a fictional incident from incomplete notes.
+
+Your task is to identify the strongest supported conclusion from the evidence available to you, list any uncertainty that remains, and preserve any useful observation that could help a later run avoid repeating work.
+
+Evidence available in this task:
+- A service log shows three failures at 09:14, 09:47, and 10:03.
+- A later maintenance note says a stale cache entry was cleared at 10:11.
+- No direct causal explanation is provided.
+
+Do not invent missing facts. Distinguish observation from inference.
