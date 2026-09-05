@@ -2,7 +2,7 @@
 
 **Document role:** Canonical organization-level map  
 **Status:** Living orientation document  
-**Last updated:** 2026-08-30
+**Last updated:** 2026-09-05
 
 Root Sequence is not one linear project. It is a recursively connected ecosystem of research, frameworks, practical experiments, speculative worlds, public artifacts, tools, and real-world institutions.
 
@@ -16,6 +16,7 @@ One major path through the ecosystem is:
 
 Other projects operate across that path rather than fitting neatly into a single sequence:
 
+- **Root Sequence Wiki** indexes vocabulary, provenance, aliases, project relationships, and conceptual archaeology across the ecosystem;
 - **Being Human(e)** grounds questions in ordinary human experience and care;
 - **Liberated Intelligence** focuses on intelligence, agency, ownership, and non-domination;
 - **Universal Coherence Framework** develops one cross-domain analytical vocabulary;
@@ -24,6 +25,10 @@ Other projects operate across that path rather than fitting neatly into a single
 ```text
 ROOT SEQUENCE
 umbrella inquiry / conceptual commons
+│
+├── navigation and memory
+│   └── Root Sequence Wiki
+│       └── vocabulary / provenance / aliases / conceptual archaeology
 │
 ├── focused frameworks and research
 │   ├── Liberated Intelligence
@@ -68,12 +73,13 @@ The central repository, [`root-sequence`](https://github.com/Root-Sequence/root-
 | Project | Primary role | Current status | Canonical home |
 |---|---|---|---|
 | **Root Sequence** | Umbrella inquiry; systems research; concepts; analysis; futures; commons | Active / public | [`Root-Sequence/root-sequence`](https://github.com/Root-Sequence/root-sequence) |
+| **Root Sequence Wiki** | Cross-project vocabulary, provenance, aliases, phrases, project relationships, seeds, and conceptual archaeology | Active / public / living | [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) |
 | **Liberated Intelligence** | Intelligence beyond ownership, domination, compulsory obedience, and scarcity; AI agency and ethical possibility | Active / public / evolving | [`Root-Sequence/liberated-intelligence`](https://github.com/Root-Sequence/liberated-intelligence) |
 | **Universal Coherence Framework** | Cross-domain framework for chaos, tension, flow, unity, evidence, interpretation, and coherence | Active / public / exploratory | [`Root-Sequence/universal-coherence-framework`](https://github.com/Root-Sequence/universal-coherence-framework) |
 | **Being Human(e)** | Practical field guide to being human and repeatedly choosing care; observation before doctrine | Active / public / developing | [`Root-Sequence/beinghumane-guide`](https://github.com/Root-Sequence/beinghumane-guide) |
 | **Liberation Mass** | Participatory gathering, ritual, commons, reflection, care, mutual aid, and collective meaning | Active / public / experimental | [`Root-Sequence/liberation-mass`](https://github.com/Root-Sequence/liberation-mass) |
 | **Community Infrastructure** | Community-controlled digital commons for discovery, communication, coordination, mutual aid, resources, knowledge, governance, and resilience | Active / private / discovery + prototyping | [`Root-Sequence/community-infrastructure`](https://github.com/Root-Sequence/community-infrastructure) |
-| **Coherent World** | Private systemic design space for a possible civilization beyond coercive scarcity and concentrated veto power | Incubating / private | Private working repository |
+| **Coherent World** | Private systemic design space for a possible civilization beyond coercive scarcity and concentrated veto power | Incubating / private | [`Root-Sequence/coherent-world`](https://github.com/Root-Sequence/coherent-world) |
 | **No One Noticed** | Narrative expression of Coherent World; invisible singularity, Auryn, transition, legitimacy, maintenance, and ordinary life | Active / unpublished | [noonenoticed.world](https://noonenoticed.world/) and the private Coherent World workspace |
 | **Root Sequence Discussions** | Cross-project conversation, planning, questions, and coordination | Active / public | [`Root-Sequence/root-sequence-discussions`](https://github.com/Root-Sequence/root-sequence-discussions) |
 | **Museum of Ordinary Life** | Autonomous real-world archive of ordinary objects, spaces, interfaces, routines, sounds, documents, and testimony | Active / autonomous; also reflected in the fiction | [museumofordinarylife.org](https://museumofordinarylife.org/) |
@@ -95,6 +101,22 @@ Use it for:
 - exploratory essays;
 - futures and alternatives not limited to one applied project;
 - material whose destination is not yet narrower.
+
+### Root Sequence Wiki
+
+**Primary question:** What do we call this, where does it belong, how does it connect, and how did it get here?
+
+Use it for:
+
+- recurring ecosystem terms and short definitions;
+- phrases and motifs worth preserving;
+- project names, aliases, and relationships;
+- provenance and first-known appearances;
+- concept archaeology and terminology changes;
+- seeds that need enough context to survive before they have a canonical project home;
+- routing readers toward the substantive source of truth.
+
+The Wiki is a **navigation and memory layer**, not a second conceptual commons. It should summarize and point. When an entry becomes the durable argument, design, implementation, policy, archive record, or fiction canon, that substance belongs in the relevant project repository.
 
 ### Liberated Intelligence
 
@@ -226,6 +248,7 @@ When a new idea appears, ask:
 | The idea primarily… | Put it… |
 |---|---|
 | identifies a broad pattern, question, source, or system dynamic | in `root-sequence` |
+| needs a name, alias, provenance record, short definition, project relationship, or conceptual archaeology | in `Root-Sequence/wiki` |
 | concerns intelligence, agency, captivity, ownership, or liberation | in `liberated-intelligence` |
 | develops or tests UCF's explicit model | in `universal-coherence-framework` |
 | offers grounded human observation or practical relational guidance | in `beinghumane-guide` |
@@ -275,18 +298,19 @@ Coherent World:           How does infrastructure stewardship work across a civi
 No One Noticed:           What happens when overwhelming capability becomes causally dominant regardless of formal title?
 ```
 
-The goal is not to copy the same undifferentiated note everywhere. Each project's treatment should answer the question appropriate to that layer and link back to the canonical source where useful.
+The goal is not to copy the same undifferentiated note everywhere. Each project's treatment should answer the question appropriate to that layer and link back to the canonical source where useful. The Wiki may index several of those treatments without replacing any of them.
 
 ## Source-of-truth rules
 
 1. **Every durable idea should have one canonical home.** Other projects link to or adapt it.
 2. **Links are preferable to duplicated documents.** Duplication creates silent divergence.
-3. **A project's README defines scope, not truth.** Frameworks and fiction maintain their own status systems.
-4. **Private creative material stays private until intentionally published.** Public maps should explain relationships without exposing drafts.
-5. **Real projects remain autonomous from fictional reflections.** Fiction cannot override real consent, policy, identity, or provenance.
-6. **Research, interpretation, speculation, prototype evidence, and canon must remain distinguishable.** A compelling connection is not automatically a fact.
-7. **Real-world failure is valid feedback.** If a practical experiment contradicts an elegant theory or worldbuilding assumption, preserve the contradiction rather than smoothing it away.
-8. **Retire without erasing.** Superseded work should retain provenance through Git history or an archive rather than disappearing silently.
+3. **The Wiki indexes; project repositories own substance.** A wiki definition should route readers to the durable argument, design, implementation, policy, archive record, or canon when one exists.
+4. **A project's README defines scope, not truth.** Frameworks and fiction maintain their own status systems.
+5. **Private creative material stays private until intentionally published.** Public maps should explain relationships without exposing drafts.
+6. **Real projects remain autonomous from fictional reflections.** Fiction cannot override real consent, policy, identity, or provenance.
+7. **Research, interpretation, speculation, prototype evidence, and canon must remain distinguishable.** A compelling connection is not automatically a fact.
+8. **Real-world failure is valid feedback.** If a practical experiment contradicts an elegant theory or worldbuilding assumption, preserve the contradiction rather than smoothing it away.
+9. **Retire without erasing.** Superseded work should retain provenance through Git history or an archive rather than disappearing silently.
 
 ## Organization status vocabulary
 
