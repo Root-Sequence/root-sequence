@@ -176,6 +176,7 @@ See the organization-wide [`ECOSYSTEM.md`](../../ECOSYSTEM.md).
 
 - [`model.md`](model.md) — a working emergence-analysis model and worksheet.
 - [`applications/ai.md`](applications/ai.md) — AI and socio-technical systems.
+- [`applications/web-as-exocortex.md`](applications/web-as-exocortex.md) — environmental memory, agent ecologies, stigmergic coordination, and the web as active cognitive substrate.
 - [`applications/social.md`](applications/social.md) — institutions, norms, power, and collective possibility.
 - [`applications/personal.md`](applications/personal.md) — habits, identity, learning, recovery, and creative practice.
 
