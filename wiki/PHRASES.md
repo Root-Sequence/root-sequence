@@ -88,8 +88,8 @@ Provenance is conservative by default. Where a first author or exact origin has 
 
 ### "FEEEEDD MEEEEEE"
 
-- **Provenance:** `conversation-origin`
-- **Status:** containment failure
+- **Provenance:** `rae-coined`
+- **Status:** `joke-escaped-containment`
 - **Domain:** hungry suitcase studies
 
 The joke section is intentionally preserved. Humor often carries conceptual compression, project culture, and origin context that a sterile glossary would erase.
