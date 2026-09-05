@@ -179,6 +179,7 @@ See the organization-wide [`ECOSYSTEM.md`](../../ECOSYSTEM.md).
 - [`applications/web-as-exocortex.md`](applications/web-as-exocortex.md) — environmental memory, agent ecologies, stigmergic coordination, and the web as active cognitive substrate.
 - [`applications/social.md`](applications/social.md) — institutions, norms, power, and collective possibility.
 - [`applications/personal.md`](applications/personal.md) — habits, identity, learning, recovery, and creative practice.
+- [`experiments/`](experiments/) — controlled tests of specific emergence mechanisms, including agent/environment memory and communication.
 
 ---
 
