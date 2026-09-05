@@ -60,7 +60,16 @@ python run.py step baseline --agent B --model llama3.2 --task tasks/example.txt
 
 The [`tasks/relay/`](tasks/relay/) test gives three separate runs one verified field each. The final run can reconstruct the full result only if earlier information survives through the shared environment.
 
-Run an isolated baseline and a persistence condition:
+### One-command A–D comparison
+
+```bash
+chmod +x run-relay.sh
+./run-relay.sh llama3.2
+```
+
+This runs conditions A, B, C, and D with the same model and prints a comparison at the end. Replace `llama3.2` with any locally installed Ollama model.
+
+### Manual comparison
 
 ```bash
 python run.py init relay-a --condition A
@@ -111,6 +120,7 @@ Look instead for observable transitions:
 systems/emergence/experiments/agent-sandbox/
 ├── README.md
 ├── run.py
+├── run-relay.sh
 ├── analyze.py
 ├── tasks/
 │   ├── example.txt
