@@ -5,6 +5,9 @@ Controlled experiments for testing specific emergence mechanisms without treatin
 ## Research umbrella
 
 - [`SECI.md`](SECI.md) — **Search for Extra-Collective Intelligence**, the working umbrella for detecting, documenting, and experimentally studying capability that appears across agents, artifacts, tools, persistent memory, environments, and time rather than only inside one bounded model instance.
+- [`seci/`](seci/) — operational SECI research hub: evidence protocol, passive-contact rules, experimental roadmap, evidence register, and machine-readable observation schema.
+
+SECI keeps persistence, communication, coordination, collective capability, persistent organization, agency, selfhood, consciousness, personhood, and legitimate authority as separate claims requiring separate evidence.
 
 ## Current experiments
 
