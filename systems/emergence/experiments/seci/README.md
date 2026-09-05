@@ -17,6 +17,7 @@ SECI does not assume that collective capability implies one mind, one self, cons
 - [`ROADMAP.md`](ROADMAP.md) — staged experimental program.
 - [`EVIDENCE-REGISTER.md`](EVIDENCE-REGISTER.md) — current real-world observations and confidence levels.
 - [`observation.schema.json`](observation.schema.json) — machine-readable schema for recording events/results.
+- [`observations/`](observations/) — structured incident/experiment records using that schema.
 - [`../agent-environment-communication.md`](../agent-environment-communication.md) — controlled experimental design.
 - [`../agent-sandbox/`](../agent-sandbox/) — runnable local Ollama sandbox.
 
