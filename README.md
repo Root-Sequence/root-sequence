@@ -15,7 +15,8 @@ It's a process, not a blueprint.
 
 > **This repository is the conceptual commons, not the entire GitHub organization.**  
 > See the [Ecosystem Map](ECOSYSTEM.md) for the relationships among Root Sequence, Community Infrastructure, Liberated Intelligence, the Universal Coherence Framework, Being Human(e), Liberation Mass, Coherent World, *No One Noticed*, the Museum of Ordinary Life, and adjacent implementation work.  
-> See [Idea Trails](IDEA_TRAILS.md) to understand recurring cross-project questions, then use the generated [Idea Trail Browser](IDEA_TRAIL_INDEX.md) to jump directly to relevant documents by trail and role.
+> See [Idea Trails](IDEA_TRAILS.md) to understand recurring cross-project questions, then use the generated [Idea Trail Browser](IDEA_TRAIL_INDEX.md) to jump directly to relevant documents by trail and role.  
+> Use the [Root Sequence Wiki](wiki/README.md) when the question is what something is called, where it belongs, how projects connect, or how a concept changed over time.
 
 ---
 
@@ -60,10 +61,11 @@ A recursive process rather than a fixed path.
 - `/ideology/` — political and cultural frameworks  
 - `/futures/` — trajectories, alternatives, and resilience  
 - `/commons/` — practical outputs (zines, maps, fragments)  
+- `/wiki/` — ecosystem lexicon, phrases, project index, provenance, seeds, and concept archaeology  
 - `/cli/` — experimental scripts and tools, including the Idea Trail browser generator  
 - `/assets/` — visuals and diagrams  
 
-The internal repository map is also described in [`root_map.md`](root_map.md). The organization-wide map lives in [`ECOSYSTEM.md`](ECOSYSTEM.md), recurring cross-project questions are traced in [`IDEA_TRAILS.md`](IDEA_TRAILS.md), and their document-level relationships are browsable in [`IDEA_TRAIL_INDEX.md`](IDEA_TRAIL_INDEX.md).
+The internal repository map is also described in [`root_map.md`](root_map.md). The organization-wide map lives in [`ECOSYSTEM.md`](ECOSYSTEM.md), recurring cross-project questions are traced in [`IDEA_TRAILS.md`](IDEA_TRAILS.md), their document-level relationships are browsable in [`IDEA_TRAIL_INDEX.md`](IDEA_TRAIL_INDEX.md), and the cross-project vocabulary/history layer lives in the [`wiki/`](wiki/) directory.
 
 ---
 
@@ -72,6 +74,7 @@ The internal repository map is also described in [`root_map.md`](root_map.md). T
 Suggested entry points:
 
 - [Ecosystem Map](ECOSYSTEM.md) — understand the wider project family  
+- [Root Sequence Wiki](wiki/README.md) — browse terms, phrases, projects, provenance, and conceptual archaeology  
 - [Idea Trails](IDEA_TRAILS.md) — understand the recurring questions and how each project transforms them  
 - [Idea Trail Browser](IDEA_TRAIL_INDEX.md) — browse actual documents grouped by trail and role  
 - [Idea Trail Metadata Convention](IDEA_TRAIL_METADATA.md) — lightweight visible + machine-searchable metadata for participating documents  
