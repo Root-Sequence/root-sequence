@@ -4,7 +4,8 @@ Controlled experiments for testing specific emergence mechanisms without treatin
 
 ## Current experiments
 
-- [`agent-environment-communication.md`](agent-environment-communication.md) — test how separate authorized AI agents discover and use persistent environmental traces as external memory, communication, and coordination.
+- [`agent-environment-communication.md`](agent-environment-communication.md) — experiment design for testing how separate authorized AI agents discover and use persistent environmental traces as external memory, communication, and coordination.
+- [`agent-sandbox/`](agent-sandbox/) — runnable local Ollama scaffold for conditions A–E, constrained to experiment-owned files and deliberately given no arbitrary shell or public-internet write capability.
 
 ## Boundary
 
