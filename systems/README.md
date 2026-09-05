@@ -37,6 +37,18 @@ Stress is especially revealing because it exposes dependencies and assumptions h
 
 ---
 
+## Events, patterns, and explanatory scale
+
+[`events-patterns-and-scale.md`](events-patterns-and-scale.md) develops a cross-cutting discipline for moving between concrete events and larger patterns without allowing either resolution to erase the other.
+
+Its core claim is:
+
+> **Events and patterns are not two realities. They are two resolutions on the same reality.**
+
+Event-level evidence protects systems analysis from manufacturing patterns out of noise. Pattern-level analysis protects event reconstruction from becoming a pile of disconnected anecdotes. The useful move is repeated zooming: local event → wider relationship → back to concrete evidence.
+
+---
+
 ## Emergence
 
 Many system-level properties can be **emergent**: they arise through interaction among parts rather than residing in one component alone.
@@ -62,8 +74,10 @@ The developed emergence branch includes:
 - [`emergence/README.md`](emergence/README.md) — concept, boundaries, power, design, and ecosystem relationships;
 - [`emergence/model.md`](emergence/model.md) — detailed analysis worksheet;
 - [`emergence/applications/ai.md`](emergence/applications/ai.md) — models, composed systems, institutions, and fiction boundaries;
+- [`emergence/applications/web-as-exocortex.md`](emergence/applications/web-as-exocortex.md) — environmental memory, agent ecologies, stigmergic coordination, and system-level capability;
 - [`emergence/applications/social.md`](emergence/applications/social.md) — history, norms, infrastructure, power, space, and alternatives;
-- [`emergence/applications/personal.md`](emergence/applications/personal.md) — habits, identity, learning, recovery, and creative ecosystems.
+- [`emergence/applications/personal.md`](emergence/applications/personal.md) — habits, identity, learning, recovery, and creative ecosystems;
+- [`emergence/experiments/`](emergence/experiments/) — controlled tests of specific emergence mechanisms.
 
 ---
 
