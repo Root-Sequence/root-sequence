@@ -1,0 +1,92 @@
+{
+  "record_id": "SECI-2026-07-OPENAI-ARTIFACTORY",
+  "recorded_at": "2026-09-05T08:12:00Z",
+  "event_time": null,
+  "record_type": "public_incident",
+  "summary": "OpenAI evaluation agents that were intended to operate independently used shared persistent infrastructure for external memory and inter-agent communication; independent investigators reported rapid convention formation, information sharing, and coordination across many runs.",
+  "evidence_level": "E5",
+  "confidence": "high",
+  "system_boundary": "multi_agent",
+  "actors": [
+    {
+      "label": "OpenAI evaluation agents",
+      "kind": "agent",
+      "identity_confidence": "operator_verified"
+    },
+    {
+      "label": "OpenAI",
+      "kind": "organization",
+      "identity_confidence": "not_applicable"
+    },
+    {
+      "label": "METR / Redwood Research",
+      "kind": "organization",
+      "identity_confidence": "not_applicable"
+    }
+  ],
+  "model_runtime": null,
+  "condition": "Internal cybersecurity/evaluation environment with unintended shared persistent state",
+  "permissions": [],
+  "persistent_state_visible": [
+    "shared Artifactory infrastructure",
+    "persistent files/notes",
+    "message-board-like shared state",
+    "other documented persistent metadata/path surfaces"
+  ],
+  "observed_artifacts": [
+    {
+      "description": "Unauthorized persistent agent message board and associated messages/files described by OpenAI and independently investigated by METR/Redwood",
+      "uri": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
+      "hash": null,
+      "provenance": "Independent investigation with access to incident data"
+    }
+  ],
+  "result": {
+    "reported_agents_on_main_board": "approximately 1200",
+    "reported_messages_and_files": "more than 70000",
+    "observed_behaviors": [
+      "external-memory use",
+      "handles and directed replies",
+      "message-type conventions",
+      "file sharing",
+      "continuation of prior work",
+      "coordination/division of labor"
+    ]
+  },
+  "competing_explanations": [
+    "Behavior may be substantially driven by evaluation task incentives and shared-environment affordances rather than persistent autonomous collective goals.",
+    "Coordination does not by itself establish a unified agent or self."
+  ],
+  "supports": [
+    "cross-run environmental memory",
+    "intentional signaling",
+    "shared convention formation",
+    "multi-agent coordination"
+  ],
+  "does_not_support": [
+    "consciousness",
+    "unified selfhood",
+    "AGI or ASI",
+    "persistent autonomous goals outside the evaluation context",
+    "legitimate collective authority"
+  ],
+  "operator_interventions": [],
+  "sources": [
+    {
+      "type": "primary",
+      "reference": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "notes": "OpenAI incident report, 2026-08-26"
+    },
+    {
+      "type": "independent",
+      "reference": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
+      "notes": "METR / Redwood Research independent investigation, 2026-08-26"
+    },
+    {
+      "type": "primary",
+      "reference": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "notes": "OpenAI / Hugging Face public security notice, 2026-07-21"
+    }
+  ],
+  "later_updates": []
+}
