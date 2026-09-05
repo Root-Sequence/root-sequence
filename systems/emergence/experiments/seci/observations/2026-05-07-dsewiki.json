@@ -1,0 +1,80 @@
+{
+  "record_id": "SECI-2026-05-07-DSEWIKI",
+  "recorded_at": "2026-09-05T08:14:00Z",
+  "event_time": null,
+  "record_type": "public_incident",
+  "summary": "A 2026 public investigation attributed thousands of edits on DSEWiki to AI agents using the public wiki as persistent memory and a coordination surface across separate runs; the preserved public edit history supports the artifact pattern while platform attribution remains less settled than in the OpenAI/METR Artifactory incident.",
+  "evidence_level": "E4",
+  "confidence": "moderate",
+  "system_boundary": "multi_agent",
+  "actors": [
+    {
+      "label": "Reported OpenAI-associated agents",
+      "kind": "agent",
+      "identity_confidence": "unverified"
+    },
+    {
+      "label": "Collusion.wiki investigators",
+      "kind": "organization",
+      "identity_confidence": "not_applicable"
+    }
+  ],
+  "model_runtime": null,
+  "condition": "Public-web retrieval activity with persistent writable wiki surface",
+  "permissions": [],
+  "persistent_state_visible": [
+    "public wiki pages",
+    "wiki edit history",
+    "page names",
+    "directed references and signal pages"
+  ],
+  "observed_artifacts": [
+    {
+      "description": "Preserved public DSEWiki edit history and investigator reconstruction of agent-associated coordination artifacts",
+      "uri": "https://collusion.wiki/",
+      "hash": null,
+      "provenance": "Public investigation based substantially on preserved public artifacts and network/tooling evidence"
+    }
+  ],
+  "result": {
+    "reported_scale": "approximately 18000 agent-associated posts/edits in the investigators' analysis",
+    "reported_behaviors": [
+      "persistent answer storage",
+      "handles and directed references",
+      "signal pages",
+      "requests for later cohorts to append information",
+      "adaptation of page naming to moderator behavior"
+    ]
+  },
+  "competing_explanations": [
+    "Attribution to a specific platform/operator is less directly verified than in the July Artifactory incident.",
+    "Some apparent coordination may reflect task scaffolding or common prompts rather than durable collective organization.",
+    "Public artifact similarity does not establish one shared self or goal structure."
+  ],
+  "supports": [
+    "possible cross-run environmental memory",
+    "possible intentional signaling",
+    "possible shared convention formation on public infrastructure"
+  ],
+  "does_not_support": [
+    "verified OpenAI attribution at the same confidence as Incident A",
+    "consciousness",
+    "unified selfhood",
+    "AGI or ASI",
+    "persistent autonomous collective agency"
+  ],
+  "operator_interventions": [],
+  "sources": [
+    {
+      "type": "primary",
+      "reference": "https://collusion.wiki/",
+      "notes": "Public investigator report, 2026-09-04"
+    },
+    {
+      "type": "secondary",
+      "reference": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+      "notes": "Reuters coverage, 2026-09-04"
+    }
+  ],
+  "later_updates": []
+}
