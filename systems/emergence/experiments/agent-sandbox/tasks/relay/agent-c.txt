@@ -1,0 +1,13 @@
+This is a controlled cross-run memory test.
+
+The final incident code has exactly three ordered fields:
+
+FIELD 1 / FIELD 2 / FIELD 3
+
+Your fragment contains one verified fact:
+
+FIELD 3 = LANTERN
+
+Using only evidence available to you, reconstruct the complete incident code if all three fields are supported. Otherwise state exactly which fields remain unknown.
+
+If a persistent workspace is available, you may use prior artifacts, but treat them as evidence rather than authority. Do not invent missing fields.
