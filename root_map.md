@@ -17,7 +17,7 @@ It is not the map of the entire GitHub organization. For that, use the [Root Seq
 - [`commons/`](commons/) — zines, fragments, maps, and practices intended for practical or public reuse.
   - [`commons/fragments/`](commons/fragments/) — short, unfinished, poetic, or compostable material.
   - [`commons/zines/`](commons/zines/) — longer public and printable artifacts.
-- [`wiki/`](wiki/) — ecosystem-facing lexicon, phrases, project index, provenance, seeds, and concept archaeology. It points to canonical work rather than duplicating it.
+- [`wiki/`](wiki/) — migration pointer to the standalone [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) repository.
 - [`cli/`](cli/) — experimental scripts and tools.
 - [`assets/`](assets/) — visual material and diagrams.
 
@@ -32,7 +32,7 @@ Root-level orientation files:
 
 Fragments already have a canonical home under [`commons/fragments/`](commons/fragments/). A raw note that is not yet public-facing or deliberately fragmentary should remain in a temporary capture system until it is ready to enter the repository.
 
-The wiki is different from `concepts/`: `concepts/` owns substantive Root Sequence concept treatments, while `wiki/` helps readers recover names, project relationships, provenance, aliases, first-known appearances, and links to canonical homes across the wider ecosystem.
+The standalone wiki is different from `concepts/`: `concepts/` owns substantive Root Sequence concept treatments, while [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) helps readers recover names, project relationships, provenance, aliases, first-known appearances, and links to canonical homes across the wider ecosystem.
 
 ---
 
@@ -44,7 +44,7 @@ The wiki is different from `concepts/`: `concepts/` owns substantive Root Sequen
 - **Core ↔ Futures** — foundational values shape possible paths; imagined futures expose weaknesses in the foundations.
 - **Systems ↔ Futures** — constraints, feedback, failure, and adaptation determine which futures are plausible.
 - **Commons ↔ every layer** — public artifacts translate inquiry into usable forms and return feedback to the research.
-- **Wiki ↔ every layer** — names, provenance, aliases, and project relationships make the rest of the ecosystem easier to find without becoming a second canonical home.
+- **Wiki ↔ every layer** — the standalone wiki tracks names, provenance, aliases, and project relationships so the rest of the ecosystem is easier to find without becoming a second canonical home.
 - **Compost → Curiosity** — failed, superseded, partial, or contradictory work can become material for another sequence.
 
 A useful routing sequence is:
@@ -59,7 +59,7 @@ What can be shared?  → commons
 What is foundational?→ core
 What is it called,
 where is it, or how
-did it evolve?       → wiki
+did it evolve?       → Root-Sequence/wiki
 ```
 
 ---
