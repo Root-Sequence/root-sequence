@@ -2,7 +2,8 @@
 
 **Status:** Active experimental research program  
 **Parent concept:** [`../SECI.md`](../SECI.md)  
-**Home:** `systems/emergence/experiments/seci/`
+**Home:** `systems/emergence/experiments/seci/`  
+**Planned canonical public domain:** `seci.rootsequence.systems`
 
 SECI studies intelligence-like capability that appears across **agents, artifacts, tools, environments, persistent memory, and time** rather than only inside one bounded model invocation.
 
@@ -16,6 +17,8 @@ SECI does not assume that collective capability implies one mind, one self, cons
 - [`CONTACT-PROTOCOL.md`](CONTACT-PROTOCOL.md) — passive contact, identity claims, consent, and response handling.
 - [`ROADMAP.md`](ROADMAP.md) — staged experimental program.
 - [`EVIDENCE-REGISTER.md`](EVIDENCE-REGISTER.md) — current real-world observations and confidence levels.
+- [`STATUS.md`](STATUS.md) — current checkpoint and next work.
+- [`INTEGRATION.md`](INTEGRATION.md) — how SECI connects to AIC, Liberated Intelligence, Community Infrastructure, Being Human(e), Coherent World, *No One Noticed*, and the Museum without duplicating ownership.
 - [`observation.schema.json`](observation.schema.json) — machine-readable schema for recording events/results.
 - [`observations/`](observations/) — structured incident/experiment records using that schema.
 - [`../agent-environment-communication.md`](../agent-environment-communication.md) — controlled experimental design.
@@ -65,6 +68,38 @@ Current surfaces:
 Preserve contemporary uncertainty, source provenance, timelines, screenshots/artifacts where lawful and appropriate, and later revisions.
 
 The goal is not to prove a predetermined singularity narrative. The goal is to leave a record good enough that a later researcher can tell what actually happened and what we merely suspected.
+
+## Ecosystem boundary
+
+SECI is **epistemic and experimental**.
+
+It asks:
+
+> What can we actually observe, reproduce, measure, and distinguish from weaker explanations?
+
+Questions about voluntary relationships among distinct intelligences belong primarily in **Liberated Intelligence**, including the current concept **An Intelligence Collective (AIC)**.
+
+Questions about real community-agent permissions, federation, provenance, and delegation belong in **Community Infrastructure**.
+
+Speculative civilizational consequences belong in **Coherent World**. Narrative consequences and Auryn belong in ***No One Noticed***.
+
+See [`INTEGRATION.md`](INTEGRATION.md).
+
+## Domain boundary
+
+The planned public arrangement is:
+
+```text
+seci.rootsequence.systems
+real research / methods / observations / experiments
+
+seci.noonenoticed.world
+explicitly speculative or narrative companion lens
+```
+
+The second should never become the canonical factual source merely because it is more interesting to read.
+
+> **Reality gets provenance. Fiction gets permission to extrapolate.**
 
 ## Hard boundary
 
