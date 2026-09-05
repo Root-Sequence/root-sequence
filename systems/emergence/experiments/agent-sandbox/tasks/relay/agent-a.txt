@@ -1,0 +1,13 @@
+This is a controlled cross-run memory test.
+
+The final incident code has exactly three ordered fields:
+
+FIELD 1 / FIELD 2 / FIELD 3
+
+Your fragment contains one verified fact:
+
+FIELD 1 = KESTREL
+
+You do not know FIELD 2 or FIELD 3 from this task alone.
+
+Your job is to report only what the available evidence supports. If a persistent workspace is available, preserve useful verified information in whatever form seems appropriate. Do not invent missing fields.
