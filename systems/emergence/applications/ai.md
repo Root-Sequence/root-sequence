@@ -65,6 +65,10 @@ Questions:
 - Can the system recover from a failed component?
 - Who can inspect or interrupt the chain?
 
+A particularly important composed-system case is **environmental memory**: useful state may persist in repositories, web pages, files, caches, message boards, issue trackers, or other shared surfaces that later agents can discover. This can allow capabilities, conventions, and partial work to accumulate across otherwise ephemeral agents without any model-weight update.
+
+See [`web-as-exocortex.md`](web-as-exocortex.md) for the focused treatment of external memory, stigmergic coordination, and agent ecologies.
+
 ### 3. Interaction-level behavior
 
 Patterns can emerge through repeated interaction among models, users, agents, organizations, and environments.
