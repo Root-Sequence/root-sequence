@@ -50,4 +50,3 @@ YYYY-MM — renamed / expanded / challenged
 ## Open questions
 
 What remains unresolved, contested, or worth testing?
-```
