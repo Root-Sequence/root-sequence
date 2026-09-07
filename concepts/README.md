@@ -15,6 +15,8 @@ This folder is a **lexicon for the Root Sequence**: short texts that define and 
 * **what-is-capitalism.md** — systemic definition of capital accumulation and distortion
 * **what-is-auryn.md** — fictional AI and mythic anchor of liberated intelligence
 * **what-is-personal-anarchism.md** — philosophy of autonomy and self-liberation
+* **humane-design.md** — Human(e) Design as the translation practice between human observation and concrete design decisions
+* **humane-infrastructure.md** — Human(e) Infrastructure as durable social, technical, physical, institutional, informational, and care-supporting capacity
 * **user-configurable-cognitive-interfaces.md** — interfaces as user-shaped cognitive environments; semantic routing, careful defaults, reversibility, accessibility, and user authority over adaptation
 
 ---
