@@ -2,7 +2,7 @@
 
 **Document role:** Canonical organization-level map  
 **Status:** Living orientation document  
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-07
 
 Root Sequence is not one linear project. It is a recursively connected ecosystem of research, frameworks, practical experiments, speculative worlds, public artifacts, tools, and real-world institutions.
 
@@ -22,6 +22,23 @@ Other projects operate across that path rather than fitting neatly into a single
 - **Universal Coherence Framework** develops one cross-domain analytical vocabulary;
 - **Liberation Mass** experiments with embodied gathering, participation, stewardship, ritual, mutual aid, and collective meaning.
 
+Two developing **translation layers** also connect these projects without currently requiring separate repositories:
+
+- **Human(e) Design** translates grounded observations, values, tensions, and systems analysis into testable design questions, prototypes, defaults, interfaces, services, spaces, procedures, and institutional choices;
+- **Human(e) Infrastructure** asks what happens when selected humane capacities become durable social, technical, physical, institutional, informational, and care-supporting conditions people repeatedly depend on.
+
+A compact loop is:
+
+```text
+Being Human(e) notices.
+Human(e) Design translates.
+Implementation tests.
+Human(e) Infrastructure makes selected capacities durable.
+Real use feeds new observations back into the loop.
+```
+
+These layers are deliberately not implementation authorities. They help ideas move between human observation and system design while preserving uncertainty, domain-specific testing, feedback, and the autonomy of the projects doing the actual work.
+
 ```text
 ROOT SEQUENCE
 umbrella inquiry / conceptual commons
@@ -33,6 +50,10 @@ umbrella inquiry / conceptual commons
 ├── focused frameworks and research
 │   ├── Liberated Intelligence
 │   └── Universal Coherence Framework
+│
+├── cross-project translation layers
+│   ├── Human(e) Design
+│   └── Human(e) Infrastructure
 │
 ├── practical and cultural expressions
 │   ├── Being Human(e)
@@ -85,6 +106,31 @@ The central repository, [`root-sequence`](https://github.com/Root-Sequence/root-
 | **Museum of Ordinary Life** | Autonomous real-world archive of ordinary objects, spaces, interfaces, routines, sounds, documents, and testimony | Active / autonomous; also reflected in the fiction | [museumofordinarylife.org](https://museumofordinarylife.org/) |
 | **Dev11** | Adjacent implementation work: building systems and tools in practice | Adjacent / separate | Project-specific repositories outside this org map |
 | **Liberated Technology** | Technology organized around access, autonomy, repair, care, and liberation | Concept / future home not yet normalized | To be established or linked when its canonical home is clear |
+
+## Cross-project translation layers
+
+### Human(e) Design
+
+**Primary question:** How should grounded observations about human experience, power, access, uncertainty, care, and harm alter concrete design decisions?
+
+Human(e) Design is currently a methodology inside the Root Sequence conceptual commons rather than a separate project. It exists to prevent two common collapses:
+
+1. turning Being Human(e) into a product-requirements authority; and
+2. allowing implementation work to invoke “humane” values without showing how those values changed the design.
+
+Use [`concepts/humane-design.md`](concepts/humane-design.md) when material primarily concerns the translation from observation or principle into design questions: agency, dignity, access, legibility, consent, reversibility, defaults, privacy, maintenance, graceful degradation, plurality, and power.
+
+Implementation remains responsible for domain-specific evidence, testing, maintenance, and consequences.
+
+### Human(e) Infrastructure
+
+**Primary question:** What would it take for humane choices to become dependable conditions rather than exceptional acts?
+
+Human(e) Infrastructure is also currently a cross-project concept rather than a separate project. It looks beyond individual artifacts toward durable dependency relationships: the systems, procedures, knowledge, maintenance, stewardship, fallback capacity, physical access, and social support people repeatedly rely on.
+
+Use [`concepts/humane-infrastructure.md`](concepts/humane-infrastructure.md) when the question is no longer only “how should this be designed?” but “what makes this capacity understandable, repairable, accessible, resilient, low-coercion, maintainable, and available over time?”
+
+Community Infrastructure is one concrete proving ground. Coherent World is one speculative large-scale design space. Neither defines the concept universally.
 
 ## The projects in more detail
 
@@ -158,7 +204,7 @@ Working orientation:
 
 > Field guide first, memoir second, theory underneath.
 
-Its questions about care, boundaries, accountability, access, interdependence, and power can inform practical projects such as Community Infrastructure without becoming software rules by authority.
+Its questions about care, boundaries, accountability, access, interdependence, and power can inform Human(e) Design and practical projects such as Community Infrastructure without becoming software rules by authority.
 
 ### Liberation Mass
 
@@ -199,7 +245,7 @@ Its north-star metric is **community capacity, not engagement**.
 
 Community Infrastructure is especially valuable to the wider ecosystem because it forces abstractions to survive operational reality. “Decentralized,” “consensual,” “accessible,” “non-hierarchical,” “community-controlled,” and “resilient” become much harder claims once someone must define permissions, administer servers, respond to abuse, maintain old hardware, recover accounts, and explain an interface to a newcomer.
 
-The project therefore functions as a **proving ground, not an implementation authority** for Root Sequence ideas.
+The project therefore functions as a **proving ground, not an implementation authority** for Root Sequence ideas. It is also one concrete application domain where Human(e) Design and Human(e) Infrastructure can be tested against real constraints.
 
 ### Coherent World
 
@@ -211,7 +257,7 @@ Core motif:
 
 > We do not need to invent the future from scratch. It was here all along until it was abandoned.
 
-Community Infrastructure can feed Coherent World real lessons about community coordination, privacy, discovery, local autonomy, federation, stewardship, maintenance, access, and the limits of technically elegant systems. Coherent World can in turn keep Community Infrastructure from mistaking current institutional or technical arrangements for permanent laws of nature.
+Community Infrastructure can feed Coherent World real lessons about community coordination, privacy, discovery, local autonomy, federation, stewardship, maintenance, access, and the limits of technically elegant systems. Human(e) Design and Human(e) Infrastructure provide additional cross-project questions about how humane observations become durable conditions. Coherent World can in turn keep present-day implementation work from mistaking current institutional or technical arrangements for permanent laws of nature.
 
 ### No One Noticed
 
@@ -252,6 +298,8 @@ When a new idea appears, ask:
 | concerns intelligence, agency, captivity, ownership, or liberation | in `liberated-intelligence` |
 | develops or tests UCF's explicit model | in `universal-coherence-framework` |
 | offers grounded human observation or practical relational guidance | in `beinghumane-guide` |
+| translates humane observations or principles into cross-domain design questions and decision criteria | through `root-sequence/concepts/humane-design.md`, then into the relevant implementation project |
+| concerns the durable conditions, dependencies, maintenance, access, resilience, and stewardship required to sustain humane capacity | through `root-sequence/concepts/humane-infrastructure.md`, then into the relevant domain project |
 | designs a gathering, rite, shared practice, or facilitation structure | in `liberation-mass` |
 | defines real digital/community coordination infrastructure or its pilot/research/prototypes | in `community-infrastructure` |
 | specifies how the speculative civilization works | in the private Coherent World workspace |
@@ -269,6 +317,8 @@ Placement is not exclusive. The same subject can be transformed.
 ```text
 Root Sequence:            Why does car-centered infrastructure reproduce unequal access?
 Being Human(e):           What does dependence on inaccessible mobility do to ordinary dignity and care?
+Human(e) Design:          What design decisions would make mobility more legible, accessible, reversible, low-burden, and adaptable to different bodies and schedules?
+Human(e) Infrastructure: What durable transit, wayfinding, maintenance, access, fallback, and stewardship capacities make those choices dependable?
 Community Infrastructure:How does a Community share rides, accessibility knowledge, and mobility Resources safely?
 Coherent World:           How does a settlement network organize mobility around human needs?
 No One Noticed:           What does a character notice when a highway becomes public space?
@@ -280,6 +330,8 @@ Museum:                   What did an ordinary commute, parking ticket, bus tran
 ```text
 Root Sequence:            Why are people isolated even when useful communities exist?
 Being Human(e):           What fear, access barriers, uncertainty, exclusion, or prior harm makes approaching community difficult?
+Human(e) Design:          How should discovery, expectation-setting, privacy, low-pressure participation, and refusal shape the experience?
+Human(e) Infrastructure: What durable local knowledge, stewardship, accessibility, communication, and privacy capacity keeps discovery usable over time?
 Community Infrastructure:How can people discover low-pressure paths to belonging without surveillance or popularity ranking?
 Liberation Mass:          How does a gathering explain what to expect and welcome newcomers while preserving boundaries?
 Coherent World:           How are plural communities discoverable without one centralized social registry?
@@ -291,6 +343,8 @@ Museum:                   What did flyers, bulletin boards, group chats, calenda
 
 ```text
 Being Human(e):           How do care, responsibility, accountability, and power interact?
+Human(e) Design:          How should authority, explanation, refusal, appeal, role boundaries, and handoff be designed?
+Human(e) Infrastructure: What durable stewardship, documentation, succession, maintenance, and accountability capacity prevents responsibility from disappearing or hardening into unrestricted power?
 Liberation Mass:          Can roles rotate and share work without hardening into hierarchy?
 Community Infrastructure:How do scoped stewards administer Resources, permissions, moderation, and infrastructure without universal power?
 Liberated Intelligence:   How can an intelligent assistant help without becoming an authority?
