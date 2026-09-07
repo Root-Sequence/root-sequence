@@ -9,6 +9,7 @@ It’s where theory composts into practice — not abstract, but lived.
 
 ## 📖 Contents
 
+* [humane-design-review.md](humane-design-review.md) — reusable Human(e) Design review for agency, access, legibility, defaults, consent, power, maintenance, failure, reversibility, and second-order effects
 * [commons_map.md](commons_map.md) — solarpunk infrastructure map  
 * [zines/](zines/README.md) — printable, shareable fragments and manifestos  
   - 🌱 solarpunk-anti-cooption.md
