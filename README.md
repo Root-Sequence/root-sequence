@@ -80,6 +80,7 @@ Suggested entry points:
 - [Idea Trail Metadata Convention](IDEA_TRAIL_METADATA.md) — lightweight visible + machine-searchable metadata for participating documents  
 - [`IDEA_TRAIL_GRAPH.yml`](IDEA_TRAIL_GRAPH.yml) — machine-readable document ↔ trail graph used to generate the browser  
 - [Framework](core/framework.md)  
+- [Legible Systems](core/legible-systems.md) — design systems that can be simple to use without remaining mysterious  
 - [Liberation Sequence](core/liberation_sequence.md)  
 - [Manifesto](core/manifesto.md)  
 - [Visibility Loop](core/visibility-loop.md)  
