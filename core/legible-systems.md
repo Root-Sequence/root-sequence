@@ -74,6 +74,45 @@ The beginner should not be punished for being a beginner. The expert should not 
 
 ---
 
+## Technical accessibility
+
+**Technical accessibility** names one practical expression of progressive legibility: technical systems, tools, explanations, and evidence should remain meaningfully usable and understandable without requiring specialist fluency as the price of entry.
+
+This does **not** mean flattening real complexity, removing expert tools, or pretending every person needs the same level of understanding. It means avoiding unnecessary prerequisites such as unexplained jargon, accumulated convention, professional identity, prior exposure, technical confidence, expensive tooling, or knowledge that the system could reasonably reveal itself.
+
+A useful communication pattern is:
+
+1. **Explain the meaning, consequence, or available action in ordinary language.**
+2. **Preserve the technical trace underneath for anyone who needs to inspect, verify, learn, challenge, or extend it.**
+
+The first layer should answer questions such as:
+
+- What is this?
+- What happened?
+- Why does it matter?
+- What is known versus still uncertain?
+- What can I do next?
+- What evidence supports this conclusion?
+
+The deeper layer can then expose exact implementation details, logs, schemas, source material, diagnostics, commands, proofs, specifications, or machine-readable evidence.
+
+Examples include:
+
+- an error message that explains the problem and likely next step while preserving the raw stack trace;
+- a security report that explains the practical risk while preserving SARIF or scanner output;
+- a network interface that explains relationships among devices and services while still exposing routes, addresses, interfaces, and logs;
+- hardware labels that explain physical function while linking components back to the schematic;
+- documentation that begins with an ordinary-language mental model and continues into the formal specification;
+- an assurance report that says "independent review has not been verified" before exposing the exact receipt, producer, timestamp, and commit.
+
+Technical accessibility overlaps with cognitive accessibility, plain language, progressive disclosure, education, repairability, and universal design, but it is not reducible to any one of them. It focuses specifically on the **technical fluency barrier**: whether a person must already know the system's specialist language and conventions before the system will help them understand or participate in it.
+
+A technically accessible system can therefore serve both a newcomer and an expert without forcing either to use the other's interface layer.
+
+> **Explanation first; technical trace second.**
+
+---
+
 ## Design principles
 
 ### 1. Reveal complexity progressively
@@ -220,6 +259,7 @@ Legible design spends people's limited attention on the first category and aggre
 - open formats and interfaces;
 - meaningful error messages;
 - progressive paths from graphical operation to underlying implementation;
+- plain-language explanations with technical detail available underneath;
 - no unnecessary cloud or vendor dependency.
 
 ### Education
@@ -246,6 +286,7 @@ Legible design spends people's limited attention on the first category and aggre
 - visible permissions and boundaries;
 - replaceable models and runtimes where practical;
 - clear distinction between suggestion, prediction, authorization, and decision;
+- plain-language consequences with inspectable technical evidence;
 - no authority derived merely from capability or opacity.
 
 ---
@@ -266,6 +307,7 @@ When evaluating a system, ask:
 10. What knowledge disappears if the original designer or maintainer leaves?
 11. Does the system remain usable for people with limited time, attention, working memory, money, bandwidth, mobility, confidence, or technical experience?
 12. Can the system become more transparent without demanding unnecessary transparency from the people using it?
+13. Can someone understand an important result or action without already knowing specialist vocabulary, while still being able to inspect the technical basis?
 
 ---
 
@@ -275,13 +317,14 @@ When evaluating a system, ask:
 
 Other projects should transform it according to their own role:
 
-- **Being Human(e):** what cognitive accessibility, understandable systems, learning, autonomy, and dependence mean in ordinary human experience;
+- **Being Human(e):** what cognitive and technical accessibility, understandable systems, learning, autonomy, and dependence mean in ordinary human experience;
 - **Community Infrastructure:** human-legible permissions, governance, automation, recovery, interfaces, community knowledge, and technical architecture;
-- **Liberated Technology:** the technology-specific expression involving repairability, openness, interoperability, autonomy, access, maintenance, and freedom from artificial lock-in;
+- **Liberated Technology:** the technology-specific expression involving repairability, openness, interoperability, autonomy, access, maintenance, technical accessibility, and freedom from artificial lock-in;
 - **Liberated Intelligence:** intelligible boundaries among assistance, inference, permission, agency, and authority;
 - **Coherent World:** whether a civilization's infrastructure remains understandable, repairable, teachable, and locally inhabitable rather than becoming benevolent but inscrutable machinery;
 - **No One Noticed:** what people notice, understand, misunderstand, repair, trust, or stop needing to understand during systemic transition;
 - **Museum of Ordinary Life:** preservation of the interfaces, manuals, workarounds, routines, labels, repair practices, and tacit knowledge through which ordinary people actually understood systems;
+- **Dev11 / Vibe Receipts:** "explanation first; technical trace second" as a concrete implementation of technical accessibility in software assurance;
 - **Root Sequence Wiki:** terminology, provenance, aliases, and links back to this canonical treatment.
 
 The principle should travel by **transformation, not duplication**.
