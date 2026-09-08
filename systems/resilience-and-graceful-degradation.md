@@ -294,6 +294,72 @@ A fallback that exists only in a forgotten binder is not resilient.
 
 ---
 
+## 10a. Technological autonomy and refusal
+
+A system can function perfectly for its preferred users while still being brittle if participation quietly depends on one device, account, network, vendor, institution, or interface.
+
+A useful resilience test is deliberate refusal:
+
+> **What happens if someone does not own, cannot use, or simply declines the preferred technology?**
+
+If refusing a nonessential technical layer removes realistic access to the underlying human capability, the technology has become more than a convenience. It has become infrastructure with coercive consequences.
+
+Refusal and failure often expose the same dependency:
+
+```text
+person declines smartphone
+person loses smartphone
+phone battery dies
+account is locked
+identity provider fails
+network disappears
+```
+
+Different causes can produce the same practical state.
+
+Designing for refusal can therefore improve resilience for everyone.
+
+Important services do not need infinite interface parity. They do need serious consideration of **multi-path access** and whether nominal alternatives actually share the same hidden failure mode.
+
+> **No critical human need should depend unnecessarily on a single technology, institution, interface, or skill path.**
+
+---
+
+## 10b. Cognitive redundancy and living memory
+
+Technical backups are insufficient if nobody understands the function well enough to use another path.
+
+A society can have redundant hardware and still become cognitively brittle when:
+
+- people know which button to press but not what the process accomplishes;
+- staff lack authority to handle exceptions;
+- the only instructions live inside the failed system;
+- local knowledge disappears because a remote service normally supplies it;
+- maintainers become passive recipients of automated instructions;
+- nobody can imagine a different workflow because one implementation has become synonymous with the task.
+
+Resilience therefore includes **cognitive redundancy**:
+
+- functional understanding;
+- troubleshooting;
+- repair knowledge;
+- method diversity;
+- bounded improvisation;
+- documented succession;
+- people who can translate between old and new workflows.
+
+Periods of technological transition create a temporary overlap between generations of methods. People who remember older workflows may carry useful alternative knowledge even when the older system should not be restored wholesale.
+
+That knowledge should not be romanticized. Paper, cash, staffed counters, analog controls, and manual procedures all have their own accessibility and maintenance costs.
+
+The value is deeper:
+
+> **The current implementation is not identical to the underlying human need.**
+
+Preserving that distinction is itself a form of civilizational memory.
+
+---
+
 ## 11. Recovery is not return to zero
 
 After a failure, systems need to reconcile:
@@ -352,9 +418,13 @@ A system that survives a crisis by normalizing unaccountable control may preserv
 
 ## 13. Resilience across Root Sequence
 
+### Being Human(e) / BHIG
+
+Treat technological autonomy as part of humane access and agency: preserve refusal, multi-path participation, human failover, cognitive redundancy, and useful method diversity without romanticizing old systems or shifting maintenance burden onto individuals. See `Root-Sequence/beinghumane-atlas/seeds/technological-autonomy-and-human-failover.md`.
+
 ### Community Infrastructure / Signal Mesh
 
-Define layered digital/manual fallback, offline state, local-first data, local nodes, alternate transports, and clear synchronization/recovery semantics.
+Define layered digital/manual fallback, offline state, local-first data, local nodes, alternate transports, clear synchronization/recovery semantics, and deliberate refusal tests for smartphone, account, vendor, AI, and network dependencies. See `docs/concepts/technological-autonomy-and-human-failover.md` in the Community Infrastructure repository.
 
 ### Liberation Mass
 
@@ -403,7 +473,13 @@ ALTERNATE PATHS:
 
 OFFLINE / MANUAL MODE:
 
+WHAT HAPPENS IF SOMEONE REFUSES THE PREFERRED TECHNOLOGY:
+
+DO THE ALTERNATE PATHS SHARE THE SAME HIDDEN DEPENDENCY:
+
 WHO KNOWS HOW TO OPERATE IT:
+
+WHO UNDERSTANDS THE UNDERLYING FUNCTION:
 
 WHO MAINTAINS IT:
 
