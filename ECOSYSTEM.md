@@ -291,6 +291,8 @@ Community Infrastructure's Community Knowledge and memory work may learn from th
 
 When a new idea appears, ask:
 
+For a full ecosystem pass, end the thought with **`RS?`** or say **“route this”** / **“put this places.”** Follow [`THOUGHT_ROUTING.md`](THOUGHT_ROUTING.md): capture the source once, search current homes, choose one canonical destination, and add only useful links or project-specific transformations. Narrower prompts such as `BHIG?` remain project-specific unless wider routing is explicitly requested.
+
 | The idea primarily… | Put it… |
 |---|---|
 | identifies a broad pattern, question, source, or system dynamic | in `root-sequence` |

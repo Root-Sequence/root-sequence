@@ -1,5 +1,5 @@
-version: 0.1
-updated: 2026-08-30
+version: 0.2
+updated: 2026-09-09
 canonical_trails: IDEA_TRAILS.md
 metadata_convention: IDEA_TRAIL_METADATA.md
 
@@ -32,6 +32,10 @@ trails:
     title: Growth, Scale & the Right to Stay Small
   accountability-externalization:
     title: Accountability, Consequences & Externalization
+  collective-judgment-dissent:
+    title: Collective Judgment, Dissent & Manufactured Consensus
+  possibility-historical-contingency:
+    title: Possibility, Historical Contingency & Abandoned Futures
 
 documents:
   - repo: Root-Sequence/root-sequence
@@ -52,6 +56,8 @@ documents:
       - space-liberation
       - right-to-stay-small
       - accountability-externalization
+      - collective-judgment-dissent
+      - possibility-historical-contingency
 
   - repo: Root-Sequence/root-sequence
     path: ECOSYSTEM.md
@@ -61,6 +67,7 @@ documents:
       - federation-autonomy
       - maintenance-invisible-labor
       - right-to-stay-small
+      - possibility-historical-contingency
 
   - repo: Root-Sequence/root-sequence
     path: analysis/spatial-liberation.md
@@ -94,6 +101,26 @@ documents:
       - maintenance-invisible-labor
       - federation-autonomy
       - accountability-externalization
+
+  - repo: Root-Sequence/root-sequence
+    path: analysis/collective-judgment-and-manufactured-consensus.md
+    role: research
+    canonical_for:
+      - collective-judgment-dissent
+    trails:
+      - collective-judgment-dissent
+      - accountability-externalization
+      - stewardship-authority
+
+  - repo: Root-Sequence/root-sequence
+    path: futures/abandoned-futures.md
+    role: research
+    canonical_for:
+      - possibility-historical-contingency
+    trails:
+      - possibility-historical-contingency
+      - memory-provenance
+      - commons-shared-capacity
 
   - repo: Root-Sequence/community-infrastructure
     path: docs/concepts/community-discovery.md
@@ -192,6 +219,14 @@ documents:
       - privacy-coordination
       - resilience-failure
       - accessibility-participation
+
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/concepts/collective-decision-making.md
+    role: real-system
+    trails:
+      - collective-judgment-dissent
+      - stewardship-authority
+      - accountability-externalization
 
   - repo: Root-Sequence/community-infrastructure
     path: docs/design/accessibility.md
@@ -466,6 +501,28 @@ documents:
       - space-liberation
       - accountability-externalization
 
+  - repo: Root-Sequence/beinghumane-atlas
+    path: seeds/humane-collective-decision-architecture.md
+    role: human-practice
+    trails:
+      - collective-judgment-dissent
+      - stewardship-authority
+      - accountability-externalization
+
+  - repo: Root-Sequence/beinghumane-atlas
+    path: seeds/historical-contingency-and-making-possibility-real.md
+    role: human-practice
+    trails:
+      - possibility-historical-contingency
+      - memory-provenance
+
+  - repo: Root-Sequence/beinghumane-atlas
+    path: map/idea-trails.md
+    role: routing-map
+    trails:
+      - collective-judgment-dissent
+      - possibility-historical-contingency
+
   - repo: Root-Sequence/liberated-intelligence
     path: README.md
     role: research
@@ -520,6 +577,8 @@ documents:
       - memory-provenance
       - right-to-stay-small
       - accountability-externalization
+      - collective-judgment-dissent
+      - possibility-historical-contingency
 
   - repo: Root-Sequence/coherent-world
     path: PROJECT-MAP.md
@@ -536,6 +595,8 @@ documents:
       - resilience-failure
       - memory-provenance
       - accountability-externalization
+      - collective-judgment-dissent
+      - possibility-historical-contingency
 
   - repo: Root-Sequence/coherent-world
     path: IDEA-TRAILS.md
@@ -555,6 +616,8 @@ documents:
       - space-liberation
       - right-to-stay-small
       - accountability-externalization
+      - collective-judgment-dissent
+      - possibility-historical-contingency
 
   - repo: Root-Sequence/coherent-world
     path: world/space-mobility-and-belonging.md
@@ -575,6 +638,37 @@ documents:
       - intelligence-authority
 
   - repo: Root-Sequence/coherent-world
+    path: world/collective-decision-and-dissent.md
+    role: speculative-design
+    trails:
+      - collective-judgment-dissent
+      - stewardship-authority
+      - accountability-externalization
+
+  - repo: Root-Sequence/coherent-world
+    path: world/possibility-atlas/README.md
+    role: speculative-design
+    trails:
+      - possibility-historical-contingency
+      - memory-provenance
+      - commons-shared-capacity
+
+  - repo: Root-Sequence/coherent-world
+    path: no-one-noticed/research/HISTORICAL-CONTINGENCY-AND-ABANDONED-FUTURES.md
+    role: research
+    trails:
+      - possibility-historical-contingency
+      - memory-provenance
+
+  - repo: Root-Sequence/coherent-world
+    path: no-one-noticed/fragments/DECISION-WITHOUT-CONSENSUS.md
+    role: narrative
+    trails:
+      - collective-judgment-dissent
+      - intelligence-authority
+      - accountability-externalization
+
+  - repo: Root-Sequence/coherent-world
     path: no-one-noticed/README.md
     role: narrative
     trails:
@@ -586,6 +680,8 @@ documents:
       - memory-provenance
       - space-liberation
       - accountability-externalization
+      - collective-judgment-dissent
+      - possibility-historical-contingency
 
   # Museum of Ordinary Life is intentionally referenced but not mutated here.
   # Add exact canonical Museum document paths only through the Museum's own

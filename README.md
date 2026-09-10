@@ -64,6 +64,7 @@ A recursive process rather than a fixed path.
 - `/wiki/` — migration pointer to the standalone [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) repository  
 - `/cli/` — experimental scripts and tools, including the Idea Trail browser generator  
 - `/assets/` — visuals and diagrams  
+- [`THOUGHT_ROUTING.md`](THOUGHT_ROUTING.md) — the organization-wide `RS?` capture and routing convention
 
 The internal repository map is also described in [`root_map.md`](root_map.md). The organization-wide map lives in [`ECOSYSTEM.md`](ECOSYSTEM.md), recurring cross-project questions are traced in [`IDEA_TRAILS.md`](IDEA_TRAILS.md), their document-level relationships are browsable in [`IDEA_TRAIL_INDEX.md`](IDEA_TRAIL_INDEX.md), and the cross-project vocabulary/history layer lives in the standalone [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) repository.
 
@@ -79,6 +80,7 @@ Suggested entry points:
 - [Idea Trail Browser](IDEA_TRAIL_INDEX.md) — browse actual documents grouped by trail and role  
 - [Idea Trail Metadata Convention](IDEA_TRAIL_METADATA.md) — lightweight visible + machine-searchable metadata for participating documents  
 - [`IDEA_TRAIL_GRAPH.yml`](IDEA_TRAIL_GRAPH.yml) — machine-readable document ↔ trail graph used to generate the browser  
+- [Thought Routing (`RS?`)](THOUGHT_ROUTING.md) — capture a thought once, find one canonical home, and add deliberate cross-project links without duplicate substance
 - [Framework](core/framework.md)  
 - [Legible Systems](core/legible-systems.md) — design systems that can be simple to use without remaining mysterious  
 - [Liberation Sequence](core/liberation_sequence.md)  

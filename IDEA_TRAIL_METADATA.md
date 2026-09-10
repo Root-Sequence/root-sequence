@@ -1,7 +1,7 @@
 # Root Sequence — Idea Trail Metadata Convention
 
 **Document role:** Cross-project metadata convention  
-**Status:** v0.1 / lightweight and optional
+**Status:** v0.2 / lightweight and optional
 
 Idea Trails become most useful when individual documents can declare which recurring cross-project questions they participate in.
 
@@ -53,6 +53,8 @@ Use these IDs in the hidden `idea-trails` comment even if the display title late
 | `space-liberation` | Space, Mobility & Spatial Liberation |
 | `right-to-stay-small` | Growth, Scale & the Right to Stay Small |
 | `accountability-externalization` | Accountability, Consequences & Externalization |
+| `collective-judgment-dissent` | Collective Judgment, Dissent & Manufactured Consensus |
+| `possibility-historical-contingency` | Possibility, Historical Contingency & Abandoned Futures |
 
 The numeric trail ordering in `IDEA_TRAILS.md` is presentation-only. The slug is the stable identifier.
 

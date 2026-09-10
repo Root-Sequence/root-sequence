@@ -6,6 +6,12 @@ tags: [futures, infrastructure, technology, institutions, maintenance, capitalis
 
 # Abandoned Futures
 
+**Idea Trail:** [Possibility & Historical Contingency](../IDEA_TRAILS.md#trail-16--possibility-historical-contingency-and-abandoned-futures)<br>
+**Trail role:** research
+
+<!-- idea-trails: possibility-historical-contingency -->
+<!-- trail-role: research -->
+
 > **We do not need to invent the future from scratch. It was here all along until it was abandoned.**
 
 Some futures never existed beyond fantasy. Others existed partially: as prototypes, public programs, social practices, standards, institutions, technologies, infrastructure, research directions, or ordinary ways of living that were viable enough to leave evidence—but not powerful enough to survive the conditions around them.
@@ -334,6 +340,7 @@ RELATIONSHIP TO COHERENT WORLD OR ANOTHER PROJECT:
 - [`systems/`](../systems/) examines dependency, failure, path dependence, recovery, maintenance, and emergence.
 - [`commons/`](../commons/) can turn recovered principles into practical artifacts.
 - **Coherent World** explores what happens when viable alternatives are allowed to connect, mature, and coexist.
+- Coherent World's private [`Possibility Atlas`](https://github.com/Root-Sequence/coherent-world/tree/main/world/possibility-atlas) applies this framework to sourced possibilities and their world-design implications without turning the Atlas into fiction canon.
 - ***No One Noticed*** tells the transition through characters who encounter both the apparent miracle and the technical, institutional, and human labor underneath it.
 - **The Museum of Ordinary Life** preserves evidence of systems while they are still ordinary—before later narratives simplify what was lost.
 

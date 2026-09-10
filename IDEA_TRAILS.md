@@ -2,7 +2,7 @@
 
 **Document role:** Cross-project concept routing map  
 **Status:** Living / exploratory  
-**Last updated:** 2026-09-03
+**Last updated:** 2026-09-09
 
 Root Sequence projects repeatedly encounter the same underlying questions at different scales and in different forms.
 
@@ -360,6 +360,28 @@ The point is **appropriate transformation**, not symmetry.
 
 ---
 
+# Trail 16 — Possibility, Historical Contingency, and Abandoned Futures
+
+## Root question
+
+> Which futures were impossible, and which were only prevented from becoming durable—and how can their fragments be recovered without nostalgia, erasure, or automatic revival?
+
+| Project | Treatment |
+|---|---|
+| **Root Sequence** | Investigate abandoned futures as evidence-bearing systems questions: what existed, what future it implied, why it ended, who held veto power, what harms or exclusions it carried, and what remains recoverable. |
+| **Being Human(e)** | Ask how historical contingency and lived demonstrations make alternatives emotionally and practically imaginable without presenting them as flawless blueprints. |
+| **Community Infrastructure** | Test bounded mechanisms—commons, mutual aid, community knowledge, federation, low-tech access, shared resources—against current maintenance, governance, safety, and participation constraints. |
+| **Coherent World** | Use the Possibility Atlas to examine how sourced social, technical, ecological, and institutional fragments might coexist in a plural civilizational design. |
+| **No One Noticed** | Translate recovery into lived realization: the future feels invented until characters discover its many human authors, failed experiments, surviving practices, and deliberately rejected paths. |
+| **Museum of Ordinary Life** | Preserve ordinary evidence, provenance, consent, and context before later history simplifies a partial experiment into either inevitable progress or total failure. |
+
+**Broad research home:** [`futures/abandoned-futures.md`](futures/abandoned-futures.md)<br>
+**Human-scale development:** `Root-Sequence/beinghumane-atlas/seeds/historical-contingency-and-making-possibility-real.md`<br>
+**Speculative-design index:** `Root-Sequence/coherent-world/world/possibility-atlas/`<br>
+**Narrative research:** `Root-Sequence/coherent-world/no-one-noticed/research/HISTORICAL-CONTINGENCY-AND-ABANDONED-FUTURES.md`
+
+---
+
 # Idea Trail index
 
 | Trail | Core tension | Most relevant current project(s) |
@@ -379,6 +401,7 @@ The point is **appropriate transformation**, not symmetry.
 | Scale & Staying Small | capacity vs. growth | Community Infrastructure / Root Sequence |
 | Accountability & Externalization | benefit vs. consequence | Root Sequence / Being Human(e) |
 | Collective Judgment & Dissent | action vs. manufactured agreement | Being Human(e) / Community Infrastructure / Coherent World / UCF |
+| Possibility & Historical Contingency | possibility vs. manufactured inevitability | Root Sequence / Being Human(e) / Coherent World / Museum of Ordinary Life |
 
 ---
 
