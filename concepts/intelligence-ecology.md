@@ -119,7 +119,6 @@ The aim is not to reduce a whole ecology to one score. It is to make the pressur
 - **Being Human(e) Atlas** applies the lens to present institutions, incentives, human consequences, and evidence needs. See [`intelligence-ecology-and-selection-environments.md`](https://github.com/Root-Sequence/beinghumane-atlas/blob/main/seeds/intelligence-ecology-and-selection-environments.md).
 - **Coherent Computing** treats selection environments as part of the system boundary when examining defaults, permissions, metrics, automation, funding, and maintenance. See [`conceptual-model.md`](https://github.com/Root-Sequence/coherent-computing/blob/main/docs/conceptual-model.md).
 - **Community Infrastructure** applies the lens to the Community Assistant's governance and deployment conditions. See [`community-assistant.md`](https://github.com/Root-Sequence/community-infrastructure/blob/main/docs/concepts/community-assistant.md).
-- **Institutions** is the intended institutional application: a cross-cutting question across mechanisms and scales rather than a duplicate grid dimension. The upstream contribution is tracked in [meaningalignment/institutions#18](https://github.com/meaningalignment/institutions/pull/18).
 - **Root Sequence Console** carries the recurring question into derived project review packets. It does not become a second conceptual home.
 
 ## See also
