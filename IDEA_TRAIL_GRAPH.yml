@@ -98,13 +98,6 @@ documents:
       - intelligence-authority
       - accountability-externalization
 
-  - repo: meaningalignment/institutions
-    path: STANDARDS.md
-    role: research
-    trails:
-      - intelligence-authority
-      - accountability-externalization
-
   - repo: Root-Sequence/root-sequence
     path: analysis/spatial-liberation.md
     role: research
