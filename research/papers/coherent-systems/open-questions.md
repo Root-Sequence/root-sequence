@@ -1,7 +1,7 @@
 # Open questions and first research tests
 
 **Version:** v0.1-dev · **Updated:** 2026-09-16  
-**Status:** Proposed research only. No tests below have been executed.
+**Status:** T-001 has an AI-assisted editorial case set but no independent reviewer study. T-002 has a synthetic implementation and eight passing implementation tests, rerun after the interruption. T-003 remains unrun. No empirical validation is claimed.
 
 ## Questions
 
@@ -20,7 +20,7 @@
 
 ## T-001 — Definition stress test
 
-**First editorial task.** Prepare four short, explicitly fictional cases: an effective but coercive system; a protective but unreliable system; a mixed improvement with displaced burdens; and a bounded repair with clearly specified beneficiaries and costs.
+**Initial editorial cases are recorded in the [UCF example](https://github.com/Root-Sequence/universal-coherence-framework/blob/c4d7b236828a59139c0d5204b1faaed13154682a/models/examples/booking-service/README.md). Independent review remains to be done.** The case set covers: an effective but coercive system; a protective but unreliable system; a mixed improvement with displaced burdens; and a bounded repair with clearly specified beneficiaries and costs.
 
 Have reviewers separately describe functional fit and normative objections before introducing the terminology. Then apply C-003. Record ambiguity, excluded parties, disagreements, and whether the vocabulary adds clarity. Keep functional descriptions and normative objections separate rather than collapsing them into an overall score.
 
@@ -30,13 +30,17 @@ Have reviewers separately describe functional fit and normative objections befor
 
 ## T-002 — Local objective and displaced burden
 
-Develop the hypothetical booking example from the paper into a transparent toy model. Specify appointment duration, unmet demand, completion targets, and where unmet needs go. Compare component-only optimization, explicit wider constraints, and a non-optimized baseline.
+The hypothetical booking example now has a [synthetic implementation](https://github.com/Root-Sequence/universal-coherence-framework/blob/c4d7b236828a59139c0d5204b1faaed13154682a/models/examples/booking-service/booking_model.py) in UCF. It compares completion maximization, a minimum-coverage constraint, and a fixed arrival-order rule. Eight implementation checks passed; 24 capacity/duration fixtures are generated. The arrival order is arbitrary and is not a fairness or competent-review baseline.
 
-**Measure:** Completed appointments, excluded demand, waiting burden, resource use, and sensitivity to assumptions. Publish every assumption and the conditions under which the hypothesized failure disappears.
+The base fixture leaves 90 minutes of unmet service work under all three rules; distribution changes. This is not measured waiting time or actual downstream burden. All demand is served when base-case capacity reaches 210 minutes. The minimum-coverage rule is reported infeasible when capacity cannot support it.
+
+A later extension should test recurring demand, referrals, service outcomes, uncertain durations, and maintenance rather than assuming they were modeled here.
+
+**Computed quantities:** Completions, unmet requests, used/idle minutes, unmet service minutes, and sensitivity to capacity and duration. Waiting burden and service outcomes remain future measurement needs. Publish every assumption and the conditions under which the hypothesized failure disappears.
 
 **Failure signal:** The claimed spillover depends entirely on an arbitrary setup, vanishes under reasonable constraints, or is already captured by the supposedly local objective.
 
-**Boundary:** A toy result can illustrate a mechanism; it cannot estimate prevalence or validate a social program. No model has been implemented here.
+**Boundary:** A toy result can illustrate a mechanism; it cannot estimate prevalence or validate a social program. The canonical code lives in UCF; no duplicate implementation is maintained here.
 
 ## T-003 — Added-value comparison
 
@@ -50,6 +54,6 @@ Choose a small, public, non-sensitive design case and a competent existing revie
 
 ## Next writing pass
 
-Start with T-001 and sections 2–4. Sharpen the definition and one worked example before expanding the paper. Then complete the prior-work comparison and revise the abstract to match what the argument can actually support.
+Review the UCF reconciliation, the four editorial cases, and sections 2–4. Then conduct the prior-work comparison and design T-003 before expanding the paper. A worked toy example is not a substitute for that comparison.
 
 [Charter](README.md) · [Paper](paper.md) · [Claims](claims.md)

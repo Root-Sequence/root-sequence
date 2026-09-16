@@ -1,5 +1,17 @@
 # Changelog
 
+## v0.1-dev — 2026-09-16 — UCF reconciliation and interruption recovery
+
+Added the dedicated UCF model and glossary to the source map; the initial scaffold had omitted them. Compared UCF's definitions with C-003 and changed “operational definition” to “working definition” until observations and rules are specified. Kept the four analytical layers distinct from the optional four-state taxonomy.
+
+Expanded section 2 with the implemented synthetic booking example and its boundary conditions. Changed allocation redistributes access without eliminating unmet work in the base fixture. Canonical code stays in UCF. Updated C-001, C-003, C-012, research-task statuses, the charter, bibliography, and navigation. Clarified that the one-period allocation example does not test C-002's claim about behavior persisting over time.
+
+Recovered the staged manuscript, charter, bibliography, and UCF note after interruption, then completed the companion ledger and status changes before updating the existing draft PR. Reran the eight implementation tests and 24-fixture report from source matching the saved Git blob hashes. No reproducible 700-case comparison was recovered; its progress-text claim is excluded from the evidence record.
+
+T-001 has an editorial case set, not independent reviewers. T-002 has code and passing implementation tests. T-003 remains unrun. No field results, framework validation, author approval, or deployment is claimed. Added a scope/provenance notice to Root Sequence's older UCF overview without replacing its body.
+
+The entries below describe the earlier scaffold as it was then; their source counts and unexecuted-test status are historical, not the current revision.
+
 ## v0.1-dev — 2026-09-16 — Initial scaffold
 
 ### Added

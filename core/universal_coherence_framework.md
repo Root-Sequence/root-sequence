@@ -1,5 +1,11 @@
 # Universal Coherence Framework
 
+**Scope notice added 2026-09-16:** The earlier Root Sequence summary below is retained, not promoted to the canonical UCF specification. UCF is an optional analytical framework; its proposed revision lives in the [dedicated repository](https://github.com/Root-Sequence/universal-coherence-framework/blob/c4d7b236828a59139c0d5204b1faaed13154682a/models/ucf-model-v1.1-draft.md). See the [living-paper reconciliation](../research/papers/coherent-systems/notes/ucf-reconciliation.md) for definitions and provenance. Both remain drafts awaiting author review.
+
+The six headings below are a local explanatory sequence, not UCF's four analytical layers or four optional state labels. Statements about natural drift are working hypotheses, not demonstrated laws. Functional fit does not by itself establish wider benefit or legitimate authority.
+
+---
+
 The Universal Coherence Framework (UCF) describes how systems align—or fail to align—with reality over time.
 
 It is not a fixed model. It is a way of observing whether a system holds together internally, interacts accurately with the world, and sustains itself without generating hidden instability.

@@ -21,7 +21,7 @@ The paper is a synthesis within Root Sequence, not the charter of a new institut
 
 **What must be examined beyond the objectives of an individual agent to assess whether a change improves the conditions of the wider system?**
 
-The proposed contribution is a review method connecting system boundaries, assumptions, consequences, authority, material constraints, and revision over time. Whether that method adds anything to existing sociotechnical alignment and systems practice is an open research question, not a novelty claim.
+The proposed contribution is a review method connecting system boundaries, assumptions, consequences, authority, material constraints, and revision over time. It now explicitly draws on UCF's four-layer model without requiring its four-state vocabulary or assuming universality. Whether that method adds anything to existing sociotechnical alignment and systems practice is an open research question, not a novelty claim.
 
 ### Scope and non-goals
 
@@ -36,6 +36,7 @@ It will not claim to solve society, predict AGI, prove inevitable progress, prov
 3. [Open questions and first research tests](open-questions.md).
 4. [Source and provenance map](notes/source-map.md).
 5. [Bibliography](references.bib) and [revision history](CHANGELOG.md).
+6. [UCF reconciliation and worked-example status](notes/ucf-reconciliation.md).
 
 ### What “living” means
 
@@ -58,6 +59,10 @@ Canonical source for this paper: `Root-Sequence/root-sequence/research/papers/co
 Its conceptual inputs remain canonical in their existing folders. Coherent World remains a systems-design space; *No One Noticed* remains a narrative space, not evidence that a proposed transition will work. Cross-project context is routed through the existing [Ecosystem Map](../../../ECOSYSTEM.md), not a new atlas or repository.
 
 A future reader-facing rendering may live at `site/research/coherent-systems/`. That path is **proposed, not created here**; any rendering must derive from the canonical source and pass publication review.
+
+### Current exercise status
+
+The UCF booking example is implemented and has eight passing code/arithmetic checks. The four definition cases have an AI-assisted editorial treatment, not independent reviewers. The baseline comparison remains unrun. No field findings or added-value result is claimed. UCF owns the detailed model and code; the paper owns the synthesis.
 
 ### Gate for the first reviewed release
 

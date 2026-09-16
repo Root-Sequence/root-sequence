@@ -2,7 +2,7 @@
 
 **Version:** v0.1-dev · **Updated:** 2026-09-16 · **Review:** author review pending
 
-This ledger records propositions to examine, not points awarded for confidence. No empirical study has been conducted for this draft. Internal project documents provide provenance, not independent corroboration.
+This ledger records propositions to examine, not points awarded for confidence. No empirical study has been conducted for this draft. A synthetic UCF booking model has been implemented; an editorial case comparison is not independent reviewer validation. Internal project documents provide provenance, not independent corroboration.
 
 **Types:** DEFINITION; LITERATURE-SUPPORTED ARGUMENT; INFERENCE; HYPOTHESIS; DESIGN PROPOSITION. A proposition can have more than one type. Descriptive observations should be added only with an identified observation and method.
 
@@ -15,7 +15,7 @@ Bibliographic keys resolve in [references.bib](references.bib). Source coverage 
 **Type / state:** LITERATURE-SUPPORTED ARGUMENT + INFERENCE / PROVISIONAL.  
 **Proposition:** Meeting an operator's objective alone does not imply acceptable consequences across every affected relationship or system boundary.
 
-**Basis:** `edelman2025fullstack`; the constructed service-access counterexample in section 2.  
+**Basis:** `edelman2025fullstack`; the constructed service-access counterexample in section 2; `rootsequence2026ucfreconciliation` for the runnable fixture and its boundary cases.  
 **Support limit:** A logical non-guarantee, not an estimate of how often local alignment causes harm.  
 **Objection / boundary:** A sufficiently complete objective plus verified composition and environmental assumptions may provide a bounded guarantee.  
 **Evidence needed / revision trigger:** State the missing assumptions precisely. Narrow the claim if a competing definition already includes the whole assessed system.  
@@ -30,15 +30,15 @@ Bibliographic keys resolve in [references.bib](references.bib). Source coverage 
 **Support limit:** Neither source establishes effect sizes or universal direction across domains.  
 **Objection / boundary:** Actors can resist, reinterpret, or circumvent changed conditions; effects may reflect participant selection rather than changed behavior.  
 **Evidence needed / revision trigger:** A bounded causal comparison with alternative explanations and outcomes beyond the targeted metric; revise where the mechanism fails.  
-**Related:** section 3; Q-007; proposed test T-002.
+**Related:** section 3; Q-007; UC-009. T-002 illustrates a constrained allocation, not behavior persisting or changing over time; C-002 still needs its own causal study.
 
 ## C-003 — Functional coherence is distinct from normative legitimacy
 
 **Type / state:** DEFINITION + INFERENCE / PROVISIONAL.  
 **Proposition:** Assess fit among assumptions, behavior, dependencies, purposes, and operating conditions separately from whether those purposes and decision rights are legitimate.
 
-**Basis:** public `systems/coherence/model.md`; a proposed clarification in this paper.  
-**Support limit:** This is a proposed vocabulary, not a discovered law or validated scale.  
+**Basis:** public `systems/coherence/model.md`; UCF model v1 and glossary; proposed UCF v1.1 reconciliation (`rootsequence2026ucfreconciliation`). See [the definition map](notes/ucf-reconciliation.md).  
+**Support limit:** This is a proposed vocabulary, not a discovered law or validated scale. Working definition replaces the earlier premature operational-definition label. Four layers and four state labels are distinct; the paper assumes no universal state taxonomy.  
 **Objection / boundary:** “Fit” may be too vague; separating the questions could understate how purposes shape descriptive assessment.  
 **Evidence needed / revision trigger:** Reviewers should distinguish an effective but coercive arrangement from a protective but unreliable one without labeling either unqualifiedly coherent. Revise if distinctions cannot be applied consistently or add no explanatory value.  
 **Related:** section 4; Q-001–Q-002; T-001.
@@ -136,7 +136,7 @@ Bibliographic keys resolve in [references.bib](references.bib). Source coverage 
 **Type / state:** HYPOTHESIS / PROVISIONAL.  
 **Proposition:** The proposed review procedure may reveal consequential omissions not identified by a competent existing review at an acceptable additional burden.
 
-**Basis:** the contribution this paper proposes to test; no validation yet.  
+**Basis:** the contribution this paper proposes to test; no comparative validation yet. The UCF example does not establish added value over a competent ordinary review, and its state labels supplied no demonstrated additional explanation in this editorial pass.  
 **Support limit:** Novelty, reliability, usability, and comparative benefit are all unresolved.  
 **Objection / boundary:** It may merely rename existing practice or increase paperwork and surveillance.  
 **Evidence needed / revision trigger:** A fair comparison with existing methods; examine omissions found, false alarms, reviewer disagreement, time, and privacy. Revise or abandon the contribution if no added value is demonstrated.  

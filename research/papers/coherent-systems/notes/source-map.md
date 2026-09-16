@@ -5,7 +5,7 @@
 
 ## Source boundary
 
-The user approved a public-safe living-paper scaffold in this repository. The public sources below were read from `main` at commit `76219c5b164b274e35bb82cb84beb992b45e6387`. Their conceptual claims remain subject to examination; public availability does not make them independent evidence.
+The user approved a public-safe living-paper scaffold in this repository. The initial Root Sequence sources below were read from `main` at commit `76219c5b164b274e35bb82cb84beb992b45e6387`. Their conceptual claims remain subject to examination; public availability does not make them independent evidence.
 
 The current conversation supplied the approved task, proposed scope, and living-paper principle. It is not a scholarly source. Earlier assistant comparisons are not treated as evidence. Private project documents were not copied or used as citable public support.
 
@@ -20,6 +20,7 @@ Paths below are relative to this file. The paper synthesizes their questions; it
 | [Intelligence Institutional Ecology](../../../../analysis/intelligence-institutional-ecology.md) | Typed evidence and distinction between documented relationships, self-description, and interpretation. | Prior-work routing and evidence discipline. Its organization queue is not a set of completed profiles. |
 | [Collective Judgment and Manufactured Consensus](../../../../analysis/collective-judgment-and-manufactured-consensus.md) | Distinguishing judgment, deliberation, and authorization; retaining disagreement. | C-004, C-008. Exploratory design analysis, not a validated procedure. |
 | [Futures](../../../../futures/README.md) | Distinguishing trajectories, scenarios, proposals, speculation, and fiction. | C-007, C-010–C-011. The linked abandoned-futures cases were not individually reviewed in this pass. |
+| [UCF reconciliation](https://github.com/Root-Sequence/universal-coherence-framework/blob/c4d7b236828a59139c0d5204b1faaed13154682a/docs/reconciliation-2026-09-16.md), [model](https://github.com/Root-Sequence/universal-coherence-framework/blob/c4d7b236828a59139c0d5204b1faaed13154682a/models/ucf-model-v1.1-draft.md), and [constructed example](https://github.com/Root-Sequence/universal-coherence-framework/blob/c4d7b236828a59139c0d5204b1faaed13154682a/models/examples/booking-service/README.md) | Added in the second pass: dedicated UCF definitions, four layers versus states, and runnable capacity example. | C-001, C-003, C-005, C-012. UCF base `78277d3f3e54f4150e71fcdf7aab589a4fcb9f38`; candidate `c4d7b236828a59139c0d5204b1faaed13154682a`. Internal provenance, not independent validation. |
 | [Root README](../../../../README.md), [repository map](../../../../root_map.md), [contribution guidance](../../../../contributing.md) | Repository role, one canonical home, navigation, public licensing, and Markdown footnotes. | Editorial context, not evidence for research claims. |
 
 ## External source checks
@@ -34,6 +35,12 @@ Keys match [references.bib](../references.bib). Sources were retrieved on 2026-0
 | `meadowsLeveragePoints` | Author-hosted HTML discussion of information, rules, goals, and the risks of generalization. | Original publication date not established from the consulted page. Conceptual framing, not a tested recipe for the present cases. |
 
 The [Meaning Alignment Institute website](https://www.meaningalignment.org/) was checked to identify its own full-stack framing and linked paper. Team, funding, and institutional profiles are outside this scaffold's scope; none are asserted in the paper.
+
+## UCF reconciliation coverage
+
+The first scaffold omitted dedicated UCF sources. The second pass read UCF's model, glossary, time essay, indices, contribution guidance, issue, and Git tree. The candidate preserves earlier wording in exact snapshots. See [the paper-side reconciliation](ucf-reconciliation.md) for the definition map and executed-versus-proposed test status. Other UCF foundations and publications have not received a full claim-level review.
+
+Recovery checked the saved UCF source against local Git blob hashes and reran all eight implementation tests and the 24-fixture report. A 700-case / 561-match statement appeared in interrupted progress text, but its protocol and outputs were not found in the verified code. It is not used as a result or as evidence of added value. The pre-interruption claims about full structural checks are historical records, not substitutes for this recovery's narrower checks.
 
 ## Proposed contribution, not established novelty
 

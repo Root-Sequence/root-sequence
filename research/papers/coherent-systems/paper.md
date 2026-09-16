@@ -3,11 +3,11 @@
 *Intelligence, Institutions, and the Conditions They Create*
 
 **Root Sequence living paper · v0.1-dev · 2026-09-16**  
-**AI-assisted annotated argument; author review pending; not peer reviewed.** This is a research scaffold, not a completed paper. Claim identifiers link the argument to the [claims ledger](claims.md). Authorship and release metadata require approval.
+**AI-assisted annotated argument; author review pending; not peer reviewed.** This is a developing argument with a constructed arithmetic example, not a completed paper. Claim identifiers link the argument to the [claims ledger](claims.md). Authorship and release metadata require approval.
 
 ## Provisional abstract
 
-Aligning an intelligent system with its operator's objective does not, by itself, establish that its effects are acceptable to those affected by its operation. This paper proposes a relational approach to examining intelligence alongside the institutions, infrastructures, and environments through which it acts. It distinguishes functional coherence—the fit among assumptions, behavior, dependencies, and actual conditions—from normative questions about whose purposes count and who may authorize change. These questions cannot be settled by internal consistency or technical competence alone. The proposed method tracks boundaries, displaced costs, material constraints, disagreement, and the capacity to revise decisions as conditions change. Coherence is treated as a situated direction of inquiry, not a universal score, an inevitable trajectory, or a final state. Optimization remains a useful bounded technique rather than a substitute for choosing and contesting purposes. Speculative scenarios and recovered possibilities are used to generate hypotheses, while evidence and explicit tests determine what can be claimed about the world. The intended contribution is a review procedure and research agenda linking these concerns across scales. This initial version supplies an argument skeleton, provisional definitions, a claims ledger, and proposed tests; it does not report validated measures, experimental findings, or demonstrated superiority over existing approaches.
+Aligning an intelligent system with its operator's objective does not, by itself, establish that its effects are acceptable to those affected by its operation. This paper proposes a relational approach to examining intelligence alongside the institutions, infrastructures, and environments through which it acts. It distinguishes functional coherence—the fit among assumptions, behavior, dependencies, and actual conditions—from normative questions about whose purposes count and who may authorize change. These questions cannot be settled by internal consistency or technical competence alone. The proposed method tracks boundaries, displaced costs, material constraints, disagreement, and the capacity to revise decisions as conditions change. Coherence is treated as a situated direction of inquiry, not a universal score, an inevitable trajectory, or a final state. Optimization remains a useful bounded technique rather than a substitute for choosing and contesting purposes. Speculative scenarios and recovered possibilities are used to generate hypotheses, while evidence and explicit tests determine what can be claimed about the world. The intended contribution is a review procedure and research agenda linking these concerns across scales. This version includes provisional definitions, a claims ledger, and a constructed capacity example. It does not report validated measures, field findings, or demonstrated superiority over existing approaches.
 
 ## 1. The problem is larger than an individual objective
 
@@ -17,11 +17,15 @@ Aligning an intelligent system with its operator's objective does not, by itself
 
 ## 2. Local success can coexist with wider failure
 
-**Anchor: C-001.** Consider a hypothetical booking service instructed to maximize completed appointments. Suppose it can improve that number by excluding people who need longer appointments, while another service absorbs the unmet need. The local target improves without establishing that access improves across the combined system.
+**Anchor: C-001.** A constructed service has 120 available minutes, eight requests requiring 15 minutes each, and two requiring 45 minutes each. Maximizing completions serves eight short requests and no long requests. Requiring at least one of each, then maximizing completions, serves five short and one long request. Both use 120 minutes and leave 90 minutes of requested work unfinished.[^ucf]
 
-This is a constructed counterexample to an implication, not a finding about a real service. A valid composition guarantee with explicit boundary conditions could block the counterexample. The question is what those guarantees require and whether they hold in a deployment.
+The constraint changes access but does not remove scarcity or improve every outcome. Unmet service minutes are not measured waiting time, harm, or another provider's workload. No normative preference between these rules follows from this arithmetic.
 
-**To develop:** Trace the mechanism, affected parties, and observable outcomes; compare a component-only assessment with a wider assessment.
+At 210 available minutes every request fits in this fixture, and the exclusion disappears. A local objective that already includes the coverage constraint also blocks this specific example. These are boundary conditions, not exceptions to conceal.
+
+Implementation and the full assumptions remain in UCF's [booking-service example](https://github.com/Root-Sequence/universal-coherence-framework/blob/c4d7b236828a59139c0d5204b1faaed13154682a/models/examples/booking-service/README.md), not a second code copy here. Eight implementation checks passed; this establishes properties of a synthetic fixture, not prevalence or validation of UCF. The original counterexample remains a challenge to an unrestricted implication, not a claim that local optimization always fails.
+
+**To develop:** Compare with a competent resource-and-impact review; investigate which assumptions carry over to any actual service before making an empirical claim.
 
 ## 3. Systems create conditions for subsequent behavior
 
@@ -35,11 +39,15 @@ Meadows discusses intervention through information flows, rules, and system goal
 
 **Anchor: C-003.** The current [coherence model](../../../systems/coherence/model.md) concerns the fit between structure, assumptions, and reality. We retain that diagnostic meaning rather than silently redefining it as goodness.
 
-**Proposed operational definition:** *Functional coherence is the context-dependent fit among a system's assumptions, behavior, dependencies, stated purposes, and the conditions in which it operates.*
+**Proposed working definition:** *Functional coherence is the context-dependent fit among a system's assumptions, behavior, dependencies, stated purposes, and the conditions in which it operates.*
 
 Normative assessment is a separate step: whose purposes are recognized, who bears costs, what authority is legitimate, and what objections remain? An arrangement can be internally consistent and operationally effective while its purposes or treatment of people remain unacceptable to those affected. Consistency alone cannot answer that objection.
 
-**To develop:** Test this distinction with both an effective but coercive arrangement and a protective but unreliable arrangement. Do not hide either defect in one aggregate label.
+The definition is now explicitly compared with UCF's earlier model and glossary and its [proposed v1.1 revision](https://github.com/Root-Sequence/universal-coherence-framework/blob/c4d7b236828a59139c0d5204b1faaed13154682a/models/ucf-model-v1.1-draft.md). UCF supplies four analytical layers: internal, inter-agent, systemic, and temporal. These are distinct from its optional Chaos, Tension, Flow, and Unity labels. The paper may use the layers without assuming the labels form a universal taxonomy.[^ucf]
+
+A definition becomes operational only when an application specifies observations, rules, and uncertainty. The [reconciliation note](notes/ucf-reconciliation.md) maps the distinctions and their provenance; it does not claim independent evidence for UCF.
+
+**To develop:** Four contrasting cases have received an AI-assisted editorial pass, not independent review. Test the distinction with an effective but coercive arrangement and a protective but unreliable arrangement without hiding either defect in one aggregate label.
 
 ## 5. Values and disagreement are not noise
 
@@ -104,7 +112,7 @@ Changing financing does not eliminate requirements for energy, materials, time, 
 
 Test whether this procedure identifies consequential omissions beyond an existing competent system review. Do not compare it only with an artificially weak checklist. Record reviewer effort, disagreement, false alarms, and failures to detect known issues.
 
-The [research questions](open-questions.md) specify three proposed initial tests. **None has been run in this scaffold.**
+The [research questions](open-questions.md) distinguish three activities. T-001 has an initial editorial set of fictional cases, but no independent reviewer study. T-002 now has a reproducible synthetic model in UCF. T-003, the added-value comparison against a competent baseline, has not been run. These statuses do not amount to empirical validation.
 
 ## Limitations and counterarguments
 
@@ -128,3 +136,5 @@ The [research questions](open-questions.md) specify three proposed initial tests
 [^gabriel2020]: Iason Gabriel (2020), *Artificial Intelligence, Values and Alignment*, arXiv:2001.09768v2; published in *Minds and Machines*. [Source](https://arxiv.org/abs/2001.09768v2). Initial use here is limited to the abstract's stated propositions.
 [^manheim2019]: David Manheim and Scott Garrabrant (2018; revised 2019), *Categorizing Variants of Goodhart's Law*, arXiv:1803.04585v4. [Source](https://arxiv.org/abs/1803.04585v4).
 [^meadows]: Donella Meadows, *Leverage Points: Places to Intervene in a System*. [Author archive](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/). Consulted 2026-09-16; used as conceptual framing rather than a tested recipe.
+
+[^ucf]: Root Sequence, *Universal Coherence Framework*, proposed model reconciliation and booking-service example, revision `c4d7b236828a59139c0d5204b1faaed13154682a` (2026-09-16). [Source](https://github.com/Root-Sequence/universal-coherence-framework/blob/c4d7b236828a59139c0d5204b1faaed13154682a/docs/reconciliation-2026-09-16.md). Internal project provenance and constructed analysis; AI-assisted and awaiting author review, not independent corroboration.
