@@ -1,0 +1,43 @@
+# Related work and the proposed contribution
+
+**Pass:** external evidence, 2026-09-16. **Status:** AI-assisted, author review pending. This is a targeted reading note, not a systematic review or an exhaustive account of any field.
+
+## What the argument inherits
+
+Keys resolve in [references.bib](../references.bib). Page references use printed pages for STPA, proceedings pages for Selbst, and PDF page positions for Gabriel. [The source map](source-map.md) records the exact reading coverage and what remains unchecked.
+
+| Source and role | Relevant material and relation to our claims | Limit on the inference |
+|---|---|---|
+| Leveson and Thomas, *STPA Handbook* (2018), methodological handbook | Ch. 1 p. 4; Ch. 2 pp. 14–17, 35–44. STPA examines losses, feedback/control relationships, unsafe control actions, and causal scenarios. Component failure is not its only concern. Relevant to C-001 and C-012. [Source](https://psas.scripts.mit.edu/home/get_file.php?name=STPA_handbook.pdf) | The handbook also includes organizational analysis. We should not contrast UCF's attention to people with an imagined component-only STPA. This pass has not applied or evaluated STPA. |
+| Selbst, boyd, Friedler, Venkatasubramanian, and Vertesi, *Fairness and Abstraction in Sociotechnical Systems* (2019), conceptual critique | Sections 2.1–2.5, pp. 60–63: framing, portability, formalism, ripple effects, and solutionism. Their critique concerns neglected context, including the limits of moving technical solutions between settings. Relevant to C-001, C-003, and C-012. [Source](https://sorelle.friedler.net/papers/sts_fat2019.pdf) | Cross-domain UCF language could reproduce the portability problem. This paper does not empirically validate a general coherence measure. |
+| Gabriel, *Artificial Intelligence, Values, and Alignment* (2020), philosophical analysis | Selected passages in sections 2–3 and the opening of section 4. Technical choices and normative targets interact; following intentions is not the same question as choosing justified values. Relevant to C-003 and C-004. [Source](https://arxiv.org/pdf/2001.09768v2) | Distinguishing questions is not establishing their independence. Our word “separate” must not imply an ethically neutral technical stage followed by an optional values stage. |
+| Edelman and colleagues, *Full-Stack Alignment* (2025), position paper | Section 1 and section 3.1: institutional co-alignment and structured representations of value are explicit proposals, with pluralism part of the account. Relevant to C-001 and C-012. [Source](https://arxiv.org/html/2512.03399v1) | We cannot claim to be first to connect AI and institutions, or infer that this work ignores plural values. Its proposals are not demonstrated societal outcomes. |
+| Obermeyer and colleagues (2019), empirical study | The [healthcare case note](../case-studies/healthcare-cost-proxy.md) supplies a scoped published example for C-001 and C-005. [Source](https://sendhil.org/wp-content/uploads/2020/01/Publication-67.pdf) | Evidence for a failure mechanism is not evidence that UCF predicted it or provides a better explanation. |
+
+## How the claims change
+
+**C-001:** Retain the limited non-guarantee. Treat it as inherited reasoning with an external case, not a newly discovered principle. A constructed counterexample and an observed case have different roles; neither estimates universal prevalence.
+
+**C-003:** Keep the working definition, but make the questions distinguishable and interacting. Purpose selection determines what counts as successful operation; a technically accurate description cannot by itself justify those purposes. The vocabulary remains our proposal, not a result established by attaching a citation.
+
+**C-012:** Narrow the proposed contribution to an inspectable synthesis and a review procedure that still needs comparison. Our current material does not demonstrate novelty, better detection, lower burden, or cross-domain validity. A useful outcome could be an accessible guide to existing methods rather than a new theory.
+
+## Candidate comparison for T-003, not a completed study
+
+Use a bounded service-design vignette with a declared evidence packet and task: identify consequential assumptions, missing feedback, displaced burdens, and unresolved decisions. Compare the proposed review with a competent ordinary service review and, where the task fits, a properly prepared STPA analysis. Before calling anything an STPA baseline, have the scope and implementation checked by someone able to assess its fidelity to that method.
+
+The three booking allocation rules are not three review methods. Their completion totals cannot establish the relative value of STPA, UCF, or this paper.
+
+Keep the information packet identical. Record preparation and training time, not just time spent writing an answer. Pilot reasonable resource limits rather than arbitrarily truncating one method. Specify in advance how omissions, false alarms, evidence traceability, unresolved disagreements, and unnecessary information requests will be recorded. “Finds more things” is not enough if the extra findings are unsupported.
+
+Do not use the published healthcare case as a blinded discovery test after revealing its conclusions. It is suitable for retrospective explanation. A comparative exercise needs a separate case or withheld facts, with any researcher-designed omissions clearly identified as artificial. Neither test proves universal validity.
+
+No participants have been recruited and no protocol has been approved. Independent assessment, consent, accessibility, and data handling must be settled before a human-participant study. An AI comparing its own outputs is an editorial pilot, not independent validation.
+
+## Next reading and author checkpoint
+
+This pass deliberately does not add unexamined titles to inflate the bibliography. Remaining work includes fuller STPA application guidance, participatory design, institutional analysis, adaptive management, and critiques of our chosen representation. Record search scope and exclusions before describing a future pass as systematic.
+
+Author review should answer one question first: **does the fit/consequences/legitimacy distinction help describe the case without suggesting that technical design is value-free?** Record accept, qualify, or reject beside C-003, in the author's own words. Then choose the task for T-003 rather than assuming a particular method must win.
+
+[Paper](../paper.md) · [Claims](../claims.md) · [AI-assistance record](../AI-ASSISTANCE.md)

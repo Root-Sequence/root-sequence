@@ -15,7 +15,7 @@ Bibliographic keys resolve in [references.bib](references.bib). Source coverage 
 **Type / state:** LITERATURE-SUPPORTED ARGUMENT + INFERENCE / PROVISIONAL.  
 **Proposition:** Meeting an operator's objective alone does not imply acceptable consequences across every affected relationship or system boundary.
 
-**Basis:** `edelman2025fullstack`; the constructed service-access counterexample in section 2; `rootsequence2026ucfreconciliation` for the runnable fixture and its boundary cases.  
+**Basis:** `edelman2025fullstack`, `levesonThomas2018stpa`, and `selbst2019abstraction` supply prior arguments/methods; `obermeyer2019bias` supplies the scoped external case. `rootsequence2026ucfreconciliation` supplies the constructed fixture only. See [related work](notes/related-work.md) and [case limits](case-studies/healthcare-cost-proxy.md).  
 **Support limit:** A logical non-guarantee, not an estimate of how often local alignment causes harm.  
 **Objection / boundary:** A sufficiently complete objective plus verified composition and environmental assumptions may provide a bounded guarantee.  
 **Evidence needed / revision trigger:** State the missing assumptions precisely. Narrow the claim if a competing definition already includes the whole assessed system.  
@@ -35,11 +35,11 @@ Bibliographic keys resolve in [references.bib](references.bib). Source coverage 
 ## C-003 — Functional coherence is distinct from normative legitimacy
 
 **Type / state:** DEFINITION + INFERENCE / PROVISIONAL.  
-**Proposition:** Assess fit among assumptions, behavior, dependencies, purposes, and operating conditions separately from whether those purposes and decision rights are legitimate.
+**Proposition:** Distinguish functional fit from the justification of purposes and decision rights while examining how those choices shape the technical design and its assessment. Neither inquiry supplies all the answers to the other.
 
-**Basis:** public `systems/coherence/model.md`; UCF model v1 and glossary; proposed UCF v1.1 reconciliation (`rootsequence2026ucfreconciliation`). See [the definition map](notes/ucf-reconciliation.md).  
+**Basis:** `gabriel2020alignment` and `selbst2019abstraction` constrain the separation claim; the UCF sources and public `systems/coherence/model.md` provide internal provenance for the proposed vocabulary. See [the definition map](notes/ucf-reconciliation.md) and [external comparison](notes/related-work.md).  
 **Support limit:** This is a proposed vocabulary, not a discovered law or validated scale. Working definition replaces the earlier premature operational-definition label. Four layers and four state labels are distinct; the paper assumes no universal state taxonomy.  
-**Objection / boundary:** “Fit” may be too vague; separating the questions could understate how purposes shape descriptive assessment.  
+**Objection / boundary:** “Fit” may be too vague. The previous wording could imply independent technical and normative stages; this revision rejects that reading. The functional description itself depends on purposes, boundaries, and measurements that require justification.  
 **Evidence needed / revision trigger:** Reviewers should distinguish an effective but coercive arrangement from a protective but unreliable one without labeling either unqualifiedly coherent. Revise if distinctions cannot be applied consistently or add no explanatory value.  
 **Related:** section 4; Q-001–Q-002; T-001.
 
@@ -59,7 +59,7 @@ Bibliographic keys resolve in [references.bib](references.bib). Source coverage 
 **Type / state:** LITERATURE-SUPPORTED ARGUMENT + INFERENCE / PROVISIONAL.  
 **Proposition:** Proxy optimization can fail under identifiable conditions; bounded optimization remains compatible with examining objectives, constraints, and revision.
 
-**Basis:** `manheim2019goodhart`.  
+**Basis:** `manheim2019goodhart` for the failure taxonomy; `obermeyer2019bias` for the separately scoped empirical case. Neither source validates our review method.  
 **Support limit:** The failure taxonomy does not show every measurement fails or prove that this paper's review method prevents those failures.  
 **Objection / boundary:** Established robust, constrained, or multi-objective approaches may already handle the proposed concerns.  
 **Evidence needed / revision trigger:** Specify the failure mechanism in a worked example and compare with competent existing methods. Remove any claim of novelty unsupported by that comparison.  
@@ -136,8 +136,8 @@ Bibliographic keys resolve in [references.bib](references.bib). Source coverage 
 **Type / state:** HYPOTHESIS / PROVISIONAL.  
 **Proposition:** The proposed review procedure may reveal consequential omissions not identified by a competent existing review at an acceptable additional burden.
 
-**Basis:** the contribution this paper proposes to test; no comparative validation yet. The UCF example does not establish added value over a competent ordinary review, and its state labels supplied no demonstrated additional explanation in this editorial pass.  
+**Basis:** an untested synthesis hypothesis. `levesonThomas2018stpa`, `selbst2019abstraction`, and `edelman2025fullstack` now constrain claims of novelty. A source-grounded [comparison design](notes/related-work.md) exists, but neither the constructed example nor the retrospective case reading establishes added value.  
 **Support limit:** Novelty, reliability, usability, and comparative benefit are all unresolved.  
 **Objection / boundary:** It may merely rename existing practice or increase paperwork and surveillance.  
-**Evidence needed / revision trigger:** A fair comparison with existing methods; examine omissions found, false alarms, reviewer disagreement, time, and privacy. Revise or abandon the contribution if no added value is demonstrated.  
+**Evidence needed / revision trigger:** Compare against a competent ordinary review and a faithful STPA application where suitable, with equivalent evidence and recorded preparation effort. Examine omissions, false alarms, traceability, disagreement, burden, and privacy. Narrow or abandon the added-value claim if unsupported; a useful synthesis need not become a new theory.  
 **Related:** section 12; Q-001 and Q-010; T-003.

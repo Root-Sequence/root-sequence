@@ -1,5 +1,16 @@
 # Changelog
 
+## v0.1-dev — 2026-09-16 — External evidence (third pass)
+
+Added `notes/related-work.md`, `case-studies/healthcare-cost-proxy.md`, and `AI-ASSISTANCE.md`. Added three research references (STPA, Selbst and colleagues, and Obermeyer and colleagues), giving eight bibliography entries: seven external research/method sources and one internal UCF source. The separate publisher-policy citation is editorial context, not evidence for research claims.
+
+Revised C-001's provenance, C-003's distinction between interacting questions rather than independent stages, C-005's case support, and C-012's untested added-value claim. Expanded manuscript links and citations without removing the twelve-section structure, synthetic example, limitations, or UCF provenance. The abstract now describes the external case without claiming new field findings.
+
+Recorded exact source-reading limits, including targeted full-text passages beyond abstracts. Preserved the earlier source-check table as historical coverage, not a current claim that no further reading occurred. Added candidate comparison design and author checkpoints; T-003 remains unrun. No new participant research, patient data, independent replication, reviewer approval, or venue compliance claim.
+
+The disclosure accurately includes substantial drafting, comparison, research organization, and earlier code assistance, not merely grammar editing. Personal byline and substantive author review remain unresolved. Earlier versions remain in Git; no UCF source, site, main branch, private material, or fictional canon is changed by this pass.
+
+
 ## v0.1-dev — 2026-09-16 — UCF reconciliation and interruption recovery
 
 Added the dedicated UCF model and glossary to the source map; the initial scaffold had omitted them. Compared UCF's definitions with C-003 and changed “operational definition” to “working definition” until observations and rules are specified. Kept the four analytical layers distinct from the optional four-state taxonomy.

@@ -37,6 +37,8 @@ It will not claim to solve society, predict AGI, prove inevitable progress, prov
 4. [Source and provenance map](notes/source-map.md).
 5. [Bibliography](references.bib) and [revision history](CHANGELOG.md).
 6. [UCF reconciliation and worked-example status](notes/ucf-reconciliation.md).
+7. [Related work](notes/related-work.md) and the [published healthcare case](case-studies/healthcare-cost-proxy.md).
+8. [AI-assistance disclosure and author-review checkpoint](AI-ASSISTANCE.md).
 
 ### What “living” means
 
@@ -59,6 +61,10 @@ Canonical source for this paper: `Root-Sequence/root-sequence/research/papers/co
 Its conceptual inputs remain canonical in their existing folders. Coherent World remains a systems-design space; *No One Noticed* remains a narrative space, not evidence that a proposed transition will work. Cross-project context is routed through the existing [Ecosystem Map](../../../ECOSYSTEM.md), not a new atlas or repository.
 
 A future reader-facing rendering may live at `site/research/coherent-systems/`. That path is **proposed, not created here**; any rendering must derive from the canonical source and pass publication review.
+
+### External evidence and review status
+
+A targeted prior-work comparison and one published case have been added. They constrain C-001, C-003, and C-012 without turning internal project references into independent evidence. STPA is a candidate comparison method, not a baseline already evaluated. Author approval and the wider literature review remain pending.
 
 ### Current exercise status
 
