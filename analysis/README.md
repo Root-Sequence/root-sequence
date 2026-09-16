@@ -34,6 +34,7 @@ Analysis is not the final layer. It should produce clearer causal questions, exp
 ### Collective judgment and institutional decisions
 
 - [`collective-judgment-and-manufactured-consensus.md`](collective-judgment-and-manufactured-consensus.md) — how groups turn many situated judgments into one institutional action, and how conformity, dominance, fatigue, uncertainty, dissent, and decision thresholds can disappear behind a clean vote count.
+- [`intelligence-institutional-ecology.md`](intelligence-institutional-ecology.md) — developing map of the institutions, people, funding, ideas, talent pipelines, and policy influence surrounding advanced AI / AGI, with explicit evidence states and cross-project comparison to Coherent World.
 
 ---
 
