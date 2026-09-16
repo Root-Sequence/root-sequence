@@ -18,6 +18,10 @@ It's a process, not a blueprint.
 > See [Idea Trails](IDEA_TRAILS.md) to understand recurring cross-project questions, then use the generated [Idea Trail Browser](IDEA_TRAIL_INDEX.md) to jump directly to relevant documents by trail and role.  
 > Use the [Root Sequence Wiki](https://github.com/Root-Sequence/wiki) when the question is what something is called, where it belongs, how projects connect, or how a concept changed over time.
 
+## Public Seed v0.1 — reader-facing site candidate
+
+The new [`site/`](site/README.md) contains a portable homepage, five Atlas reading guides, project orientation, a changelog, feeds, and edition archives for `rootsequence.systems`. It is a **reviewable implementation, not a verified live deployment**. The source research, Wiki, and thought-routing convention keep their existing canonical roles. See [local validation and limits](site/VALIDATION.md).
+
 ---
 
 ## 🌀 Framework
