@@ -18,6 +18,10 @@ It's a process, not a blueprint.
 > See [Idea Trails](IDEA_TRAILS.md) to understand recurring cross-project questions, then use the generated [Idea Trail Browser](IDEA_TRAIL_INDEX.md) to jump directly to relevant documents by trail and role.  
 > Use the [Root Sequence Wiki](https://github.com/Root-Sequence/wiki) when the question is what something is called, where it belongs, how projects connect, or how a concept changed over time.
 
+## Public Seed v0.1
+
+The reader-facing website source now lives in [`site/`](site/README.md): an introduction, five Atlas guides, project relationships, publication conventions, and a changelog. The source is preserved here; a successful build is **not** evidence of deployment to `rootsequence.systems`. Research, the Wiki, and thought routing retain their existing canonical homes. See [`site/PLACEMENT.md`](site/PLACEMENT.md) for the placement and deployment boundary.
+
 ---
 
 ## 🌀 Framework
@@ -54,6 +58,7 @@ A recursive process rather than a fixed path.
 
 ## 📂 Repository Map
 
+- `/site/` — reader-facing Public Seed website source; not a replacement for research or the Wiki
 - `/core/` — foundational texts and framework documents
 - `/systems/` — models and methods for understanding how systems behave under stress and failure  
 - `/concepts/` — glossary and key definitions  
@@ -74,6 +79,7 @@ The internal repository map is also described in [`root_map.md`](root_map.md). T
 
 Suggested entry points:
 
+- [Public Seed website source](site/README.md) — reader-facing introduction and five Atlas guides; hosting remains separate
 - [Ecosystem Map](ECOSYSTEM.md) — understand the wider project family  
 - [Root Sequence Wiki](https://github.com/Root-Sequence/wiki) — browse terms, phrases, projects, provenance, and conceptual archaeology  
 - [Idea Trails](IDEA_TRAILS.md) — understand the recurring questions and how each project transforms them  
