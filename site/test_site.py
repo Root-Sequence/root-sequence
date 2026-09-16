@@ -127,6 +127,29 @@ class PublicationTests(unittest.TestCase):
                 text=path.read_text()
                 for forbidden in ('github.com/Root-Sequence/wiki-private','github.com/Root-Sequence/coherent-world','INTEGRATION-QUEUE.md'):
                     self.assertNotIn(forbidden,text)
+    def test_homepage_explains_project_before_metadata(self):
+        output,_=self.build(); text=(output/'index.html').read_text()
+        self.assertIn('<h1>Root Sequence</h1>',text)
+        self.assertIn('collection of research, essays, and projects',text)
+        self.assertIn('Rae Lovejoy',text)
+        self.assertGreater(text.index('class="page-details"'),text.index('Browse the guides'))
+    def test_plain_navigation_and_native_details(self):
+        self.assertEqual([n['label'] for n in self.data['nav']],['Start here','Guides','Projects','About'])
+        output,_=self.build()
+        for path in output.rglob('*.html'):
+            self.assertIn('<summary>About this page</summary>',path.read_text())
+    def test_site_copy_avoids_selected_stock_patterns(self):
+        import re
+        output,_=self.build()
+        # House-style regression only. This does not detect authorship or verify claims.
+        for path in output.rglob('*.html'):
+            text=re.sub('<[^>]+>',' ',path.read_text()).lower()
+            for phrase in ('—','at its core','delve into','in today’s world','seamless','living systems commons','canonical identity','possibility space'):
+                self.assertNotIn(phrase,text,str(path))
+    def test_copy_rules_are_not_exported(self):
+        output,_=self.build()
+        self.assertFalse((output/'AGENTS.md').exists())
+        self.assertFalse((output/'COPY-REVIEW.md').exists())
 
 if __name__=='__main__':
     unittest.main(verbosity=2)

@@ -88,7 +88,7 @@ def render(data: dict, page: dict, preview: bool) -> str:
         return esc(value, quote=True)
     def link(item: dict) -> str:
         return f'<a href="{href(item["url"])}">{esc(item["label"])}</a>'
-    nav = "".join(link(n) for n in data["nav"])
+    nav = "".join(f'<a href="{href(n["url"])}"' + (' aria-current="page"' if n["url"] == "/" + page["slug"] else '') + f'>{esc(n["label"])}</a>' for n in data["nav"])
     body = []
     for i, section in enumerate(page.get("sections", []), 1):
         heading = f'<h2 id="section-{i}">{esc(section["heading"])}</h2>' if section.get("heading") else ""
@@ -100,25 +100,26 @@ def render(data: dict, page: dict, preview: bool) -> str:
     if page.get("show_project_map"):
         nodes = {n["id"]: n for n in data["projects"]}
         rows = "".join(f'<tr><th scope="row">{esc(nodes[e["from"]]["title"])}</th><td>{esc(e["relation"])}</td><td>{esc(nodes[e["to"]]["title"])}</td></tr>' for e in data["relationships"])
-        body.append('<div class="table-scroll"><table><caption>Selected relationships, not a hierarchy of ownership</caption><thead><tr><th scope="col">Project</th><th scope="col">Relationship</th><th scope="col">Project</th></tr></thead><tbody>' + rows + '</tbody></table></div>')
+        body.append('<details class="project-details"><summary>How these projects connect</summary><div class="table-scroll"><table><caption>Selected project connections</caption><thead><tr><th scope="col">Project</th><th scope="col">Relationship</th><th scope="col">Project</th></tr></thead><tbody>' + rows + '</tbody></table></div></details>')
     def reference_section(title: str, key: str) -> str:
         items = "".join(f'<li>{link(n)}</li>' for n in page.get(key, []))
         return f'<section class="references"><h2>{title}</h2><ul>{items}</ul></section>' if items else ""
     canonical = esc(data["base_url"].rstrip("/") + "/" + page["slug"], quote=True)
-    state = "PREVIEW — not a live release" if preview else "Public Seed v0.1"
+    state = "Website draft. Not published yet." if preview else "Edition 0.1"
     robots = '<meta name="robots" content="noindex,nofollow">' if preview else '<meta name="robots" content="index,follow">'
-    canon = f'<span>Canon: {esc(page["canon_status"])}</span>' if page.get("canon_status") else ""
-    source_note = f'<p class="source-note">{esc(page["provenance"])}</p>' if page.get("provenance") else ""
+    canon = f'<dt>Story status</dt><dd>{esc(page["canon_status"])}</dd>' if page.get("canon_status") else ""
+    source_note = f'<p>{esc(page["provenance"])}</p>' if page.get("provenance") else ""
+    stage = {"Seed": "Seed (early draft)", "Growing": "Growing (in development)", "Established": "Established (developed reference)"}[page["maturity"]]
+    details = f'<details class="page-details"><summary>About this page</summary><dl><dt>Stage</dt><dd>{stage}</dd><dt>Type</dt><dd>{esc(page["kind"])}</dd><dt>How to read it</dt><dd>{esc(page["epistemic_status"])}</dd>{canon}<dt>Created</dt><dd><time datetime="{page["created"]}">{page["created"]}</time></dd><dt>Updated</dt><dd><time datetime="{page["updated"]}">{page["updated"]}</time></dd></dl>{source_note}</details>'
     return f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(page['title'])} · {esc(data['title'])}</title><meta name="description" content="{esc(page['description'], quote=True)}">
 {robots}<link rel="canonical" href="{canonical}"><link rel="alternate" type="application/atom+xml" title="{esc(data['title'], quote=True)} updates" href="{prefix}feed.xml"><link rel="stylesheet" href="{prefix}style.css"></head>
 <body class="{data['theme']}"><a class="skip" href="#main">Skip to content</a>
 <header class="site-header"><a class="wordmark" href="{prefix}index.html">{esc(data['title'])}<span>{esc(data['tagline'])}</span></a><nav aria-label="Main navigation">{nav}</nav></header>
-<main id="main" tabindex="-1"><p class="eyebrow">{esc(data['edition'])} / {esc(page['kind'])}</p><h1>{esc(page['title'])}</h1><p class="lede">{esc(page['description'])}</p>
-<div class="metadata"><span>{esc(page['maturity'])}</span><span>{esc(page['epistemic_status'])}</span>{canon}<span>Created <time datetime="{page['created']}">{page['created']}</time></span><span>Updated <time datetime="{page['updated']}">{page['updated']}</time></span></div>
-<p class="build-status">{state}</p>{''.join(body)}{reference_section('Sources and canonical homes', 'sources')}{reference_section('Continue exploring', 'related')}{source_note}</main>
-<footer><p>{esc(data['footer'])}</p><p><a href="{prefix}feed.xml">Atom feed</a> · <a href="{prefix}seed-archive.zip">Download this edition</a> · <a href="{prefix}project-map.json">Project relationships (JSON)</a></p><p class="fine">{state}. No accounts, analytics, external fonts, or client-side JavaScript.</p></footer></body></html>'''
+<main id="main" tabindex="-1"><h1>{esc(page['title'])}</h1><p class="lede">{esc(page['description'])}</p>
+{''.join(body)}{reference_section('Sources and further reading', 'sources')}{reference_section('Related reading', 'related')}{details}</main>
+<footer><p>{esc(data['footer'])} <a href="{prefix}about/index.html">About this project</a></p><p><a href="{prefix}changelog/index.html">Site updates</a> · <a href="{prefix}feed.xml">Updates feed</a></p><details class="technical-details"><summary>Downloads and technical details</summary><p><a href="{prefix}seed-archive.zip">Download a copy of the site</a> · <a href="{prefix}project-map.json">Project connections as JSON</a></p><p>The updates feed works with Atom feed readers. The site uses no accounts, analytics, external fonts, or client-side JavaScript.</p></details><p class="build-status">{state}</p></footer></body></html>'''
 
 def build(root: Path, output: Path, release: bool = False) -> dict:
     data = json.loads((root / "content.json").read_text(encoding="utf-8"))
@@ -137,7 +138,7 @@ def build(root: Path, output: Path, release: bool = False) -> dict:
     for page in data["pages"]:
         contents[page["slug"] + "index.html"] = render(data, page, not release).encode("utf-8")
     contents["style.css"] = (root / "style.css").read_bytes()
-    graph = {"scope": "Selected public-facing project relationships; existing Wiki remains canonical for ecosystem identity.", "projects": data.get("projects", []), "relationships": data.get("relationships", [])}
+    graph = {"scope": "Selected project connections. The Root Sequence Wiki holds the fuller project reference.", "projects": data.get("projects", []), "relationships": data.get("relationships", [])}
     contents["project-map.json"] = (json.dumps(graph, indent=2, ensure_ascii=False) + "\n").encode()
     ET.register_namespace("", "http://www.w3.org/2005/Atom")
     ns = "{http://www.w3.org/2005/Atom}"

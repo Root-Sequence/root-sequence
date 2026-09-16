@@ -1,20 +1,24 @@
-# Root Sequence — Public Seed site
+# Root Sequence website
 
-Reader-facing source for the first `rootsequence.systems` edition. **Implemented as a review candidate; not merged, deployed, or verified live by this directory.** The existing research files remain canonical for their full arguments. The existing Wiki remains canonical for shared identities, project lenses, and relationship navigation.
+Website source for `rootsequence.systems`, saved on the repository's main branch. The latest copy pass explains the project for first-time visitors and uses the writing reference in [AGENTS.md](AGENTS.md). See [COPY-REVIEW.md](COPY-REVIEW.md) for changes and checks. **Not deployed or verified live.**
 
-## Contents
+Existing research files remain the home of the full arguments. The standalone Wiki holds shared identities, project references, and relationships. This website introduces that work without moving or replacing it.
 
-- `content.json` — the single source for 11 reader-facing pages, including five Atlas guides and selected project relationships.
-- `build.py` — offline, standard-library-only static builder; no account or runtime service required.
-- `style.css` — responsive, local-only light/dark/print presentation.
-- `test_site.py` — 13 automated checks, including release gating and private-address exclusion.
-- `VALIDATION.md` — dated local validation receipt and explicit limits.
+## Files
 
-These are intentional reader-facing transformations, not replacements for source arguments. Sources and provenance appear on the relevant pages. New guides are Seeds; their maturity does not override epistemic status.
+- `content.json`: the text and metadata for 11 pages, including five introductory guides and selected project relationships.
+- `build.py`: offline static builder using the Python standard library.
+- `style.css`: responsive light, dark, and print styles using local fonts.
+- `test_site.py`: 17 checks for publishing controls, links, source boundaries, and selected writing patterns.
+- `AGENTS.md`: writing and page-structure instructions for future edits.
+- `COPY-REVIEW.md`: the latest copy and layout review.
+- `VALIDATION.md` and `PLACEMENT.md`: historical records of the initial build and integration.
+
+Maturity, evidence, and publication status remain separate. Page history and development labels are available under About this page. Source links remain below the reading text.
 
 ## Build and inspect
 
-From the repository root, using Python 3.10 or later:
+From the repository root, with Python 3.10 or later:
 
 ```sh
 python site/test_site.py
@@ -22,21 +26,21 @@ python site/build.py --output /tmp/root-sequence-preview
 python -m http.server 8000 --directory /tmp/root-sequence-preview
 ```
 
-Open `http://localhost:8000` in a browser. Alternatively, open the generated `index.html` directly: internal HTML and CSS links are relative. Choose a fresh empty output path for each build; the builder deliberately refuses to overwrite an existing edition.
+The last command serves a local preview at `http://localhost:8000`. Generated page and stylesheet links are relative, so the pages can also be opened from a downloaded directory. Choose a fresh empty output path; the builder refuses to replace an existing edition.
 
-The output includes the pages, `feed.xml`, `sitemap.xml`, `robots.txt`, `project-map.json`, `build-manifest.json`, and `seed-archive.zip`. The archive is a portable snapshot, not an independently stored backup.
+Output includes the pages, `feed.xml`, `sitemap.xml`, `robots.txt`, `project-map.json`, `build-manifest.json`, and `seed-archive.zip`. The archive is a portable snapshot, not an independently stored backup. Authoring files and internal documentation are not exported.
 
-## Publication is separate from building
+## Release approval
 
-Preview is the default. It has visible preview labels and `noindex`; **neither is access control**. This repository and its branches are public. Do not put private material in this site source.
+Preview is the default. Preview labels and `noindex` do not control access. This repository and its branches are public; keep private material elsewhere.
 
-A release requires a reviewed exact-source digest:
+Print the digest of the exact source to review:
 
 ```sh
 python site/build.py --digest
 ```
 
-After reviewing the exact `build.py`, `content.json`, and `style.css`, an authorized reviewer can record that digest in `site/approval.json`:
+An authorised reviewer can then record it in `site/approval.json`:
 
 ```json
 {
@@ -46,16 +50,16 @@ After reviewing the exact `build.py`, `content.json`, and `style.css`, an author
 }
 ```
 
-Then build into another empty directory:
+Build the approved edition into another empty directory:
 
 ```sh
 python site/build.py --release --output /tmp/root-sequence-release
 ```
 
-No approval is supplied with this candidate. The record is an editorial control, not authenticated proof of reviewer identity. Any change to the three source files invalidates the approval. Generated output omits source configuration, approval records, tests, and internal editorial notes.
+No approval is supplied. Changes to `build.py`, `content.json`, or `style.css` invalidate an existing approval. This record is an editorial check, not authenticated proof of identity.
 
-**Deploy only the approved generated output.** Do not replace existing hosting or DNS settings until the authoritative deployment configuration is identified and preserved. A build command never deploys anything.
+Deploy only the approved generated output. Identify and preserve the existing hosting and DNS configuration before replacing a site. Building does not deploy anything.
 
-## Deferred
+## Remaining launch work
 
-Deployment wiring, independently hosted preservation copies, live link/HTTPS checks, full accessibility review, and synchronization of verified entrypoints into existing Wiki navigation remain launch work. No new Wiki, inbox repository, domain purchase, or canon system is introduced.
+Connect the actual host, review the export, deploy, check live links and HTTPS, keep an independent preservation copy, and update existing Wiki navigation with verified entrypoints. A full accessibility and reader-comprehension review remains separate from the local checks. No new Wiki, inbox, domain purchase, or canon system is introduced.
