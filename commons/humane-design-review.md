@@ -154,6 +154,9 @@ Spend more certainty and deliberation where consequences are less reversible.
 
 ## 12. Second-order effects
 
+- **What behaviors does this system select for?**
+- Which behaviors become easier to sustain, scale, fund, copy, or reward?
+- Do honesty, uncertainty, refusal, repair, and restraint remain viable?
 - What new incentives appear after people adapt?
 - What new dependency is created?
 - Does solving one person's friction create work for someone else?
@@ -220,13 +223,15 @@ When time is limited, ask at least:
 7. What happens under degraded conditions?
 8. Can mistakes and decisions be reversed?
 9. Which new power or dependency does this create?
-10. What real-world feedback would make us change the design?
+10. What behaviors does this system select for?
+11. What real-world feedback would make us change the design?
 
 ## Related
 
 - [`../concepts/humane-design.md`](../concepts/humane-design.md)
 - [`../concepts/humane-infrastructure.md`](../concepts/humane-infrastructure.md)
 - [`../concepts/user-configurable-cognitive-interfaces.md`](../concepts/user-configurable-cognitive-interfaces.md)
+- [`../concepts/intelligence-ecology.md`](../concepts/intelligence-ecology.md)
 - [`../ECOSYSTEM.md`](../ECOSYSTEM.md)
 
 > A humane intention should be visible in the architecture, not only in the mission statement.

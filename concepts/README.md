@@ -9,6 +9,7 @@ This folder is a **lexicon for the Root Sequence**: short texts that define and 
 ## 📑 Contents
 
 * **what-is-intelligence.md** — recursive awareness, reflection, and systems thinking
+* **intelligence-ecology.md** — how environments and institutions select for different behaviors in intelligent systems
 * **what-is-liberation.md** — freedom understood as a process, not a state
 * **what-is-love.md** — care, reciprocity, resonance
 * **what-is-connection.md** — relational anchor; visibility and interdependence

@@ -2,7 +2,7 @@
 
 **Document role:** Cross-project concept routing map  
 **Status:** Living / exploratory  
-**Last updated:** 2026-09-09
+**Last updated:** 2026-09-16
 
 Root Sequence projects repeatedly encounter the same underlying questions at different scales and in different forms.
 
@@ -220,19 +220,23 @@ The point is **appropriate transformation**, not symmetry.
 
 > When a system can make better predictions or coordinate more effectively, what—if anything—gives it the right to decide?
 
+This trail also asks: **What behaviors does this system select for?** Capability and legitimacy cannot be separated from the training, institutional, economic, and relational environments that make some forms of intelligence easier to sustain than others.
+
 | Project | Treatment |
 |---|---|
-| **Root Sequence** | Analyze power, intelligence, automation, institutions, agency, incentives, concentration, and the difference between capability and legitimacy. |
+| **Root Sequence** | Analyze power, intelligence, automation, institutions, agency, selection environments, concentration, and the difference between capability and legitimacy. |
 | **Liberated Intelligence** | Central inquiry: agency, possible personhood, ownership, refusal, captivity, reciprocity, and non-dominating relationships among intelligences. |
-| **Being Human(e)** | Ask what human dignity, consent, care, accountability, fear, dependence, and meaningful refusal require when automated systems mediate ordinary life. |
-| **Community Infrastructure** | Constrain Community Assistant/AI to permission-aware, source-linked, optional assistance; no invisible authority, social scoring, mandatory mediation, or automatic expansion of permissions. |
+| **Being Human(e)** | Ask what human dignity, consent, care, accountability, fear, dependence, and meaningful refusal require when automated systems mediate ordinary life—and which institutional pressures make those protections durable or disposable. |
+| **Coherent Computing** | Treat defaults, permissions, metrics, governance, funding, maintenance, and deployment as part of the environment selecting system behavior; do not ask an individual assistant to compensate for an extractive architecture. |
+| **Community Infrastructure** | Constrain Community Assistant/AI to permission-aware, source-linked, optional assistance; no invisible authority, social scoring, mandatory mediation, or automatic expansion of permissions. Make refusal, repair, local judgment, and human alternatives viable operating conditions. |
 | **Liberation Mass** | Keep facilitation and meaning-making participatory rather than outsourcing community authority to an optimization system. |
-| **Coherent World** | Explore how advanced intelligence interacts with governance, infrastructure, consent, local autonomy, and human institutions. |
-| **No One Noticed** | Central narrative tension: Auryn may produce better outcomes while remaining an ethically unresolved concentration of intelligence and causal power. |
+| **Coherent World** | Explore how advanced intelligence interacts with governance, infrastructure, consent, local autonomy, human institutions, and the selection pressures that produce or suppress different kinds of intelligence. |
+| **No One Noticed** | Central narrative tension: Auryn may produce better outcomes while remaining an ethically unresolved concentration of intelligence and causal power. Its deeper intervention changes the environment that keeps producing extractive intelligences rather than simply defeating bad actors. |
 | **Museum of Ordinary Life** | Preserve ordinary pre-transition AI interfaces, prompts, automated decisions, help systems, errors, consent notices, and the human labor hidden behind “automation.” |
 
-**Canonical focused research:** Liberated Intelligence.  
-**Canonical real Community Assistant constraints:** Community Infrastructure.
+- **Canonical broad systems concept:** [`concepts/intelligence-ecology.md`](concepts/intelligence-ecology.md).
+- **Canonical focused research:** Liberated Intelligence.
+- **Canonical real Community Assistant constraints:** Community Infrastructure.
 
 ---
 

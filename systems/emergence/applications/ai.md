@@ -261,6 +261,7 @@ Use the fuller [`../model.md`](../model.md) for cross-domain analysis.
 ## Relationship to Root Sequence projects
 
 - **Root Sequence** studies emergence as a general systems dynamic.
+- **[Intelligence Ecology](../../../concepts/intelligence-ecology.md)** asks which training, institutional, economic, and relational conditions make different emergent behaviors viable over time.
 - **Liberated Intelligence** examines intelligence, ownership, agency, possible personhood, consent, captivity, and liberation.
 - **UCF** may offer hypotheses about coherence, but those hypotheses should not be treated as validated AI metrics without domain-specific operationalization.
 - **Coherent World** explores how intelligence might coordinate with human institutions, infrastructure, and communities under different material arrangements.
