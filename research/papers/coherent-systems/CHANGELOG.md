@@ -1,0 +1,30 @@
+# Changelog
+
+## v0.1-dev — 2026-09-16 — Initial scaffold
+
+### Added
+
+- A bounded paper charter and annotated twelve-section argument with a provisional abstract.
+- Twelve provisional claims, objections, support limits, evidence needs, and revision triggers.
+- Ten open questions and three proposed tests; no test is represented as executed.
+- Four bibliographic entries with source-review limits and a public-source provenance map.
+- Research navigation and pointers from the root README and repository map.
+
+### Clarified from the planning outline
+
+- “From optimization to coherence” becomes **optimization within explicit boundaries**. The draft does not reject optimization as a technique.
+- Functional coherence is distinguished from normative legitimacy, rather than silently defining coherence as goodness.
+- Directional change does not mean inevitable or monotonic progress; no theorem about the impossibility of a final coherent state is asserted.
+- Local-versus-systemic alignment is acknowledged as shared prior work, not claimed as an original discovery.
+- Intelligence capability, moral direction, legitimate authority, and actual benefits remain separate questions.
+- A working draft is not a reviewed release; AI-assisted prose and authorship require approval.
+
+### Boundaries
+
+Only public-safe synthesis and verified public repository sources were used for the research scaffold. No private source documents or unpublished fictional passages were imported. No story canon, website source, deployment, other repository, or external institution's work is modified by this change.
+
+No empirical findings, automatic update system, DOI, public-facing paper page, or complete literature review has been produced. Public repository review branches are public, not private staging.
+
+### Next revision
+
+Stress-test the definition and the service-access counterexample; complete the prior-work comparison; revise claims and abstract before treating v0.1 as a reviewed release.

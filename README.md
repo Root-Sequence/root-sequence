@@ -59,6 +59,7 @@ A recursive process rather than a fixed path.
 ## 📂 Repository Map
 
 - `/site/` — reader-facing Public Seed website source; not a replacement for research or the Wiki
+- `/research/` — versioned synthesis papers; source treatments retain their existing canonical homes
 - `/core/` — foundational texts and framework documents
 - `/systems/` — models and methods for understanding how systems behave under stress and failure  
 - `/concepts/` — glossary and key definitions  
@@ -80,6 +81,7 @@ The internal repository map is also described in [`root_map.md`](root_map.md). T
 Suggested entry points:
 
 - [Public Seed website source](site/README.md) — reader-facing introduction and five Atlas guides; hosting remains separate
+- [Coherence Is a Systems Property](research/papers/coherent-systems/README.md) — living-paper scaffold, v0.1-dev; author review pending
 - [Ecosystem Map](ECOSYSTEM.md) — understand the wider project family  
 - [Root Sequence Wiki](https://github.com/Root-Sequence/wiki) — browse terms, phrases, projects, provenance, and conceptual archaeology  
 - [Idea Trails](IDEA_TRAILS.md) — understand the recurring questions and how each project transforms them  

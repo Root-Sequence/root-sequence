@@ -8,6 +8,7 @@ It is not the map of the entire GitHub organization. For that, use the [Root Seq
 
 ## 🌱 Current structure
 
+- [`research/`](research/README.md) — versioned syntheses, beginning with [Coherence Is a Systems Property](research/papers/coherent-systems/README.md) (v0.1-dev; author review pending). Source treatments retain their canonical homes.
 - [`core/`](core/) — manifestos, frameworks, and recursive cycles.
 - [`concepts/`](concepts/) — lexicon and focused definitions, including the `what-is-*` series.
 - [`analysis/`](analysis/) — diagnosis of systems, power, capitalism, infrastructure, surveillance, and related conditions.
@@ -43,6 +44,7 @@ The standalone wiki is different from `concepts/`: `concepts/` owns substantive 
 - **Analysis → Systems** — diagnosis identifies what is happening; systems work asks how it behaves and propagates.
 - **Core ↔ Futures** — foundational values shape possible paths; imagined futures expose weaknesses in the foundations.
 - **Systems ↔ Futures** — constraints, feedback, failure, and adaptation determine which futures are plausible.
+- **Research papers ↔ every layer** — synthesize arguments, track claims and evidence, and return objections without replacing canonical source treatments.
 - **Commons ↔ every layer** — public artifacts translate inquiry into usable forms and return feedback to the research.
 - **Wiki ↔ every layer** — the standalone wiki tracks names, provenance, aliases, and project relationships so the rest of the ecosystem is easier to find without becoming a second canonical home.
 - **Compost → Curiosity** — failed, superseded, partial, or contradictory work can become material for another sequence.
