@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.1-dev — 2026-09-16 — Author input on situated reasoning and safeguards
+
+Added the requested combined first-person explanation of AI as an accessibility aid and a development tool to `AI-ASSISTANCE.md`, without adding a diagnosis. This scoped inclusion does not approve the manuscript, its byline, or publication elsewhere. The preceding question-led collaboration edit is recorded in that file and in the paper-scoped `AGENTS.md`.
+
+Recorded the author's booking-service response under C-003 and the safeguard direction under C-006. Kept author-stated intent, assistant synthesis, proposed interface text, and unresolved questions distinct. Preserved “malconsidered” as a tentative candidate rather than imposing it as technical vocabulary. Added Dekker's 2002 contextual-reconstruction paper at abstract-level coverage and documented a focused STPA reading on beliefs, actual conditions, and feedback. There are now nine bibliography entries; the new entry supports the ledger discussion, not an additional empirical finding in the manuscript.
+
+The original twelve propositions remain in place. Section 4 and the UCF model are not rewritten while the distinction between situated reasoning, target compliance, and coherence is still being clarified. No source-review or manuscript-approval checkbox was marked complete. No safeguard was implemented or evaluated, and no code, site, or empirical test was changed or run.
+
 ## v0.1-dev — 2026-09-16 — External evidence (third pass)
 
 Added `notes/related-work.md`, `case-studies/healthcare-cost-proxy.md`, and `AI-ASSISTANCE.md`. Added three research references (STPA, Selbst and colleagues, and Obermeyer and colleagues), giving eight bibliography entries: seven external research/method sources and one internal UCF source. The separate publisher-policy citation is editorial context, not evidence for research claims.

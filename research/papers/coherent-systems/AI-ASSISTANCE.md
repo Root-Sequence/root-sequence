@@ -1,6 +1,16 @@
 # AI assistance, verification, and author review
 
-**Record started:** 2026-09-16. **Applies to:** the v0.1-dev living paper and its documented UCF connection. **Status:** working disclosure, not an author-approved submission statement.
+**Record started:** 2026-09-16. **Applies to:** the v0.1-dev living paper and its documented UCF connection. **Status:** working disclosure, not an author-approved submission statement. The personal explanation below was specifically requested for inclusion; that limited authorization does not approve the manuscript as a whole.
+
+## Why I use AI: accessibility and developing the work
+
+**Author-requested explanation, 2026-09-16:** The author clarified that accessibility and developing ideas are both purposes of the assistance, responded positively to the combined wording, and explicitly requested that it be added in the continuing booking-service discussion. This section preserves that wording without adding a diagnosis or claiming completed source review.
+
+> **I use AI both as an accessibility aid and as a tool for developing my work.** My ideas often emerge through questions, fragments, and conversations across many connected subjects. AI helps me gather that material, organize it, explore relationships, compare ideas with existing research, and develop drafts I can work through in manageable pieces.
+>
+> My contributions include the motivating questions, conceptual direction, examples, constraints, objections, and decisions that shape the work. The AI assistance includes substantive drafting and critique, not only editing. Working through questions and revisions helps me remain involved throughout, rather than having to organize or explain everything at once.
+>
+> That assistance does not make AI-generated claims evidence, and a draft does not automatically represent my endorsement. Sources, reasoning, and conclusions still need appropriate checking and review.
 
 ## Disclosure suitable for the current draft
 
@@ -43,6 +53,8 @@ The checkpoints below are a sequence to work through with support, not a batch o
 - [ ] Review C-001, C-003, and C-012 individually. Record accept, qualify, reject, or not yet decided for the exact passage and revision; do not infer reasons the author did not give.
 - [ ] Review the abstract and disclosure in small units. Confirm scope, assistance, and remaining uncertainty separately from any eventual release or byline decision.
 
+The first checkpoint is now in progress: the author's booking-service response is recorded under C-003 in [claims.md](claims.md), with the safeguard proposal under C-006. It does not yet settle the definition or approve the section.
+
 Do not add an approved personal byline, institutional affiliation, peer-review claim, or release identifier before the appropriate decision is made. Project provenance is not a substitute for an eventual accountable author record.
 
 ## Publication and privacy boundary
@@ -51,11 +63,13 @@ Elsevier's author guidance, checked in the external-evidence pass on 2026-09-16,
 
 Before submission, check the chosen venue's current requirements, actual tool terms, permissions, and data handling. Those terms and account settings have not been audited here. Neither a paid account nor a public repository proves that all confidentiality obligations are satisfied.
 
-This GitHub branch is public. This record describes the collaboration process without publishing personal health information, private conversation excerpts, patient records, or confidential manuscripts. A personal first-person explanation of why the author uses AI requires separate approval of its wording and destination. The package contains original notes and links, not copies of the cited papers or their figures.
+This GitHub branch is public. The author-requested personal explanation is the public wording in the section above, not permission to disclose diagnoses, unrelated private conversations, patient records, or confidential manuscripts. Additional personal accounts or new publication destinations require the relevant permission. The package contains original notes and links, not copies of the cited papers or their figures.
 
-## Change recorded 2026-09-16
+## Changes recorded 2026-09-16
 
-Added the requested question-led workflow and clarified that conceptual contributions already made are distinct from incomplete review of the current manuscript. Replaced the checkpoint requiring an unaided explanation with supported, passage-level review. Kept all source-verification and independent-evaluation requirements, unmarked review decisions, and substantive AI-assistance disclosure. No research claim, source-check status, authorship approval, or release status was changed by this process edit.
+Added the requested combined explanation of AI as both an accessibility aid and a tool for developing the work. Kept the substantive-assistance disclosure and verification requirements. Recorded that passage-level review has started, without marking manuscript approval or source-review checkboxes complete.
+
+The earlier process edit added the requested question-led workflow and clarified that conceptual contributions already made are distinct from incomplete review of the current manuscript. It replaced the checkpoint requiring an unaided explanation with supported, passage-level review. No research result, byline approval, or release status follows from either process edit.
 
 ## References
 

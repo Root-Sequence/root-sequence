@@ -9,6 +9,19 @@ The user approved a public-safe living-paper scaffold in this repository. The in
 
 The current conversation supplied the approved task, proposed scope, and living-paper principle. It is not a scholarly source. Earlier assistant comparisons are not treated as evidence. Private project documents were not copied or used as citable public support.
 
+## Author-led clarification pass — 2026-09-16
+
+The author explicitly requested adding the combined explanation of AI as an accessibility aid and development tool. That first-person wording is now in [AI-ASSISTANCE.md](../AI-ASSISTANCE.md). This is permission for the scoped explanation, not manuscript approval, independent verification, or authorization to export medical details.
+
+The same conversation supplied the author input recorded under C-003 and C-006 in [claims.md](../claims.md): situated reasoning may be understandable without establishing coherence; safeguards should expose neglected effects and help people respond without defaulting to blame. The candidate word “malconsidered” and the final treatment of unavoidable tradeoffs remain unresolved. Assistant synthesis and interface suggestions are labeled as proposals; the manuscript and UCF definition are not changed by this pass.
+
+Additional source checks, separate from author input:
+
+- `dekker2002reconstructing`: bibliographic metadata and the author's abstract on PubMed, PMID 12404999. The limited use concerns understanding actions in their unfolding context rather than judging only with hindsight. The publisher full-text attempt returned access failure. No complete reading or evaluation of the method is claimed.
+- `levesonThomas2018stpa`: text and screenshots of printed pp. 23 and 40 (zero-based PDF pages 22 and 39), including Figure 2.6 and the distinction between actual context and process-model beliefs. Used for that distinction and missing/delayed feedback, not proof that a warning interface works.
+
+The terminology search for “malconsidered” did not establish it as a research construct and did not change the author's tentative status. Searches for adjacent bounded-rationality work are not counted as reviewed sources or added to the bibliography. No experiment, interface implementation, participant study, source replication, or new clinical claim occurred.
+
 ## Existing Root Sequence sources
 
 Paths below are relative to this file. The paper synthesizes their questions; it does not take over their canonical roles.

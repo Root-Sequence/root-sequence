@@ -43,6 +43,22 @@ Bibliographic keys resolve in [references.bib](references.bib). Source coverage 
 **Evidence needed / revision trigger:** Reviewers should distinguish an effective but coercive arrangement from a protective but unreliable one without labeling either unqualifiedly coherent. Revise if distinctions cannot be applied consistently or add no explanatory value.  
 **Related:** section 4; Q-001–Q-002; T-001.
 
+### Author discussion: situated reasoning and consequences — 2026-09-16
+
+**Source and status:** The author's response to the booking-service question in the current living-paper conversation. This is a paraphrase of stated intent plus separately marked assistant proposals, not an approved replacement definition or empirical evidence. Review is in progress; C-003 remains provisional.
+
+**Author-stated direction:** A decision may make sense from someone's perspective, circumstances, and available information, including when they are doing their best. The author questioned whether calling that “locally coherent” mistakenly certifies a decision that is incoherent at the same local scale as well as systemically. Incomplete consideration should not automatically blame the person, including when the ability or resources to consider more are unavailable. The author proposed “malconsidered” tentatively, meaning not fully considered or reasoned, rather than malicious.
+
+**Assistant synthesis for review:** Keep understandable reasoning from a situated perspective distinct from correspondence with actual conditions. Also distinguish both from successful execution of a target: a program doing exactly what it was told demonstrates target compliance, not by itself functional coherence. If a service's own access commitments conflict with its completion target, the mismatch may already occur inside that service; no global scale is needed to expose it. “Local” must name a perspective or assessment boundary, not switch between those meanings unnoticed.
+
+A possible plain-language formulation is: **A choice can be understandable given what someone could see and do, while the decision process still leaves consequential needs or effects unaccounted for. Assessing that gap requires examining the support, information, time, resources, and authority available, not merely faulting the person.** This wording is proposed, not attributed to the author as an exact statement.
+
+**External grounding and limits:** Dekker's 2002 abstract argues for reconstructing why actions made sense as events unfolded rather than judging only with hindsight (`dekker2002reconstructing`). STPA distinguishes a controller's beliefs from actual conditions and examines missing or delayed feedback (`levesonThomas2018stpa`, printed pp. 23 and 40). These sources ground the comparison, not a universal guarantee of good intentions, a particular safeguard's effectiveness, or an automatic exemption from responsibility. Only the stated source portions were checked.
+
+**Unresolved terms and cases:** “Malconsidered” remains the author's candidate, not an adopted technical term. “Insufficiently considered” and “unsupported decision-making” are assistant alternatives, not replacements. Unknown consequences, known consequences without feasible alternatives, and deliberately accepted burdens need different descriptions. No one is required to foresee every possible effect. Do not infer intent or opportunity to act differently from the outcome alone.
+
+**Next question:** When limited capacity remains after consequences are made visible, is a supported and revisable allocation a coherent response to an unresolved constraint, or does the shortfall itself remain part of the incoherence? These possibilities may coexist at different boundaries. Do not settle this by editing the manuscript or UCF definition before the author's response.
+
 ## C-004 — Explicit disagreement belongs in assessment
 
 **Type / state:** DESIGN PROPOSITION with philosophical grounding / PROVISIONAL.  
@@ -75,6 +91,16 @@ Bibliographic keys resolve in [references.bib](references.bib). Source coverage 
 **Objection / boundary:** “Good conditions” can become an unvalidated proxy that excuses poor outcomes.  
 **Evidence needed / revision trigger:** Measure each specified condition and outcome separately over an appropriate period; reject indicators that do not connect to their proposed mechanism.  
 **Related:** section 7; Q-004 and Q-007.
+
+### Author design input: safeguards for considering consequences — 2026-09-16
+
+**Requested direction:** The author wants safeguards that at least remind people and explain why favoring one quality, such as appointment quantity, can undermine accessibility and create consequences outside the immediate target, whether intended, unintended, or previously unconsidered. This is a design direction, not evidence that reminders suffice or that every prioritization is incoherent.
+
+**Assistant proposal for review:** Show the target, excluded needs, expected or observed consequences, and uncertainty together. Explain the specific conflict rather than outputting a generic “incoherent” label. Offer feasible alternatives and a route to whoever can change capacity, targets, or permissions. Retain unmet needs for follow-up instead of removing them from the success account. Supply time and decision support rather than transferring all burden to the person receiving an alert.
+
+A hypothetical explanation might read: *This completion target favors shorter appointments. Longer requests remain unserved in the current plan. Changing the mix redistributes access but does not add capacity. Review access requirements and feasible alternatives; unresolved capacity needs can be escalated.* This is proposed interface text, not an implemented feature or an empirical prediction about a real service.
+
+**Limits and test questions:** A reminder cannot establish a feasible alternative, create capacity, or authorize a decision. Its framing may be incomplete or wrong; affected people need a way to contest it. Test comprehension, missing consequences, workload, unnecessary interruption, and whether anyone can act on the information. The AI or interface should not become an unquestionable authority. No warning system was built or evaluated in this pass.
 
 ## C-007 — Direction is situated, not guaranteed progress
 
