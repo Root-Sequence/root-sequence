@@ -23,3 +23,11 @@ Maintain a brief decision note in the existing claim, source, or change record: 
 Keep earlier meanings, counterarguments, and source visibility intact. Do not invent earlier contributions, quotations, personal experience, or approvals. Do not publish private conversation excerpts or personal details merely because they explain the process.
 
 Use [AI-ASSISTANCE.md](AI-ASSISTANCE.md) for disclosure and review distinctions and [README.md](README.md) for paper scope. These repository instructions are not a claim that every future tool or conversation automatically loads them.
+
+## Extend what exists and return to the active question
+
+**Author clarification, 2026-09-16:** The aim is to address gaps in existing work, not generate new frameworks by default. Check established literature and existing project treatments, identify the specific missing piece, and add only that piece. Preserve the option that the useful contribution is a synthesis or application, not a novel method. An enthusiastic response to a term is not authorization to create a taxonomy or new project.
+
+Apply [the existing Legible Systems treatment](../../../core/legible-systems.md#participation-sensemaking-and-review-burden) to this collaboration: more prose can transfer more review work to the author. Keep enough context for the next decision, avoid expanding unreviewed dependent claims, and provide a short re-entry recap after a research or routing detour. Do not put the burden of restoring context back on the author.
+
+Use [THOUGHT_ROUTING.md](../../../THOUGHT_ROUTING.md) for cross-project routing. Keep open questions in the existing claim record. Neither helpful guidance nor a readable explanation replaces evidence, independent review where needed, or consent to consequential actions.

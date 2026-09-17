@@ -1,5 +1,17 @@
 # Changelog
 
+## v0.1-dev — 2026-09-16 — Existing-work gap filling and supported participation
+
+Recorded the author's clarification in `../../../THOUGHT_ROUTING.md` and paper-scoped `AGENTS.md`: use established work and existing project homes, name the actual gap, and do not turn an interesting term into a new framework by default.
+
+Extended `../../../core/legible-systems.md` with the conversation's working principle that understanding can develop through supported participation; the distinction between an intelligible account and an evidence-supported one; the risk of transferring review burden through more output; and checking dependencies before consequential commitments. These are design proposals and process lessons, not new empirical findings.
+
+The source/application table in that existing concept now records five W3C documents with their edition, status, inspected scope, and limits, plus Weick, Sutcliffe, and Obstfeld's sensemaking article at publisher-abstract coverage. W3C material beyond cognitive accessibility includes user priorities, privacy labor, control, inspectability, interoperability, and sustainability. Guidance and Statements are not treated as implementation validation or interchangeable with a conformance standard. Broader uses remain proposed applications.
+
+The human-scale translation belongs in the existing private BHIG `map/legible-systems.md`, not a public copy of private source. No new framework, taxonomy, repository, or document is required by this pass. Existing bodies are retained with additions. The previously requested AI-use explanation remains in `AI-ASSISTANCE.md` and is not replaced.
+
+**Resume point:** section 4 / C-003, with C-006's safeguard discussion. The author has distinguished understandable situated reasoning from actual fit and target compliance, and asked for consequences to be visible without blaming people who lack information, resources, or authority. The remaining question is what would make a service's response coherent when capacity remains insufficient, and where the unresolved shortfall belongs in that assessment. No answer, new definition, or author approval is inferred from this routing request. T-003 remains unrun; the manuscript and UCF model are unchanged in this pass.
+
 ## v0.1-dev — 2026-09-16 — Author input on situated reasoning and safeguards
 
 Added the requested combined first-person explanation of AI as an accessibility aid and a development tool to `AI-ASSISTANCE.md`, without adding a diagnosis. This scoped inclusion does not approve the manuscript, its byline, or publication elsewhere. The preceding question-led collaboration edit is recorded in that file and in the paper-scoped `AGENTS.md`.

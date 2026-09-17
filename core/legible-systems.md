@@ -3,6 +3,8 @@
 **Status:** Working foundation / cross-domain design principle  
 **First formalized here:** 2026-09-06
 
+**Recent addition:** [Participation, sensemaking, and review burden](#participation-sensemaking-and-review-burden) connects the existing principle to checked W3C guidance and records the living-paper conversation's practical lessons.
+
 ## Core idea
 
 A **legible system** can be used simply without requiring its workings to remain mysterious.
@@ -340,3 +342,47 @@ More generally:
 > **A humane system should help the people inside it understand the system, participate in it, question it, modify it, and eventually need its designers less.**
 
 That is the direction of travel, not a claim that every system can or should become equally simple.
+
+---
+
+## Participation, sensemaking, and review burden
+
+**Added:** 2026-09-16, from the living-paper conversation. **Status:** working design interpretation; no usability or efficacy result. This extends the existing treatment, not a new framework. Earlier material above is preserved.
+
+> **Understanding can develop through supported participation; it needn't arrive fully formed before participation begins.**
+
+This is a project formulation, not a quotation from W3C or a claim of scholarly novelty. Invite questions, examples, corrections, and uncertainty before demanding a finished explanation. Keep relevant evidence available. Support for exploration does not authorize consequential action without adequate understanding, consent, or safeguards.
+
+### Sensemaking without forced agreement
+
+Weick, Sutcliffe, and Obstfeld's *Organizing and the Process of Sensemaking* (2005) connects explicit interpretations of circumstances with action. The publisher's abstract and bibliographic details were checked; this is not a full-text review.[^sensemaking2005]
+
+Our application distinguishes understanding what someone says, understanding why a choice seemed reasonable, and concluding that an account fits the evidence. One does not establish the others. Assistance should help make an interpretation inspectable and revisable, not manufacture agreement or mistake fluency for truth. "Supported sensemaking" is descriptive language here, not a named replacement for existing research.
+
+### Do not transfer the burden and call it assistance
+
+A proposed failure pattern in AI-assisted work is: more documents produced, more apparent progress, more unacknowledged reading and verification work for the person. This is a workflow hypothesis, not a measured result from this project. Review effort, comprehension, unresolved decisions, and the ability to resume deserve attention alongside output volume.
+
+Keep the current passage, source locator, decision status, and next question together. Provide reminders with actionable alternatives or a route to someone able to change the constraint. A warning alone cannot create time, resources, or decision authority. Explanations must remain challengeable, and neither refusal nor uncertainty should count as failure to understand.
+
+### Existing guidance to use before adding new rules
+
+The following sources were checked on 2026-09-16 at the stated scope. Their roles differ; none certifies Root Sequence, a whole framework, or an implementation. Extending web guidance into institutional or collaborative settings is our proposed application, not demonstrated universal transfer.
+
+| Source and exact edition | Material inspected and possible use | Boundary |
+|---|---|---|
+| [Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/2021/NOTE-coga-usable-20210429/), Working Group Note, 29 April 2021 | Abstract/status, easy-language summary, objective/pattern headings, and focus/recovery passages: familiar steps, less reliance on memory, summaries, error recovery, help, and involving affected users. | Supplemental guidance, not additional WCAG conformance requirements. No pattern-by-pattern audit or user testing performed here. |
+| [Web Platform Design Principles](https://www.w3.org/TR/2026/NOTE-design-principles-20260914/), Group Note, 14 September 2026 | Abstract/status and section 1.1: prioritize user needs while acknowledging implementation dependencies and finite resources. | API-design guidance, not proof of a universal priority rule or endorsement of our project. |
+| [Privacy Principles](https://www.w3.org/TR/2025/STMT-privacy-principles-20250515/), W3C Statement, 15 May 2025 | Status and section 1.1.2: privacy labor concerns offloading protective work onto the people affected by data processing. | A grounded comparison for responsibility transfer; not a reason to remove meaningful choice or consent. |
+| [Ethical Web Principles](https://www.w3.org/TR/2024/STMT-ethical-web-principles-20241212/), W3C Statement, 12 December 2024 | Sections 2.7–2.11: verifiable information, individual control, reduced centralization, environmental effects, inspectability, and interoperable alternatives. | Normative design principles, not evidence that actual web systems already deliver them. |
+| [Web Sustainability Guidelines](https://www.w3.org/TR/2026/DNOTE-web-sustainability-guidelines-20260820/), Group Note Draft, 20 August 2026 | Abstract/status and section headings: impacts on people and the environment, infrastructure, product management, maintenance, and resource budgets. | Initial orientation only; not a completed standard, impact calculation, or full guideline review. |
+
+W3C's cognitive guidance explicitly goes beyond WCAG's requirements. The practical lesson for this project is to examine unmet needs even when formal requirements have been met; it is not permission to disregard those requirements.
+
+### Learning while building
+
+Exploration can branch before every question is resolved. Before a consequential commitment, identify what it depends on, which assumptions remain unsettled, and who bears failure. Retain reversible trials and revision paths where possible. Do not force every idea into a final harmonious account: some connections may fail, remain unresolved, or be better kept separate.
+
+Use the existing [thought-routing convention](../THOUGHT_ROUTING.md) to record these distinctions without another tracking system. The [paper's drafting instructions](../research/papers/coherent-systems/AGENTS.md) apply them to passage-level author review. These links describe saved process guidance, not an implemented or validated interface.
+
+[^sensemaking2005]: Karl E. Weick, Kathleen M. Sutcliffe, and David Obstfeld (2005), *Organizing and the Process of Sensemaking*, Organization Science 16(4), 409–421. DOI: 10.1287/orsc.1050.0133. [Publisher abstract and citation](https://pubsonline.informs.org/doi/10.1287/orsc.1050.0133). No claim that an intelligible interpretation is therefore correct.
