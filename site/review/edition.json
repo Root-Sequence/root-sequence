@@ -1,0 +1,73 @@
+{
+  "site": "root-sequence",
+  "title": "Root Sequence",
+  "tagline": "Research and projects",
+  "origin": "https://rootsequence.systems",
+  "base_commit": "8b551209ea04d4ce5425d569565a2a9784fd463c",
+  "date": "2026-09-17",
+  "theme": "research",
+  "footer": "Root Sequence · Research and projects",
+  "navigation": [
+    [
+      "/start/",
+      "Start here"
+    ],
+    [
+      "/atlas/",
+      "Guides"
+    ],
+    [
+      "/projects/",
+      "Projects"
+    ],
+    [
+      "/about/",
+      "About"
+    ]
+  ],
+  "routes": [
+    "index.html",
+    "start/index.html",
+    "atlas/index.html",
+    "atlas/coherence-as-direction/index.html",
+    "atlas/abandoned-futures/index.html",
+    "atlas/legible-systems/index.html",
+    "atlas/resilience/index.html",
+    "atlas/imagination-and-prediction/index.html",
+    "projects/index.html",
+    "about/index.html",
+    "changelog/index.html",
+    "accessibility/index.html"
+  ],
+  "replacements": {
+    "index.html": {
+      "title": "Root Sequence",
+      "description": "Research and projects about how the systems we rely on work, and how they could work better.",
+      "main": "<main id=\"main\" tabindex=\"-1\"><h1>Root Sequence</h1><p class=\"lede\">Research and projects about how the systems we rely on work, and how they could work better.</p><section><p>Root Sequence brings together essays, research notes, and practical projects about technology, public services, community life, and the connections between them.</p><p>The questions often start with something ordinary. Can you use a service without a phone? What keeps a repair from happening? Does a change solve a problem, or leave someone else to deal with it?</p><ul class=\"directory\"><li><a href=\"/atlas/\">Browse the guides</a><p>Short introductions, with links to the longer research.</p></li><li><a href=\"/projects/\">Explore the projects</a><p>Community tools, computing, an everyday-life archive, and a novel.</p></li></ul></section><section><h2>Start with one question</h2><p>The guides explain terms as they come up. You don’t need to understand the whole project to read one.</p><ul class=\"directory\"><li><a href=\"/atlas/legible-systems/\">Making systems understandable</a><p>What someone needs to know when a tool or service goes wrong.</p></li><li><a href=\"/atlas/resilience/\">Keeping things usable when something fails</a><p>What a fallback needs to do, and how to check it.</p></li></ul></section><section><h2>Take part</h2><p>Root Sequence began with Rae Lovejoy and is being opened to collaboration. Corrections, examples, research, and alternative explanations are welcome. The About page describes the project’s origins and how to contribute.</p><ul class=\"directory\"><li><a href=\"/about/\">About Root Sequence and contributing</a></li></ul></section></main>"
+    },
+    "about/index.html": {
+      "title": "About Root Sequence",
+      "description": "A research and creative project intended to grow through contributions from different people.",
+      "main": "<main id=\"main\" tabindex=\"-1\"><h1>About Root Sequence</h1><p class=\"lede\">A research and creative project intended to grow through contributions from different people.</p><section><h2>What we are working on</h2><p>Root Sequence looks at how intelligence, technology, and social systems affect one another. Its essays and research notes ask how those systems work, what they assume about people, and what changes when those assumptions are questioned.</p><p>Some questions lead to practical design work, such as community tools and computing. Others become part of Coherent World or the novel No One Noticed. Those projects have their own purposes; contributing to one does not require agreement with every idea in the others.</p></section><section><h2>Started by Rae Lovejoy</h2><p>Rae’s work spans writing, photography, and hands-on technology. An interest in everyday lives connects the research here with No One Noticed and the Museum of Ordinary Life.</p><p>Rae started Root Sequence, but the intention is for other people to develop, question, and take responsibility for parts of the work. Crediting its origin does not give one person the final word on every idea.</p></section><section><h2>Collaboration and responsibility</h2><p>Shared stewardship is a goal we still need to put into practice. Contributor roles, decisions, and responsibility for individual projects should be documented as people take part. Describing the project as decentralized is not a substitute for doing that work.</p><p>A contribution might correct an error, supply a source, explain something more clearly, translate a page, or test a design. Contributors should be credited in the form they choose; naming someone is not a condition of taking part.</p><ul class=\"directory\"><li><a href=\"https://github.com/Root-Sequence/root-sequence/blob/main/contributing.md\">Contribution guide</a><p>The current process and terms for this repository.</p></li><li><a href=\"https://github.com/Root-Sequence/root-sequence/issues\">Suggest a change on GitHub</a><p>Requires a GitHub account.</p></li><li><a href=\"https://raearea.net/contact\">Contact Rae without using GitHub</a><p>The existing contact page is outside this site.</p></li></ul></section><section><h2>Reading and reusing the work</h2><p>The first guides introduce working ideas rather than settle them. Sources and page details accompany the text. Seed, Growing, and Established describe how developed a document is, not whether every claim is true.</p><p>Check the terms attached to a particular project before reusing its material. The research, the novel, and Museum contributions do not all share the same permissions.</p><p>The website introductions were prepared with AI assistance from Rae’s notes and discussions. Editorial review, source checking, and decisions about publication remain separate tasks.</p><ul class=\"directory\"><li><a href=\"/accessibility/\">Accessibility and reading options</a></li><li><a href=\"/changelog/\">Site updates</a></li></ul></section></main>"
+    },
+    "accessibility/index.html": {
+      "title": "Accessibility",
+      "description": "Reading options, the standards we are working toward, and how to report a problem.",
+      "main": "<main id=\"main\" tabindex=\"-1\"><h1>Accessibility</h1><p class=\"lede\">Reading options, the standards we are working toward, and how to report a problem.</p><section><h2>Reading options</h2><p>Use System, Light, or Dark at the top of any page. System follows your device’s preference. Your explicit choice is saved in this browser when its storage settings allow it. The sites remember their choices separately.</p><p>You can enlarge text with your browser, follow the pages using a keyboard, and skip the repeated header. Without JavaScript, the pages still work and the colors follow your device’s setting.</p></section><section><h2>Work in progress</h2><p>The target is the W3C Web Content Accessibility Guidelines, version 2.2, Level AA. This is a development target, not a claim that the sites have passed a complete accessibility evaluation.</p><p>The current review covers selected keyboard, contrast, layout, and reading checks. Screen-reader testing with people, testing on more browsers and devices, and verification of the deployed sites remain to be done.</p><ul class=\"directory\"><li><a href=\"https://www.w3.org/TR/WCAG22/\">Read WCAG 2.2</a></li><li><a href=\"https://raearea.net/contact\">Report an accessibility problem</a><p>The existing contact page is outside this site. You do not need to provide medical information.</p></li></ul></section></main>"
+    }
+  },
+  "text_replacements": [
+    [
+      "The Museum of Ordinary Life is a separate real archive, not an annex of the fiction.",
+      "The Museum of Ordinary Life is a separate real archive."
+    ],
+    [
+      "Coherent World is where ideas for a different society are worked out together:",
+      "Coherent World explores possible arrangements for society, including"
+    ],
+    [
+      "Ideas for the society explored in the novel; in development",
+      "Speculative design for society; also informs the novel"
+    ]
+  ]
+}
