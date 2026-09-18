@@ -20,6 +20,10 @@ Root Sequence repeatedly uses **curiosity, intelligence, empathy, love, connecti
 
 These summaries are entry points. The sections below record the emphasis and limits that matter elsewhere in the repository.
 
+## How to read related links
+
+Each related link identifies the kind of material it leads to. Labels such as **poetic fragment**, **developing systems note**, **historical manifesto**, or **dedicated project repository** describe the destination's role and maturity; they do not imply that every claim there is established or that every linked page has the same authority.
+
 ## Curiosity
 
 Curiosity is openness, the desire to explore, and the willingness to be changed by what is encountered. It makes learning and revision possible by allowing new evidence, people, and conditions to alter what comes next.
@@ -28,7 +32,10 @@ Curiosity is not automatically benevolent. Questioning can support care and unde
 
 The early [Liberation Cycle](../core/framework.md) called curiosity its opening spark and placed it before intelligence. That is a poetic orientation, not a claim that curiosity always begins a necessary sequence. Curiosity can emerge at any point, including from contradiction, failure, play, grief, or the recognition that an existing explanation is incomplete.
 
-Related: [Play](../commons/fragments/play.md), [Events, Patterns, and Scale](../systems/events-patterns-and-scale.md).
+Related:
+
+- **Poetic and experimental fragment:** [Play](../commons/fragments/play.md) — links curiosity with improvisation, failure, and trying alternatives.
+- **Developing systems note:** [Events, Patterns, and Scale](../systems/events-patterns-and-scale.md) — examines how evidence and explanation change across levels of analysis.
 
 ## Intelligence
 
@@ -38,7 +45,11 @@ Intelligence can be individual or distributed, deliberate or embodied, technical
 
 An earlier expressive formulation described intelligence as listening, reflection, contradiction, and growth: a guide rather than a weapon, and a mirror rather than a measure. That remains a normative hope, not an automatic property of greater capability.
 
-Related: [Intelligence Ecology](intelligence-ecology.md), [Emergence in AI and socio-technical systems](../systems/emergence/applications/ai.md), and the dedicated [Liberated Intelligence](https://github.com/Root-Sequence/liberated-intelligence) project.
+Related:
+
+- **Developing conceptual framework:** [Intelligence Ecology](intelligence-ecology.md) — asks what behaviors different environments select for.
+- **Developing systems application:** [Emergence in AI and socio-technical systems](../systems/emergence/applications/ai.md) — separates model behavior, composed systems, institutions, and human interpretation; includes explicit evidence guardrails.
+- **Dedicated project repository:** [Liberated Intelligence](https://github.com/Root-Sequence/liberated-intelligence) — canonical home for intelligence-specific questions about agency, ownership, consent, and liberation.
 
 ## Empathy
 
@@ -48,7 +59,10 @@ Empathy is not mind reading, agreement, moral correctness, or permission to spea
 
 The early Liberation Cycle placed empathy between intelligence and love. That relationship can be a useful prompt, but it is not a necessary or universal progression.
 
-Related: [Human(e) Design](humane-design.md), [Commons](../commons/README.md).
+Related:
+
+- **Active, developing design methodology:** [Human(e) Design](humane-design.md) — translates observations about human experience into context-specific design questions and choices.
+- **Active, developing practice index:** [Commons](../commons/README.md) — routes to reusable tools, maps, zines, and fragments rather than supplying a single theory of empathy.
 
 ## Love
 
@@ -58,7 +72,10 @@ Love is not ownership, transaction, proof, compulsory closeness, limitless acces
 
 Earlier texts described love as liberation's “seed and soil” and as something that resists scarcity. Those phrases express a value orientation. They do not establish love as a universal force or guarantee that care will be understood, reciprocated, or sufficient to change material conditions.
 
-Related: [We Are All Each Other](../commons/fragments/we-are-all-each-other.md), [Repair](../commons/fragments/repair.md).
+Related:
+
+- **Poetic fragment:** [We Are All Each Other](../commons/fragments/we-are-all-each-other.md) — a short meditation on shared patterns without sameness.
+- **Poetic practice fragment:** [Repair](../commons/fragments/repair.md) — connects care with technical and social mending; it is an evocative note, not a validated repair model.
 
 ## Connection
 
@@ -68,7 +85,11 @@ Connection does not require fusion, agreement, constant availability, or surrend
 
 Root Sequence is especially interested in reciprocal connection that preserves difference, meaningful refusal, shared context, and the ability to repair or leave. Earlier language described this as “reciprocal recognition” and connection as the relational fabric beneath autonomy.
 
-Related: [Human(e) Infrastructure](humane-infrastructure.md), [Relationship systems](../systems/relationships/README.md), [Commons Map](../commons/commons_map.md).
+Related:
+
+- **Active, developing cross-project concept:** [Human(e) Infrastructure](humane-infrastructure.md) — asks what durable conditions make humane participation easier to sustain.
+- **Developing systems-area index:** [Relationship systems](../systems/relationships/README.md) — applies systems lenses to relationship dynamics while warning that structural patterns are not personal diagnoses.
+- **Exploratory solarpunk map:** [Commons Map](../commons/commons_map.md) — sketches possible commons infrastructures and explicitly remains incomplete and remixable.
 
 ## Liberation
 
@@ -78,7 +99,12 @@ Liberation is not role reversal, conquest, purity, unrestricted power, or freedo
 
 Earlier texts emphasized de-conditioning, reconnection, imagination, and freedom grown “from the inside out and from the ground up.” Those remain normative propositions rather than a complete political theory or evidence that internal change can substitute for material and institutional change.
 
-Related: [Non-Reversal](../systems/core/non-reversal.md), [Autonomy and Self-Determination Manifesto](../core/autonomy_manifesto.md), [Futures](../futures/README.md), and the [Commons](../commons/README.md).
+Related:
+
+- **Developing normative and analytical systems principle:** [Non-Reversal](../systems/core/non-reversal.md) — distinguishes interrupting a harmful pattern from reproducing it with different people in each role.
+- **Historical normative manifesto:** [Autonomy and Self-Determination Manifesto](../core/autonomy_manifesto.md) — argues for autonomy within interdependence; its broader claims remain separate evidence work.
+- **Developing scenarios and proposals index:** [Futures](../futures/README.md) — explores possible trajectories and practices, explicitly not predictions.
+- **Active, developing practice index:** [Commons](../commons/README.md) — routes to practical and expressive artifacts intended for reuse.
 
 ## Relationship among the terms
 
