@@ -2,15 +2,22 @@
 
 ## Approval update: September 18, 2026
 
-Rae Lovejoy approved the current single-file website preview. That exact HTML
-is now `site/index.html`, with SHA-256
+Rae Lovejoy initially approved the single-file website preview with SHA-256
 `9e5bb0eade87e488410baf4fb42ce812efbe5f013c517603edb448337d78f56e`.
+
+Rae Lovejoy approved a follow-up addition on 2026-09-18: section 6 now lists
+**Being Human(e): An Incomplete Guide to** as a developing practical field
+guide. Its project panel says that the public website has not been built yet
+and therefore offers no external website link. The updated approved HTML has
+SHA-256
+`931fef230bc65e2164be0d11c37c86f7f4f0fc9ac10229ea1cac5cafd85c1981`.
 
 Publication changes are limited to state-dependent labels: search indexing,
 local-preview wording, the publication date, and references that say "this
-preview" when the page is hosted. The approved headline, body copy, sections,
-project descriptions, links, overlays, accessibility controls, English source
-edition, palette, logo, and embedded Cascadia Mono wordmark are unchanged.
+preview" when the page is hosted. Apart from the approved Being Human(e)
+addition, the headline, body copy, sections, existing project descriptions,
+links, overlays, accessibility controls, English source edition, palette,
+logo, and embedded Cascadia Mono wordmark are unchanged.
 
 The prior review below describes the superseded 11-page candidate and remains
 as project history.

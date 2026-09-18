@@ -1,7 +1,7 @@
 {
-  "source_sha256": "235785c73d53cf6032b78e879fd968d54d6f496d4337f08396376bba29226a6e",
-  "approved_preview_sha256": "9e5bb0eade87e488410baf4fb42ce812efbe5f013c517603edb448337d78f56e",
+  "source_sha256": "e66761b24f86513ae21cce88027b74518e8f9d184b47baf5b381242bf3ccd604",
+  "approved_preview_sha256": "931fef230bc65e2164be0d11c37c86f7f4f0fc9ac10229ea1cac5cafd85c1981",
   "approved_by": "Rae Lovejoy",
   "approved_at": "2026-09-18",
-  "scope": "The current single-file preview and the mechanical publication-state substitutions defined in build.py."
+  "scope": "The current single-file preview, including the Being Human(e): An Incomplete Guide to project entry, and the mechanical publication-state substitutions defined in build.py."
 }
