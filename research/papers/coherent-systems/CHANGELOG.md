@@ -15,6 +15,11 @@ record, author decision, byline, paper version, test status, or publication
 status changed in this rescue. The review still resumes at section 4 / C-003,
 and T-003 remains unrun.
 
+Rae Lovejoy approved this repository-structure rescue on 2026-09-18. That
+approval covers preservation, placement, repaired routes, and navigation. It
+does not approve the manuscript's claims, sources, byline, release status, or
+publication.
+
 ## v0.1-dev — 2026-09-16 — Existing-work gap filling and supported participation
 
 Recorded the author's clarification in `../../../THOUGHT_ROUTING.md` and paper-scoped `AGENTS.md`: use established work and existing project homes, name the actual gap, and do not turn an interesting term into a new framework by default.

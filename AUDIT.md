@@ -89,6 +89,8 @@ without merging their outdated structures:
   from current `main`, repaired retired paths, and reconciled its useful
   cross-domain additions with their canonical pages. The paper remains
   `v0.1-dev`, AI-assisted, author review pending, and not approved for release.
+  Rae approved the technical preservation and routing work on 2026-09-18; that
+  approval does not extend to the manuscript's claims or publication.
 
 The separate Wiki's former Legible Systems routes were corrected by merged
 [Wiki PR #1](https://github.com/Root-Sequence/wiki/pull/1). Merged
