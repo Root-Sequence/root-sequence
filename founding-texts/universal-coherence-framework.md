@@ -6,6 +6,8 @@
 
 This page records an earlier compact Root Sequence treatment. The dedicated UCF repository owns the current framework, models, tests, and project-specific terminology. For the smaller systems-layer treatment of coherence inside this repository, see [`../systems/coherence/`](../systems/coherence/README.md).
 
+The six headings below are a local explanatory sequence, not UCF's four analytical layers or its optional state labels. Statements about natural drift are working hypotheses, not demonstrated laws. Functional fit does not by itself establish wider benefit or legitimate authority. The developing paper [*Coherence Is a Systems Property*](../research/papers/coherent-systems/notes/ucf-reconciliation.md) records how it uses and limits the UCF material; both remain subject to author review.
+
 The Universal Coherence Framework (UCF) describes how systems align—or fail to align—with reality over time.
 
 It is not a fixed model. It is a way of observing whether a system holds together internally, interacts accurately with the world, and sustains itself without generating hidden instability.

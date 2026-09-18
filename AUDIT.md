@@ -79,14 +79,23 @@ The website remains an introductory projection, not a replacement for repository
 
 This cleanup makes evidence debt visible; it does not invent sources or claim that every exploratory argument is established. Several older analysis, ideology, and futures pages still need source-by-source research review. That work should happen in bounded evidence passes and should preserve the distinction between observation, interpretation, metaphor, and normative claim.
 
-Two draft pull requests remain separate by design:
+Post-audit follow-up on 2026-09-18 retired both pre-cleanup pull requests
+without merging their outdated structures:
 
-- PR #6 develops the coherent-systems paper and should rebase or reconcile any shared navigation files before merge.
-- PR #7 is the older isolated website editorial/accessibility prototype. The approved site now carries its central project-first and accessible-theme direction; do not merge the alternate review builder as a second website system. Preserve any still-useful review notes before closing it as superseded.
+- PR #7 was closed after its useful project-first and accessibility direction
+  had been incorporated into the approved single-page website.
+- PR #6 was closed after [PR #13](https://github.com/Root-Sequence/root-sequence/pull/13)
+  preserved its twelve-file coherent-systems paper package on a fresh branch
+  from current `main`, repaired retired paths, and reconciled its useful
+  cross-domain additions with their canonical pages. The paper remains
+  `v0.1-dev`, AI-assisted, author review pending, and not approved for release.
+  Rae approved the technical preservation and routing work on 2026-09-18; that
+  approval does not extend to the manuscript's claims or publication.
 
-Neither draft was merged into this audit branch, and neither was treated as current published state.
-
-Two pages in the separate `Root-Sequence/wiki` repository still link to the former `core/legible-systems.md` address on its current `main` branch. [Wiki PR #1](https://github.com/Root-Sequence/wiki/pull/1) is the prepared two-page update. Merge this cleanup first so the new canonical destination exists, then merge the Wiki PR immediately afterward.
+The separate Wiki's former Legible Systems routes were corrected by merged
+[Wiki PR #1](https://github.com/Root-Sequence/wiki/pull/1). Merged
+[Wiki PR #2](https://github.com/Root-Sequence/wiki/pull/2) later added the
+Root Sequence name and provenance entry.
 
 ## Verification record
 

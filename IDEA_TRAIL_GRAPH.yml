@@ -1,5 +1,5 @@
 version: 0.3
-updated: 2026-09-16
+updated: 2026-09-18
 canonical_trails: IDEA_TRAILS.md
 metadata_convention: IDEA_TRAIL_METADATA.md
 
@@ -76,6 +76,16 @@ documents:
       - intelligence-authority
       - stewardship-authority
       - accountability-externalization
+
+  - repo: Root-Sequence/root-sequence
+    path: research/papers/coherent-systems/README.md
+    role: research
+    trails:
+      - intelligence-authority
+      - stewardship-authority
+      - accountability-externalization
+      - collective-judgment-dissent
+      - accessibility-participation
 
   - repo: Root-Sequence/coherent-world
     path: no-one-noticed/research/INTELLIGENCE-ECOLOGY-AND-AURYN.md

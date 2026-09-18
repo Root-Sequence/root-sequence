@@ -45,6 +45,16 @@ Check, as relevant:
 
 Search for the mechanism and question, not only the exact phrase. Similar wording may hide different ideas; different wording may describe the same one.
 
+#### Build on existing work; name the actual gap
+
+**Clarified by the author, 2026-09-16:** Interest in an idea or outside guidance is not a request to create another framework. Look for relevant established work as well as existing project documents. Reuse what already addresses the need, connect missing references, and extend only what remains insufficiently covered. A useful synthesis need not claim novelty.
+
+Before proposing a new framework, taxonomy, repository, or tracking layer, state what the existing options cannot do and ask whether a new structure is wanted. Do not make new terminology the default response to enthusiasm. A passage in an existing home may be enough.
+
+During a routing detour, preserve the active project's next unresolved question in its existing record. After the update, return a short recap of what we were doing and that question, rather than another expanding plan. Keep proposed interpretations separate from author decisions. A request to save insights does not answer a previously open conceptual question.
+
+Apply the [participation and review-burden lesson](concepts/legible-systems.md#participation-sensemaking-and-review-burden): reduce reconstruction work, do not count document production as comprehension, and check unresolved dependencies before consequential commitments. Exploratory ideas may remain separate or be dropped; the map does not have to make every connection fit.
+
 ### 3. Classify on separate axes
 
 Do not collapse these into one vague status.

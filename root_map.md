@@ -2,7 +2,7 @@
 
 **Document role:** Canonical repository architecture and content-routing guide<br>
 **Status:** Active / living<br>
-**Last reviewed:** 2026-09-17<br>
+**Last reviewed:** 2026-09-18<br>
 
 This file is a compass for the **`root-sequence` repository**: how its folders and conceptual flows connect.
 
@@ -62,6 +62,7 @@ Do not compress every kind of status into one word.
 
 - [`founding-texts/`](founding-texts/) — founding texts, early models, manifestos, normative essays, and historical orientations.
 - [`concepts/`](concepts/) — shared vocabulary, cross-project frameworks, design principles, and methods.
+- [`research/`](research/README.md) — versioned synthesis papers that connect existing work without replacing its canonical sources.
 - [`analysis/`](analysis/) — diagnosis of systems, power, capitalism, infrastructure, surveillance, and related conditions.
 - [`ideology/`](ideology/) — myths, philosophies, and narratives that justify or contest power.
 - [`systems/`](systems/) — analytical principles, structure, dependency, stress, failure, feedback, recovery, coherence, and adaptation.
@@ -100,6 +101,7 @@ The standalone wiki is different from `concepts/`: `concepts/` owns substantive 
 - **Analysis → Systems** — diagnosis identifies what is happening; systems work asks how it behaves and propagates.
 - **Founding texts ↔ Futures** — early values shape possible paths; imagined futures reveal tensions and limits in those orientations.
 - **Systems ↔ Futures** — constraints, feedback, failure, and adaptation determine which futures are plausible.
+- **Research papers ↔ every layer** — synthesize arguments, track claims and evidence, and return objections without taking over the source material's canonical home.
 - **Commons ↔ every layer** — public artifacts translate inquiry into usable forms and return feedback to the research.
 - **Wiki ↔ every layer** — the standalone wiki tracks names, provenance, aliases, and project relationships so the rest of the ecosystem is easier to find without becoming a second canonical home.
 - **Compost → Curiosity** — failed, superseded, partial, or contradictory work can become material for another sequence.
@@ -112,6 +114,8 @@ What is happening?   → analysis
 Why is it justified? → ideology
 How does it behave?  → systems
 What could emerge?   → futures
+What connects several layers
+into a versioned synthesis? → research
 What can be shared?  → commons
 What shaped its values? → founding-texts
 What is it called,
