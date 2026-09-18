@@ -7,7 +7,7 @@
 <meta content="light dark" name="color-scheme"/>
 <meta content="noindex,nofollow" name="robots"/>
 <meta content="no-referrer" name="referrer"/>
-<meta content="default-src 'none'; script-src 'sha256-OEcw/R6q5dxJ33i+y52dxs8+RvdGo0bjZDkZCoV8Jfw=' 'sha256-xBCVD1fOnlF2uaMwaExp2UVR8fZ3XxxZwSedcLVtAj4='; style-src 'unsafe-inline'; font-src data:; img-src data:; connect-src 'none'; base-uri 'none'; form-action 'none'; object-src 'none'" http-equiv="Content-Security-Policy"/>
+<meta content="default-src 'none'; script-src 'sha256-OEcw/R6q5dxJ33i+y52dxs8+RvdGo0bjZDkZCoV8Jfw=' 'sha256-9eT14WcW5u7sEikHCLNd8pCWXZGZP6LkRO4A10pHogE='; style-src 'unsafe-inline'; font-src data:; img-src data:; connect-src 'none'; base-uri 'none'; form-action 'none'; object-src 'none'" http-equiv="Content-Security-Policy"/>
 <title>Root Sequence · Research for a more coherent world</title>
 <meta content="Root Sequence is an open research project about the connections between people, technology, institutions, and the systems we build." name="description"/>
 <link href="https://rootsequence.systems/" rel="canonical"/>
@@ -398,7 +398,7 @@ html{scrollbar-gutter:stable}html[data-overlay-open]{overflow:hidden;overscroll-
 <p class="entry-type" data-i18n="research.type2">Research notes</p>
 <h3 data-i18n="research.legibleTitle">Making systems understandable</h3>
 <p data-i18n="research.legibleDescription">When a tool or service goes wrong, what do people need to know, and what should they be able to do next?</p>
-<a class="source-link" data-external-source="" href="https://github.com/Root-Sequence/root-sequence/blob/main/core/legible-systems.md" rel="noopener noreferrer" target="_blank">
+<a class="source-link" data-external-source="" href="https://github.com/Root-Sequence/root-sequence/blob/main/concepts/legible-systems.md" rel="noopener noreferrer" target="_blank">
 <span data-i18n="research.legibleLink">Read the notes on understandable systems</span> <span aria-hidden="true" class="arrow">↗</span>
 <span class="sr-only" data-i18n="overlay.newTab">Opens in a new tab</span>
 </a>
@@ -1100,7 +1100,7 @@ clearContext(isContact?'overlay.contact':'overlay.source',title,'');
 if(url.includes('/papers/coherent-systems/')){paragraph(t('research.paperDescription'));paragraph(t('research.paperStatus'));}
 else if(url.endsWith('/pull/6')){paragraph(t('overlay.review'));paragraph(t('research.paperStatus'));}
 else if(url.includes('/systems/coherence/'))paragraph(t('overlay.coherence'));
-else if(url.includes('/core/legible-systems.md'))paragraph(t('research.legibleDescription'));
+else if(url.includes('/concepts/legible-systems.md'))paragraph(t('research.legibleDescription'));
 else if(url.includes('/analysis/historical-contingency.md'))paragraph(t('research.historyDescription'));
 else if(url.endsWith('/ECOSYSTEM.md'))paragraph(t('projects.intro'));
 else if(url.endsWith('/contributing.md')){paragraph(t('about.contribution'));paragraph(t('about.terms'));}

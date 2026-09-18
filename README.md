@@ -51,7 +51,6 @@ The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Frui
 - `/cli/` — experimental scripts and tools, including the Idea Trail browser generator  
 - `/assets/` — visuals and diagrams  
 - [`THOUGHT_ROUTING.md`](THOUGHT_ROUTING.md) — the organization-wide `RS?` capture and routing convention
-- [`core/`](core/README.md) — compatibility pointers for older links; not a current content category
 
 [`root_map.md`](root_map.md) is the canonical repository architecture and content-routing guide. The organization-wide map lives in [`ECOSYSTEM.md`](ECOSYSTEM.md), recurring cross-project questions are traced in [`IDEA_TRAILS.md`](IDEA_TRAILS.md), their document-level relationships are browsable in [`IDEA_TRAIL_INDEX.md`](IDEA_TRAIL_INDEX.md), and the cross-project vocabulary/history layer lives in the standalone [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) repository. The latest comprehensive cleanup record is in [`AUDIT.md`](AUDIT.md).
 

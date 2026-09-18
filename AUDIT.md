@@ -49,9 +49,9 @@ The previously linked `noonenoticed.world` domain could not be verified through 
 
 ### Duplicated or unclear canonical homes
 
-- `core/` is no longer presented as one uniformly authoritative framework. Its index separates exploratory cycles and metaphors, manifestos and normative essays, and historical project orientations. The Liberation Cycle, Visibility Loop, and ecological project-cycle metaphor remain available without serving as repository architecture or universal causal claims.
-- A follow-up architecture pass confirmed that the top-level `core/` name had become historical rather than descriptive. Its reader-facing role is now **Founding texts and early orientations**; current shared definitions, frameworks, design principles, and methods route to `concepts/`, while analytical principles and models route to `systems/`. Legible Systems moved canonically to `concepts/`, with its old path retained as a migration pointer.
-- A directory-naming pass then moved the founding material physically to `founding-texts/` and renamed `systems/core/` to `systems/principles/`. The old top-level `core/` directory now contains only explicit compatibility pointers required by the approved website and two external Wiki entries; it is not a content category. Path naming rules in [`root_map.md`](root_map.md) now favor descriptive current roles and lowercase kebab-case over inherited labels such as `core` or `framework`.
+- The former `core/` area mixed exploratory cycles and metaphors, manifestos and normative essays, historical project orientations, and one current design principle. The Liberation Cycle, Visibility Loop, and ecological project-cycle metaphor remain available without serving as repository architecture or universal causal claims.
+- A follow-up architecture pass confirmed that the top-level `core/` name had become historical rather than descriptive. Founding and historical material now lives under [`founding-texts/`](founding-texts/README.md); current shared definitions, frameworks, design principles, and methods route to [`concepts/`](concepts/README.md); and analytical principles and models route to [`systems/`](systems/README.md).
+- A directory-naming pass moved the founding material physically to `founding-texts/`, renamed `systems/core/` to `systems/principles/`, and moved Legible Systems canonically to [`concepts/legible-systems.md`](concepts/legible-systems.md). After the current website link was updated, the obsolete top-level `core/` compatibility directory was removed. Path naming rules in [`root_map.md`](root_map.md) now favor descriptive current roles and lowercase kebab-case over inherited labels such as `core` or `framework`.
 - The nine-page `what-is-*` series mixed vocabulary, poetic fragments, political interpretation, personal reflection, and fictional mythology. Six recurring terms now share one scoped [`concepts/working-vocabulary.md`](concepts/working-vocabulary.md); the capitalism fragment was merged into its interpretive essay, Personal Anarchism moved to the founding/normative shelf, and the Auryn sketch was merged into the historical Liberated Intelligence overview. Duplicate Curiosity and Empathy cycle notes were retired after their distinct cautions were preserved in the vocabulary.
 - Root-level Liberated Intelligence and UCF pages are retained as historical Root Sequence overviews and point to their dedicated canonical repositories.
 - The two SECI entry layers are explicitly separated: the parent page defines the research umbrella; the nested README operates the active program.
@@ -69,7 +69,7 @@ The consolidated [Working Vocabulary](concepts/working-vocabulary.md) also label
 
 ### Generated website
 
-While this cleanup remained in draft, the separately reviewed single-page website was approved and merged to `main`. This branch incorporates that completed work without changing the approved [`site/index.html`](site/index.html), its approval digest, or its publication controls. The former 11-page candidate now lives under [`site/legacy-public-seed-v0.1/`](site/legacy-public-seed-v0.1/README.md) as historical source rather than deployment input.
+While this cleanup remained in draft, the separately reviewed single-page website was approved and merged to `main`. This branch incorporates that completed work, then updates its Legible Systems source link and source-overlay recognition to use the canonical [`concepts/legible-systems.md`](concepts/legible-systems.md) path. The corresponding approval digest and inline-script security hash were updated; site copy and layout were not changed. The former 11-page candidate remains under [`site/legacy-public-seed-v0.1/`](site/legacy-public-seed-v0.1/README.md) as historical source rather than deployment input.
 
 The website remains an introductory projection, not a replacement for repository research or the Wiki. Obsolete cleanup edits to the former `site/content.json` were not carried into the historical archive. Only repository navigation and this audit record were reconciled with the new canonical site structure.
 
@@ -84,11 +84,13 @@ Two draft pull requests remain separate by design:
 
 Neither draft was merged into this audit branch, and neither was treated as current published state.
 
+Two pages in the separate `Root-Sequence/wiki` repository still link to the former `core/legible-systems.md` address. They need a separately authorized cross-repository update before this cleanup is merged; this audit does not revise other repositories.
+
 ## Verification record
 
 The final branch was checked for:
 
-- zero empty Markdown files across the final 141-file set;
+- zero empty Markdown files across the final 139-file set;
 - local Markdown links, local heading fragments, inbound Markdown navigation, and at least one readable top-level heading per reader-facing Markdown page;
 - all 99 distinct GitHub repository or file destinations referenced by Markdown, JSON, or HTML through the GitHub API;
 - current generated Idea Trail output;

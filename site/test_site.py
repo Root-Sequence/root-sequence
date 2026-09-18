@@ -16,7 +16,7 @@ from xml.etree import ElementTree as ET
 
 
 HERE = Path(__file__).resolve().parent
-APPROVED_PREVIEW_SHA256 = "d9f46f55c483cb9147bce6ece637f63f660f50a21f239b4ab43598008d72d36c"
+APPROVED_PREVIEW_SHA256 = "24224b29f6f049fa28409b9d785433997e1331d5c66659da648a1da41c97d526"
 spec = importlib.util.spec_from_file_location("site_builder", HERE / "build.py")
 builder = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(builder)

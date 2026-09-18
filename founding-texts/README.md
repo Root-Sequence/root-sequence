@@ -44,5 +44,3 @@ These pages are routing and provenance records, not competing canonical versions
 - The [Ecosystem Map](../ECOSYSTEM.md) identifies dedicated project homes and access boundaries.
 
 When material here develops into a sourced model, method, or project-specific treatment, route the substantive version to the appropriate canonical home and preserve only the context needed to understand this repository's history.
-
-The legacy [`../core/`](../core/README.md) directory remains only as a compatibility route for older links, including the approved website's former Legible Systems address.

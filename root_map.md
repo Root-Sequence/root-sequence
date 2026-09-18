@@ -24,7 +24,7 @@ Generated indexes, migration pointers, validation receipts, and historical overv
 
 - Give each substantive idea one primary home at its current level of scope.
 - Keep broad, cross-domain work here. Route project-specific software, practice, research conclusions, and fiction canon to their own repositories.
-- Preserve stable paths when they have readers. If a page has moved, leave a concise pointer instead of an unexplained duplicate.
+- Preserve stable paths when they have readers, or update known dependents before removing them. If a migration pointer is needed, keep it concise and do not leave a second substantive treatment behind.
 - Link to the nearest useful destination, not merely the repository root.
 - Use relative links for files in this repository. Use full URLs only across repositories or for external sources.
 - When a page changes role, update its nearest directory index in the same change. Update this map or the root README only when the change matters at that level.
@@ -70,7 +70,6 @@ Do not compress every kind of status into one word.
   - [`commons/fragments/`](commons/fragments/) — short, unfinished, poetic, or compostable material.
   - [`commons/zines/`](commons/zines/) — longer public and printable artifacts.
 - [`wiki/`](wiki/) — migration pointer to the standalone [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) repository.
-- [`core/`](core/) — compatibility pointers for older links; do not add substantive material here.
 - [`site/`](site/README.md) — source for the introductory Public Seed website; it projects selected material without replacing research or the Wiki.
 - [`cli/`](cli/) — experimental scripts and tools.
 - [`assets/`](assets/) — visual material and diagrams.

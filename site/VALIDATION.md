@@ -1,5 +1,19 @@
 # Local validation — 2026-09-16
 
+## Legible Systems source-route update — 2026-09-18
+
+- The current single-page source now routes its Legible Systems link and
+  contextual overlay directly to `concepts/legible-systems.md`.
+- The change does not alter visible copy or layout.
+- The updated inline-script Content Security Policy hash matches the script.
+- All eleven offline publication tests pass, including the exact approval gate.
+- Fresh preview and release builds completed with source digest
+  `29333bdb919498771bcf514dd7becca13d89efd5cfa1845497c18eef1cadcd88`.
+- Browser checks at 1440 × 1000 and 390 × 844 showed the expected headline,
+  visible section, reading, and language controls, the new source destination,
+  and no horizontal document overflow.
+- This branch validation is not a deployment or a check of the live domain.
+
 ## Approved single-page edition — 2026-09-18
 
 - The repository copy matches the approved preview byte-for-byte.
