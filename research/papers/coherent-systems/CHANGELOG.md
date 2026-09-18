@@ -69,7 +69,8 @@ During line review, the author flagged “relevant authority” in the accepted
 actionable-route passage as too broad. The proposed revision now refers to an
 identified person or body with defined responsibility, accountable decision
 scope, and practical capacity to act on the specific constraint. It does not
-assume that such an actor always exists.
+assume that such an actor always exists. The author accepted the narrowed
+wording during line review.
 
 ## v0.1-dev — 2026-09-18 — Repository-structure rescue
 
