@@ -1,6 +1,6 @@
 # Local validation — 2026-09-16
 
-## Root Sequence name explanation candidate — 2026-09-18
+## Approved Root Sequence name explanation — 2026-09-18
 
 - The About section includes a compact explanation of “root,” “sequence,” and
   the question formed by the name, followed by a direct link to the canonical
@@ -8,12 +8,10 @@
 - The canonical destination exists on the research repository's `main` branch.
 - A fresh preview build completed with source digest
   `cdf268f194aea69f1bee65dfdb6f3b1afd8e52a0dcff4a1069cfb1cbc419997d`.
-- Ten of eleven publication tests pass. The remaining test is the expected
-  exact-approval mismatch: the candidate HTML has SHA-256
-  `08a1ce67f37f3db55e235cb3703bcdb552deead2ffd4aafd6cd732f69b384356`,
-  while `approval.json` still records the prior approved page.
-- The release build is blocked as intended until the exact candidate is
-  approved.
+- Rae Lovejoy approved the exact candidate with HTML SHA-256
+  `08a1ce67f37f3db55e235cb3703bcdb552deead2ffd4aafd6cd732f69b384356`.
+- All eleven publication tests pass, including the exact approval gate.
+- Fresh preview and approved release builds complete successfully.
 - Browser checks at 1280 × 720 and 390 × 844 found the new heading, copy, and
   canonical link. Both layouts were visually inspected, and the narrow layout
   had no horizontal document overflow.

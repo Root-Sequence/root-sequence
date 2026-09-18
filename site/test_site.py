@@ -16,7 +16,7 @@ from xml.etree import ElementTree as ET
 
 
 HERE = Path(__file__).resolve().parent
-APPROVED_PREVIEW_SHA256 = "0fe3a3a228e75c7d30d73061a48409a971c0070b46e20f907c6d1e8979d5ca62"
+APPROVED_PREVIEW_SHA256 = "08a1ce67f37f3db55e235cb3703bcdb552deead2ffd4aafd6cd732f69b384356"
 spec = importlib.util.spec_from_file_location("site_builder", HERE / "build.py")
 builder = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(builder)
@@ -173,6 +173,9 @@ class PublicationTests(unittest.TestCase):
             "Intelligence here includes human reasoning, machine intelligence",
             "Root Sequence is an independent project started by",
             "https://github.com/raelovejoy",
+            "Why “Root Sequence”?",
+            "What conditions made this possible, and what does it make possible next?",
+            "https://github.com/Root-Sequence/root-sequence/blob/main/concepts/root-sequence.md",
             "Selected research and writing",
             "Intelligence Ecology",
             "Events, patterns, and scale",

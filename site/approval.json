@@ -1,7 +1,7 @@
 {
-  "source_sha256": "7d009d9ea493e09db848823a399c9df8d7eebb4334b86aabc7c5343b89afebc3",
-  "approved_preview_sha256": "0fe3a3a228e75c7d30d73061a48409a971c0070b46e20f907c6d1e8979d5ca62",
+  "source_sha256": "cdf268f194aea69f1bee65dfdb6f3b1afd8e52a0dcff4a1069cfb1cbc419997d",
+  "approved_preview_sha256": "08a1ce67f37f3db55e235cb3703bcdb552deead2ffd4aafd6cd732f69b384356",
   "approved_by": "Rae Lovejoy",
   "approved_at": "2026-09-18",
-  "scope": "The current single-file preview, including the six-item Selected Research section, the Being Human(e): An Incomplete Guide project entry, and the canonical Concepts link for Legible Systems, plus the mechanical publication-state substitutions defined in build.py."
+  "scope": "The current single-file preview, including the Why Root Sequence name explanation and its canonical concept link, the six-item Selected Research section, the Being Human(e): An Incomplete Guide project entry, and the canonical Concepts link for Legible Systems, plus the mechanical publication-state substitutions defined in build.py."
 }

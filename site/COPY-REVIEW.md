@@ -1,6 +1,6 @@
 # Website copy review: September 16, 2026
 
-## Review candidate: name explanation — September 18, 2026
+## Approval update: name explanation — September 18, 2026
 
 The current candidate adds a short **Why “Root Sequence”?** passage to the
 About section. It explains the two parts of the name, states the question they
@@ -13,9 +13,8 @@ The candidate HTML has SHA-256
 The combined publisher-and-page source digest is
 `cdf268f194aea69f1bee65dfdb6f3b1afd8e52a0dcff4a1069cfb1cbc419997d`.
 
-This candidate has not yet been approved. The prior receipt remains in
-`approval.json`, so the release safety check is expected to block publication
-until Rae approves this exact wording and digest.
+Rae Lovejoy approved this exact website name explanation on 2026-09-18.
+`approval.json` is tied to this candidate's source and preview digests.
 
 ## Approval update: expanded Selected Research — September 18, 2026
 
