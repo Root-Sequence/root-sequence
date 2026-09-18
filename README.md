@@ -48,6 +48,7 @@ The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Frui
 ## 📂 Repository map
 
 - [`site/`](site/README.md) — reader-facing Public Seed website source; not a replacement for research or the Wiki
+- [`research/`](research/README.md) — versioned synthesis papers; underlying concepts and evidence retain their canonical homes
 - [`founding-texts/`](founding-texts/README.md) — founding texts, early models, manifestos, normative essays, and historical orientations
 - [`systems/`](systems/README.md) — analytical principles, models, and methods for understanding system behavior
 - [`concepts/`](concepts/README.md) — shared definitions, cross-project frameworks, design principles, and methods
@@ -69,6 +70,7 @@ The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Frui
 Suggested entry points:
 
 - [Public Seed website source](site/README.md) — approved single-page introduction, publication workflow, and deployment records
+- [Coherence Is a Systems Property](research/papers/coherent-systems/README.md) — v0.1-dev living-paper scaffold; AI-assisted and awaiting author review
 - [Ecosystem Map](ECOSYSTEM.md) — understand the wider project family  
 - [Root Sequence Wiki](https://github.com/Root-Sequence/wiki) — browse terms, phrases, projects, provenance, and conceptual archaeology  
 - [Idea Trails](IDEA_TRAILS.md) — understand the recurring questions and how each project transforms them  
