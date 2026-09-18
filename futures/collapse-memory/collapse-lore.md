@@ -1,5 +1,8 @@
 # 🗺 Collapse Lore
 
+**Document role:** Fictional and poetic fragments<br>
+**Status:** Exploratory / non-canonical<br>
+
 > *“What survives collapse is not just skill, but story.”*
 
 This file contains fragments—quotes, chants, stories, and rituals—collected or composed to carry memory through the cracks. 

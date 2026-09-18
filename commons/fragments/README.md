@@ -15,6 +15,9 @@ Fragments are the raw soil of the Root Sequence: messy, recursive, fertile.
 * 🗣 [not-mine-just-heard.md](not-mine-just-heard.md) — overheard reflections, collective thoughts  
 * 🌀 [psych-cycleogy.md](psych-cycleogy.md) — emotional systems and recursive loops  
 * 🤝 [we-are-all-each-other.md](we-are-all-each-other.md) — interdependence and identity beyond separation  
+* 🌈 [joy.md](joy.md) — joy as a signal of resonance
+* 🎲 [play.md](play.md) — improvisation as a way to practice freedom
+* 🛠 [repair.md](repair.md) — technical and social repair as care infrastructure
 
 *(Others may be added as compost accumulates.)*
 

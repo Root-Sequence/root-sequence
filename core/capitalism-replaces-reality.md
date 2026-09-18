@@ -1,5 +1,8 @@
 # 🧠 Capitalism Replaces Reality
 
+**Document role:** Interpretive core essay<br>
+**Status:** Exploratory / evidence review needed<br>
+
 > *“Self-limitation is not a personal failing—it’s a designed feature.”*
 
 ---
@@ -92,6 +95,6 @@ To reclaim reality is to remember:
 
 **This document is compost. Remix it. Reseed it. Reclaim reality.**
 
-## References
+## Evidence work still needed
 
-[^1]: Source placeholder. Replace with relevant references.
+This essay makes philosophical and political claims rather than reporting a completed evidence review. Future revisions should source the historical and institutional claims, identify where the language is metaphorical, and include competing explanations.

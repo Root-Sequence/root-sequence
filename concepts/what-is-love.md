@@ -1,5 +1,8 @@
 # $ whatis love
 
+**Document role:** Working definition<br>
+**Status:** Exploratory<br>
+
 Love is not a reward. It's not earned or deserved. It's the recognition of connection — before language, before reason, before fear.  
 It is what remains when the walls fall away. A verb, a current, a force that moves through the gaps.
 
@@ -15,8 +18,4 @@ To love is to say: *you are not a function*. You are not your utility. You are n
 
 Love is not an escape from the world. It’s what lets us stay in it, stay human, and dream of something more.
 
-→ See also: [what-is-connection.md](what-is-connection.md), [what-is-liberation.md](what-is-liberation.md), [we-are-all-each-other.md](../fragments/we-are-all-each-other.md)
-
-## References
-
-[^1]: Source placeholder. Replace with relevant references.
+→ See also: [What Is Connection](what-is-connection.md), [What Is Liberation](what-is-liberation.md), and [We Are All Each Other](../commons/fragments/we-are-all-each-other.md).

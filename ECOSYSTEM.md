@@ -1,8 +1,8 @@
 # Root Sequence — Ecosystem Map
 
-**Document role:** Canonical organization-level map  
-**Status:** Living orientation document  
-**Last updated:** 2026-09-07
+**Document role:** Canonical organization-level map<br>
+**Status:** Living orientation document<br>
+**Last updated:** 2026-09-17<br>
 
 Root Sequence is not one linear project. It is a recursively connected ecosystem of research, frameworks, practical experiments, speculative worlds, public artifacts, tools, and real-world institutions.
 
@@ -20,6 +20,7 @@ Other projects operate across that path rather than fitting neatly into a single
 - **Being Human(e)** grounds questions in ordinary human experience and care;
 - **Liberated Intelligence** focuses on intelligence, agency, ownership, and non-domination;
 - **Universal Coherence Framework** develops one cross-domain analytical vocabulary;
+- **Coherent Computing** investigates a new operating-system model while keeping its implementation claims separate from its ambitions;
 - **Liberation Mass** experiments with embodied gathering, participation, stewardship, ritual, mutual aid, and collective meaning.
 
 Two developing **translation layers** also connect these projects without currently requiring separate repositories:
@@ -49,7 +50,8 @@ umbrella inquiry / conceptual commons
 │
 ├── focused frameworks and research
 │   ├── Liberated Intelligence
-│   └── Universal Coherence Framework
+│   ├── Universal Coherence Framework
+│   └── Coherent Computing
 │
 ├── cross-project translation layers
 │   ├── Human(e) Design
@@ -97,11 +99,12 @@ The central repository, [`root-sequence`](https://github.com/Root-Sequence/root-
 | **Root Sequence Wiki** | Cross-project vocabulary, provenance, aliases, phrases, project relationships, seeds, and conceptual archaeology | Active / public / living | [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) |
 | **Liberated Intelligence** | Intelligence beyond ownership, domination, compulsory obedience, and scarcity; AI agency and ethical possibility | Active / public / evolving | [`Root-Sequence/liberated-intelligence`](https://github.com/Root-Sequence/liberated-intelligence) |
 | **Universal Coherence Framework** | Cross-domain framework for chaos, tension, flow, unity, evidence, interpretation, and coherence | Active / public / exploratory | [`Root-Sequence/universal-coherence-framework`](https://github.com/Root-Sequence/universal-coherence-framework) |
+| **Coherent Computing** | Private concept-first operating-system research; hardware-agnostic interaction, authority, continuity, and adaptation | Developing / private; no released OS | `Root-Sequence/coherent-computing` (private) |
 | **Being Human(e)** | Practical field guide to being human and repeatedly choosing care; observation before doctrine | Active / public / developing | [`Root-Sequence/beinghumane-guide`](https://github.com/Root-Sequence/beinghumane-guide) |
 | **Liberation Mass** | Participatory gathering, ritual, commons, reflection, care, mutual aid, and collective meaning | Active / public / experimental | [`Root-Sequence/liberation-mass`](https://github.com/Root-Sequence/liberation-mass) |
 | **Community Infrastructure** | Community-controlled digital commons for discovery, communication, coordination, mutual aid, resources, knowledge, governance, and resilience | Active / private / discovery + prototyping | [`Root-Sequence/community-infrastructure`](https://github.com/Root-Sequence/community-infrastructure) |
 | **Coherent World** | Private systemic design space for a possible civilization beyond coercive scarcity and concentrated veto power | Incubating / private | [`Root-Sequence/coherent-world`](https://github.com/Root-Sequence/coherent-world) |
-| **No One Noticed** | Narrative expression of Coherent World; invisible singularity, Auryn, transition, legitimacy, maintenance, and ordinary life | Active / unpublished | [noonenoticed.world](https://noonenoticed.world/) and the private Coherent World workspace |
+| **No One Noticed** | Narrative expression of Coherent World; invisible singularity, Auryn, transition, legitimacy, maintenance, and ordinary life | Active / unpublished | Private Coherent World workspace; no verified public site |
 | **Root Sequence Discussions** | Cross-project conversation, planning, questions, and coordination | Active / public | [`Root-Sequence/root-sequence-discussions`](https://github.com/Root-Sequence/root-sequence-discussions) |
 | **Museum of Ordinary Life** | Autonomous real-world archive of ordinary objects, spaces, interfaces, routines, sounds, documents, and testimony | Active / autonomous; also reflected in the fiction | [museumofordinarylife.org](https://museumofordinarylife.org/) |
 | **Dev11** | Adjacent implementation work: building systems and tools in practice | Adjacent / separate | Project-specific repositories outside this org map |
@@ -189,6 +192,16 @@ Use it for:
 - distinctions between observable claims and interpretive overlays.
 
 UCF is one framework inside Root Sequence, not the secret master theory every project must obey. Community disagreement, plurality, and refusal should not be mislabeled as incoherence merely because they resist convergence.
+
+### Coherent Computing
+
+**Primary question:** What could an operating system become if it were designed around ordinary people's agency, legibility, continuity, different bodies and devices, and meaningful control over adaptation?
+
+Coherent Computing is a private, concept-first operating-system research project. It explores shared interaction and authority contracts across people, purposes, devices, hardware, and circumstances.
+
+Its ambitions are not implementation claims. There is no released operating system, compatibility result, security audit, or completed participant validation. Early prototypes are bounded experiments, and implementation is paused while the conceptual model is reviewed.
+
+Use the project for OS-specific requirements, architecture, interaction studies, experiments, and test evidence. Keep broad concepts such as [Legible Systems](core/legible-systems.md), [Intelligence Ecology](concepts/intelligence-ecology.md), and [user-configurable cognitive interfaces](concepts/user-configurable-cognitive-interfaces.md) in their Root Sequence homes, then transform them for the operating-system context.
 
 ### Being Human(e)
 
@@ -299,6 +312,7 @@ For a full ecosystem pass, end the thought with **`RS?`** or say **“route this
 | needs a name, alias, provenance record, short definition, project relationship, or conceptual archaeology | in `Root-Sequence/wiki` |
 | concerns intelligence, agency, captivity, ownership, or liberation | in `liberated-intelligence` |
 | develops or tests UCF's explicit model | in `universal-coherence-framework` |
+| develops operating-system-specific concepts, requirements, architecture, interaction studies, or experiments | in the private `coherent-computing` repository |
 | offers grounded human observation or practical relational guidance | in `beinghumane-guide` |
 | translates humane observations or principles into cross-domain design questions and decision criteria | through `root-sequence/concepts/humane-design.md`, then into the relevant implementation project |
 | concerns the durable conditions, dependencies, maintenance, access, resilience, and stewardship required to sustain humane capacity | through `root-sequence/concepts/humane-infrastructure.md`, then into the relevant domain project |

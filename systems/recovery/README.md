@@ -28,6 +28,13 @@ Fragility describes the condition.
 Cascades describe the spread.
 Recovery describes the response.
 
+## In this folder
+
+- [`model.md`](model.md) defines recovery terms and properties.
+- [`paths.md`](paths.md) distinguishes restoration, rollback, redundancy, rerouting, graceful degradation, rebuilding, repair, and knowledge recovery.
+
+Homelab, identity, and social applications remain planned directions. They should become pages only when a worked example exists.
+
 ## Questions
 
 What remains when the primary path fails?

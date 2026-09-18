@@ -2,11 +2,17 @@
 
 *A scenarios map for technofeudal trajectories — and how to outgrow them.*
 
+**Document role:** Scenario map and proposal collection<br>
+**Status:** Exploratory / evidence review needed<br>
+**Evidence boundary:** This page mixes diagnosis, warning, proposal, and metaphor. It is not a forecast or practical emergency guide. Specific claims and timelines need source-level review before reuse as established findings.<br>
+
 ---
 
 ## Why this map exists
 
-Collapse signals (ecology, inequality, institutional failure) point to a hard horizon in the **2040s** (see studies such as *Limits to Growth* and subsequent validations). The same practices that help us survive worsening shocks also seed systems that can **replace** technofeudalism. Survival and liberation are the **same work**.
+This map asks how ecological stress, inequality, institutional failure, and platform concentration could interact over the coming decades. It uses the **2040s as a scenario horizon**, not a predicted collapse date. A prior draft connected that horizon to *Limits to Growth* and later commentary without documenting the chain of evidence; that comparison remains research work, not support for a hard deadline.
+
+The page's central proposal is that some practices that help communities survive worsening shocks can also build alternatives to enclosure and concentrated control. Whether those practices scale, endure, or produce new forms of domination remains open.
 
 ---
 
@@ -27,16 +33,6 @@ Technofeudalism enforces scarcity not because resources are lacking, but because
 * Platforms and apps step in to monetize this isolation, selling “connection” while preventing rooted community.
 
 Housing precarity doesn’t just drain wallets — it dissolves the very fabric of community, leaving people isolated and easier to exploit.
-
-### Abundance vs. Scarcity
-
-* We live in an **age of abundance**: materially there is enough for all.
-* Scarcity today is largely **artificial** — enforced by enclosure, markets, and rents.
-* Humans and nature once treated as **resources** are now treated as **assets**, stripped and hoarded.
-* Infinite growth on a finite planet creates collapse, while denying people stability or dignity.
-* A liberated system could sustain everyone with better, more durable, more joyful technology — without the churn of artificial scarcity.
-
----
 
 ## Part I — Inside the Castle: Likely Trajectories if Nothing Changes
 
@@ -94,12 +90,13 @@ Housing precarity doesn’t just drain wallets — it dissolves the very fabric 
 
 ### Abundance vs. Scarcity
 
-* We already live in an **age of abundance**: the planet produces enough food, resources, and tech for all.
-* Scarcity today is mostly **artificial** — enforced by economics, supply/demand games, and enclosure.
-* Capitalism shifted humans and nature from **resources** to **assets**, and technofeudalism strips even our data, attention, and identities as property streams.
-* Infinite growth on a finite planet has led to climate collapse, inequality, and alienation — all avoidable if abundance had been shared.
-* A liberated commons could build the same or better technologies — modular, repairable, sustainable — without the churn of artificial scarcity.
-* **Jobs** as compulsory survival would dissolve; automation and voluntary care/creativity could thrive.
+This draft treats **abundance** as sufficient capacity for a dignified life, not unlimited consumption.
+
+* Many forms of scarcity are produced or intensified by enclosure, unequal distribution, market access, waste, and rent. Others are material, ecological, geographic, seasonal, or technical.
+* Turning land, housing, infrastructure, data, attention, and identity into appreciating assets can make access more precarious even when physical or technical capacity exists.
+* Infinite growth is incompatible with finite ecological conditions. A credible abundance proposal must therefore address limits, maintenance, care, conflict, access, and distribution.
+* A liberated commons could test more durable, repairable, and shared technologies without assuming every community has equal starting resources.
+* Reducing survival's dependence on compulsory employment could create more room for care, creativity, rest, and voluntary contribution. It would not make necessary labor or coordination disappear.
 
 **Links back:** scarcity as control → abundance liberated · futile‑ism → fertile‑ism
 
@@ -252,12 +249,12 @@ Together, they form an ecosystem of liberation — interdependent, regenerative,
 
 ---
 
-## Part V — Story & Symbols (to Keep Us Oriented)
+## Part VI — Story & Symbols (to Keep Us Oriented)
 
 * **They enclose. We liberate.**
 * **From surfing to serf‑ing** → back to surfing: rebuild open currents.
 * **Futile‑ism** → fertile‑ism: from depletion to regeneration.
-* **Liberation Sequence**: a roadmap across repos — Free Systems → Liberated Systems → Liberated Intelligence.
+* **Liberation Cycle**: the recurring movement described in the [Root Sequence framework](../core/framework.md), not a fixed roadmap every project must follow.
 
 ---
 
@@ -266,11 +263,11 @@ Together, they form an ecosystem of liberation — interdependent, regenerative,
 ### A. Cross‑links
 
 * See: [`technofeudalism.md`](../analysis/technofeudalism.md) (system map — diagnosis of the present, links directly to `futures.md` at the 2040 cliff)
-* See: `internet.md` (history of enclosure — surfing → serf‑ing → back to surfing)
-* See: `money_pipeline.md` (tribute economics — how capital flows as rents)
-* See: `dark_enlightenment.md` (ideology and politics — Yarvin, fascism, MAGA)
-* See: [`resistance.md`](./resistance.md) (tactics and strategies — mutual aid, repair, co‑ops)
-* See: `cloudalism.md` (infrastructure as feudal land — AWS, Azure, Google Cloud)
+* See: [`internet.md`](../analysis/internet.md) (history of enclosure — surfing → serf‑ing → back to surfing)
+* See: [`money_pipeline.md`](../analysis/money_pipeline.md) (tribute economics — how capital flows as rents)
+* See: [`dark_enlightenment.md`](../ideology/dark_enlightenment.md) (neoreaction, private sovereignty, and the competence alibi)
+* See: the [`commons/`](../commons/README.md) and [`collapse-practices.md`](collapse-practices.md) for mutual aid, repair, rehearsal, and alternatives
+* See: [`cloudalism.md`](../analysis/cloudalism.md) (infrastructure as controlled digital territory)
 
 ### B. Further Reading (starter set)
 
@@ -285,6 +282,6 @@ Together, they form an ecosystem of liberation — interdependent, regenerative,
 **Thesis:** The practices that keep us alive are the practices that make us free. Build the commons now.
 
 
-## References
+## Evidence work still needed
 
-[^1]: Source placeholder. Replace with relevant references.
+The starter reading list is not yet a bibliography. A research pass should connect each major historical, economic, ecological, and technical claim to a specific source, include competing interpretations, and separate existing examples from proposed futures.

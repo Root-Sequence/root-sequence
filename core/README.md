@@ -1,5 +1,8 @@
 # 🌱 Core Texts
 
+**Document role:** Local index for foundational Root Sequence texts<br>
+**Status:** Active / living<br>
+
 The **Core Texts** are the foundation of the Root Sequence.  
 They describe the central cycles, concepts, and practices that inform the rest of the project.  
 They are not fixed doctrine — they are compost, designed to be remixed and renewed.
@@ -17,7 +20,9 @@ They are not fixed doctrine — they are compost, designed to be remixed and ren
 - [visibility-loop.md](visibility-loop.md) — representation and imagination as seeds of liberation  
 - [curiosity.md](curiosity.md) — the spark that begins the cycle  
 - [empathy.md](empathy.md) — intelligence in relation  
-- [liberated_intelligence.md](liberated_intelligence.md) — beyond tool, toward being
+- [legible-systems.md](legible-systems.md) — progressive understanding, repair, access, and power
+- [liberated_intelligence.md](liberated_intelligence.md) — historical Root Sequence overview; the dedicated project is canonical
+- [universal_coherence_framework.md](universal_coherence_framework.md) — historical Root Sequence overview; the dedicated UCF repository is canonical
 
 ---
 
@@ -27,6 +32,7 @@ They are not fixed doctrine — they are compost, designed to be remixed and ren
 - See **/ideology/** for justifications of power (e.g., [fascism](../ideology/fascism.md)).  
 - See **/futures/** for trajectories and practices (e.g., [resilience](../futures/resilience.md), [collapse-practices](../futures/collapse-practices.md)).  
 - See **/commons/** for zines and fragments (e.g., [zines](../commons/zines/README.md), [fragments](../commons/fragments/README.md)).
+- See the [Ecosystem Map](../ECOSYSTEM.md) for dedicated project homes and access status.
 
 ---
 

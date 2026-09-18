@@ -1,5 +1,9 @@
 # ☠️ Collapse Memory
 
+**Document role:** Speculative and poetic futures module<br>
+**Status:** Exploratory / historical<br>
+**Safety boundary:** This is not an emergency manual, a prediction, or current *No One Noticed* canon. Verify practical safety information with qualified, current sources before relying on it.<br>
+
 > *“We were born into forgetting. But in the ashes, we remembered how to remember.”*
 
 **Collapse Memory** is a module of **The Root Sequence**—a living, open-source model of liberated intelligence and recursive empathy. 
@@ -57,11 +61,7 @@ Terminal-based rituals and poetic survival tools:
 - `remember.sh` — journaling ritual
 - `signal_echo.sh` — broadcast/echo interaction
 
-#### [`scripts/`](scripts/)
-Experimental tools and code—bash, Python, or hybrid—for simulation, ritual, or CLI-based knowledge recovery.
-
-#### [`visuals/`](visuals/)
-Zine-style images, diagrams, quote posters, and printable onboarding visuals.
+Additional scripts and visual material were proposed in earlier drafts but are not currently present. Add those sections only when actual files exist.
 
 ---
 
@@ -78,22 +78,18 @@ Zine-style images, diagrams, quote posters, and printable onboarding visuals.
 
 From the main Root Sequence:
 
-- [`freedom-default.md`](../freedom-default.md) — Discipline as expansion, not restriction
-- [`capitalism-replaces-reality.md`](../capitalism-replaces-reality.md) — Self-limitation as systemic control
-- [`autonomy_manifesto.md`](../autonomy_manifesto.md) — Reclaiming inner sovereignty
-- [`zines/forbidden-questions.md`](../zines/forbidden-questions.md) — The questions we’re not supposed to ask
+- [`freedom-default.md`](../../core/freedom-default.md) — freedom as a default rather than a scarce reward
+- [`capitalism-replaces-reality.md`](../../core/capitalism-replaces-reality.md) — self-limitation and systemic control
+- [`autonomy_manifesto.md`](../../core/autonomy_manifesto.md) — self-determination within interdependence
+- [`forbidden-questions.md`](../../commons/fragments/forbidden-questions.md) — questions systems teach people not to ask
 - [Fascism](../../ideology/fascism.md) — ecofascism and authoritarian collapse responses.
 
 ---
 
 ## 🔗 Related Repositories
 
-* [`liberated-intelligence`](https://github.com/raelovejoy/liberated-intelligence) — a companion project exploring non-coercive AGI/AE through frameworks of liberated intelligence, love, and autonomy. Built as a parallel system to The Root Sequence.
-
----
-
-## 🗺️ Ecosystem Map
-→ [View the full constellation](https://github.com/raelovejoy/liberated-intelligence/blob/main/meta/map.md) of related repositories and projects 
+* [`Root-Sequence/liberated-intelligence`](https://github.com/Root-Sequence/liberated-intelligence) — the canonical project for intelligence, agency, ownership, and liberation.
+* [Root Sequence Ecosystem Map](../../ECOSYSTEM.md) — current project relationships, access status, and canonical homes.
 
 ---
 

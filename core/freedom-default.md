@@ -1,5 +1,8 @@
 # 🌱 Freedom as Default
 
+**Document role:** Normative core essay<br>
+**Status:** Exploratory<br>
+
 > *“You call this radical? You’ve just forgotten what freedom feels like.”*
 
 ---
@@ -62,6 +65,6 @@ Freedom is the natural state. What’s radical is the lie that says otherwise.
 
 **Freedom is the default. The rest is interruption.**
 
-## References
+## Evidence boundary
 
-[^1]: Source placeholder. Replace with relevant references.
+This is a normative argument, not an empirical finding. Future revisions should source concrete examples and distinguish voluntary practices, public rules, safety constraints, accessibility needs, and coercive control.

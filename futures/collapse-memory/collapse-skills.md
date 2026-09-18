@@ -1,5 +1,9 @@
 # 🛠 Collapse Skills
 
+**Document role:** Speculative skill inventory<br>
+**Status:** Exploratory / requires practical review<br>
+**Safety boundary:** Inclusion here is not training or medical, survival, electrical, radio, or building guidance. Use current qualified instruction for real-world practice.<br>
+
 > *"Skills are stored memory. Keep them alive, and memory survives the fall."*
 
 This is a curated, open-ended list of practical and relational skills that become essential in a post-capitalist, post-collapse context. 

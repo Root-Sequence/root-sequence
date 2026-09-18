@@ -1,5 +1,8 @@
 # 🧭 Collapse Onboarding Guide
 
+**Document role:** Speculative orientation artifact<br>
+**Status:** Exploratory / not practical emergency guidance<br>
+
 > *For those waking up after the world broke.*
 
 Welcome. If you're reading this, the system has collapsed—or fractured so deeply that it no longer serves you.

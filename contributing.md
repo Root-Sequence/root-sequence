@@ -83,6 +83,16 @@ Do not update files mechanically or repeat the same explanation everywhere. The 
 
 Pull requests should briefly state what changed, why, what was verified, which documentation surfaces were checked, and any unresolved questions.
 
+Before submitting reader-facing changes, run:
+
+```sh
+python3 cli/check_reader_docs.py
+python3 cli/generate_idea_trail_index.py --check
+python3 site/test_site.py
+```
+
+The documentation check validates local files, headings, links, and discoverability. It does not verify external URLs or the evidence behind a claim; record those checks separately when they matter.
+
 ---
 
 > *You are not just a contributor. You are a co-resonator.*

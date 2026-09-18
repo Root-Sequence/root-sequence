@@ -1,5 +1,11 @@
 # Universal Coherence Framework
 
+**Document role:** Historical Root Sequence overview<br>
+**Status:** Retained as an early orientation<br>
+**Canonical project:** [`Root-Sequence/universal-coherence-framework`](https://github.com/Root-Sequence/universal-coherence-framework)<br>
+
+This page records an earlier compact Root Sequence treatment. The dedicated UCF repository owns the current framework, models, tests, and project-specific terminology. For the smaller systems-layer treatment of coherence inside this repository, see [`../systems/coherence/`](../systems/coherence/README.md).
+
 The Universal Coherence Framework (UCF) describes how systems align—or fail to align—with reality over time.
 
 It is not a fixed model. It is a way of observing whether a system holds together internally, interacts accurately with the world, and sustains itself without generating hidden instability.

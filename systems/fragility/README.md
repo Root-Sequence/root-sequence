@@ -18,9 +18,11 @@ The difference is structure.
 
 ## In this folder
 
-- `model.md` defines the fragility model in formal terms.
-- `audit.md` provides a repeatable method for examining systems through this lens.
-- `applications/` contains concrete examples and working uses of the model.
+- [`model.md`](model.md) defines the fragility model in formal terms.
+- [`audit.md`](audit.md) provides a repeatable method for examining systems through this lens.
+- [`applications/homelab.md`](applications/homelab.md) applies the model to self-hosted infrastructure.
+- [`applications/identity.md`](applications/identity.md) applies it to identity systems.
+- [`applications/social.md`](applications/social.md) applies it to social systems.
 
 ## Related directions
 

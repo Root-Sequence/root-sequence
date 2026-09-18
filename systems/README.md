@@ -93,6 +93,7 @@ The developed emergence branch includes:
 - [`recovery/`](recovery/) — restoration, transformation, continuity, and post-failure learning.
 - [`relationships/`](relationships/) — relational structure and interaction as system conditions.
 - [`technology/`](technology/) — technical systems as material, institutional, and social arrangements.
+- [`resilience-and-graceful-degradation.md`](resilience-and-graceful-degradation.md) — preserving important capabilities through stress, dependency loss, and reduced modes.
 
 Some branches are more developed than others. A directory name is not evidence that its model is complete.
 

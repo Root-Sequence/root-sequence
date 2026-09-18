@@ -10,9 +10,9 @@ Existing research files remain the home of the full arguments. The standalone Wi
 - `build.py`: offline static builder using the Python standard library.
 - `style.css`: responsive light, dark, and print styles using local fonts.
 - `test_site.py`: 17 checks for publishing controls, links, source boundaries, and selected writing patterns.
-- `AGENTS.md`: writing and page-structure instructions for future edits.
-- `COPY-REVIEW.md`: the latest copy and layout review.
-- `VALIDATION.md` and `PLACEMENT.md`: historical records of the initial build and integration.
+- [`AGENTS.md`](AGENTS.md): writing and page-structure instructions for future edits.
+- [`COPY-REVIEW.md`](COPY-REVIEW.md): the latest copy and layout review.
+- [`VALIDATION.md`](VALIDATION.md) and [`PLACEMENT.md`](PLACEMENT.md): historical records of the initial build and integration.
 
 Maturity, evidence, and publication status remain separate. Page history and development labels are available under About this page. Source links remain below the reading text.
 

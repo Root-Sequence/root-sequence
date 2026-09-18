@@ -1,5 +1,8 @@
 # 🕯️ Capitalist Myths (Collapse Memory Fragment)
 
+**Document role:** Poetic futures fragment<br>
+**Status:** Exploratory<br>
+
 > *“In the Before, they worshipped jobs. They called it dignity. They forgot what it meant to live.”*
 
 ---

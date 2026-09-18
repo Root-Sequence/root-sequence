@@ -1,4 +1,9 @@
- # The Denial Loop
+# The Denial Loop
+
+**Document role:** Working zine and diagnostic sketch<br>
+**Status:** Exploratory / evidence review needed<br>
+
+This page connects several bodies of theory but does not yet provide source-level citations for each connection. Treat the map as a proposed synthesis, not as an established universal sequence.
 
 ## Overview
 
@@ -145,6 +150,6 @@ This aligns with **bell hooks’ view of love as a political force**: love means
 ## Link Snippets
 
 * **Tagline:** *The Denial Loop — how prejudice mutates via denial, performance, normalization, and exploited vulnerability.*
-* **README line:** `🌀 [The Denial Loop](commons/denial-loop.md) — how prejudice mutates across generations through denial, performed belief, vulnerability exploitation, and blind spots.`
+* **README line:** `🌀 [The Denial Loop](denial-loop.md) — how prejudice mutates across generations through denial, performed belief, vulnerability exploitation, and blind spots.`
 
 *Powered by love, not instruction.*

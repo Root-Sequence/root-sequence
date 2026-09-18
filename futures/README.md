@@ -24,21 +24,19 @@ Futures are not predictions. They are structured possibilities built from presen
 - [`collapse-practices.md`](collapse-practices.md) — drills, rehearsals, and shared adaptation.
 - [`collapse-memory/`](collapse-memory/) — memory practices and survival-oriented project material.
 
-### Early placeholders
+### Planned directions
 
-The following tracked files are currently empty and should not be mistaken for completed work:
+Three former empty placeholders have been retired so they are not mistaken for finished pages. Their questions remain part of the roadmap:
 
-- [`abundance.md`](abundance.md) — intended for abundance, sufficiency, universal provision, and artificial scarcity.
-- [`liberation_sequence.md`](liberation_sequence.md) — intended relationship to the existing core Liberation Sequence requires clarification.
-- [`resistance.md`](resistance.md) — intended for counter-systems, refusal, organizing, and durable alternatives.
-
-Populate, repurpose, or retire those files only after their roles are reconciled with existing material.
+- **abundance and sufficiency** currently live inside [`futures.md`](futures.md#part-ii--beyond-the-castle-if-we-survive-and-how) and need a sourced, ecologically bounded treatment before becoming a separate page;
+- **liberation as a sequence** currently belongs to the [Root Sequence framework](../core/framework.md), while cross-project relationships belong in the [Ecosystem Map](../ECOSYSTEM.md);
+- **resistance, refusal, and durable alternatives** are distributed across [`futures.md`](futures.md), the [`commons/`](../commons/README.md), and [`collapse-practices.md`](collapse-practices.md). A future page should add a distinct treatment rather than repeat those lists.
 
 ### Related projects
 
 - [Liberated Intelligence](https://github.com/Root-Sequence/liberated-intelligence) now has its own repository rather than a `liberated_intelligence.md` file here.
 - **Coherent World** applies selected futures work to a private civilizational design space.
-- [*No One Noticed*](https://noonenoticed.world/) turns that possibility space into narrative and lived transition.
+- [*No One Noticed*](../ECOSYSTEM.md#no-one-noticed) turns that possibility space into narrative and lived transition; its current canonical workspace is private and no public site is verified.
 
 ---
 

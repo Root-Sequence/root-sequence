@@ -134,7 +134,7 @@ Recurse.
 This framework is open-source and compostable. Remix it. Fork it. Translate it.  
 
 - License: [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)  
-- Repository: [github.com/raelovejoy/root-sequence](https://github.com/raelovejoy/root-sequence)  
+- Repository: [github.com/Root-Sequence/root-sequence](https://github.com/Root-Sequence/root-sequence)
 
 ---
 

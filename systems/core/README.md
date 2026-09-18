@@ -8,10 +8,11 @@ The goal is not to flatten everything into abstraction. The goal is to keep the 
 
 ## Current principles
 
-- `asymmetric-systems.md` -> some systems shape conditions; others adapt to them. These roles are not equivalent.
-- `misclassification.md` -> systems often mislabel what is happening in order to preserve stability.
-- `feedback-loops.md` -> repeated interactions create patterns that reinforce themselves over time.
-- `reinforcement.md` -> systems do not stabilize around truth alone; they stabilize around what gets repeated and reinforced.
+- [`asymmetric-systems.md`](asymmetric-systems.md) → some systems shape conditions; others adapt to them. These roles are not equivalent.
+- [`misclassification.md`](misclassification.md) → systems often mislabel what is happening in order to preserve stability.
+- [`feedback-loops.md`](feedback-loops.md) → repeated interactions create patterns that reinforce themselves over time.
+- [`reinforcement.md`](reinforcement.md) → systems do not stabilize around truth alone; they stabilize around what gets repeated and reinforced.
+- [`non-reversal.md`](non-reversal.md) → ending harm means interrupting its pattern rather than merely reversing who occupies each role.
 
 ## Root Sequence lens
 

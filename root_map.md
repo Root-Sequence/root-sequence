@@ -1,8 +1,50 @@
 # 🗺 Root Sequence Repository Map
 
+**Document role:** Canonical repository architecture and content-routing guide<br>
+**Status:** Active / living<br>
+**Last reviewed:** 2026-09-17<br>
+
 This file is a compass for the **`root-sequence` repository**: how its folders and conceptual flows connect.
 
 It is not the map of the entire GitHub organization. For that, use the [Root Sequence Ecosystem Map](ECOSYSTEM.md).
+
+## Information architecture
+
+Reader-facing material has five layers. Each layer has a different job:
+
+1. [`README.md`](README.md) is the front door. It explains the project and offers a small number of useful entry paths.
+2. This map explains the repository's structure, routing rules, and canonical-page conventions.
+3. [`ECOSYSTEM.md`](ECOSYSTEM.md) maps projects across the Root Sequence organization; [`IDEA_TRAILS.md`](IDEA_TRAILS.md) maps recurring questions across those projects.
+4. A directory `README.md` is the local index for that area. It should name every developed page, distinguish current work from planned work, and link back to the relevant parent.
+5. Substantive pages own definitions, arguments, methods, applications, artifacts, or records. Other pages should summarize briefly and link to that home rather than copying the treatment.
+
+Generated indexes, migration pointers, validation receipts, and historical overviews are supporting records. They must identify their role so readers do not mistake them for a second source of truth.
+
+## Canonical-page rules
+
+- Give each substantive idea one primary home at its current level of scope.
+- Keep broad, cross-domain work here. Route project-specific software, practice, research conclusions, and fiction canon to their own repositories.
+- Preserve stable paths when they have readers. If a page has moved, leave a concise pointer instead of an unexplained duplicate.
+- Link to the nearest useful destination, not merely the repository root.
+- Use relative links for files in this repository. Use full URLs only across repositories or for external sources.
+- When a page changes role, update its nearest directory index in the same change. Update this map or the root README only when the change matters at that level.
+- Never use a generated index as the place to make a substantive edit. Change its source and regenerate it.
+- Do not publish a private project's content here to repair a public navigation gap. Name the access boundary and provide a public summary only when one already exists.
+
+## Labels describe different things
+
+Do not compress every kind of status into one word.
+
+| Label | Question it answers | Examples |
+|---|---|---|
+| **Document role** | What job does this page do? | orientation, definition, framework, analysis, method, application, artifact, experiment, routing map, record |
+| **Status** | How mature or current is it? | active, developing, exploratory, proposed, historical, generated |
+| **Maturity** | How far has this version been developed or reviewed? | seed, growing, established (used by the website) |
+| **Canonical scope** | What is this page the primary home for? | repository architecture, shared concept definition, project-specific method |
+| **Evidence status** | How strongly are its claims supported? | observed, supported, hypothesis, interpretation, normative, metaphor, open |
+| **Access** | Who can follow the destination? | public, private, unpublished |
+
+`Canonical` means “the maintained primary home for this material.” It does not mean final, unquestionably true, or applicable outside the stated scope.
 
 ---
 
@@ -18,6 +60,7 @@ It is not the map of the entire GitHub organization. For that, use the [Root Seq
   - [`commons/fragments/`](commons/fragments/) — short, unfinished, poetic, or compostable material.
   - [`commons/zines/`](commons/zines/) — longer public and printable artifacts.
 - [`wiki/`](wiki/) — migration pointer to the standalone [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) repository.
+- [`site/`](site/README.md) — source for the introductory Public Seed website; it projects selected material without replacing research or the Wiki.
 - [`cli/`](cli/) — experimental scripts and tools.
 - [`assets/`](assets/) — visual material and diagrams.
 
@@ -26,6 +69,10 @@ Root-level orientation files:
 - [`README.md`](README.md) — repository introduction and entry points.
 - [`ECOSYSTEM.md`](ECOSYSTEM.md) — organization-wide project relationships and routing rules.
 - [`root_map.md`](root_map.md) — this internal repository map.
+- [`AUDIT.md`](AUDIT.md) — latest comprehensive reader-facing audit, decisions, changes, and remaining evidence work.
+- [`IDEA_TRAILS.md`](IDEA_TRAILS.md) — recurring questions across the wider ecosystem.
+- [`IDEA_TRAIL_INDEX.md`](IDEA_TRAIL_INDEX.md) — generated document browser; edit its graph source rather than the generated file.
+- [`THOUGHT_ROUTING.md`](THOUGHT_ROUTING.md) — capture and placement convention for new material.
 - [`hello-world.md`](hello-world.md) — early public orientation text.
 - [`contributing.md`](contributing.md) — contribution guidance.
 - [`license`](license) — repository license text.
@@ -61,6 +108,8 @@ What is it called,
 where is it, or how
 did it evolve?       → Root-Sequence/wiki
 ```
+
+When more than one answer seems plausible, place the full treatment at the narrowest scope that can maintain it and add short, deliberate routes from the other relevant areas.
 
 ---
 

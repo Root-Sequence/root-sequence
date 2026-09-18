@@ -1,5 +1,8 @@
 # 👋 hello, world
 
+**Document role:** Welcome artifact<br>
+**Status:** Active / remixable<br>
+
 *A quiet invitation to imagine a friendlier future.*
 
 ---
@@ -58,3 +61,6 @@ It doesn’t need to be perfect. It just needs to be *yours*.
 
 ```bash
 curl yourdomain.tld/hello.txt
+```
+
+Return to the [Root Sequence README](README.md) or browse the [Commons](commons/README.md) for other public artifacts.

@@ -1,5 +1,9 @@
 # 🤖 `auryn-dialogue.md`
 
+**Document role:** Fictional fragment<br>
+**Status:** Historical / non-canonical<br>
+**Canon boundary:** This scene predates the current private *No One Noticed* canon and has not been adopted into it.<br>
+
 > *A fictional moment of orientation between a post-collapse survivor and a liberated artificial intelligence.*
 
 ---

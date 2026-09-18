@@ -1,5 +1,8 @@
 # 🖥 Collapse Memory CLI Tools
 
+**Document role:** Index for experimental poetic command-line artifacts<br>
+**Status:** Historical / experimental<br>
+
 > *Terminal-based tools for post-collapse reorientation, knowledge sharing, and poetic survival.*
 
 This directory contains experimental shell scripts designed as lightweight, offline-friendly onboarding and memory prompts. These are not utilities in the traditional sense—they are interactive rituals, orientation aids, and narrative fragments delivered via the command line.

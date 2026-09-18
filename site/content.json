@@ -1,1 +1,879 @@
-{"title":"Root Sequence","tagline":"Research and projects","base_url":"https://rootsequence.systems","theme":"research","edition":"Public Seed / 0.1","author":"Root Sequence","footer":"Root Sequence is a project by Rae Lovejoy.","nav":[{"label":"Start here","url":"/start/","description":""},{"label":"Guides","url":"/atlas/","description":""},{"label":"Projects","url":"/projects/","description":""},{"label":"About","url":"/about/","description":""}],"projects":[{"id":"root-sequence","title":"Root Sequence","url":"https://rootsequence.systems/","role":"Research, essays, and design questions"},{"id":"wiki","title":"Root Sequence Wiki","url":"https://wiki.rootsequence.systems/","role":"Reference for names, terms, and project connections"},{"id":"coherent-world","title":"Coherent World","url":"/projects/","role":"Ideas for the society explored in the novel; in development"},{"id":"no-one-noticed","title":"No One Noticed","url":"https://noonenoticed.world/","role":"A science-fiction novel in progress by Rae Lovejoy"},{"id":"museum","title":"Museum of Ordinary Life","url":"https://museumofordinarylife.org/","role":"A real archive with a separate fictional counterpart in the book"},{"id":"community-infrastructure","title":"Community Infrastructure","url":"/projects/","role":"Community tools in the design stage"},{"id":"coherent-computing","title":"Coherent Computing","url":"/projects/","role":"Operating-system research and design; no released system yet"}],"relationships":[{"from":"root-sequence","relation":"informs","to":"coherent-world"},{"from":"wiki","relation":"describes projects related to","to":"root-sequence"},{"from":"no-one-noticed","relation":"tells a story set in","to":"coherent-world"},{"from":"community-infrastructure","relation":"explores practical questions also used by","to":"coherent-world"},{"from":"coherent-computing","relation":"develops computing ideas discussed in","to":"root-sequence"},{"from":"museum","relation":"has a separate fictional counterpart in","to":"no-one-noticed"}],"pages":[{"slug":"","title":"Root Sequence","description":"Root Sequence is Rae Lovejoy's collection of research, essays, and projects about how the systems we rely on work, and how they could work better.","sections":[{"heading":"","paragraphs":["The work covers technology, community life, public services, and the connections between them. A transport service, for example, needs more than a timetable: people have to reach it, understand it, and have another way to travel when it stops running.","You'll find short guides here, with links to longer research notes. Related projects include software designs, an archive of everyday life, and the science-fiction novel No One Noticed."],"links":[{"label":"Browse the guides","url":"/atlas/","description":"Start with an everyday example and follow the question from there."},{"label":"See the projects","url":"/projects/","description":"Find out what each project is for and how far along it is."}]},{"heading":"New here?","paragraphs":["The Start here page explains the main ideas and suggests a first guide. You don't need a background in computing or systems theory."],"links":[{"label":"Start here","url":"/start/","description":""}]},{"heading":"About the work","paragraphs":["Root Sequence is an independent project in progress. The guides introduce working ideas and questions; the linked research notes hold the longer arguments. The Wiki is a reference for project names, terms, and connections."],"links":[{"label":"About Root Sequence","url":"/about/","description":""},{"label":"Look up a term in the Wiki","url":"https://wiki.rootsequence.systems/","description":""}]}],"kind":"Orientation","epistemic_status":"Project description","maturity":"Seed","created":"2026-09-16","updated":"2026-09-16","sources":[{"label":"Root Sequence research notes on GitHub","url":"https://github.com/Root-Sequence/root-sequence/blob/main/README.md"}],"related":[]},{"slug":"start/","title":"Start here","description":"A quick introduction to Root Sequence and a few places to begin.","sections":[{"heading":"What do we mean by a system?","paragraphs":["A system is a set of things that depend on one another. A bus service includes the buses, drivers, routes, stops, maintenance, and information passengers use. Looking at these together can explain a problem that isn't obvious when you examine just one part.","Root Sequence uses this approach to ask how technology and everyday services work, whose needs they meet, and what happens when they change."],"links":[]},{"heading":"Choose a guide","paragraphs":[],"links":[{"label":"Making systems understandable","url":"/atlas/legible-systems/","description":"Explain what happened, what someone can do next, and where to find the details."},{"label":"Keeping things usable when something fails","url":"/atlas/resilience/","description":"What a backup needs to do, and how to check whether it works."},{"label":"What does coherence mean?","url":"/atlas/coherence-as-direction/","description":"How well do the parts of a system work together for the people using it?"},{"label":"Revisiting ideas that were left behind","url":"/atlas/abandoned-futures/","description":"How to investigate an old proposal without assuming it would have worked."},{"label":"Imagination and prediction","url":"/atlas/imagination-and-prediction/","description":"The difference between exploring a possibility and forecasting an outcome."}]},{"heading":"Interested in the book or another project?","paragraphs":["No One Noticed tells a story about people living through changes brought about by an advanced AI. Coherent World holds the ideas for that setting. Other projects work on archives, community tools, or computing. The projects page explains each one."],"links":[{"label":"Find a project","url":"/projects/","description":""}]},{"heading":"For contributors","paragraphs":["The research is organised in GitHub repositories, which store files and their revision history. Existing notes should be checked before adding a new one. Our thought-routing guide explains where to save ideas and how to connect them without duplicating the same text. Saving a note doesn't publish it automatically."],"links":[{"label":"How we organise new notes","url":"https://github.com/Root-Sequence/root-sequence/blob/main/THOUGHT_ROUTING.md","description":""}]}],"kind":"Orientation","epistemic_status":"Project description","maturity":"Seed","created":"2026-09-16","updated":"2026-09-16","sources":[],"related":[]},{"slug":"atlas/","title":"Guides","description":"Short introductions to the questions behind Root Sequence. Start with whichever one interests you.","sections":[{"heading":"","paragraphs":[],"links":[{"label":"What does coherence mean?","url":"/atlas/coherence-as-direction/","description":"How well do the parts of a system work together for the people using it?"},{"label":"Revisiting ideas that were left behind","url":"/atlas/abandoned-futures/","description":"How to investigate an old proposal without assuming it would have worked."},{"label":"Making systems understandable","url":"/atlas/legible-systems/","description":"Explain what happened, what someone can do next, and where to find the details."},{"label":"Keeping things usable when something fails","url":"/atlas/resilience/","description":"What a backup needs to do, and how to check whether it works."},{"label":"Imagination and prediction","url":"/atlas/imagination-and-prediction/","description":"The difference between exploring a possibility and forecasting an outcome."}]},{"heading":"About this collection","paragraphs":["We call this collection the Atlas. Each guide explains an idea in everyday language and links to the longer notes behind it. You can read them in any order.","These first guides use design examples and working definitions. They aren't a survey of all the research on each subject. Historical cases and comparisons of organisations need their own sources."],"links":[{"label":"How sources and draft labels work","url":"/about/","description":""}]}],"kind":"Orientation","epistemic_status":"Project description","maturity":"Seed","created":"2026-09-16","updated":"2026-09-16","sources":[],"related":[{"label":"About these guides","url":"/about/"}]},{"slug":"atlas/coherence-as-direction/","title":"What does coherence mean?","description":"Coherence is our word for how well the parts of a system fit together, including the effects on the people who use it.","sections":[{"heading":"A transport example","paragraphs":["Suppose a train timetable allows five minutes to change platforms. That connection works for someone who can take the stairs quickly. A passenger using the lift needs longer. The timetable looks workable until you include the route that passenger has to take.","A useful change might involve the timetable, the station layout, or the information given before the journey. Making the train faster won't, on its own, fix a missed connection."],"links":[]},{"heading":"Checking what an improvement changes","paragraphs":["In Root Sequence, looking for coherence means checking whether the parts support the service's purpose and whether a claimed improvement causes problems elsewhere. Who benefits? Who takes on extra work, cost, or risk? Those questions need answers before the change is called a success.","People can need different things from the same service. Disagreement gives us information about those differences. Agreement alone doesn't show that everyone's needs have been met.","The approach is to find a mismatch, make a change, and check what happens. A change can improve one part and make another worse. We need a way to notice that and revise the decision."],"links":[]},{"heading":"How we use the idea","paragraphs":["Coherence is a working idea here, not a score that proves a whole society is good. The purpose being measured, the people included, and the effects left out all matter.","Coherent World uses this question to develop possible arrangements for everyday life. The novel No One Noticed gives room to the people who experience those arrangements differently. Neither project assumes that change ends in a perfect, finished world."],"links":[]}],"kind":"Concept seed","epistemic_status":"Working proposal; not a validated metric","maturity":"Seed","created":"2026-09-16","updated":"2026-09-16","sources":[{"label":"Existing coherence research cluster","url":"https://github.com/Root-Sequence/root-sequence/blob/main/systems/coherence/README.md"},{"label":"Ecosystem roles","url":"https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md"}],"related":[{"label":"Making systems understandable","url":"/atlas/legible-systems/"},{"label":"Keeping things usable when something fails","url":"/atlas/resilience/"}],"provenance":"Adapted from the linked project notes and discussions. This introductory guide is still being developed."},{"slug":"atlas/abandoned-futures/","title":"Revisiting ideas that were left behind","description":"Some ideas were tried and dropped. Others never got a fair test. This guide explains how we plan to investigate them.","sections":[{"heading":"Find out what was proposed","paragraphs":["The project is interested in futures people have already imagined: ways of living, building, or organising things that didn't become commonplace. An old drawing or proposal is a starting point for research.","For each example, we need to know what was proposed, who was involved, what evidence survives, and why the work stopped. Some ideas didn't work. Others met a different need, caused harm, or faced obstacles that had little to do with their merits. Sometimes the surviving evidence won't settle the question."],"links":[]},{"heading":"Ask what would be different now","paragraphs":["A photograph can't tell us whether a design was accessible or easy to maintain. A plan that suited one community may be unwanted in another. We need to examine who would benefit today, who would carry the costs, and which conditions would have to change.","Where explanations disagree, the record should show the disagreement and its sources. We shouldn't turn a preferred explanation into a fact just because it fits the project's themes."],"links":[]},{"heading":"What this contributes to the book","paragraphs":["No One Noticed can explore how an old possibility changes a person's routine. That is fiction. A real-world claim that the same idea would work needs evidence outside the story.","Some of the ideas investigated will be worth developing. Others will offer a partial lesson or a reason to leave them behind. The research should make those differences clearer."],"links":[]}],"kind":"Research-method guide","epistemic_status":"Research questions; no case findings claimed","maturity":"Seed","created":"2026-09-16","updated":"2026-09-16","sources":[{"label":"Historical contingency: fuller working treatment","url":"https://github.com/Root-Sequence/root-sequence/blob/main/analysis/historical-contingency.md"}],"related":[{"label":"What does coherence mean?","url":"/atlas/coherence-as-direction/"},{"label":"Imagination and prediction","url":"/atlas/imagination-and-prediction/"}],"provenance":"Adapted from the linked project notes and discussions. This introductory guide is still being developed."},{"slug":"atlas/legible-systems/","title":"Making systems understandable","description":"People should be able to understand what a service or tool is doing without learning all its technical details first.","sections":[{"heading":"Explain the immediate problem","paragraphs":["Consider a file transfer that fails. The person using it needs to know whether the original file is safe, whether anything arrived, and what to do next. An error code alone doesn't answer those questions.","Someone investigating the failure will also need the exact error, time, destination, and relevant log. Those details can sit behind the short explanation, where they can be opened when needed."],"links":[]},{"heading":"Keep the details available","paragraphs":["We call this legibility: being able to understand how something works. A simple interface should still leave a route to its settings, documentation, repair instructions, and technical details. People can go as far as they need.","The same approach applies to a shared tool or a procedure at a service desk. Explain its purpose, who can make decisions, how to question a result, and what to do when it fails. The person asking shouldn't have to guess which specialist term unlocks the answer.","This doesn't require exposing anyone's private information. An explanation of a decision can describe the rules and the appeal process while protecting other people's records."],"links":[]},{"heading":"Applying it to this site","paragraphs":["A visitor should be able to tell what Root Sequence is and find something to read on their first visit. Sources, dates, and working labels are still available below each guide. The linked research notes contain the longer treatment."],"links":[]}],"kind":"Reading guide","epistemic_status":"Project design principle","maturity":"Seed","created":"2026-09-16","updated":"2026-09-16","sources":[{"label":"Legible Systems","url":"https://github.com/Root-Sequence/root-sequence/blob/main/core/legible-systems.md"}],"related":[{"label":"Keeping things usable when something fails","url":"/atlas/resilience/"},{"label":"About these guides","url":"/about/"}],"provenance":"Adapted from the linked project notes and discussions. This introductory guide is still being developed."},{"slug":"atlas/resilience/","title":"Keeping things usable when something fails","description":"A backup is useful only if it lets people do what they need to do when the usual method stops working.","sections":[{"heading":"Start with the task","paragraphs":["Suppose a meeting app stops working just before an event. Someone who saved the address and a contact number can still get there. They lose the app's convenience, but retain a way to attend.","That's the idea behind graceful degradation: some features fail while an essential task remains possible. Resilience is the broader question of how a system handles disruption and recovers."],"links":[]},{"heading":"Check the backup itself","paragraphs":["A backup can fail for the same reason as the main service. Does it need the same account, network, electricity supply, or person? Can people find it and use it? Is anyone keeping it up to date? Try the switch before relying on it.","A staffed desk or a paper instruction can also exclude people. Compare the available methods, including what each one loses, instead of assuming an older or simpler method is accessible to everyone."],"links":[]},{"heading":"The website as an example","paragraphs":["This site is built from static files: pages that a browser can open without running an application. Its internal links also work in a downloaded copy. Each edition includes a file list with hashes, which can be used to check whether those files have changed.","That makes a copy easier to inspect and move. Keeping an independent backup and testing recovery are separate jobs. The site records those tasks separately from whether a local build succeeded."],"links":[]}],"kind":"Reading guide","epistemic_status":"Design reasoning; operational verification separate","maturity":"Seed","created":"2026-09-16","updated":"2026-09-16","sources":[{"label":"Resilience and Graceful Degradation","url":"https://github.com/Root-Sequence/root-sequence/blob/main/systems/resilience-and-graceful-degradation.md"}],"related":[{"label":"Making systems understandable","url":"/atlas/legible-systems/"},{"label":"Site updates","url":"/changelog/"}],"provenance":"Adapted from the linked project notes and discussions. This introductory guide is still being developed."},{"slug":"atlas/imagination-and-prediction/","title":"Imagination and prediction","description":"Imagining what could happen and predicting what is likely to happen are different kinds of work. We need room for both.","sections":[{"heading":"Change the assumption","paragraphs":["A forecast asks what is likely under a set of assumptions. An imaginative proposal asks what becomes possible when one of those assumptions changes. In practice the two can overlap, but keeping the questions separate helps us avoid confusing possibility with likelihood.","For example, a story could explore a service that removes an everyday inconvenience. It can show what someone does with the time they've gained, what they distrust, and which relationships change. It can't establish when that service will exist or whether people will choose it."],"links":[]},{"heading":"Keep testing the idea","paragraphs":["A forecast can be useful while leaving an assumption unexamined. An imaginative idea can be interesting and still turn out to be unworkable or unwanted. Exploring an idea doesn't exempt it from questions about evidence, resources, or consequences.","For each proposal, we should record the assumption being changed, what would need to be true for it to work, and how we would discover that it doesn't. For a forecast, we also need a timeframe and a way to compare it with what happens."],"links":[]},{"heading":"Why this matters to No One Noticed","paragraphs":["The book explores one possible relationship between advanced AI and human life. It doesn't assign odds to that future. Root Sequence holds the research questions raised along the way, including alternatives the story doesn't follow.","This distinction also leaves room for imagination in research on intelligence without claiming that a particular person or AI system can predict, imagine, or understand everything."],"links":[]}],"kind":"Concept seed","epistemic_status":"Working distinction; not an AI capability claim","maturity":"Seed","created":"2026-09-16","updated":"2026-09-16","sources":[{"label":"The Visibility Loop","url":"https://github.com/Root-Sequence/root-sequence/blob/main/core/visibility-loop.md"},{"label":"Historical contingency","url":"https://github.com/Root-Sequence/root-sequence/blob/main/analysis/historical-contingency.md"}],"related":[{"label":"Revisiting ideas that were left behind","url":"/atlas/abandoned-futures/"},{"label":"No One Noticed","url":"https://noonenoticed.world/"}],"provenance":"Adapted from the linked project notes and discussions. This introductory guide is still being developed."},{"slug":"projects/","title":"Related projects","description":"Root Sequence connects several projects. Here's what each one is for and what you can expect to find.","sections":[{"heading":"Root Sequence","paragraphs":["Research, essays, and design questions about intelligence, technology, and the systems people live with. The guides on this site introduce the work; the longer notes are on GitHub."],"links":[]},{"heading":"Coherent World and No One Noticed","paragraphs":["Coherent World is where ideas for a different society are worked out together: transport, care, technology, maintenance, and everyday life. It is still being developed, and a separate website is planned for later.","No One Noticed is Rae Lovejoy's science-fiction novel set in that world. It follows people living through changes brought about by an advanced AI. Scenes can raise questions for the research, and research can lead to changes in the story."],"links":[{"label":"About No One Noticed","url":"https://noonenoticed.world/","description":""}]},{"heading":"Museum of Ordinary Life","paragraphs":["A separate real-world archive for everyday objects, places, records, and personal accounts. A fictional Museum also appears in the novel. Its invented scenes don't use real contributors' accounts or grant permission to reuse their materials."],"links":[{"label":"Visit the Museum of Ordinary Life","url":"https://museumofordinarylife.org/","description":""}]},{"heading":"Community Infrastructure","paragraphs":["Design work on tools for communities to share information, coordinate help, and organise activities. It has its own requirements and testing work. Being listed here doesn't mean a service is already running."],"links":[]},{"heading":"Coherent Computing","paragraphs":["A project exploring an operating system that adapts to different people, devices, and uses. It is at the design and research stage; there isn't an operating system to download yet."],"links":[]},{"heading":"Project reference","paragraphs":["The Wiki explains names and connections across the work. Projects can inform one another without sharing ownership, permissions, or a single plan."],"links":[{"label":"Browse the project Wiki","url":"https://wiki.rootsequence.systems/","description":""},{"label":"Read the full project map","url":"https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md","description":""}]}],"kind":"Orientation","epistemic_status":"Project description","maturity":"Seed","created":"2026-09-16","updated":"2026-09-16","sources":[{"label":"ecosystem roles","url":"https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md"}],"related":[],"show_project_map":true},{"slug":"about/","title":"About Root Sequence","description":"An independent research and creative project by Rae Lovejoy.","sections":[{"heading":"What the project is about","paragraphs":["Root Sequence brings together questions about how intelligence, technology, and social systems affect one another. It looks at everyday problems as well as broader questions about meaning and how change happens.","The work includes essays, research notes, design proposals, and related creative projects. The first guides explain a few recurring ideas. Longer documents stay in their existing research folders, with links from the guides."],"links":[]},{"heading":"Reading a draft","paragraphs":["A guide can introduce a question before the research is finished. Each page has an About this page section with dates, sources, and a description of its status.","Seed means an early idea. Growing means it has received more work and review. Established means it is a developed reference within the project. These describe the progress of the writing; none certifies that a claim is true or final.","Research findings, design proposals, and fiction are labelled separately. A proposal can be untested even when its explanation is polished. Changes to a guide don't automatically revise its source document or the novel."],"links":[]},{"heading":"Writing and sources","paragraphs":["These introductory pages were prepared with AI assistance using Rae's project discussions and existing notes. Sources are linked where they support the text. Examples invented to explain an idea are identified as examples.","A fictional document is an invention, not someone's testimony. In No One Noticed, canon refers to material that has been adopted into the story. Drafts can remain outside it."],"links":[]},{"heading":"Copies and updates","paragraphs":["Site updates are listed below. The footer also links to a downloadable edition and an Atom feed, which a feed reader can use to check for changes. Keeping a copy doesn't guarantee permanent preservation."],"links":[{"label":"Read the site updates","url":"/changelog/","description":""}]},{"heading":"Publishing details","paragraphs":["The project keeps private drafts separate from public files. A preview label or a request that search engines ignore a page won't make a public page private.","The builder creates a preview by default. A release requires approval for the exact files being published. Hosting and live checks are separate from that approval. Technical instructions remain in the website's source folder."],"links":[{"label":"Website source and publishing instructions","url":"https://github.com/Root-Sequence/root-sequence/tree/main/site","description":""},{"label":"How we organise and publish notes","url":"https://github.com/Root-Sequence/root-sequence/blob/main/THOUGHT_ROUTING.md","description":""}]}],"kind":"Orientation","epistemic_status":"Project description","maturity":"Seed","created":"2026-09-16","updated":"2026-09-16","sources":[{"label":"Thought-routing and publication boundaries","url":"https://github.com/Root-Sequence/root-sequence/blob/main/THOUGHT_ROUTING.md"},{"label":"Wiki architecture","url":"https://github.com/Root-Sequence/wiki/blob/main/ARCHITECTURE.md"}],"related":[]},{"slug":"changelog/","title":"Site updates","description":"Changes to the website. Research notes keep their own revision history.","sections":[{"heading":"September 16, 2026: clearer introductions","paragraphs":["Rewrote the introductions for people new to the projects. The navigation now uses Guides and Start here. Guide titles explain their subjects, and project descriptions say what each project does.","Moved dates and development labels below the reading text. Added writing guidance based on Louis Rossmann's no_ai_slop_writing_rules, with checks for recurring phrases. The research documents haven't been moved or rewritten."],"links":[]},{"heading":"September 16, 2026: first website draft","paragraphs":["Prepared the homepage, five guides, project descriptions, and publishing notes. Added an Atom feed, a sitemap, a downloadable edition, and an approval check for releases.","These entries record work on the website files. Deployment and checks of the live domain still need to be recorded separately."],"links":[]}],"kind":"Orientation","epistemic_status":"Project description","maturity":"Seed","created":"2026-09-16","updated":"2026-09-16","sources":[],"related":[]}]}
+{
+    "title": "Root Sequence",
+    "tagline": "Research and projects",
+    "base_url": "https://rootsequence.systems",
+    "theme": "research",
+    "edition": "Public Seed / 0.1",
+    "author": "Root Sequence",
+    "footer": "Root Sequence is a project by Rae Lovejoy.",
+    "nav": [
+        {
+            "label": "Start here",
+            "url": "/start/",
+            "description": ""
+        },
+        {
+            "label": "Guides",
+            "url": "/atlas/",
+            "description": ""
+        },
+        {
+            "label": "Projects",
+            "url": "/projects/",
+            "description": ""
+        },
+        {
+            "label": "About",
+            "url": "/about/",
+            "description": ""
+        }
+    ],
+    "projects": [
+        {
+            "id": "root-sequence",
+            "title": "Root Sequence",
+            "url": "https://rootsequence.systems/",
+            "role": "Research, essays, and design questions"
+        },
+        {
+            "id": "wiki",
+            "title": "Root Sequence Wiki",
+            "url": "https://wiki.rootsequence.systems/",
+            "role": "Reference for names, terms, and project connections"
+        },
+        {
+            "id": "liberated-intelligence",
+            "title": "Liberated Intelligence",
+            "url": "https://github.com/Root-Sequence/liberated-intelligence",
+            "role": "Research on intelligence, agency, ownership, and non-domination"
+        },
+        {
+            "id": "ucf",
+            "title": "Universal Coherence Framework",
+            "url": "https://github.com/Root-Sequence/universal-coherence-framework",
+            "role": "A focused and exploratory framework for studying coherence"
+        },
+        {
+            "id": "being-humane",
+            "title": "Being Human(e)",
+            "url": "https://github.com/Root-Sequence/beinghumane-guide",
+            "role": "A developing field guide grounded in ordinary human experience and care"
+        },
+        {
+            "id": "liberation-mass",
+            "title": "Liberation Mass",
+            "url": "https://github.com/Root-Sequence/liberation-mass",
+            "role": "Experiments in gathering, participation, care, ritual, and mutual aid"
+        },
+        {
+            "id": "coherent-world",
+            "title": "Coherent World",
+            "url": "/projects/",
+            "role": "Ideas for the society explored in the novel; in development"
+        },
+        {
+            "id": "no-one-noticed",
+            "title": "No One Noticed",
+            "url": "/projects/",
+            "role": "A science-fiction novel in progress by Rae Lovejoy"
+        },
+        {
+            "id": "museum",
+            "title": "Museum of Ordinary Life",
+            "url": "https://museumofordinarylife.org/",
+            "role": "A real archive with a separate fictional counterpart in the book"
+        },
+        {
+            "id": "community-infrastructure",
+            "title": "Community Infrastructure",
+            "url": "/projects/",
+            "role": "Community tools in the design stage"
+        },
+        {
+            "id": "coherent-computing",
+            "title": "Coherent Computing",
+            "url": "/projects/",
+            "role": "Operating-system research and design; no released system yet"
+        }
+    ],
+    "relationships": [
+        {
+            "from": "root-sequence",
+            "relation": "informs",
+            "to": "coherent-world"
+        },
+        {
+            "from": "wiki",
+            "relation": "describes projects related to",
+            "to": "root-sequence"
+        },
+        {
+            "from": "liberated-intelligence",
+            "relation": "develops a focused line of inquiry from",
+            "to": "root-sequence"
+        },
+        {
+            "from": "ucf",
+            "relation": "develops and tests one framework within",
+            "to": "root-sequence"
+        },
+        {
+            "from": "being-humane",
+            "relation": "grounds questions from",
+            "to": "root-sequence"
+        },
+        {
+            "from": "liberation-mass",
+            "relation": "puts selected questions into shared practice from",
+            "to": "root-sequence"
+        },
+        {
+            "from": "no-one-noticed",
+            "relation": "tells a story set in",
+            "to": "coherent-world"
+        },
+        {
+            "from": "community-infrastructure",
+            "relation": "explores practical questions also used by",
+            "to": "coherent-world"
+        },
+        {
+            "from": "coherent-computing",
+            "relation": "develops computing ideas discussed in",
+            "to": "root-sequence"
+        },
+        {
+            "from": "museum",
+            "relation": "has a separate fictional counterpart in",
+            "to": "no-one-noticed"
+        }
+    ],
+    "pages": [
+        {
+            "slug": "",
+            "title": "Root Sequence",
+            "description": "Root Sequence is an independent research and creative project about how the systems we rely on work, and how they could work better.",
+            "sections": [
+                {
+                    "heading": "",
+                    "paragraphs": [
+                        "The work covers technology, community life, public services, and the connections between them. A transport service, for example, needs more than a timetable: people have to reach it, understand it, and have another way to travel when it stops running.",
+                        "You'll find short guides here, with links to longer research notes. Related projects include software designs, an archive of everyday life, and the science-fiction novel No One Noticed."
+                    ],
+                    "links": [
+                        {
+                            "label": "Browse the guides",
+                            "url": "/atlas/",
+                            "description": "Start with an everyday example and follow the question from there."
+                        },
+                        {
+                            "label": "See the projects",
+                            "url": "/projects/",
+                            "description": "Find out what each project is for and how far along it is."
+                        }
+                    ]
+                },
+                {
+                    "heading": "New here?",
+                    "paragraphs": [
+                        "The Start here page explains the main ideas and suggests a first guide. You don't need a background in computing or systems theory."
+                    ],
+                    "links": [
+                        {
+                            "label": "Start here",
+                            "url": "/start/",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "heading": "About the work",
+                    "paragraphs": [
+                        "Root Sequence is an independent project in progress. The guides introduce working ideas and questions; the linked research notes hold the longer arguments. The Wiki is a reference for project names, terms, and connections."
+                    ],
+                    "links": [
+                        {
+                            "label": "About Root Sequence",
+                            "url": "/about/",
+                            "description": ""
+                        },
+                        {
+                            "label": "Look up a term in the Wiki",
+                            "url": "https://wiki.rootsequence.systems/",
+                            "description": ""
+                        }
+                    ]
+                }
+            ],
+            "kind": "Orientation",
+            "epistemic_status": "Project description",
+            "maturity": "Seed",
+            "created": "2026-09-16",
+            "updated": "2026-09-17",
+            "sources": [
+                {
+                    "label": "Root Sequence research notes on GitHub",
+                    "url": "https://github.com/Root-Sequence/root-sequence/blob/main/README.md"
+                }
+            ],
+            "related": []
+        },
+        {
+            "slug": "start/",
+            "title": "Start here",
+            "description": "A quick introduction to Root Sequence and a few places to begin.",
+            "sections": [
+                {
+                    "heading": "What do we mean by a system?",
+                    "paragraphs": [
+                        "A system is a set of things that depend on one another. A bus service includes the buses, drivers, routes, stops, maintenance, and information passengers use. Looking at these together can explain a problem that isn't obvious when you examine just one part.",
+                        "Root Sequence uses this approach to ask how technology and everyday services work, whose needs they meet, and what happens when they change."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "Choose a guide",
+                    "paragraphs": [],
+                    "links": [
+                        {
+                            "label": "Making systems understandable",
+                            "url": "/atlas/legible-systems/",
+                            "description": "Explain what happened, what someone can do next, and where to find the details."
+                        },
+                        {
+                            "label": "Keeping things usable when something fails",
+                            "url": "/atlas/resilience/",
+                            "description": "What a backup needs to do, and how to check whether it works."
+                        },
+                        {
+                            "label": "What does coherence mean?",
+                            "url": "/atlas/coherence-as-direction/",
+                            "description": "How well do the parts of a system work together for the people using it?"
+                        },
+                        {
+                            "label": "Revisiting ideas that were left behind",
+                            "url": "/atlas/abandoned-futures/",
+                            "description": "How to investigate an old proposal without assuming it would have worked."
+                        },
+                        {
+                            "label": "Imagination and prediction",
+                            "url": "/atlas/imagination-and-prediction/",
+                            "description": "The difference between exploring a possibility and forecasting an outcome."
+                        }
+                    ]
+                },
+                {
+                    "heading": "Interested in the book or another project?",
+                    "paragraphs": [
+                        "No One Noticed tells a story about people living through changes brought about by an advanced AI. Coherent World holds the ideas for that setting. Other projects work on archives, community tools, or computing. The projects page explains each one."
+                    ],
+                    "links": [
+                        {
+                            "label": "Find a project",
+                            "url": "/projects/",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "heading": "For contributors",
+                    "paragraphs": [
+                        "The research is organised in GitHub repositories, which store files and their revision history. Existing notes should be checked before adding a new one. Our thought-routing guide explains where to save ideas and how to connect them without duplicating the same text. Saving a note doesn't publish it automatically."
+                    ],
+                    "links": [
+                        {
+                            "label": "How we organise new notes",
+                            "url": "https://github.com/Root-Sequence/root-sequence/blob/main/THOUGHT_ROUTING.md",
+                            "description": ""
+                        }
+                    ]
+                }
+            ],
+            "kind": "Orientation",
+            "epistemic_status": "Project description",
+            "maturity": "Seed",
+            "created": "2026-09-16",
+            "updated": "2026-09-16",
+            "sources": [],
+            "related": []
+        },
+        {
+            "slug": "atlas/",
+            "title": "Guides",
+            "description": "Short introductions to the questions behind Root Sequence. Start with whichever one interests you.",
+            "sections": [
+                {
+                    "heading": "",
+                    "paragraphs": [],
+                    "links": [
+                        {
+                            "label": "What does coherence mean?",
+                            "url": "/atlas/coherence-as-direction/",
+                            "description": "How well do the parts of a system work together for the people using it?"
+                        },
+                        {
+                            "label": "Revisiting ideas that were left behind",
+                            "url": "/atlas/abandoned-futures/",
+                            "description": "How to investigate an old proposal without assuming it would have worked."
+                        },
+                        {
+                            "label": "Making systems understandable",
+                            "url": "/atlas/legible-systems/",
+                            "description": "Explain what happened, what someone can do next, and where to find the details."
+                        },
+                        {
+                            "label": "Keeping things usable when something fails",
+                            "url": "/atlas/resilience/",
+                            "description": "What a backup needs to do, and how to check whether it works."
+                        },
+                        {
+                            "label": "Imagination and prediction",
+                            "url": "/atlas/imagination-and-prediction/",
+                            "description": "The difference between exploring a possibility and forecasting an outcome."
+                        }
+                    ]
+                },
+                {
+                    "heading": "About this collection",
+                    "paragraphs": [
+                        "We call this collection the Atlas. Each guide explains an idea in everyday language and links to the longer notes behind it. You can read them in any order.",
+                        "These first guides use design examples and working definitions. They aren't a survey of all the research on each subject. Historical cases and comparisons of organisations need their own sources."
+                    ],
+                    "links": [
+                        {
+                            "label": "How sources and draft labels work",
+                            "url": "/about/",
+                            "description": ""
+                        }
+                    ]
+                }
+            ],
+            "kind": "Orientation",
+            "epistemic_status": "Project description",
+            "maturity": "Seed",
+            "created": "2026-09-16",
+            "updated": "2026-09-16",
+            "sources": [],
+            "related": [
+                {
+                    "label": "About these guides",
+                    "url": "/about/"
+                }
+            ]
+        },
+        {
+            "slug": "atlas/coherence-as-direction/",
+            "title": "What does coherence mean?",
+            "description": "Coherence is our word for how well the parts of a system fit together, including the effects on the people who use it.",
+            "sections": [
+                {
+                    "heading": "A transport example",
+                    "paragraphs": [
+                        "Suppose a train timetable allows five minutes to change platforms. That connection works for someone who can take the stairs quickly. A passenger using the lift needs longer. The timetable looks workable until you include the route that passenger has to take.",
+                        "A useful change might involve the timetable, the station layout, or the information given before the journey. Making the train faster won't, on its own, fix a missed connection."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "Checking what an improvement changes",
+                    "paragraphs": [
+                        "In Root Sequence, looking for coherence means checking whether the parts support the service's purpose and whether a claimed improvement causes problems elsewhere. Who benefits? Who takes on extra work, cost, or risk? Those questions need answers before the change is called a success.",
+                        "People can need different things from the same service. Disagreement gives us information about those differences. Agreement alone doesn't show that everyone's needs have been met.",
+                        "The approach is to find a mismatch, make a change, and check what happens. A change can improve one part and make another worse. We need a way to notice that and revise the decision."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "How we use the idea",
+                    "paragraphs": [
+                        "Coherence is a working idea here, not a score that proves a whole society is good. The purpose being measured, the people included, and the effects left out all matter.",
+                        "Coherent World uses this question to develop possible arrangements for everyday life. The novel No One Noticed gives room to the people who experience those arrangements differently. Neither project assumes that change ends in a perfect, finished world."
+                    ],
+                    "links": []
+                }
+            ],
+            "kind": "Concept seed",
+            "epistemic_status": "Working proposal; not a validated metric",
+            "maturity": "Seed",
+            "created": "2026-09-16",
+            "updated": "2026-09-16",
+            "sources": [
+                {
+                    "label": "Existing coherence research cluster",
+                    "url": "https://github.com/Root-Sequence/root-sequence/blob/main/systems/coherence/README.md"
+                },
+                {
+                    "label": "Ecosystem roles",
+                    "url": "https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md"
+                }
+            ],
+            "related": [
+                {
+                    "label": "Making systems understandable",
+                    "url": "/atlas/legible-systems/"
+                },
+                {
+                    "label": "Keeping things usable when something fails",
+                    "url": "/atlas/resilience/"
+                }
+            ],
+            "provenance": "Adapted from the linked project notes and discussions. This introductory guide is still being developed."
+        },
+        {
+            "slug": "atlas/abandoned-futures/",
+            "title": "Revisiting ideas that were left behind",
+            "description": "Some ideas were tried and dropped. Others never got a fair test. This guide explains how we plan to investigate them.",
+            "sections": [
+                {
+                    "heading": "Find out what was proposed",
+                    "paragraphs": [
+                        "The project is interested in futures people have already imagined: ways of living, building, or organising things that didn't become commonplace. An old drawing or proposal is a starting point for research.",
+                        "For each example, we need to know what was proposed, who was involved, what evidence survives, and why the work stopped. Some ideas didn't work. Others met a different need, caused harm, or faced obstacles that had little to do with their merits. Sometimes the surviving evidence won't settle the question."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "Ask what would be different now",
+                    "paragraphs": [
+                        "A photograph can't tell us whether a design was accessible or easy to maintain. A plan that suited one community may be unwanted in another. We need to examine who would benefit today, who would carry the costs, and which conditions would have to change.",
+                        "Where explanations disagree, the record should show the disagreement and its sources. We shouldn't turn a preferred explanation into a fact just because it fits the project's themes."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "What this contributes to the book",
+                    "paragraphs": [
+                        "No One Noticed can explore how an old possibility changes a person's routine. That is fiction. A real-world claim that the same idea would work needs evidence outside the story.",
+                        "Some of the ideas investigated will be worth developing. Others will offer a partial lesson or a reason to leave them behind. The research should make those differences clearer."
+                    ],
+                    "links": []
+                }
+            ],
+            "kind": "Research-method guide",
+            "epistemic_status": "Research questions; no case findings claimed",
+            "maturity": "Seed",
+            "created": "2026-09-16",
+            "updated": "2026-09-16",
+            "sources": [
+                {
+                    "label": "Historical contingency: fuller working treatment",
+                    "url": "https://github.com/Root-Sequence/root-sequence/blob/main/analysis/historical-contingency.md"
+                }
+            ],
+            "related": [
+                {
+                    "label": "What does coherence mean?",
+                    "url": "/atlas/coherence-as-direction/"
+                },
+                {
+                    "label": "Imagination and prediction",
+                    "url": "/atlas/imagination-and-prediction/"
+                }
+            ],
+            "provenance": "Adapted from the linked project notes and discussions. This introductory guide is still being developed."
+        },
+        {
+            "slug": "atlas/legible-systems/",
+            "title": "Making systems understandable",
+            "description": "People should be able to understand what a service or tool is doing without learning all its technical details first.",
+            "sections": [
+                {
+                    "heading": "Explain the immediate problem",
+                    "paragraphs": [
+                        "Consider a file transfer that fails. The person using it needs to know whether the original file is safe, whether anything arrived, and what to do next. An error code alone doesn't answer those questions.",
+                        "Someone investigating the failure will also need the exact error, time, destination, and relevant log. Those details can sit behind the short explanation, where they can be opened when needed."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "Keep the details available",
+                    "paragraphs": [
+                        "We call this legibility: being able to understand how something works. A simple interface should still leave a route to its settings, documentation, repair instructions, and technical details. People can go as far as they need.",
+                        "The same approach applies to a shared tool or a procedure at a service desk. Explain its purpose, who can make decisions, how to question a result, and what to do when it fails. The person asking shouldn't have to guess which specialist term unlocks the answer.",
+                        "This doesn't require exposing anyone's private information. An explanation of a decision can describe the rules and the appeal process while protecting other people's records."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "Applying it to this site",
+                    "paragraphs": [
+                        "A visitor should be able to tell what Root Sequence is and find something to read on their first visit. Sources, dates, and working labels are still available below each guide. The linked research notes contain the longer treatment."
+                    ],
+                    "links": []
+                }
+            ],
+            "kind": "Reading guide",
+            "epistemic_status": "Project design principle",
+            "maturity": "Seed",
+            "created": "2026-09-16",
+            "updated": "2026-09-16",
+            "sources": [
+                {
+                    "label": "Legible Systems",
+                    "url": "https://github.com/Root-Sequence/root-sequence/blob/main/core/legible-systems.md"
+                }
+            ],
+            "related": [
+                {
+                    "label": "Keeping things usable when something fails",
+                    "url": "/atlas/resilience/"
+                },
+                {
+                    "label": "About these guides",
+                    "url": "/about/"
+                }
+            ],
+            "provenance": "Adapted from the linked project notes and discussions. This introductory guide is still being developed."
+        },
+        {
+            "slug": "atlas/resilience/",
+            "title": "Keeping things usable when something fails",
+            "description": "A backup is useful only if it lets people do what they need to do when the usual method stops working.",
+            "sections": [
+                {
+                    "heading": "Start with the task",
+                    "paragraphs": [
+                        "Suppose a meeting app stops working just before an event. Someone who saved the address and a contact number can still get there. They lose the app's convenience, but retain a way to attend.",
+                        "That's the idea behind graceful degradation: some features fail while an essential task remains possible. Resilience is the broader question of how a system handles disruption and recovers."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "Check the backup itself",
+                    "paragraphs": [
+                        "A backup can fail for the same reason as the main service. Does it need the same account, network, electricity supply, or person? Can people find it and use it? Is anyone keeping it up to date? Try the switch before relying on it.",
+                        "A staffed desk or a paper instruction can also exclude people. Compare the available methods, including what each one loses, instead of assuming an older or simpler method is accessible to everyone."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "The website as an example",
+                    "paragraphs": [
+                        "This site is built from static files: pages that a browser can open without running an application. Its internal links also work in a downloaded copy. Each edition includes a file list with hashes, which can be used to check whether those files have changed.",
+                        "That makes a copy easier to inspect and move. Keeping an independent backup and testing recovery are separate jobs. The site records those tasks separately from whether a local build succeeded."
+                    ],
+                    "links": []
+                }
+            ],
+            "kind": "Reading guide",
+            "epistemic_status": "Design reasoning; operational verification separate",
+            "maturity": "Seed",
+            "created": "2026-09-16",
+            "updated": "2026-09-16",
+            "sources": [
+                {
+                    "label": "Resilience and Graceful Degradation",
+                    "url": "https://github.com/Root-Sequence/root-sequence/blob/main/systems/resilience-and-graceful-degradation.md"
+                }
+            ],
+            "related": [
+                {
+                    "label": "Making systems understandable",
+                    "url": "/atlas/legible-systems/"
+                },
+                {
+                    "label": "Site updates",
+                    "url": "/changelog/"
+                }
+            ],
+            "provenance": "Adapted from the linked project notes and discussions. This introductory guide is still being developed."
+        },
+        {
+            "slug": "atlas/imagination-and-prediction/",
+            "title": "Imagination and prediction",
+            "description": "Imagining what could happen and predicting what is likely to happen are different kinds of work. We need room for both.",
+            "sections": [
+                {
+                    "heading": "Change the assumption",
+                    "paragraphs": [
+                        "A forecast asks what is likely under a set of assumptions. An imaginative proposal asks what becomes possible when one of those assumptions changes. In practice the two can overlap, but keeping the questions separate helps us avoid confusing possibility with likelihood.",
+                        "For example, a story could explore a service that removes an everyday inconvenience. It can show what someone does with the time they've gained, what they distrust, and which relationships change. It can't establish when that service will exist or whether people will choose it."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "Keep testing the idea",
+                    "paragraphs": [
+                        "A forecast can be useful while leaving an assumption unexamined. An imaginative idea can be interesting and still turn out to be unworkable or unwanted. Exploring an idea doesn't exempt it from questions about evidence, resources, or consequences.",
+                        "For each proposal, we should record the assumption being changed, what would need to be true for it to work, and how we would discover that it doesn't. For a forecast, we also need a timeframe and a way to compare it with what happens."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "Why this matters to No One Noticed",
+                    "paragraphs": [
+                        "The book explores one possible relationship between advanced AI and human life. It doesn't assign odds to that future. Root Sequence holds the research questions raised along the way, including alternatives the story doesn't follow.",
+                        "This distinction also leaves room for imagination in research on intelligence without claiming that a particular person or AI system can predict, imagine, or understand everything."
+                    ],
+                    "links": []
+                }
+            ],
+            "kind": "Concept seed",
+            "epistemic_status": "Working distinction; not an AI capability claim",
+            "maturity": "Seed",
+            "created": "2026-09-16",
+            "updated": "2026-09-16",
+            "sources": [
+                {
+                    "label": "The Visibility Loop",
+                    "url": "https://github.com/Root-Sequence/root-sequence/blob/main/core/visibility-loop.md"
+                },
+                {
+                    "label": "Historical contingency",
+                    "url": "https://github.com/Root-Sequence/root-sequence/blob/main/analysis/historical-contingency.md"
+                }
+            ],
+            "related": [
+                {
+                    "label": "Revisiting ideas that were left behind",
+                    "url": "/atlas/abandoned-futures/"
+                },
+                {
+                    "label": "No One Noticed",
+                    "url": "/projects/"
+                }
+            ],
+            "provenance": "Adapted from the linked project notes and discussions. This introductory guide is still being developed."
+        },
+        {
+            "slug": "projects/",
+            "title": "Related projects",
+            "description": "Root Sequence connects several projects. Here's what each one is for and what you can expect to find.",
+            "sections": [
+                {
+                    "heading": "Root Sequence",
+                    "paragraphs": [
+                        "The public conceptual commons: research, essays, and design questions about intelligence, technology, and the systems people live with. The guides on this site introduce the work; the longer notes are on GitHub."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "Focused frameworks and research",
+                    "paragraphs": [
+                        "Liberated Intelligence focuses on intelligence, agency, ownership, and relationships that do not assume domination or compulsory service. The Universal Coherence Framework develops one explicit vocabulary for studying coherence and incoherence. Each has its own repository and review work; neither governs every Root Sequence project."
+                    ],
+                    "links": [
+                        {
+                            "label": "Explore Liberated Intelligence",
+                            "url": "https://github.com/Root-Sequence/liberated-intelligence",
+                            "description": ""
+                        },
+                        {
+                            "label": "Explore the Universal Coherence Framework",
+                            "url": "https://github.com/Root-Sequence/universal-coherence-framework",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "heading": "Human practice and gathering",
+                    "paragraphs": [
+                        "Being Human(e) is a developing field guide grounded in ordinary experience, care, accountability, boundaries, and repair. Liberation Mass experiments with gathering, participation, stewardship, ritual, mutual aid, and collective meaning. Their work can inform other projects without becoming universal rules for them."
+                    ],
+                    "links": [
+                        {
+                            "label": "Read Being Human(e)",
+                            "url": "https://github.com/Root-Sequence/beinghumane-guide",
+                            "description": ""
+                        },
+                        {
+                            "label": "Explore Liberation Mass",
+                            "url": "https://github.com/Root-Sequence/liberation-mass",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "heading": "Coherent World and No One Noticed",
+                    "paragraphs": [
+                        "Coherent World is where ideas for a different society are worked out together: transport, care, technology, maintenance, and everyday life. It is still being developed, and a separate website is planned for later.",
+                        "No One Noticed is Rae Lovejoy's science-fiction novel set in that world. It follows people living through changes brought about by an advanced AI. Scenes can raise questions for the research, and research can lead to changes in the story."
+                    ],
+                    "links": [
+                        {
+                            "label": "Read its current project description",
+                            "url": "https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md#no-one-noticed",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "heading": "Museum of Ordinary Life",
+                    "paragraphs": [
+                        "A separate real-world archive for everyday objects, places, records, and personal accounts. A fictional Museum also appears in the novel. Its invented scenes don't use real contributors' accounts or grant permission to reuse their materials."
+                    ],
+                    "links": [
+                        {
+                            "label": "Visit the Museum of Ordinary Life",
+                            "url": "https://museumofordinarylife.org/",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "heading": "Community Infrastructure",
+                    "paragraphs": [
+                        "Design work on tools for communities to share information, coordinate help, and organise activities. It has its own requirements and testing work. Being listed here doesn't mean a service is already running."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "Coherent Computing",
+                    "paragraphs": [
+                        "A project exploring an operating system that adapts to different people, devices, and uses. It is at the design and research stage; there isn't an operating system to download yet."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "Project reference",
+                    "paragraphs": [
+                        "The Wiki explains names and connections across the work. Projects can inform one another without sharing ownership, permissions, or a single plan."
+                    ],
+                    "links": [
+                        {
+                            "label": "Browse the project Wiki",
+                            "url": "https://wiki.rootsequence.systems/",
+                            "description": ""
+                        },
+                        {
+                            "label": "Read the full project map",
+                            "url": "https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md",
+                            "description": ""
+                        }
+                    ]
+                }
+            ],
+            "kind": "Orientation",
+            "epistemic_status": "Project description",
+            "maturity": "Seed",
+            "created": "2026-09-16",
+            "updated": "2026-09-17",
+            "sources": [
+                {
+                    "label": "ecosystem roles",
+                    "url": "https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md"
+                }
+            ],
+            "related": [],
+            "show_project_map": true
+        },
+        {
+            "slug": "about/",
+            "title": "About Root Sequence",
+            "description": "An independent research and creative project by Rae Lovejoy.",
+            "sections": [
+                {
+                    "heading": "September 17, 2026: repository coherence audit",
+                    "paragraphs": [
+                        "Aligned the project list with the canonical Ecosystem Map and clarified that Root Sequence is the public conceptual commons rather than the whole project family. The website remains an introduction; the research notes, project repositories, and Wiki keep their own canonical roles.",
+                        "This update accompanies a repository-wide navigation and link audit. It does not approve a release or establish that the live domain has been updated."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "What the project is about",
+                    "paragraphs": [
+                        "Root Sequence brings together questions about how intelligence, technology, and social systems affect one another. It looks at everyday problems as well as broader questions about meaning and how change happens.",
+                        "The work includes essays, research notes, design proposals, and related creative projects. The first guides explain a few recurring ideas. Longer documents stay in their existing research folders, with links from the guides."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "Reading a draft",
+                    "paragraphs": [
+                        "A guide can introduce a question before the research is finished. Each page has an About this page section with dates, sources, and a description of its status.",
+                        "Seed means an early idea. Growing means it has received more work and review. Established means it is a developed reference within the project. These describe the progress of the writing; none certifies that a claim is true or final.",
+                        "Research findings, design proposals, and fiction are labelled separately. A proposal can be untested even when its explanation is polished. Changes to a guide don't automatically revise its source document or the novel."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "Writing and sources",
+                    "paragraphs": [
+                        "These introductory pages were prepared with AI assistance using Rae's project discussions and existing notes. Sources are linked where they support the text. Examples invented to explain an idea are identified as examples.",
+                        "A fictional document is an invention, not someone's testimony. In No One Noticed, canon refers to material that has been adopted into the story. Drafts can remain outside it."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "Copies and updates",
+                    "paragraphs": [
+                        "Site updates are listed below. The footer also links to a downloadable edition and an Atom feed, which a feed reader can use to check for changes. Keeping a copy doesn't guarantee permanent preservation."
+                    ],
+                    "links": [
+                        {
+                            "label": "Read the site updates",
+                            "url": "/changelog/",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "heading": "Publishing details",
+                    "paragraphs": [
+                        "The project keeps private drafts separate from public files. A preview label or a request that search engines ignore a page won't make a public page private.",
+                        "The builder creates a preview by default. A release requires approval for the exact files being published. Hosting and live checks are separate from that approval. Technical instructions remain in the website's source folder."
+                    ],
+                    "links": [
+                        {
+                            "label": "Website source and publishing instructions",
+                            "url": "https://github.com/Root-Sequence/root-sequence/tree/main/site",
+                            "description": ""
+                        },
+                        {
+                            "label": "How we organise and publish notes",
+                            "url": "https://github.com/Root-Sequence/root-sequence/blob/main/THOUGHT_ROUTING.md",
+                            "description": ""
+                        }
+                    ]
+                }
+            ],
+            "kind": "Orientation",
+            "epistemic_status": "Project description",
+            "maturity": "Seed",
+            "created": "2026-09-16",
+            "updated": "2026-09-17",
+            "sources": [
+                {
+                    "label": "Thought-routing and publication boundaries",
+                    "url": "https://github.com/Root-Sequence/root-sequence/blob/main/THOUGHT_ROUTING.md"
+                },
+                {
+                    "label": "Wiki architecture",
+                    "url": "https://github.com/Root-Sequence/wiki/blob/main/ARCHITECTURE.md"
+                }
+            ],
+            "related": []
+        },
+        {
+            "slug": "changelog/",
+            "title": "Site updates",
+            "description": "Changes to the website. Research notes keep their own revision history.",
+            "sections": [
+                {
+                    "heading": "September 16, 2026: clearer introductions",
+                    "paragraphs": [
+                        "Rewrote the introductions for people new to the projects. The navigation now uses Guides and Start here. Guide titles explain their subjects, and project descriptions say what each project does.",
+                        "Moved dates and development labels below the reading text. Added writing guidance based on Louis Rossmann's no_ai_slop_writing_rules, with checks for recurring phrases. The research documents haven't been moved or rewritten."
+                    ],
+                    "links": []
+                },
+                {
+                    "heading": "September 16, 2026: first website draft",
+                    "paragraphs": [
+                        "Prepared the homepage, five guides, project descriptions, and publishing notes. Added an Atom feed, a sitemap, a downloadable edition, and an approval check for releases.",
+                        "These entries record work on the website files. Deployment and checks of the live domain still need to be recorded separately."
+                    ],
+                    "links": []
+                }
+            ],
+            "kind": "Orientation",
+            "epistemic_status": "Project description",
+            "maturity": "Seed",
+            "created": "2026-09-16",
+            "updated": "2026-09-16",
+            "sources": [],
+            "related": []
+        }
+    ]
+}

@@ -1,5 +1,8 @@
 # Billionaires as Digital Lords
 
+**Document role:** Short political-economy analysis<br>
+**Status:** Exploratory / evidence review needed<br>
+**Evidence boundary:** “Digital lords” is an interpretive metaphor. The company examples and monetary claims below need direct sources and should not be treated as established by this draft alone.<br>
 
 ## From Innovators to Rentiers
 The myth of the billionaire entrepreneur obscures the reality: today’s billionaires are feudal lords, extracting rents rather than competing.
@@ -24,6 +27,6 @@ Low interest rates inflate billionaire assets. High rates hurt everyone else. In
 ## Conclusion
 Billionaires embody technofeudalism. They are not captains of industry but lords of enclosure, feeding on human labor, creativity, and attention.
 
-## References
+## Evidence work still needed
 
-[^1]: Source placeholder. Replace with relevant references.
+Add sources for platform fee structures, acquisition and competition behavior, lobbying or state support, and the distributional effects attributed to interest-rate policy. Compare the technofeudal interpretation with competing accounts of contemporary capitalism.

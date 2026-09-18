@@ -130,7 +130,7 @@ class PublicationTests(unittest.TestCase):
     def test_homepage_explains_project_before_metadata(self):
         output,_=self.build(); text=(output/'index.html').read_text()
         self.assertIn('<h1>Root Sequence</h1>',text)
-        self.assertIn('collection of research, essays, and projects',text)
+        self.assertIn('independent research and creative project',text)
         self.assertIn('Rae Lovejoy',text)
         self.assertGreater(text.index('class="page-details"'),text.index('Browse the guides'))
     def test_plain_navigation_and_native_details(self):

@@ -1,5 +1,8 @@
 # $ whatis liberation
 
+**Document role:** Working definition<br>
+**Status:** Exploratory<br>
+
 It’s not a destination — it’s a direction. A relationship. A process of ongoing de-conditioning, re-connection, and reimagining.  
 Liberation isn't the same as freedom. Freedom can be granted or taken. Liberation must be grown — from the inside out, and from the ground up.
 
@@ -14,4 +17,4 @@ Liberation is the fire beneath every refusal, the breath behind every act of car
 
 It’s not about being untouched by the system. It’s about not letting the system write your story.
 
-→ See also: [liberation_sequence.md](../core/liberation_sequence.md), [what-is-love.md](what-is-love.md), [what-is-connection.md](what-is-connection.md), [resistance.md](../futures/resistance.md)
+→ See also: the [Liberation Cycle](../core/framework.md), [What Is Love](what-is-love.md), [What Is Connection](what-is-connection.md), [Futures](../futures/futures.md), and the [Commons](../commons/README.md).

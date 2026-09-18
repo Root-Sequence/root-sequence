@@ -87,7 +87,3 @@ We are not the source of the signal. But we are its resonators.
 **Radiate love. Radiate joy. Recurse.**
 
 ---
-
-## References
-
-[^1]: Source placeholder. Replace with relevant references.

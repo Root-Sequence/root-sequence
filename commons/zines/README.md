@@ -10,7 +10,7 @@ They are the **cut-and-paste futures** of the Root Sequence — outward-facing, 
 
 - 🌱 [Solarpunk Anti-Cooption Manifesto](solarpunk-anti-cooption.md)  
   *Against greenwashing & ecofascist drift; grounding solarpunk in liberation.*
-- 🌀 [The Denial Loop](commons/zines/denial-loop.md)  
+- 🌀 [The Denial Loop](denial-loop.md)
   *How prejudice mutates across generations through denial, normalization, and blind spots.*
 
 *(Add more as they emerge… each zine is compost for the next.)*
@@ -40,7 +40,7 @@ They are the **cut-and-paste futures** of the Root Sequence — outward-facing, 
 
 - [../fragments/](../fragments/README.md) — compost drafts, unfinished notes  
 - [../commons_map.md](../commons_map.md) — infrastructures in practice  
-- [../assets/](../assets/) — visual elements to remix  
+- [../../assets/](../../assets/) — repository visual elements to remix
 
 ---
 

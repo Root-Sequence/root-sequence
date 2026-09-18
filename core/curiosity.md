@@ -1,15 +1,19 @@
 # 🔍 Curiosity — The Spark of Liberation
 
-Curiosity is the **first step of the cycle**.  
-It is openness to what is unknown, willingness to listen, and readiness to be changed.
+**Document role:** Core-cycle note<br>
+**Status:** Active / concise<br>
+**Definition:** The short concept definition lives at [What Is Curiosity?](../concepts/what-is-curiosity.md).<br>
+
+Within the Root Sequence cycle, curiosity is the opening that makes learning and revision possible. It keeps a framework from hardening into certainty and allows new evidence, people, and conditions to change what comes next.
 
 ---
 
 ## 🔎 Roots
 
-- Leads into **Intelligence** → awareness and reflection.  
-- Prevents knowledge from hardening into control.  
-- Keeps the cycle alive as generative play.  
+- It leads into **intelligence** through attention and reflection.
+- It prevents knowledge from hardening into control.
+- It returns after compost: endings and contradictions create new questions.
+- It makes play and experimentation part of the framework rather than distractions from it.
 
 ---
 

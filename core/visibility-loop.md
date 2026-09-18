@@ -43,7 +43,3 @@ Liberation widens the field of view.
 ---
 
 *Part of the [Root Sequence](./README.md).*  
-
-## References
-
-[^1]: Source placeholder. Replace with relevant references.
