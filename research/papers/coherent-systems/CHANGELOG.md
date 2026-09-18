@@ -45,6 +45,16 @@ can become another layer of false coherence. The next question asks what minimum
 change must follow acknowledgment; distinguishing serious coercion from
 necessary coordination remains a later boundary question.
 
+The author then noted that whether an intervention is described as stopping
+harm depends on someone's definition of harm, although it should not rest on
+one person's unchecked definition. The paper no longer treats protective
+action and coercion as opposites: coercion describes a means, while the claimed
+harm, evidence, affected parties, urgency, alternatives, proportionality,
+authority, and review remain examinable. Vague or unchallengeable harm claims
+can authorize domination and create false coherence. The next question asks
+who can define, challenge, and review harm when urgency prevents prior
+agreement.
+
 ## v0.1-dev — 2026-09-18 — Repository-structure rescue
 
 Transferred the twelve-file paper package from development revision
