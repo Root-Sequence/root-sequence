@@ -1,5 +1,86 @@
 # Changelog
 
+## v0.1-dev — 2026-09-18 — Author direction on coherence as process
+
+Recorded the author's response to the open C-003 capacity question: a
+supported and revisable allocation can be a coherent response to an unresolved
+constraint, and coherence is not necessarily a destination but may involve
+many processes. Added a provisional synthesis to sections 4 and 7 that keeps
+the unmet need visible and allows different interacting processes to have
+different coherence assessments.
+
+The author further clarified that coherence can have levels rather than being
+only a yes-or-no property, and that moving toward an actual route for resolving
+the constraint is more coherent than moving less toward one. The synthesis now
+permits bounded, qualified comparisons while rejecting one universal score or
+the assumption that improvement in one process cancels failure in another.
+
+After reviewing a synthesis grounded in existing Root Sequence work, the
+author accepted the actionable-route passage for the current draft. It says
+that a route need not be complete, but must change the conditions around an
+unresolved need so that a consequential next step becomes more possible,
+supported, or accountable. Traction, continuity, and accountability distinguish
+a credible escalation from deferral.
+
+This is a passage-level decision, not approval of the broader working
+definition, the whole section, the manuscript, its sources, a byline, or
+publication.
+
+The author then rejected describing a seriously coercive arrangement as
+functionally coherent: people, power, and lived consequences belong inside the
+system boundary. The author recalled **false coherence**, already used in Root
+Sequence and UCF for manufactured consensus and coherence hijacking, as the
+appropriate term for a system that appears to work while remaining ultimately
+flawed and incoherent. The abstract, section 4, C-003, T-001, and reconciliation
+note now distinguish functional performance from coherence and legitimacy.
+The broader use of false coherence is an assistant synthesis for review, not a
+validated scale or approval of C-003 as a whole. The author confirmed that
+open acknowledgment does not make a seriously coercive arrangement coherent.
+Acknowledgment may improve legibility and revisability without repairing the
+coerced relationship or restoring agency. The author compared this to admitting
+a lie: what happens afterward is important. The synthesis now states that
+admission changes what is known, while subsequent changes determine whether the
+process moves toward greater coherence. Treating admission itself as resolution
+can become another layer of false coherence. The next question asks what minimum
+change must follow acknowledgment; distinguishing serious coercion from
+necessary coordination remains a later boundary question.
+
+The author then noted that whether an intervention is described as stopping
+harm depends on someone's definition of harm, although it should not rest on
+one person's unchecked definition. The paper no longer treats protective
+action and coercion as opposites: coercion describes a means, while the claimed
+harm, evidence, affected parties, urgency, alternatives, proportionality,
+authority, and review remain examinable. Vague or unchallengeable harm claims
+can authorize domination and create false coherence. The next question asks
+who can define, challenge, and review harm when urgency prevents prior
+agreement.
+
+The author rejected both “protective coercion” as contradictory and “an
+agency-limiting intervention justified as necessary to prevent harm” as another
+possible blank check. The paper now avoids solving the problem with a new
+umbrella label. It records three matters separately: what was done and to whom;
+what harm was claimed, by whom, with what evidence and uncertainty; and how the
+action was later assessed. Terms such as coercion, restraint, constraint, or
+domination should be applied only when the described mechanism supports them.
+The next question asks whether this separation captures the intended
+distinction without certifying the action in advance.
+
+During line review, the author flagged “relevant authority” in the accepted
+actionable-route passage as too broad. The proposed revision now refers to an
+identified person or body with defined responsibility, accountable decision
+scope, and practical capacity to act on the specific constraint. It does not
+assume that such an actor always exists. The author accepted the narrowed
+wording during line review.
+
+The author expanded the requested factual record to the classic who, what,
+where, when, why, and how, including what happened to whom, the stated reason,
+the claimed harm and evidence, and the effects that followed. The author also
+warned that “authority” has multiple meanings and can be misinterpreted. The
+current draft no longer uses it as a self-explanatory property: it distinguishes
+formal authorization, assigned responsibility, expertise, practical capacity,
+power to compel, and legitimate decision rights, with their source, scope,
+limits, duration, accountability, and path for challenge or review.
+
 ## v0.1-dev — 2026-09-18 — Repository-structure rescue
 
 Transferred the twelve-file paper package from development revision

@@ -21,7 +21,7 @@ The paper is a synthesis within Root Sequence, not the charter of a new institut
 
 **What must be examined beyond the objectives of an individual agent to assess whether a change improves the conditions of the wider system?**
 
-The proposed contribution is a review method connecting system boundaries, assumptions, consequences, authority, material constraints, and revision over time. It now explicitly draws on UCF's four-layer model without requiring its four-state vocabulary or assuming universality. Whether that method adds anything to existing sociotechnical alignment and systems practice is an open research question, not a novelty claim.
+The proposed contribution is a review method connecting system boundaries, assumptions, consequences, the sources and limits of decision-making power, material constraints, and revision over time. It now explicitly draws on UCF's four-layer model without requiring its four-state vocabulary or assuming universality. Whether that method adds anything to existing sociotechnical alignment and systems practice is an open research question, not a novelty claim.
 
 ### Scope and non-goals
 
@@ -51,7 +51,7 @@ Development versions use `v0.1-dev`. A reviewed release should identify its date
 - Separate definitions, literature-supported arguments, inferences, hypotheses, and design commitments. A normative commitment is not an empirical discovery.
 - Cite external factual claims with Markdown footnotes; record source coverage and version in the source map and bibliography. Abstract review is not full-text review.
 - A counterexample can defeat a universal guarantee without establishing how common the failure is. Scenarios and fiction generate questions, not empirical validation.
-- Keep dissent, privacy, legitimate authority, and real constraints visible. Coherence must not become a synonym for obedience or whatever the author prefers.
+- Keep dissent, privacy, legitimate decision rights and enforcement powers, and real constraints visible. Coherence must not become a synonym for obedience or whatever the author prefers.
 - Do not copy private notes, personal data, unpublished fiction, or story canon into this public directory. AI-assisted wording remains subject to author revision; the author list is unresolved until approved.
 
 ### Canonical placement
