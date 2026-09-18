@@ -1,0 +1,44 @@
+name: Structure or routing suggestion
+description: Suggest a clearer canonical home, navigation path, name, or relationship between existing materials.
+title: "[Structure]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for a concrete improvement to this repository. If the main question is where a new cross-project idea belongs, use Root Sequence Discussions instead.
+  - type: textarea
+    id: current
+    attributes:
+      label: Current structure or routing problem
+      description: What is duplicated, orphaned, ambiguously named, hard to find, or placed at the wrong scope?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Suggested change
+      description: Name the proposed canonical home, route, link, rename, or boundary clarification.
+    validations:
+      required: true
+  - type: textarea
+    id: affected
+    attributes:
+      label: Affected pages or projects
+      description: Link the pages, indexes, discussions, or repositories that would need coordinated updates.
+    validations:
+      required: true
+  - type: textarea
+    id: tradeoffs
+    attributes:
+      label: Tradeoffs or open questions
+      description: Note compatibility, history, private/public boundaries, or competing placements that should be preserved.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Routing checks
+      options:
+        - label: I checked the repository map and ecosystem map before proposing a new home.
+          required: true
+        - label: I have not included private, sensitive, or unpublished material in this public issue.
+          required: true

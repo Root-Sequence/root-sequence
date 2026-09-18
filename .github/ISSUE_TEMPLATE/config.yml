@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Cross-project or placement question
+    url: https://github.com/orgs/Root-Sequence/discussions
+    about: Ask where an idea belongs or discuss something that spans Root Sequence projects.
+  - name: Private security report
+    url: https://github.com/Root-Sequence/root-sequence/security/advisories/new
+    about: Report a potential vulnerability privately instead of opening a public issue.

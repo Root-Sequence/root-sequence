@@ -1,0 +1,55 @@
+name: Documentation problem
+description: Report unclear, incomplete, inconsistent, outdated, or broken reader-facing material.
+title: "[Docs]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping make Root Sequence easier to understand. Do not include private project material, personal information, credentials, or security details in a public issue.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Repository front door or navigation
+        - Concepts or systems research
+        - Analysis, ideology, or futures
+        - Founding texts or commons
+        - Public website
+        - Cross-project routing
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: Link the page, file, heading, or other specific location.
+      placeholder: https://github.com/Root-Sequence/root-sequence/blob/main/...
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is unclear or incorrect?
+      description: Describe what a reader encounters and why it is confusing, incomplete, outdated, or broken.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What would make it clearer?
+      description: Suggest a direction if you have one. A finished rewrite is not required.
+  - type: textarea
+    id: context
+    attributes:
+      label: Related context
+      description: Add relevant pages, discussions, issues, sources, or project boundaries.
+  - type: checkboxes
+    id: public
+    attributes:
+      label: Public-content check
+      options:
+        - label: I have not included private, sensitive, or unpublished material in this public issue.
+          required: true
