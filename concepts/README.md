@@ -19,8 +19,9 @@ Document roles and evidence boundaries should be stated on each page. Being list
 
 These pages are related, but they are not interchangeable. A principle recommends a direction, a framework organizes inquiry, a concept supplies shared language, and a method helps turn understanding into action.
 
-## Shared working vocabulary
+## Project identity and shared working vocabulary
 
+- [Why “Root Sequence”?](root-sequence.md) — the maintained explanation of the project name: underlying conditions, unfolding processes, and the recursive relationship between them.
 - [Working Vocabulary](working-vocabulary.md) — scoped Root Sequence usages of curiosity, intelligence, empathy, love, connection, and liberation, with their limits and relationships shown together.
 
 The earlier `what-is-*` series mixed short definitions, poetry, political analysis, personal reflection, and fictional mythology under one filename pattern. The six genuinely shared vocabulary terms are consolidated above. The outliers now live with material of the same role: the interpretive [Capitalism Replaces Reality](../founding-texts/capitalism-replaces-reality.md) essay, [Personal Anarchism](../founding-texts/personal-anarchism.md), and the historical Auryn sketch within [Liberated Intelligence](../founding-texts/liberated-intelligence.md#auryn-as-an-early-symbol).

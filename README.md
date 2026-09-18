@@ -18,6 +18,14 @@ It's a process, not a blueprint.
 > See [Idea Trails](IDEA_TRAILS.md) to understand recurring cross-project questions, then use the generated [Idea Trail Browser](IDEA_TRAIL_INDEX.md) to jump directly to relevant documents by trail and role.  
 > Use the [Root Sequence Wiki](https://github.com/Root-Sequence/wiki) when the question is what something is called, where it belongs, how projects connect, or how a concept changed over time.
 
+## Why “Root Sequence”?
+
+A **root** is an underlying condition, relationship, history, dependency, or constraint from which visible outcomes can grow. A **sequence** is how conditions unfold through time, feedback, choice, adaptation, and consequence.
+
+Together, the name asks: **What conditions made this possible, and what does it make possible next?** Sequences can become roots for whatever follows, so the inquiry is recursive rather than a search for one first cause or one predetermined path.
+
+Read the maintained explanation in [Why “Root Sequence”?](concepts/root-sequence.md).
+
 ## Public Seed v0.1
 
 The reader-facing website source lives in [`site/`](site/README.md). Its approved single-page public seed introduces the project and routes readers into the research, related projects, and participation paths without replacing their canonical homes. The website directory also records approval, validation, and deployment boundaries.
