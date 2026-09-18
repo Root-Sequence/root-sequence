@@ -15,9 +15,17 @@ the constraint is more coherent than moving less toward one. The synthesis now
 permits bounded, qualified comparisons while rejecting one universal score or
 the assumption that improvement in one process cancels failure in another.
 
-This is one author direction, not approval of the working definition, the
-whole section, the manuscript, its sources, a byline, or publication. The next
-question asks what should count as genuinely moving toward an actionable route.
+After reviewing a synthesis grounded in existing Root Sequence work, the
+author accepted the actionable-route passage for the current draft. It says
+that a route need not be complete, but must change the conditions around an
+unresolved need so that a consequential next step becomes more possible,
+supported, or accountable. Traction, continuity, and accountability distinguish
+a credible escalation from deferral.
+
+This is a passage-level decision, not approval of the broader working
+definition, the whole section, the manuscript, its sources, a byline, or
+publication. The next question tests whether an effective but coercive
+arrangement can be called functionally coherent.
 
 ## v0.1-dev — 2026-09-18 — Repository-structure rescue
 

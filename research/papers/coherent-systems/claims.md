@@ -63,9 +63,11 @@ A possible plain-language formulation is: **A choice can be understandable given
 
 **Assistant synthesis for review:** Coherence can describe the ongoing process of noticing a constraint, making its consequences visible, involving affected people, and revising the response as conditions change. The unresolved shortfall remains an unmet need and may remain incoherent at another boundary; calling the response coherent must not hide it. Because a system contains multiple interacting processes, coherence may differ among them rather than becoming one final label for the whole system. Within an explicit boundary, a process that develops a workable route toward the unmet need can be described as more coherent than one that only records it. This is a qualified comparison, not a claim that every dimension belongs on one universal scale.
 
-**Review status:** This synthesis has been added provisionally to sections 4 and 7. It preserves the author's direction but is not attributed as the author's exact wording. C-003 remains PROVISIONAL, and no source, byline, release, or publication approval follows.
+**Author confirmation: actionable route — 2026-09-18:** After being shown an assistant synthesis connecting the existing Root Sequence, Legible Systems, Human(e) Infrastructure, C-006, and Exit-Ramp treatments, the author affirmed the proposed route passage. The accepted wording says that a route need not be complete to be real, but must change the conditions around an unresolved need so that a consequential next step becomes more possible, supported, or accountable. Traction, continuity, and accountability distinguish a credible escalation from deferral.
 
-**Next question:** What should count as genuinely moving toward an actual route? Must the process identify someone with responsibility and authority, a feasible next action, and the resources or conditions still missing, or can an honest escalation path count before those pieces exist?
+**Review status:** The actionable-route passage is accepted for the current draft and has been added to section 4. The broader C-003 definition and inference remain PROVISIONAL. This passage-level decision does not approve the whole claim, section, manuscript, sources, byline, release, or publication.
+
+**Next question:** Can an arrangement be functionally coherent while coercive or otherwise normatively unacceptable, or should severe coercion itself count as functional incoherence because power and affected people's conditions belong inside the system boundary?
 
 ## C-004 — Explicit disagreement belongs in assessment
 

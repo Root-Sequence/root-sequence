@@ -55,6 +55,8 @@ A definition becomes operational only when an application specifies observations
 
 A supported and revisable response may be functionally coherent even when it cannot resolve the underlying constraint. That description applies to how the constraint is handled; it does not turn an unmet need into a successful outcome. A system may contain several interacting processes whose assumptions, consequences, and capacity to adapt differ, so one overall label should not erase those differences. Coherence is not binary: within a stated boundary, developing an actionable route toward an unmet need can be more coherent than only documenting it. This is a qualified comparison, not a universal score, and improvement in one process does not cancel failure in another.
 
+A route need not be complete to be real. A process moves toward an actionable route when it changes the conditions surrounding an unresolved need so that a consequential next step becomes more possible, supported, or accountable. This may involve identifying a feasible action, connecting the need to relevant authority or resources, creating a credible escalation path, or clarifying what must become true next. The need should remain visible, responsibility and limitations should remain traceable, and the burden of continuation should not simply be transferred to those already affected. An escalation without traction, continuity, or accountability is deferral rather than a route.
+
 **To develop:** Four contrasting cases have received an AI-assisted editorial pass, not independent review. Test the distinction with an effective but coercive arrangement and a protective but unreliable arrangement without hiding either defect in one aggregate label.
 
 ## 5. Values and disagreement are not noise
