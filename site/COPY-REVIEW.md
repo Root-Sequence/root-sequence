@@ -6,11 +6,11 @@ Rae Lovejoy initially approved the single-file website preview with SHA-256
 `9e5bb0eade87e488410baf4fb42ce812efbe5f013c517603edb448337d78f56e`.
 
 Rae Lovejoy approved a follow-up addition on 2026-09-18: section 6 now lists
-**Being Human(e): An Incomplete Guide to** as a developing practical field
+**Being Human(e): An Incomplete Guide** as a developing practical field
 guide. Its project panel says that the public website has not been built yet
 and therefore offers no external website link. The updated approved HTML has
 SHA-256
-`931fef230bc65e2164be0d11c37c86f7f4f0fc9ac10229ea1cac5cafd85c1981`.
+`d9f46f55c483cb9147bce6ece637f63f660f50a21f239b4ab43598008d72d36c`.
 
 Publication changes are limited to state-dependent labels: search indexing,
 local-preview wording, the publication date, and references that say "this
