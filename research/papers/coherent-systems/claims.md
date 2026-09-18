@@ -32,15 +32,17 @@ Bibliographic keys resolve in [references.bib](references.bib). Source coverage 
 **Evidence needed / revision trigger:** A bounded causal comparison with alternative explanations and outcomes beyond the targeted metric; revise where the mechanism fails.  
 **Related:** section 3; Q-007; UC-009. T-002 illustrates a constrained allocation, not behavior persisting or changing over time; C-002 still needs its own causal study.
 
-## C-003 — Functional coherence is distinct from normative legitimacy
+## C-003 — Functional performance does not establish coherence or legitimacy
 
 **Type / state:** DEFINITION + INFERENCE / PROVISIONAL.  
-**Proposition:** Distinguish functional fit from the justification of purposes and decision rights while examining how those choices shape the technical design and its assessment. Neither inquiry supplies all the answers to the other.
+**Proposition:** Distinguish functional performance from coherence and normative legitimacy while examining how purposes, boundaries, power, and decision rights shape all three. A process that executes its target but depends on coercion, suppressed feedback, hidden externalized costs, or excluded affected people may exhibit false coherence rather than genuine fit.
 
 **Basis:** `gabriel2020alignment` and `selbst2019abstraction` constrain the separation claim; the UCF sources and public `systems/coherence/model.md` provide internal provenance for the proposed vocabulary. See [the definition map](notes/ucf-reconciliation.md) and [external comparison](notes/related-work.md).  
-**Support limit:** This is a proposed vocabulary, not a discovered law or validated scale. Working definition replaces the earlier premature operational-definition label. Four layers and four state labels are distinct; the paper assumes no universal state taxonomy.  
-**Objection / boundary:** “Fit” may be too vague. The previous wording could imply independent technical and normative stages; this revision rejects that reading. The functional description itself depends on purposes, boundaries, and measurements that require justification.  
-**Evidence needed / revision trigger:** Reviewers should distinguish an effective but coercive arrangement from a protective but unreliable one without labeling either unqualifiedly coherent. Revise if distinctions cannot be applied consistently or add no explanatory value.  
+**Support limit:** This is proposed project vocabulary, not a discovered law or validated scale. “False coherence” has existing provenance in Root Sequence's [manufactured-consensus analysis](../../../analysis/collective-judgment-and-manufactured-consensus.md#coherence-without-conformity) and UCF's [false-coherence](https://github.com/Root-Sequence/universal-coherence-framework/blob/c4d7b236828a59139c0d5204b1faaed13154682a/docs/idea-trails.md#collective-judgment-dissent--false-coherence) and [coherence-hijacking](https://github.com/Root-Sequence/universal-coherence-framework/blob/c4d7b236828a59139c0d5204b1faaed13154682a/docs/domains/language-and-semantics.md#8-misinformation-and-coherence-hijacking) treatments; applying it to coercive systems is a broader author-directed synthesis that still requires testing. Four layers and four state labels are distinct; the paper assumes no universal state taxonomy.
+
+**Objection / boundary:** If every moral objection is renamed incoherence, the term becomes a circular synonym for disapproval. The analysis should therefore identify the mechanism: coerced compliance, suppressed dissent or feedback, hidden consequences, excluded affected people, authority mismatch, blocked revision, or another specified break in contact with relevant conditions. Normative legitimacy still asks questions that a coherence diagnosis cannot answer by itself.
+
+**Evidence needed / revision trigger:** Reviewers should distinguish target execution from genuine coherence in an effective but coercive arrangement, and distinguish humane intent from functional reliability in a protective but unreliable one. Revise if “false coherence” cannot be tied to a specified mechanism or adds no explanatory value.
 **Related:** section 4; Q-001–Q-002; T-001.
 
 ### Author discussion: situated reasoning and consequences — 2026-09-16
@@ -49,7 +51,7 @@ Bibliographic keys resolve in [references.bib](references.bib). Source coverage 
 
 **Author-stated direction:** A decision may make sense from someone's perspective, circumstances, and available information, including when they are doing their best. The author questioned whether calling that “locally coherent” mistakenly certifies a decision that is incoherent at the same local scale as well as systemically. Incomplete consideration should not automatically blame the person, including when the ability or resources to consider more are unavailable. The author proposed “malconsidered” tentatively, meaning not fully considered or reasoned, rather than malicious.
 
-**Assistant synthesis for review:** Keep understandable reasoning from a situated perspective distinct from correspondence with actual conditions. Also distinguish both from successful execution of a target: a program doing exactly what it was told demonstrates target compliance, not by itself functional coherence. If a service's own access commitments conflict with its completion target, the mismatch may already occur inside that service; no global scale is needed to expose it. “Local” must name a perspective or assessment boundary, not switch between those meanings unnoticed.
+**Assistant synthesis for review:** Keep understandable reasoning from a situated perspective distinct from correspondence with actual conditions. Also distinguish both from successful execution of a target: a program doing exactly what it was told demonstrates target compliance, not by itself coherence. If a service's own access commitments conflict with its completion target, the mismatch may already occur inside that service; no global scale is needed to expose it. “Local” must name a perspective or assessment boundary, not switch between those meanings unnoticed.
 
 A possible plain-language formulation is: **A choice can be understandable given what someone could see and do, while the decision process still leaves consequential needs or effects unaccounted for. Assessing that gap requires examining the support, information, time, resources, and authority available, not merely faulting the person.** This wording is proposed, not attributed to the author as an exact statement.
 
@@ -67,7 +69,15 @@ A possible plain-language formulation is: **A choice can be understandable given
 
 **Review status:** The actionable-route passage is accepted for the current draft and has been added to section 4. The broader C-003 definition and inference remain PROVISIONAL. This passage-level decision does not approve the whole claim, section, manuscript, sources, byline, release, or publication.
 
-**Next question:** Can an arrangement be functionally coherent while coercive or otherwise normatively unacceptable, or should severe coercion itself count as functional incoherence because power and affected people's conditions belong inside the system boundary?
+### Author response: coercion and false coherence — 2026-09-18
+
+**Author-stated direction:** Serious coercion itself makes the apparent coherence incoherent because people, power, and lived consequences belong inside the system boundary. The author recalled the existing term **false coherence** for a system that seems to work but is ultimately flawed and incoherent.
+
+**Assistant synthesis for review:** Reserve “functional performance” for successful execution of a stated target. Use “false coherence” when apparent order or effectiveness depends on coerced compliance, suppressed dissent or feedback, hidden externalized costs, or exclusion of affected people and consequences from the boundary. This extends an existing project term beyond manufactured consensus; it should remain tied to an identifiable mechanism rather than becoming a label for anything disfavored.
+
+**Review status:** The author's conceptual answer is recorded and sections 4 and the abstract have been revised provisionally. The revised wording remains an assistant synthesis for review. C-003 remains PROVISIONAL; no whole-claim, source, byline, release, or publication approval follows.
+
+**Next question:** Does false coherence require the system to hide or suppress its coercion, or can openly acknowledged serious coercion still make the arrangement falsely coherent?
 
 ## C-004 — Explicit disagreement belongs in assessment
 

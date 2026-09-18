@@ -8,7 +8,7 @@
 | ID | Question | Claim links | What would advance it? |
 |---|---|---|---|
 | Q-001 | What does the framework add beyond existing systems and sociotechnical methods? | C-001, C-003, C-012 | A prior-work matrix and a fair comparative assessment, including null results. |
-| Q-002 | Can functional fit and normative legitimacy be distinguished without making either arbitrary? | C-003, C-007 | Examples of effective coercion, unreliable protection, and genuinely mixed outcomes. |
+| Q-002 | Can functional performance, coherence, and normative legitimacy be distinguished without making any of them arbitrary? | C-003, C-007 | Examples of effective coercion, unreliable protection, and genuinely mixed outcomes, with the mechanism of any false coherence stated explicitly. |
 | Q-003 | Who defines boundaries, purposes, and legitimate decision rights when affected parties disagree? | C-004, C-008 | A bounded account of representation, exclusions, appeal, urgency, and non-participation. |
 | Q-004 | How can assessment avoid a new proxy called “coherence”? | C-005, C-006 | Separate indicators, causal explanations, and cases in which no overall conclusion is warranted. |
 | Q-005 | How much information is needed without making participation into surveillance or unpaid work? | C-004, C-008 | Data minimization, accessibility, refusal, and burden assessment. |
@@ -22,9 +22,9 @@
 
 **Initial editorial cases are recorded in the [UCF example](https://github.com/Root-Sequence/universal-coherence-framework/blob/c4d7b236828a59139c0d5204b1faaed13154682a/models/examples/booking-service/README.md). Independent review remains to be done.** The case set covers: an effective but coercive system; a protective but unreliable system; a mixed improvement with displaced burdens; and a bounded repair with clearly specified beneficiaries and costs.
 
-Have reviewers separately describe functional fit and normative objections before introducing the terminology. Then apply C-003. Record ambiguity, excluded parties, disagreements, and whether the vocabulary adds clarity. Keep functional descriptions and normative objections separate rather than collapsing them into an overall score.
+Have reviewers separately describe target performance, boundary omissions, affected relationships, power, and normative objections before introducing the terminology. Then apply C-003. Record ambiguity, excluded parties, disagreements, the mechanism of any proposed false coherence, and whether the vocabulary adds clarity. Do not treat target execution as coherence or collapse every objection into one moral score.
 
-**Failure signal:** The word “coherence” simply tracks approval, obscures objections, or produces no distinction beyond ordinary description.
+**Failure signal:** The word “coherence” simply tracks approval, “false coherence” merely tracks disapproval without identifying a mechanism, objections become obscured, or the vocabulary produces no distinction beyond ordinary description.
 
 **Boundary:** Editorial review of fictional material, not evidence of real-world intervention success. Any later human-participant study requires a separate protocol, consent, and data handling plan.
 
@@ -56,6 +56,6 @@ Choose a small, public, non-sensitive design case and a competent existing revie
 
 ## Next writing pass
 
-C-003 now records the author's provisional direction that coherence can describe a process, or several processes, rather than a destination; it can also admit qualified levels rather than a binary label. The author accepted the actionable-route passage for the current draft: a route need not be complete, but it must create traction, continuity, and accountability rather than merely document or defer the need. The next passage-level question tests the distinction between functional coherence and normative legitimacy using an effective but coercive arrangement. After that review, compare C-003 with the related-work passages and healthcare case before selecting the bounded task, baseline, and evidence packet for T-003. The targeted comparison is drafted; a full literature review and independent evaluation remain open.
+C-003 now records the author's provisional direction that coherence can describe a process, or several processes, rather than a destination; it can also admit qualified levels rather than a binary label. The author accepted the actionable-route passage for the current draft: a route need not be complete, but it must create traction, continuity, and accountability rather than merely document or defer the need. The author also rejected calling a seriously coercive arrangement functionally coherent and identified **false coherence** as the existing project term for apparent effectiveness that excludes people, power, or lived consequences from the boundary. The next passage-level question is whether false coherence requires concealment or can include openly acknowledged coercion. After that review, compare C-003 with the related-work passages and healthcare case before selecting the bounded task, baseline, and evidence packet for T-003. The targeted comparison is drafted; a full literature review and independent evaluation remain open.
 
 [Charter](README.md) · [Paper](paper.md) · [Claims](claims.md)

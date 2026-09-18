@@ -24,8 +24,19 @@ a credible escalation from deferral.
 
 This is a passage-level decision, not approval of the broader working
 definition, the whole section, the manuscript, its sources, a byline, or
-publication. The next question tests whether an effective but coercive
-arrangement can be called functionally coherent.
+publication.
+
+The author then rejected describing a seriously coercive arrangement as
+functionally coherent: people, power, and lived consequences belong inside the
+system boundary. The author recalled **false coherence**, already used in Root
+Sequence and UCF for manufactured consensus and coherence hijacking, as the
+appropriate term for a system that appears to work while remaining ultimately
+flawed and incoherent. The abstract, section 4, C-003, T-001, and reconciliation
+note now distinguish functional performance from coherence and legitimacy.
+The broader use of false coherence is an assistant synthesis for review, not a
+validated scale or approval of C-003 as a whole. The next question asks whether
+false coherence requires concealment or also includes openly acknowledged
+serious coercion.
 
 ## v0.1-dev — 2026-09-18 — Repository-structure rescue
 
