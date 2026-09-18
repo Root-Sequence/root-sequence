@@ -81,6 +81,8 @@ The arrows also run backward. A story can expose a research question. A real arc
 
 Root Sequence explores **root structures and unfolding sequences**: the foundations, relationships, constraints, feedback loops, and emergent processes that shape systems, intelligence, technology, society, and reality.
 
+The name joins two directions of attention: look beneath visible outcomes toward the conditions that made them possible, then follow how those conditions unfold and become part of what happens next. Sequences can become new roots, so this is a recursive inquiry rather than a claim that every system has one first cause or fixed path. See [Why “Root Sequence”?](concepts/root-sequence.md) for the maintained explanation.
+
 It is:
 
 - a living inquiry rather than a finished doctrine;
