@@ -55,6 +55,16 @@ can authorize domination and create false coherence. The next question asks
 who can define, challenge, and review harm when urgency prevents prior
 agreement.
 
+The author rejected both “protective coercion” as contradictory and “an
+agency-limiting intervention justified as necessary to prevent harm” as another
+possible blank check. The paper now avoids solving the problem with a new
+umbrella label. It records three matters separately: what was done and to whom;
+what harm was claimed, by whom, with what evidence and uncertainty; and how the
+action was later assessed. Terms such as coercion, restraint, constraint, or
+domination should be applied only when the described mechanism supports them.
+The next question asks whether this separation captures the intended
+distinction without certifying the action in advance.
+
 ## v0.1-dev — 2026-09-18 — Repository-structure rescue
 
 Transferred the twelve-file paper package from development revision
