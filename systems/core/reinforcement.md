@@ -1,5 +1,9 @@
 # Reinforcement
 
+**Document role:** Cross-domain analytical systems principle<br>
+**Status:** Developing<br>
+**Evidence boundary:** Repetition alone does not establish what is rewarding or stabilizing a pattern. Applications should identify the mechanism and plausible alternatives.<br>
+
 Systems do not stabilize around truth alone.
 
 They stabilize around what gets repeated and reinforced.

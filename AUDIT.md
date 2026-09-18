@@ -50,14 +50,15 @@ The previously linked `noonenoticed.world` domain could not be verified through 
 ### Duplicated or unclear canonical homes
 
 - The nearly identical curiosity and empathy pages now have distinct roles: `concepts/` owns the short definition, while `core/` explains the concept's role in the Root Sequence cycle.
-- `core/` is no longer presented as one uniformly authoritative framework. Its index now separates a working design principle, exploratory cycles and metaphors, manifestos and normative essays, and historical project orientations. The Liberation Cycle, Visibility Loop, and ecological project-cycle metaphor remain available without serving as repository architecture or universal causal claims.
+- `core/` is no longer presented as one uniformly authoritative framework. Its index separates exploratory cycles and metaphors, manifestos and normative essays, and historical project orientations. The Liberation Cycle, Visibility Loop, and ecological project-cycle metaphor remain available without serving as repository architecture or universal causal claims.
+- A follow-up architecture pass confirmed that the top-level `core/` name had become historical rather than descriptive. Its reader-facing role is now **Founding texts and early orientations**; current shared definitions, frameworks, design principles, and methods route to `concepts/`, while analytical principles and models route to `systems/`. Legible Systems moved canonically to `concepts/`, with its old path retained as a migration pointer.
 - Root-level Liberated Intelligence and UCF pages are retained as historical Root Sequence overviews and point to their dedicated canonical repositories.
 - The two SECI entry layers are explicitly separated: the parent page defines the research umbrella; the nested README operates the active program.
 - Collapse Memory and Auryn material now identifies its speculative or fictional status and does not present itself as practical emergency guidance or current fiction canon.
 
 ### Missing local navigation
 
-Concepts, core texts, commons fragments and zines, and systems subareas now link their developed pages. Empty application directories no longer masquerade as populated sections. Planned work is named without creating placeholder links.
+Concepts, founding texts, commons fragments and zines, and systems subareas now link their developed pages. Empty application directories no longer masquerade as populated sections. Planned work is named without creating placeholder links.
 
 ### Status and evidence language
 
@@ -84,7 +85,7 @@ Neither draft was merged into this audit branch, and neither was treated as curr
 
 The final branch was checked for:
 
-- zero empty Markdown files across the final 148-file set;
+- zero empty Markdown files across the final 149-file set;
 - local Markdown links, local heading fragments, inbound Markdown navigation, and at least one readable top-level heading per reader-facing Markdown page;
 - all 99 distinct GitHub repository or file destinations referenced by Markdown, JSON, or HTML through the GitHub API;
 - current generated Idea Trail output;

@@ -28,10 +28,10 @@ The reader-facing website source lives in [`site/`](site/README.md). Its approve
 
 Root Sequence does not require one master framework. It uses several kinds of lenses for different jobs:
 
-- [`systems/`](systems/README.md) develops models and methods for examining structure, power, feedback, failure, and recovery;
+- [`systems/`](systems/README.md) develops analytical principles, models, and methods for examining structure, power, feedback, failure, and recovery;
+- [`concepts/`](concepts/README.md) holds shared definitions, cross-project frameworks, design principles, and methods, including [Legible Systems](concepts/legible-systems.md);
 - [Idea Trails](IDEA_TRAILS.md) follow recurring questions across projects without making every project use the same answer;
-- [Legible Systems](core/legible-systems.md) is a working cross-domain design principle about understanding, access, repair, and power;
-- [`core/`](core/README.md) preserves early cycles, metaphors, manifestos, normative essays, and historical orientations with their roles made explicit.
+- [`core/`](core/README.md) preserves founding manifestos, early cycles and metaphors, normative essays, and historical orientations.
 
 The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Fruits → Compost sequence are retained as exploratory and expressive models. They are not the repository's information architecture or evidence that every person, system, movement, or intelligence follows one mechanism.
 
@@ -40,9 +40,9 @@ The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Frui
 ## 📂 Repository map
 
 - [`site/`](site/README.md) — reader-facing Public Seed website source; not a replacement for research or the Wiki
-- [`core/`](core/README.md) — working principles, early models, manifestos, normative essays, and historical orientations
-- [`systems/`](systems/README.md) — models and methods for understanding how systems behave under stress and failure
-- [`concepts/`](concepts/README.md) — glossary and key definitions
+- [`core/`](core/README.md) — founding texts, early models, manifestos, normative essays, and historical orientations; legacy path retained for stable links
+- [`systems/`](systems/README.md) — analytical principles, models, and methods for understanding system behavior
+- [`concepts/`](concepts/README.md) — shared definitions, cross-project frameworks, design principles, and methods
 - [`analysis/`](analysis/README.md) — system diagnosis (power, capitalism, infrastructure)
 - [`ideology/`](ideology/README.md) — political and cultural frameworks
 - [`futures/`](futures/README.md) — trajectories, alternatives, and resilience
@@ -68,8 +68,8 @@ Suggested entry points:
 - [Idea Trail Metadata Convention](IDEA_TRAIL_METADATA.md) — lightweight visible + machine-searchable metadata for participating documents  
 - [`IDEA_TRAIL_GRAPH.yml`](IDEA_TRAIL_GRAPH.yml) — machine-readable document ↔ trail graph used to generate the browser  
 - [Thought Routing (`RS?`)](THOUGHT_ROUTING.md) — capture a thought once, find one canonical home, and add deliberate cross-project links without duplicate substance
-- [Legible Systems](core/legible-systems.md) — design systems that can be simple to use without remaining mysterious  
-- [Core texts and early orientations](core/README.md) — browse working principles, exploratory models, manifestos, and historical project pointers by role
+- [Legible Systems](concepts/legible-systems.md) — design systems that can be simple to use without remaining mysterious
+- [Founding texts and early orientations](core/README.md) — browse exploratory models, manifestos, normative essays, and historical project pointers by role
 
 ---
 

@@ -201,7 +201,7 @@ Coherent Computing is a private, concept-first operating-system research project
 
 Its ambitions are not implementation claims. There is no released operating system, compatibility result, security audit, or completed participant validation. Early prototypes are bounded experiments, and implementation is paused while the conceptual model is reviewed.
 
-Use the project for OS-specific requirements, architecture, interaction studies, experiments, and test evidence. Keep broad concepts such as [Legible Systems](core/legible-systems.md), [Intelligence Ecology](concepts/intelligence-ecology.md), and [user-configurable cognitive interfaces](concepts/user-configurable-cognitive-interfaces.md) in their Root Sequence homes, then transform them for the operating-system context.
+Use the project for OS-specific requirements, architecture, interaction studies, experiments, and test evidence. Keep broad concepts such as [Legible Systems](concepts/legible-systems.md), [Intelligence Ecology](concepts/intelligence-ecology.md), and [user-configurable cognitive interfaces](concepts/user-configurable-cognitive-interfaces.md) in their Root Sequence homes, then transform them for the operating-system context.
 
 ### Being Human(e)
 

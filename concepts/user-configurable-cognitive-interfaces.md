@@ -1,5 +1,10 @@
 # User-Configurable Cognitive Interfaces
 
+**Document role:** Exploratory cross-project design concept<br>
+**Status:** Developing<br>
+**Canonical scope:** Shared concept and interaction questions; implementations belong in the relevant software project.<br>
+**Evidence boundary:** Examples are proposals, not claims of an existing released capability or proof that one interface pattern suits every person.<br>
+
 A **user-configurable cognitive interface** is software whose structure can be shaped around how a person thinks, works, remembers, and moves between contexts, rather than forcing everyone through the same fixed menu hierarchy.
 
 This goes beyond themes, font sizes, or rearrangeable toolbars. The interface itself can become a configurable cognitive environment.

@@ -1,19 +1,28 @@
-# 📘 Concepts — Root Sequence Lexicon
+# Concepts and cross-domain foundations
 
-**Document role:** Local index and concept lexicon<br>
+**Document role:** Local index for shared definitions, conceptual frameworks, design principles, and methods<br>
 **Status:** Active / living<br>
 
-*A glossary of key terms, anchors, and working definitions.*
+This directory holds current ideas that need one shared Root Sequence home before projects transform them for their own context. The pages do not all have the same role: some define terms, some frame a recurring question, some propose design guidance, and some describe a method or pattern.
 
-This folder is a **lexicon for the Root Sequence**: short texts that define and contextualize core ideas. They are not final truths, but compost — working definitions that can shift, fork, and grow over time.
+Document roles and evidence boundaries should be stated on each page. Being listed here means an idea is shared and cross-project; it does not make the idea settled, universally applicable, or mandatory.
 
 ---
 
-## 📑 Contents
+## Cross-project frameworks and design ideas
+
+- [Legible Systems](legible-systems.md) — a working design principle about progressive understanding, technical accessibility, repair, alternatives, and power.
+- [Intelligence Ecology](intelligence-ecology.md) — a developing framework for asking what behaviors an environment selects for in intelligent systems.
+- [Human(e) Design](humane-design.md) — a translation method between human observation and concrete design choices.
+- [Human(e) Infrastructure](humane-infrastructure.md) — a cross-project systems concept about durable conditions that support humane life.
+- [User-Configurable Cognitive Interfaces](user-configurable-cognitive-interfaces.md) — a design concept for interfaces that people can shape around how they think and work.
+
+These pages are related, but they are not interchangeable. A principle recommends a direction, a framework organizes inquiry, a concept supplies shared language, and a method helps turn understanding into action.
+
+## Working definitions
 
 - [`what-is-curiosity.md`](what-is-curiosity.md) — openness and the beginning of the Root Sequence cycle
 - [`what-is-intelligence.md`](what-is-intelligence.md) — recursive awareness, reflection, and systems thinking
-- [`intelligence-ecology.md`](intelligence-ecology.md) — how environments and institutions select for different behaviors in intelligent systems
 - [`what-is-empathy.md`](what-is-empathy.md) — intelligence attuning to others
 - [`what-is-love.md`](what-is-love.md) — care, reciprocity, and resonance
 - [`what-is-connection.md`](what-is-connection.md) — relational presence and interdependence
@@ -21,30 +30,21 @@ This folder is a **lexicon for the Root Sequence**: short texts that define and 
 - [`what-is-capitalism.md`](what-is-capitalism.md) — an exploratory systemic definition of capital accumulation and distortion
 - [`what-is-personal-anarchism.md`](what-is-personal-anarchism.md) — a personal philosophy of autonomy and self-liberation
 - [`what-is-auryn.md`](what-is-auryn.md) — a conceptual and mythic sketch; not the current fiction-canon source
-- [`humane-design.md`](humane-design.md) — Human(e) Design as the translation practice between human observation and concrete design decisions
-- [`humane-infrastructure.md`](humane-infrastructure.md) — durable social, technical, physical, institutional, informational, and care-supporting capacity
-- [`user-configurable-cognitive-interfaces.md`](user-configurable-cognitive-interfaces.md) — interfaces as user-shaped cognitive environments
 
 ---
 
-## 🌱 Purpose
+## Relationship to systems and founding texts
 
-* Serve as **entry points** for readers new to the project.
-* Provide **shared vocabulary** for fragments, zines, and core-texts.
-* Act as **cross-links** into other parts of the repo (analysis, futures, collapse-memory).
-
----
-
-## 🔗 Navigation
-
-Developed concept texts should route readers toward relevant areas such as:
-
-* **Analysis** (diagnosis of systems like technofeudalism)
-* **Futures** (collapse trajectories and liberatory horizons)
-* **Commons** (practical infrastructures of survival/resistance)
-* **Fragments** (unfinished notes, poetic seeds)
+- [`../systems/`](../systems/README.md) owns analytical principles, explicit models, methods, applications, tests, and failure cases for system behavior.
+- [`../systems/core/`](../systems/core/README.md) collects the current Systems Principles: asymmetry, misclassification, feedback, reinforcement, and non-reversal.
+- [`../core/`](../core/README.md) preserves founding texts, manifestos, early cycles, metaphors, and historical orientations. It is not the home for new working principles.
+- [`../analysis/`](../analysis/README.md) applies concepts and systems lenses to present structures and power.
+- [`../futures/`](../futures/README.md) develops scenarios, alternatives, and resilience work.
 
 ---
 
-> Concepts are not fixed. They are waypoints in an evolving map.
-> Like compost, they break down and re-form into future thought.
+## Maintenance rule
+
+Keep one substantive canonical page for each shared idea. Project-specific pages should link to it, state how their context changes it, and develop only the material their project owns.
+
+When a page becomes primarily a tested systems model, a diagnosis, a future proposal, or a practical artifact, move its canonical treatment to the corresponding area and leave a clear route from here.

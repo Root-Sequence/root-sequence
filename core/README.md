@@ -1,17 +1,13 @@
-# Core texts and early orientations
+# Founding texts and early orientations
 
-**Document role:** Local index organized by document role<br>
+**Document role:** Local index for historical, expressive, and normative material<br>
 **Status:** Active / living<br>
 
-This directory preserves material that has been close to Root Sequence's identity and development. It is not a canon of established truths, and the word **core** does not give every page the same authority, maturity, or evidence status.
+This directory preserves material that has been close to Root Sequence's identity and development. It is not a canon of established truths, and the legacy folder name **core** does not give these pages authority over current concepts, systems work, or project-specific decisions.
 
-The directory currently mixes working principles, exploratory models, manifestos, normative essays, short cycle notes, and historical summaries. Those roles are separated below so readers can tell what kind of document they have opened.
+The path is retained for stable links and historical continuity. New shared definitions, frameworks, design principles, and methods belong in [`../concepts/`](../concepts/README.md); analytical systems principles and models belong in [`../systems/`](../systems/README.md).
 
-## Working cross-domain principle
-
-- [Legible Systems](legible-systems.md) — a developing design principle about progressive understanding, accessibility, repair, inspectability, alternatives, and power.
-
-This is the most developed current treatment in this directory. It is still a working principle, not proof that one design rule transfers unchanged across every domain.
+The pages below are separated by role so readers can tell whether they have opened an early model, a manifesto, a normative essay, or a historical summary.
 
 ## Early cycles and metaphors
 
@@ -41,11 +37,13 @@ These pages are routing and provenance records, not competing canonical versions
 
 ## Relationship to the rest of the repository
 
-- [`../concepts/`](../concepts/README.md) owns concise working definitions.
-- [`../systems/`](../systems/README.md) owns explicit systems models, methods, applications, tests, and failure cases.
+- [`../concepts/`](../concepts/README.md) owns current shared definitions, frameworks, design principles, and cross-project methods, including the canonical [Legible Systems](../concepts/legible-systems.md) treatment.
+- [`../systems/`](../systems/README.md) owns analytical principles, explicit systems models, methods, applications, tests, and failure cases.
 - [`../analysis/`](../analysis/README.md) owns diagnosis of present structures and power.
 - [`../futures/`](../futures/README.md) owns scenarios, proposals, and resilience work.
 - [`../commons/`](../commons/README.md) owns reusable practices, public artifacts, zines, and fragments.
 - The [Ecosystem Map](../ECOSYSTEM.md) identifies dedicated project homes and access boundaries.
 
 When material here develops into a sourced model, method, or project-specific treatment, route the substantive version to the appropriate canonical home and preserve only the context needed to understand this repository's history.
+
+The former [`core/legible-systems.md`](legible-systems.md) address remains only as a migration pointer so existing links continue to work.

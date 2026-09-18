@@ -1,4 +1,9 @@
-# Core Principles
+# Systems Principles
+
+**Document role:** Local index for cross-domain analytical systems principles<br>
+**Status:** Developing<br>
+
+The folder path `systems/core/` is retained for link stability. **Systems Principles** is the reader-facing name, which distinguishes these current analytical lenses from the historical and expressive material under top-level [`core/`](../../core/README.md).
 
 These are not rules. They are lenses.
 

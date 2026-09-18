@@ -9,6 +9,6 @@ This area treats technology as a material, institutional, economic, and social s
 
 - [`example-ai-systems.md`](example-ai-systems.md) applies core systems principles to contemporary AI arrangements.
 
-Related work includes [emergence in AI and socio-technical systems](../emergence/applications/ai.md), [Intelligence Ecology](../../concepts/intelligence-ecology.md), and [Legible Systems](../../core/legible-systems.md).
+Related work includes [emergence in AI and socio-technical systems](../emergence/applications/ai.md), [Intelligence Ecology](../../concepts/intelligence-ecology.md), and [Legible Systems](../../concepts/legible-systems.md).
 
 Return to the [systems index](../README.md).

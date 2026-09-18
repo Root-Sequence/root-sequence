@@ -59,7 +59,7 @@ The groundwork beneath all systems:
 
 ---
 
-## 2. 📡 Signals → Core Principles
+## 2. 📡 Signals → Guiding values
 
 The signals we listen for and radiate in liberated systems:
 

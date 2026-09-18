@@ -1,5 +1,9 @@
 # Asymmetric Systems
 
+**Document role:** Cross-domain analytical systems principle<br>
+**Status:** Developing<br>
+**Evidence boundary:** Unequal roles or effects do not by themselves establish cause, intent, or harm. Each application must identify the actual relationships and evidence.<br>
+
 Not all participants in a system play the same role.
 
 Some systems shape conditions.

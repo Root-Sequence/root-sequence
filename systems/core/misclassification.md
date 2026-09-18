@@ -1,5 +1,9 @@
 # Misclassification
 
+**Document role:** Cross-domain analytical systems principle<br>
+**Status:** Developing<br>
+**Evidence boundary:** A disputed or inaccurate label does not automatically prove that a system is preserving itself. Function, effects, alternatives, and intent where claimed require evidence.<br>
+
 Systems often label things incorrectly in order to preserve stability.
 
 ## Examples

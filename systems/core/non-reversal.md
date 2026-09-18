@@ -1,5 +1,9 @@
 # Non-Reversal
 
+**Document role:** Normative and analytical systems principle<br>
+**Status:** Developing<br>
+**Evidence boundary:** Whether a harmful pattern has persisted, reversed, or been interrupted is a contextual claim requiring evidence about behavior, structure, power, and effects.<br>
+
 Breaking a harmful system requires interrupting the pattern, not inheriting it.
 
 ## Core idea

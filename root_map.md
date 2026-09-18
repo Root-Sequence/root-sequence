@@ -50,11 +50,11 @@ Do not compress every kind of status into one word.
 
 ## 🌱 Current structure
 
-- [`core/`](core/) — working principles, early models, manifestos, normative essays, and historical orientations.
-- [`concepts/`](concepts/) — lexicon and focused definitions, including the `what-is-*` series.
+- [`core/`](core/) — founding texts, early models, manifestos, normative essays, and historical orientations; the legacy path is retained for stable links.
+- [`concepts/`](concepts/) — shared definitions, cross-project frameworks, design principles, and methods, including the `what-is-*` series.
 - [`analysis/`](analysis/) — diagnosis of systems, power, capitalism, infrastructure, surveillance, and related conditions.
 - [`ideology/`](ideology/) — myths, philosophies, and narratives that justify or contest power.
-- [`systems/`](systems/) — structure, dependency, stress, failure, feedback, recovery, coherence, and adaptation.
+- [`systems/`](systems/) — analytical principles, structure, dependency, stress, failure, feedback, recovery, coherence, and adaptation.
 - [`futures/`](futures/) — trajectories, alternatives, collapse, resilience, and possible liberations.
 - [`commons/`](commons/) — zines, fragments, maps, and practices intended for practical or public reuse.
   - [`commons/fragments/`](commons/fragments/) — short, unfinished, poetic, or compostable material.
@@ -88,7 +88,7 @@ The standalone wiki is different from `concepts/`: `concepts/` owns substantive 
 - **Concepts → Analysis** — definitions make diagnosis more precise.
 - **Analysis ↔ Ideology** — material systems shape cultural stories; cultural stories reproduce or challenge systems.
 - **Analysis → Systems** — diagnosis identifies what is happening; systems work asks how it behaves and propagates.
-- **Core ↔ Futures** — foundational values shape possible paths; imagined futures expose weaknesses in the foundations.
+- **Founding texts ↔ Futures** — early values shape possible paths; imagined futures reveal tensions and limits in those orientations.
 - **Systems ↔ Futures** — constraints, feedback, failure, and adaptation determine which futures are plausible.
 - **Commons ↔ every layer** — public artifacts translate inquiry into usable forms and return feedback to the research.
 - **Wiki ↔ every layer** — the standalone wiki tracks names, provenance, aliases, and project relationships so the rest of the ecosystem is easier to find without becoming a second canonical home.
@@ -103,7 +103,7 @@ Why is it justified? → ideology
 How does it behave?  → systems
 What could emerge?   → futures
 What can be shared?  → commons
-What is foundational?→ core
+What shaped its values? → core (founding texts)
 What is it called,
 where is it, or how
 did it evolve?       → Root-Sequence/wiki
@@ -127,6 +127,8 @@ Current recurring dynamics include:
 - **emergence** — collective behavior or capacity arising from interactions among parts;
 - **maintenance** — the often-invisible work that allows continuity;
 - **power** — who can define goals, impose costs, block alternatives, or escape consequences.
+
+The current [Systems Principles](systems/core/README.md) are asymmetry, misclassification, feedback loops, reinforcement, and non-reversal. The `systems/core/` path is retained for compatibility; it is not the same role as the founding material under top-level `core/`.
 
 “Emergence” should not function as a mystical explanation. Emergent outcomes still have mechanisms, participants, histories, power relations, and accountable consequences.
 

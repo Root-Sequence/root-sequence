@@ -1,5 +1,9 @@
 # Feedback Loops
 
+**Document role:** Cross-domain analytical systems principle<br>
+**Status:** Developing<br>
+**Evidence boundary:** A proposed loop should identify measurable actions, outcomes, and return paths. Repetition or correlation alone does not demonstrate feedback causation.<br>
+
 Systems reinforce the behaviors that sustain them.
 
 ## Core idea
