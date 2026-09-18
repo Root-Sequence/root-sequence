@@ -3,8 +3,9 @@
 This directory is the canonical source for `rootsequence.systems`.
 
 The current [`index.html`](index.html) is the single-page public seed approved
-by Rae Lovejoy on 2026-09-18. It includes the six-item Selected Research
-section and is tied to the exact digest recorded in
+by Rae Lovejoy on 2026-09-18. It includes a short explanation of the name Root
+Sequence, a link to the canonical concept page, and the six-item Selected
+Research section. It is tied to the exact digest recorded in
 [`approval.json`](approval.json).
 
 The page is one self-contained file with its styles, scripts, favicon, and

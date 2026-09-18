@@ -1,5 +1,21 @@
 # Website copy review: September 16, 2026
 
+## Approval update: name explanation — September 18, 2026
+
+The current candidate adds a short **Why “Root Sequence”?** passage to the
+About section. It explains the two parts of the name, states the question they
+form together, and links to the canonical concept page in the research
+repository. It does not add a new numbered section or change the site's wider
+structure.
+
+The candidate HTML has SHA-256
+`08a1ce67f37f3db55e235cb3703bcdb552deead2ffd4aafd6cd732f69b384356`.
+The combined publisher-and-page source digest is
+`cdf268f194aea69f1bee65dfdb6f3b1afd8e52a0dcff4a1069cfb1cbc419997d`.
+
+Rae Lovejoy approved this exact website name explanation on 2026-09-18.
+`approval.json` is tied to this candidate's source and preview digests.
+
 ## Approval update: expanded Selected Research — September 18, 2026
 
 The review candidate expands **Selected research and writing** from three to
