@@ -86,7 +86,7 @@ Two draft pull requests remain separate by design:
 
 Neither draft was merged into this audit branch, and neither was treated as current published state.
 
-Two pages in the separate `Root-Sequence/wiki` repository still link to the former `core/legible-systems.md` address. They need a separately authorized cross-repository update before this cleanup is merged; this audit does not revise other repositories.
+Two pages in the separate `Root-Sequence/wiki` repository still link to the former `core/legible-systems.md` address on its current `main` branch. [Wiki PR #1](https://github.com/Root-Sequence/wiki/pull/1) is the prepared two-page update. Merge this cleanup first so the new canonical destination exists, then merge the Wiki PR immediately afterward.
 
 ## Verification record
 
