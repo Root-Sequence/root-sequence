@@ -65,6 +65,12 @@ domination should be applied only when the described mechanism supports them.
 The next question asks whether this separation captures the intended
 distinction without certifying the action in advance.
 
+During line review, the author flagged “relevant authority” in the accepted
+actionable-route passage as too broad. The proposed revision now refers to an
+identified person or body with defined responsibility, accountable decision
+scope, and practical capacity to act on the specific constraint. It does not
+assume that such an actor always exists.
+
 ## v0.1-dev — 2026-09-18 — Repository-structure rescue
 
 Transferred the twelve-file paper package from development revision

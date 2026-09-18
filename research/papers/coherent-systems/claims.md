@@ -68,6 +68,8 @@ A possible plain-language formulation is: **A choice can be understandable given
 
 **Author confirmation: actionable route — 2026-09-18:** After being shown an assistant synthesis connecting the existing Root Sequence, Legible Systems, Human(e) Infrastructure, C-006, and Exit-Ramp treatments, the author affirmed the proposed route passage. The accepted wording says that a route need not be complete to be real, but must change the conditions around an unresolved need so that a consequential next step becomes more possible, supported, or accountable. Traction, continuity, and accountability distinguish a credible escalation from deferral.
 
+**Author wording review — 2026-09-18:** While reviewing the draft, the author flagged “relevant authority” as too broad. The passage now specifies an identified person or body whose responsibility, decision scope, accountability, and practical capacity to act on the particular constraint are explicit. This is a wording revision for review, not an inference that such an actor always exists.
+
 **Review status:** The actionable-route passage is accepted for the current draft and has been added to section 4. The broader C-003 definition and inference remain PROVISIONAL. This passage-level decision does not approve the whole claim, section, manuscript, sources, byline, release, or publication.
 
 ### Author response: coercion and false coherence — 2026-09-18
