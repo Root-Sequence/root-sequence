@@ -53,7 +53,7 @@ The definition is now explicitly compared with UCF's earlier model and glossary 
 
 A definition becomes operational only when an application specifies observations, rules, and uncertainty. The [reconciliation note](notes/ucf-reconciliation.md) maps the distinctions and their provenance; it does not claim independent evidence for UCF.
 
-A supported and revisable response may be functionally coherent even when it cannot resolve the underlying constraint. That description applies to how the constraint is handled; it does not turn an unmet need into a successful outcome. A system may contain several interacting processes whose assumptions, consequences, and capacity to adapt differ, so one overall label should not erase those differences.
+A supported and revisable response may be functionally coherent even when it cannot resolve the underlying constraint. That description applies to how the constraint is handled; it does not turn an unmet need into a successful outcome. A system may contain several interacting processes whose assumptions, consequences, and capacity to adapt differ, so one overall label should not erase those differences. Coherence is not binary: within a stated boundary, developing an actionable route toward an unmet need can be more coherent than only documenting it. This is a qualified comparison, not a universal score, and improvement in one process does not cancel failure in another.
 
 **To develop:** Four contrasting cases have received an AI-assisted editorial pass, not independent review. Test the distinction with an effective but coercive arrangement and a protective but unreliable arrangement without hiding either defect in one aggregate label.
 
@@ -75,7 +75,7 @@ The proposed change is in the surrounding review: who chooses the target, what i
 
 **Anchors: C-006, C-007.** We propose evaluating changes partly by whether they preserve or improve the conditions for correction, participation, maintenance, and adaptation. This does not justify replacing outcomes with another untested proxy called “conditions.” Both must be examined.
 
-“Directional” means a comparison under stated circumstances, not an inevitable or monotonic journey. Coherence is treated here as ongoing work across multiple interacting processes, not a single destination. A repair may improve one relationship while worsening another. This paper neither proves a final coherent state impossible nor assumes that one is attainable. It does not require such a state to motivate a bounded change.
+“Directional” means a context-specific comparison, including qualified judgments of more or less coherence, not a universal scalar or an inevitable, monotonic journey. Coherence is treated here as ongoing work across multiple interacting processes, not a single destination. A repair may improve one relationship while worsening another, and some mixed outcomes may not support an overall ranking. This paper neither proves a final coherent state impossible nor assumes that one is attainable. It does not require such a state to motivate a bounded change.
 
 **To develop:** Specify what improved, for whom, over what period, what deteriorated, and what remains unknown.
 

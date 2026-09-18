@@ -9,10 +9,15 @@ many processes. Added a provisional synthesis to sections 4 and 7 that keeps
 the unmet need visible and allows different interacting processes to have
 different coherence assessments.
 
+The author further clarified that coherence can have levels rather than being
+only a yes-or-no property, and that moving toward an actual route for resolving
+the constraint is more coherent than moving less toward one. The synthesis now
+permits bounded, qualified comparisons while rejecting one universal score or
+the assumption that improvement in one process cancels failure in another.
+
 This is one author direction, not approval of the working definition, the
 whole section, the manuscript, its sources, a byline, or publication. The next
-question asks what minimum action distinguishes a coherent process from a
-transparent description of unresolved failure.
+question asks what should count as genuinely moving toward an actionable route.
 
 ## v0.1-dev — 2026-09-18 — Repository-structure rescue
 

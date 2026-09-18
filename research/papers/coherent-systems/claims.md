@@ -59,13 +59,13 @@ A possible plain-language formulation is: **A choice can be understandable given
 
 ### Author response: coherence amid an unresolved constraint — 2026-09-18
 
-**Author-stated direction:** The author leaned toward a supported and revisable allocation being a coherent response to an unresolved capacity constraint. In the author's words, “Coherence isn't necessarily a destination but a process... many processes even.” This answers the immediate either-or question without approving C-003 or the manuscript as a whole.
+**Author-stated direction:** The author leaned toward a supported and revisable allocation being a coherent response to an unresolved capacity constraint. In the author's words, “Coherence isn't necessarily a destination but a process... many processes even.” The author then clarified that coherence can have levels rather than being a yes-or-no property, and that moving toward an actual route for addressing the shortage would be more coherent than making less progress toward one. This answers the immediate either-or question without approving C-003 or the manuscript as a whole.
 
-**Assistant synthesis for review:** Coherence can describe the ongoing process of noticing a constraint, making its consequences visible, involving affected people, and revising the response as conditions change. The unresolved shortfall remains an unmet need and may remain incoherent at another boundary; calling the response coherent must not hide it. Because a system contains multiple interacting processes, coherence may differ among them rather than becoming one final label for the whole system.
+**Assistant synthesis for review:** Coherence can describe the ongoing process of noticing a constraint, making its consequences visible, involving affected people, and revising the response as conditions change. The unresolved shortfall remains an unmet need and may remain incoherent at another boundary; calling the response coherent must not hide it. Because a system contains multiple interacting processes, coherence may differ among them rather than becoming one final label for the whole system. Within an explicit boundary, a process that develops a workable route toward the unmet need can be described as more coherent than one that only records it. This is a qualified comparison, not a claim that every dimension belongs on one universal scale.
 
 **Review status:** This synthesis has been added provisionally to sections 4 and 7. It preserves the author's direction but is not attributed as the author's exact wording. C-003 remains PROVISIONAL, and no source, byline, release, or publication approval follows.
 
-**Next question:** What minimum action distinguishes a coherent process from a transparent description of the same unresolved failure? For example, must the process include a workable route to change capacity or escalate the unmet need, or can visibility, participation, and revisability be sufficient when no such route currently exists?
+**Next question:** What should count as genuinely moving toward an actual route? Must the process identify someone with responsibility and authority, a feasible next action, and the resources or conditions still missing, or can an honest escalation path count before those pieces exist?
 
 ## C-004 — Explicit disagreement belongs in assessment
 
@@ -113,9 +113,10 @@ A hypothetical explanation might read: *This completion target favors shorter ap
 ## C-007 — Direction is situated, not guaranteed progress
 
 **Type / state:** DEFINITION / PROVISIONAL.  
-**Proposition:** An improvement claim names a baseline, affected relationships, timescale, and tradeoffs; it does not imply monotonic convergence to a perfect state.
+**Proposition:** A qualified claim of more or less coherence names a baseline, affected relationships, timescale, and tradeoffs; it does not imply one universal score or monotonic convergence to a perfect state.
 
 **Basis:** the authorized living-paper brief, the author's 2026-09-18 process direction recorded under C-003, and public futures framing.
+
 **Support limit:** This does not prove a final coherent state mathematically impossible, or that every system can improve.  
 **Objection / boundary:** Some changes may be incomparable; a multidimensional account can become indecisive.  
 **Evidence needed / revision trigger:** Apply the definition to mixed outcomes and identify cases where “more coherent” cannot responsibly be concluded. Retain those cases rather than forcing an ordering.  

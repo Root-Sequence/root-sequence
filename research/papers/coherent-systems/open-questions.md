@@ -56,6 +56,6 @@ Choose a small, public, non-sensitive design case and a competent existing revie
 
 ## Next writing pass
 
-C-003 now records the author's provisional direction that coherence can describe a process, or several processes, rather than a destination. The next passage-level question is what minimum action distinguishes a coherent process from a transparent description of unresolved failure. After that review, compare C-003 with the related-work passages and healthcare case before selecting the bounded task, baseline, and evidence packet for T-003. The targeted comparison is drafted; a full literature review and independent evaluation remain open.
+C-003 now records the author's provisional direction that coherence can describe a process, or several processes, rather than a destination; it can also admit qualified levels rather than a binary label. The next passage-level question is what evidence would show that a process is genuinely moving toward an actionable route. After that review, compare C-003 with the related-work passages and healthcare case before selecting the bounded task, baseline, and evidence packet for T-003. The targeted comparison is drafted; a full literature review and independent evaluation remain open.
 
 [Charter](README.md) · [Paper](paper.md) · [Claims](claims.md)
