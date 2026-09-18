@@ -37,9 +37,13 @@ The broader use of false coherence is an assistant synthesis for review, not a
 validated scale or approval of C-003 as a whole. The author confirmed that
 open acknowledgment does not make a seriously coercive arrangement coherent.
 Acknowledgment may improve legibility and revisability without repairing the
-coerced relationship or restoring agency. The next question asks how to
-distinguish serious coercion from necessary coordination, protective
-boundaries, or temporary constraints.
+coerced relationship or restoring agency. The author compared this to admitting
+a lie: what happens afterward is important. The synthesis now states that
+admission changes what is known, while subsequent changes determine whether the
+process moves toward greater coherence. Treating admission itself as resolution
+can become another layer of false coherence. The next question asks what minimum
+change must follow acknowledgment; distinguishing serious coercion from
+necessary coordination remains a later boundary question.
 
 ## v0.1-dev — 2026-09-18 — Repository-structure rescue
 
