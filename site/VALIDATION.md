@@ -1,5 +1,21 @@
 # Local validation — 2026-09-16
 
+## Selected Research review candidate — 2026-09-18
+
+- The candidate contains six selected entries with distinct reader-facing
+  roles: working paper, conceptual framework, design principle, systems method,
+  systems note, and historical analysis.
+- Reader-documentation and Idea Trail checks pass.
+- A fresh preview build completed with source digest
+  `7d009d9ea493e09db848823a399c9df8d7eebb4334b86aabc7c5343b89afebc3`.
+- Ten non-approval publication tests pass. The exact-approved-preview test
+  fails as expected because this candidate has not yet been approved.
+- A release build is blocked as expected by the stale approval digest.
+- Browser checks at 1440 × 1000 and 390 × 844 found all six entries, the
+  expected destinations, working contextual link details, and no horizontal
+  document overflow. Desktop and mobile views were visually inspected.
+- This validation is not approval, deployment, or a live-domain check.
+
 ## Legible Systems source-route update — 2026-09-18
 
 - The current single-page source now routes its Legible Systems link and
