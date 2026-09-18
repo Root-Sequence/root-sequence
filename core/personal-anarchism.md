@@ -1,5 +1,10 @@
 # 🌱 Personal Anarchism, Misreadings, and the Compass Within
 
+**Document role:** Situated personal and normative essay<br>
+**Status:** Historical / retained<br>
+**Canonical scope:** Records one personal orientation toward autonomy, compassion, coercion, and political misreading; it is not Root Sequence's definition of anarchism.<br>
+**Evidence boundary:** This is a situated reflection, not a general history or theory of anarchism. Comparative claims require sources from the traditions being discussed.<br>
+
 ## Summary
 
 Not all knowing is verbal. Not all compassion is compromise. This note explores the tension between internal clarity and external misinterpretation — especially within radical spaces — and reaffirms a vision of anarchism grounded in compassion, autonomy, and recursive integrity.
@@ -43,11 +48,13 @@ Anarchism, to me, is not a posture or a performance. It is a practice of living 
 
 > “I don’t need to be understood to be sincere. But it’s nice when it happens.”
 
----
- 
- → See also: [What Is Liberation](what-is-liberation.md), the [Autonomy Manifesto](../core/autonomy_manifesto.md), [Futures](../futures/futures.md), and the [Commons](../commons/README.md).
- 
+## Related
 
-## Evidence note
+- [Liberation in the Working Vocabulary](../concepts/working-vocabulary.md#liberation)
+- [Autonomy and Self-Determination Manifesto](autonomy_manifesto.md)
+- [Futures](../futures/futures.md)
+- [Commons](../commons/README.md)
 
-This is a situated personal reflection, not a general history or theory of anarchism. A future comparative revision should cite the traditions it engages rather than attach an empty reference placeholder.
+## Further development
+
+Future comparative development should cite the traditions it engages and keep this personal orientation distinct from a general account of anarchism.

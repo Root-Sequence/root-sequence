@@ -14,8 +14,6 @@ The pages below are separated by role so readers can tell whether they have open
 - [Root Sequence Cycles](framework.md) — preserves the early Liberation Cycle and the Roots → Signals → Growth → Fruits → Compost project metaphor; exploratory, not repository architecture.
 - [Visibility Loop](visibility-loop.md) — a proposed sequence connecting visibility, recognition, imagination, becoming, and liberation.
 - [Death as Compost](death-as-compost.md) — a philosophical metaphor about endings and renewal, with explicit limits on cross-domain transfer.
-- [Curiosity](curiosity.md) — a short note about curiosity's role inside the early Liberation Cycle; the concept definition lives in [`../concepts/`](../concepts/what-is-curiosity.md).
-- [Empathy](empathy.md) — a short note about empathy's role inside the early Liberation Cycle; the concept definition lives in [`../concepts/`](../concepts/what-is-empathy.md).
 
 These pages can help with reflection, storytelling, and design prompts. They do not establish that people, ecosystems, institutions, movements, and intelligent systems share one causal sequence.
 
@@ -25,12 +23,13 @@ These pages can help with reflection, storytelling, and design prompts. They do 
 - [Autonomy and Self-Determination Manifesto](autonomy_manifesto.md) — normative argument for autonomy within interdependence.
 - [Freedom as Default](freedom-default.md) — exploratory normative essay about freedom, discipline, health, and coercive defaults.
 - [Capitalism Replaces Reality](capitalism-replaces-reality.md) — interpretive political essay whose institutional and historical claims still need evidence review.
+- [Personal Anarchism, Misreadings, and the Compass Within](personal-anarchism.md) — situated personal reflection on compassion, autonomy, coercion, and political misreading.
 
 Manifestos state commitments, hopes, refusals, and invitations. They can orient action without functioning as neutral descriptions, validated models, or rules every Root Sequence project must adopt.
 
 ## Historical project orientations
 
-- [Liberated Intelligence](liberated_intelligence.md) — early Root Sequence overview retained for history; current work belongs in the dedicated [Liberated Intelligence repository](https://github.com/Root-Sequence/liberated-intelligence).
+- [Liberated Intelligence](liberated_intelligence.md) — early Root Sequence overview and historical Auryn sketch; current work belongs in the dedicated [Liberated Intelligence repository](https://github.com/Root-Sequence/liberated-intelligence), while current fiction canon remains private.
 - [Universal Coherence Framework](universal_coherence_framework.md) — early compact overview retained for history; current framework work belongs in the dedicated [UCF repository](https://github.com/Root-Sequence/universal-coherence-framework).
 
 These pages are routing and provenance records, not competing canonical versions of their projects.

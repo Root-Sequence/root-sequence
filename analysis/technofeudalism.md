@@ -274,7 +274,7 @@ It is not only feudal — it is **futile-ism**: an empire of castles feeding on 
 **See also:**  
 - [Fascism](../ideology/fascism.md) — explores how authoritarian aesthetics and hierarchy fuse with technofeudal enclosures.
 - [futures.md](../futures/futures.md) — where this path leads  
-- [what-is-capitalism.md](../concepts/what-is-capitalism.md) — core definition
+- [Capitalism Replaces Reality](../core/capitalism-replaces-reality.md) — interpretive political essay; not a neutral economic definition
 
 ## References
 

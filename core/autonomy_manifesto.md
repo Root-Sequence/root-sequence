@@ -122,6 +122,8 @@ This manifesto is open-source. It will change.
 Version yourself freely.  
 Autonomy doesn’t mean isolation — it means co-creating a world worth choosing.
 
+For one situated personal treatment of these values, see [Personal Anarchism, Misreadings, and the Compass Within](personal-anarchism.md).
+
 ---
 
 ## 📝 Note from the Curator

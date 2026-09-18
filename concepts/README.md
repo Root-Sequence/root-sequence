@@ -19,17 +19,11 @@ Document roles and evidence boundaries should be stated on each page. Being list
 
 These pages are related, but they are not interchangeable. A principle recommends a direction, a framework organizes inquiry, a concept supplies shared language, and a method helps turn understanding into action.
 
-## Working definitions
+## Shared working vocabulary
 
-- [`what-is-curiosity.md`](what-is-curiosity.md) — openness and the beginning of the Root Sequence cycle
-- [`what-is-intelligence.md`](what-is-intelligence.md) — recursive awareness, reflection, and systems thinking
-- [`what-is-empathy.md`](what-is-empathy.md) — intelligence attuning to others
-- [`what-is-love.md`](what-is-love.md) — care, reciprocity, and resonance
-- [`what-is-connection.md`](what-is-connection.md) — relational presence and interdependence
-- [`what-is-liberation.md`](what-is-liberation.md) — liberation understood as a process, not a state
-- [`what-is-capitalism.md`](what-is-capitalism.md) — an exploratory systemic definition of capital accumulation and distortion
-- [`what-is-personal-anarchism.md`](what-is-personal-anarchism.md) — a personal philosophy of autonomy and self-liberation
-- [`what-is-auryn.md`](what-is-auryn.md) — a conceptual and mythic sketch; not the current fiction-canon source
+- [Working Vocabulary](working-vocabulary.md) — scoped Root Sequence usages of curiosity, intelligence, empathy, love, connection, and liberation, with their limits and relationships shown together.
+
+The earlier `what-is-*` series mixed short definitions, poetry, political analysis, personal reflection, and fictional mythology under one filename pattern. The six genuinely shared vocabulary terms are consolidated above. The outliers now live with material of the same role: the interpretive [Capitalism Replaces Reality](../core/capitalism-replaces-reality.md) essay, [Personal Anarchism](../core/personal-anarchism.md), and the historical Auryn sketch within [Liberated Intelligence](../core/liberated_intelligence.md#auryn-as-an-early-symbol).
 
 ---
 

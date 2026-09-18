@@ -26,7 +26,7 @@ The cycle proposes a sequence of ethical and reflective relationships. Its stage
 - ☠️ **Death (Compost)** → entropy becomes fertile soil for renewal  
 - 🌟 **Curiosity** → the cycle returns, sparked by new questions  
 
-It is best read as a spiral-shaped invitation rather than a ladder or causal law. See [Curiosity](curiosity.md), [Empathy](empathy.md), and [Death as Compost](death-as-compost.md) for short treatments of individual stages.
+It is best read as a spiral-shaped invitation rather than a ladder or causal law. See the current [Working Vocabulary](../concepts/working-vocabulary.md) for scoped treatments of curiosity, intelligence, empathy, love, connection, and liberation, and [Death as Compost](death-as-compost.md) for the historical metaphor's final stage.
 
 ---
 

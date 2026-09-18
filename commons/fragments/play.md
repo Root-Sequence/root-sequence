@@ -16,7 +16,7 @@ It is a **mode of experimenting with freedom** — trying, failing, remixing.
 ## 🌐 Links
 
 - Related to [Joy](joy.md).  
-- Connects to [Curiosity](../../core/curiosity.md).  
+- Connects to [Curiosity](../../concepts/working-vocabulary.md#curiosity).
 - Compost for [Collapse Practices](../../futures/collapse-practices.md).  
 
 ---

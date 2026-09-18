@@ -16,7 +16,7 @@ It is the practice of mending what matters, and letting go of what doesn’t.
 ## 🌐 Links
 
 - Related to [Commons](../README.md).  
-- Paired with [Love](../../concepts/what-is-love.md).  
+- Paired with [Love](../../concepts/working-vocabulary.md#love).
 - Counterbalances [Technofeudalism](../../analysis/technofeudalism.md).  
 
 ---

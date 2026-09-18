@@ -123,7 +123,7 @@ The aim is not to reduce a whole ecology to one score. It is to make the pressur
 
 ## See also
 
-- [`what-is-intelligence.md`](what-is-intelligence.md)
+- [Intelligence in the Working Vocabulary](working-vocabulary.md#intelligence)
 - [`../systems/emergence/applications/ai.md`](../systems/emergence/applications/ai.md)
 - [`../commons/humane-design-review.md`](../commons/humane-design-review.md)
 - [`../IDEA_TRAILS.md#trail-9--intelligence-automation-and-legitimate-authority`](../IDEA_TRAILS.md#trail-9--intelligence-automation-and-legitimate-authority)

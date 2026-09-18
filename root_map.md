@@ -51,7 +51,7 @@ Do not compress every kind of status into one word.
 ## 🌱 Current structure
 
 - [`core/`](core/) — founding texts, early models, manifestos, normative essays, and historical orientations; the legacy path is retained for stable links.
-- [`concepts/`](concepts/) — shared definitions, cross-project frameworks, design principles, and methods, including the `what-is-*` series.
+- [`concepts/`](concepts/) — shared vocabulary, cross-project frameworks, design principles, and methods.
 - [`analysis/`](analysis/) — diagnosis of systems, power, capitalism, infrastructure, surveillance, and related conditions.
 - [`ideology/`](ideology/) — myths, philosophies, and narratives that justify or contest power.
 - [`systems/`](systems/) — analytical principles, structure, dependency, stress, failure, feedback, recovery, coherence, and adaptation.

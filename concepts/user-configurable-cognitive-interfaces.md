@@ -273,9 +273,9 @@ The implementation should stay separate from the principle so one experimental U
 
 ## See also
 
-- [What is intelligence?](what-is-intelligence.md)
-- [What is liberation?](what-is-liberation.md)
-- [What is personal anarchism?](what-is-personal-anarchism.md)
+- [Intelligence in the Working Vocabulary](working-vocabulary.md#intelligence)
+- [Liberation in the Working Vocabulary](working-vocabulary.md#liberation)
+- [Personal Anarchism](../core/personal-anarchism.md)
 - [Being Human(e) Atlas](https://github.com/Root-Sequence/beinghumane-atlas)
 
 > An interface is part of the environment in which thought becomes action. Users should have more say in shaping that environment.
