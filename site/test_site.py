@@ -1,155 +1,201 @@
-"""Offline publication tests. Temporary approvals never approve the actual site."""
+"""Offline checks for the approved Root Sequence public seed."""
 from __future__ import annotations
-import copy
+
+import base64
+import hashlib
 import importlib.util
 import json
+import re
 import shutil
 import tempfile
 import unittest
-import zipfile
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlparse
 from xml.etree import ElementTree as ET
 
+
 HERE = Path(__file__).resolve().parent
-spec = importlib.util.spec_from_file_location('seed_builder', HERE / 'build.py')
+APPROVED_PREVIEW_SHA256 = "9e5bb0eade87e488410baf4fb42ce812efbe5f013c517603edb448337d78f56e"
+spec = importlib.util.spec_from_file_location("site_builder", HERE / "build.py")
 builder = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(builder)
 
+
 class PageParser(HTMLParser):
     def __init__(self):
-        super().__init__()
-        self.links, self.ids, self.tags, self.meta = [], set(), [], {}
-        self.headings = 0
+        super().__init__(convert_charrefs=True)
+        self.ids: list[str] = []
+        self.links: list[str] = []
+        self.resources: list[str] = []
+        self.scripts: list[dict] = []
+        self._script: dict | None = None
+        self.meta: dict[str, str | None] = {}
+        self.h1 = 0
+
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
-        self.tags.append(tag)
-        if tag == 'h1': self.headings += 1
-        if 'id' in attrs: self.ids.add(attrs['id'])
-        if tag in ('a','link') and 'href' in attrs: self.links.append(attrs['href'])
-        if tag == 'meta': self.meta[attrs.get('name')] = attrs.get('content')
+        if "id" in attrs:
+            self.ids.append(attrs["id"])
+        if tag == "h1":
+            self.h1 += 1
+        if tag == "a" and "href" in attrs:
+            self.links.append(attrs["href"])
+        if tag in ("img", "script") and "src" in attrs:
+            self.resources.append(attrs["src"])
+        if tag == "link" and attrs.get("rel") not in ("canonical",):
+            if "href" in attrs:
+                self.resources.append(attrs["href"])
+        if tag == "meta" and attrs.get("name"):
+            self.meta[attrs["name"]] = attrs.get("content")
+        if tag == "script":
+            self._script = {"attrs": attrs, "text": ""}
+
+    def handle_data(self, data):
+        if self._script is not None:
+            self._script["text"] += data
+
+    def handle_endtag(self, tag):
+        if tag == "script" and self._script is not None:
+            self.scripts.append(self._script)
+            self._script = None
+
 
 class PublicationTests(unittest.TestCase):
     def setUp(self):
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)
-        self.root = Path(self.temp.name) / 'source'
+        self.root = Path(self.temp.name) / "source"
         self.root.mkdir()
-        for name in ('build.py','style.css','content.json'):
+        for name in builder.SOURCE_FILES:
             shutil.copy2(HERE / name, self.root / name)
-        self.data = json.loads((self.root/'content.json').read_text())
-    def build(self, release=False):
-        output = Path(self.temp.name) / 'output'
-        return output, builder.build(self.root, output, release)
-    def write(self):
-        (self.root/'content.json').write_text(json.dumps(self.data))
-    def test_preview_pages_have_structure_and_no_scripts(self):
-        output, result = self.build()
-        self.assertEqual(result['html_pages'], len(self.data['pages']))
-        for p in output.rglob('*.html'):
-            doc = PageParser(); doc.feed(p.read_text())
-            self.assertEqual(doc.headings, 1)
-            self.assertIn('main', doc.ids)
-            self.assertNotIn('script', doc.tags)
-            self.assertEqual(doc.meta['robots'], 'noindex,nofollow')
-            self.assertTrue(doc.meta['description'])
-    def test_every_local_link_and_fragment_resolves(self):
-        output,_ = self.build()
-        for p in output.rglob('*.html'):
-            doc=PageParser(); doc.feed(p.read_text())
-            for href in doc.links:
-                url=urlparse(href)
-                if url.scheme or url.netloc: continue
-                target=(p.parent/unquote(url.path)).resolve() if url.path else p.resolve()
-                self.assertTrue(target.is_relative_to(output.resolve()))
-                self.assertTrue(target.is_file(), f'{p.name}: {href}')
-                if url.fragment:
-                    target_doc=PageParser(); target_doc.feed(target.read_text())
-                    self.assertIn(url.fragment,target_doc.ids)
-    def test_feed_and_sitemap_are_parseable_and_complete(self):
-        output,_=self.build()
-        feed=ET.parse(output/'feed.xml')
-        self.assertEqual(len(feed.findall('{http://www.w3.org/2005/Atom}entry')),len(self.data['pages']))
-        self.assertEqual(len(ET.parse(output/'sitemap.xml').getroot()),len(self.data['pages']))
-    def test_archive_is_self_contained_and_excludes_source(self):
-        output,result=self.build()
-        with zipfile.ZipFile(output/'seed-archive.zip') as z:
-            names=set(z.namelist())
-            self.assertIn('index.html',names)
-            self.assertIn('build-manifest.json',names)
-            self.assertTrue(set(result['files']).issubset(names))
-            for private_name in ('content.json','build.py','approval.json','EDITORIAL-NOTES.md'):
-                self.assertNotIn(private_name,names)
-    def test_missing_approval_blocks_release(self):
-        with self.assertRaisesRegex(ValueError,'Release blocked'): self.build(True)
-    def test_exact_approval_allows_release(self):
-        approval={'source_sha256':builder.source_digest(self.root),'approved_by':'test-fixture-only','approved_at':'2026-09-16'}
-        (self.root/'approval.json').write_text(json.dumps(approval))
-        output,result=self.build(True)
-        self.assertEqual(result['build_mode'],'release')
-        self.assertNotIn('noindex',(output/'index.html').read_text())
-    def test_source_change_invalidates_approval(self):
-        approval={'source_sha256':builder.source_digest(self.root),'approved_by':'test-fixture-only','approved_at':'2026-09-16'}
-        (self.root/'approval.json').write_text(json.dumps(approval))
-        self.data['pages'][0]['title'] += ' revised'
-        self.write()
-        with self.assertRaisesRegex(ValueError,'Release blocked'): self.build(True)
-    def test_unsafe_or_duplicate_slug_is_rejected(self):
-        for bad in ('../secret/','/absolute/','a//b/',''):
-            data=copy.deepcopy(self.data); data['pages'][1]['slug']=bad
-            with self.assertRaises(ValueError): builder.validate(data)
-    def test_external_javascript_url_is_rejected(self):
-        self.data['nav'][0]['url']='javascript:alert(1)'
-        with self.assertRaises(ValueError): builder.validate(self.data)
-    def test_unknown_internal_target_is_rejected(self):
-        self.data['nav'][0]['url']='/does-not-exist/'
-        with self.assertRaises(ValueError): builder.validate(self.data)
-    def test_existing_output_is_not_overwritten(self):
-        output,_=self.build()
-        marker=output/'reader-note.txt'; marker.write_text('keep me')
-        with self.assertRaisesRegex(ValueError,'empty output'): builder.build(self.root,output)
-        self.assertEqual(marker.read_text(),'keep me')
-    def test_text_is_escaped_and_graph_is_consistent(self):
-        self.data['pages'][0]['sections'][0]['paragraphs'].append('<script>secret</script>')
-        self.write(); output,_=self.build()
-        text=(output/'index.html').read_text()
-        self.assertIn('&lt;script&gt;secret&lt;/script&gt;',text)
-        self.assertNotIn('<script>',text)
-        graph=json.loads((output/'project-map.json').read_text())
-        ids={n['id'] for n in graph['projects']}
-        for edge in graph['relationships']:
-            self.assertIn(edge['from'],ids); self.assertIn(edge['to'],ids)
-    def test_export_contains_no_private_repository_addresses(self):
-        output,_=self.build()
-        for path in output.rglob('*'):
-            if path.is_file() and path.suffix in ('.html','.json','.xml','.txt'):
-                text=path.read_text()
-                for forbidden in ('github.com/Root-Sequence/wiki-private','github.com/Root-Sequence/coherent-world','INTEGRATION-QUEUE.md'):
-                    self.assertNotIn(forbidden,text)
-    def test_homepage_explains_project_before_metadata(self):
-        output,_=self.build(); text=(output/'index.html').read_text()
-        self.assertIn('<h1>Root Sequence</h1>',text)
-        self.assertIn('collection of research, essays, and projects',text)
-        self.assertIn('Rae Lovejoy',text)
-        self.assertGreater(text.index('class="page-details"'),text.index('Browse the guides'))
-    def test_plain_navigation_and_native_details(self):
-        self.assertEqual([n['label'] for n in self.data['nav']],['Start here','Guides','Projects','About'])
-        output,_=self.build()
-        for path in output.rglob('*.html'):
-            self.assertIn('<summary>About this page</summary>',path.read_text())
-    def test_site_copy_avoids_selected_stock_patterns(self):
-        import re
-        output,_=self.build()
-        # House-style regression only. This does not detect authorship or verify claims.
-        for path in output.rglob('*.html'):
-            text=re.sub('<[^>]+>',' ',path.read_text()).lower()
-            for phrase in ('—','at its core','delve into','in today’s world','seamless','living systems commons','canonical identity','possibility space'):
-                self.assertNotIn(phrase,text,str(path))
-    def test_copy_rules_are_not_exported(self):
-        output,_=self.build()
-        self.assertFalse((output/'AGENTS.md').exists())
-        self.assertFalse((output/'COPY-REVIEW.md').exists())
 
-if __name__=='__main__':
+    def build(self, release=False):
+        output = Path(self.temp.name) / "output"
+        return output, builder.build(self.root, output, release)
+
+    def approve(self):
+        approval = {
+            "source_sha256": builder.source_digest(self.root),
+            "approved_by": "test fixture only",
+            "approved_at": "2026-09-18",
+        }
+        (self.root / "approval.json").write_text(json.dumps(approval), encoding="utf-8")
+
+    def parse(self, path):
+        parser = PageParser()
+        parser.feed(path.read_text(encoding="utf-8"))
+        return parser
+
+    def test_canonical_source_is_the_approved_preview(self):
+        actual = hashlib.sha256((HERE / "index.html").read_bytes()).hexdigest()
+        self.assertEqual(actual, APPROVED_PREVIEW_SHA256)
+
+    def test_preview_build_preserves_the_approved_html_exactly(self):
+        output, manifest = self.build()
+        self.assertEqual((output / "index.html").read_bytes(), (self.root / "index.html").read_bytes())
+        self.assertEqual(manifest["build_mode"], "preview")
+        self.assertEqual(self.parse(output / "index.html").meta["robots"], "noindex,nofollow")
+
+    def test_release_needs_exact_approval(self):
+        with self.assertRaisesRegex(ValueError, "Release blocked"):
+            self.build(True)
+        self.approve()
+        (self.root / "index.html").write_text(
+            (self.root / "index.html").read_text(encoding="utf-8") + "\n",
+            encoding="utf-8",
+        )
+        with self.assertRaisesRegex(ValueError, "Release blocked"):
+            self.build(True)
+
+    def test_release_changes_only_publication_state(self):
+        self.approve()
+        output, manifest = self.build(True)
+        text = (output / "index.html").read_text(encoding="utf-8")
+        self.assertEqual(manifest["build_mode"], "release")
+        self.assertEqual(self.parse(output / "index.html").meta["robots"], "index,follow")
+        for phrase in ("local review copy", "Not a published site", "Privacy and this preview"):
+            self.assertNotIn(phrase, text)
+        self.assertIn("Public seed · Published 18 September 2026", text)
+        self.assertIn("This is the public seed edition", text)
+
+    def test_page_structure_and_fragments(self):
+        output, _ = self.build()
+        page = self.parse(output / "index.html")
+        self.assertEqual(page.h1, 1)
+        self.assertEqual(len(page.ids), len(set(page.ids)))
+        self.assertIn("main", page.ids)
+        for href in page.links:
+            parsed = urlparse(href)
+            if parsed.scheme:
+                self.assertEqual(parsed.scheme, "https", href)
+                continue
+            self.assertFalse(parsed.netloc, href)
+            self.assertFalse(parsed.path, href)
+            if parsed.fragment:
+                self.assertIn(unquote(parsed.fragment), page.ids, href)
+
+    def test_page_is_self_contained_and_font_is_embedded(self):
+        output, _ = self.build()
+        text = (output / "index.html").read_text(encoding="utf-8")
+        page = self.parse(output / "index.html")
+        self.assertIn('@font-face{font-family:"Cascadia Mono RS";src:url(data:font/woff2;base64,', text)
+        self.assertIn("connect-src 'none'", text)
+        for resource in page.resources:
+            self.assertTrue(resource.startswith("data:"), resource)
+
+    def test_inline_script_hashes_match_the_csp(self):
+        output, _ = self.build()
+        text = (output / "index.html").read_text(encoding="utf-8")
+        csp = re.search(r'<meta content="([^"]+)" http-equiv="Content-Security-Policy"/>', text).group(1)
+        page = self.parse(output / "index.html")
+        executable = [s for s in page.scripts if s["attrs"].get("type") != "application/json"]
+        self.assertEqual(len(executable), 2)
+        for script in executable:
+            digest = base64.b64encode(hashlib.sha256(script["text"].encode()).digest()).decode()
+            self.assertIn(f"'sha256-{digest}'", csp)
+
+    def test_only_english_source_edition_is_offered(self):
+        output, _ = self.build()
+        page = self.parse(output / "index.html")
+        translations = next(s for s in page.scripts if s["attrs"].get("id") == "translations")
+        self.assertEqual(list(json.loads(translations["text"])), ["en"])
+        text = (output / "index.html").read_text(encoding="utf-8")
+        self.assertIn("English / source edition", text)
+        self.assertNotIn("noonenoticed.world", text)
+
+    def test_required_approved_copy_and_controls_are_present(self):
+        text = (HERE / "index.html").read_text(encoding="utf-8")
+        for phrase in (
+            "Research for a",
+            "more coherent world",
+            "Root Sequence is an open research project",
+            "Intelligence here includes human reasoning, machine intelligence",
+            "Root Sequence is an independent project started by",
+            "https://github.com/raelovejoy",
+            "Selected research and writing",
+            "Take part in",
+            "Cascadia Mono license",
+        ):
+            self.assertIn(phrase, text)
+        for control in ("menu-sections", "menu-display", "menu-language", "context-dialog"):
+            self.assertIn(f'id="{control}"', text)
+
+    def test_generated_support_files_are_complete(self):
+        output, manifest = self.build()
+        self.assertEqual(ET.parse(output / "sitemap.xml").getroot()[0][0].text, builder.BASE_URL)
+        self.assertEqual((output / "CNAME").read_text(), builder.DOMAIN + "\n")
+        self.assertEqual((output / ".nojekyll").read_bytes(), b"")
+        self.assertEqual(set(manifest["files"]), {"index.html", "robots.txt", "sitemap.xml", ".nojekyll", "CNAME"})
+
+    def test_existing_output_is_not_overwritten(self):
+        output, _ = self.build()
+        marker = output / "reader-note.txt"
+        marker.write_text("keep me")
+        with self.assertRaisesRegex(ValueError, "empty output"):
+            builder.build(self.root, output)
+        self.assertEqual(marker.read_text(), "keep me")
+
+
+if __name__ == "__main__":
     unittest.main(verbosity=2)

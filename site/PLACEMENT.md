@@ -1,9 +1,17 @@
-# Public Seed placement — 2026-09-16
+# Public Seed placement — 2026-09-18
 
-This directory is the canonical home of the reader-facing Root Sequence site, integrated from PR #5 while retaining the later main-branch research and navigation changes.
+`site/index.html` is the canonical reader-facing Root Sequence website source.
+It is byte-for-byte identical to the single-file preview approved by Rae
+Lovejoy on 2026-09-18.
 
-The original README and validation receipt describe the review candidate at the time it was produced. This record updates placement status only: **saved on main; not verified deployed**. The seven original site files are byte-for-byte unchanged. No release approval, DNS change, hosting replacement, or private-story export is included.
+The earlier 11-page candidate is retained under
+`site/legacy-public-seed-v0.1/` for history only. Existing research files remain
+the substantive home of the arguments, and the standalone Wiki remains the
+shared project reference. Do not create duplicate canonical copies here.
 
-Target domain: `rootsequence.systems`. The existing domain's deployment source and credentials remain unresolved. Deploy only a reviewed generated output directory, never the whole repository. A ZIP from a chat is not the canonical working copy.
+GitHub Pages is the intended website host. Fastmail remains the website host
+until the staged Pages origin is verified and the web-only DNS cutover is
+complete. Fastmail continues to provide DNS and mail after the website moves.
 
-The standalone Wiki and existing `RS?` capture/routing remain authoritative for shared identities and ingestion. Do not create competing inboxes or copies of canonical research here.
+Deploy only the approved generated output. Never publish the repository root,
+the legacy source directory, private Wiki material, or unpublished fiction.

@@ -1,20 +1,29 @@
 # Root Sequence website
 
-Website source for `rootsequence.systems`, saved on the repository's main branch. The latest copy pass explains the project for first-time visitors and uses the writing reference in [AGENTS.md](AGENTS.md). See [COPY-REVIEW.md](COPY-REVIEW.md) for changes and checks. **Not deployed or verified live.**
+This directory is the canonical source for `rootsequence.systems`.
 
-Existing research files remain the home of the full arguments. The standalone Wiki holds shared identities, project references, and relationships. This website introduces that work without moving or replacing it.
+The current site is the single-page public seed approved by Rae Lovejoy on
+2026-09-18. [`index.html`](index.html) is the exact approved preview: one
+self-contained file with its styles, scripts, favicon, and Cascadia Mono
+wordmark font embedded. It makes no runtime requests for fonts, images,
+analytics, translation, or previews.
 
 ## Files
 
-- `content.json`: the text and metadata for 11 pages, including five introductory guides and selected project relationships.
-- `build.py`: offline static builder using the Python standard library.
-- `style.css`: responsive light, dark, and print styles using local fonts.
-- `test_site.py`: 17 checks for publishing controls, links, source boundaries, and selected writing patterns.
-- `AGENTS.md`: writing and page-structure instructions for future edits.
-- `COPY-REVIEW.md`: the latest copy and layout review.
-- `VALIDATION.md` and `PLACEMENT.md`: historical records of the initial build and integration.
+- `index.html`: exact approved preview and canonical editorial source.
+- `approval.json`: approval tied to the exact current source digest.
+- `build.py`: offline publisher. Preview output preserves `index.html` exactly;
+  release output changes only preview/publication-state labels.
+- `test_site.py`: checks the approved-file hash, release gate, links, fragments,
+  embedded assets, Content Security Policy hashes, English-only setup, and
+  required controls and copy.
+- `DEPLOYMENT.md`: GitHub Pages and Fastmail DNS migration runbook.
+- `legacy-public-seed-v0.1/`: clearly labelled source from the superseded
+  11-page candidate.
 
-Maturity, evidence, and publication status remain separate. Page history and development labels are available under About this page. Source links remain below the reading text.
+The research repository remains the canonical home of the full arguments. The
+Root Sequence Wiki remains the shared project reference. This site introduces
+and routes into that work rather than copying it.
 
 ## Build and inspect
 
@@ -26,40 +35,27 @@ python site/build.py --output /tmp/root-sequence-preview
 python -m http.server 8000 --directory /tmp/root-sequence-preview
 ```
 
-The last command serves a local preview at `http://localhost:8000`. Generated page and stylesheet links are relative, so the pages can also be opened from a downloaded directory. Choose a fresh empty output path; the builder refuses to replace an existing edition.
+The preview page is byte-for-byte identical to `site/index.html` and remains
+`noindex`. Choose a fresh empty output directory; the builder will not delete or
+replace an earlier build.
 
-Output includes the pages, `feed.xml`, `sitemap.xml`, `robots.txt`, `project-map.json`, `build-manifest.json`, and `seed-archive.zip`. The archive is a portable snapshot, not an independently stored backup. Authoring files and internal documentation are not exported.
-
-## Release approval
-
-Preview is the default. Preview labels and `noindex` do not control access. This repository and its branches are public; keep private material elsewhere.
-
-Print the digest of the exact source to review:
-
-```sh
-python site/build.py --digest
-```
-
-An authorised reviewer can then record it in `site/approval.json`:
-
-```json
-{
-  "source_sha256": "THE_REVIEWED_DIGEST",
-  "approved_by": "REVIEWER_NAME",
-  "approved_at": "YYYY-MM-DD"
-}
-```
-
-Build the approved edition into another empty directory:
+Build the approved publication artifact with:
 
 ```sh
 python site/build.py --release --output /tmp/root-sequence-release
 ```
 
-No approval is supplied. Changes to `build.py`, `content.json`, or `style.css` invalidate an existing approval. This record is an editorial check, not authenticated proof of identity.
+The release changes `noindex` to `index,follow` and replaces only statements
+that describe a local, unpublished preview. It also creates `robots.txt`,
+`sitemap.xml`, `.nojekyll`, `CNAME`, and a build manifest. Any change to
+`build.py` or `index.html` invalidates the approval until the new digest is
+reviewed and recorded.
 
-Deploy only the approved generated output. Identify and preserve the existing hosting and DNS configuration before replacing a site. Building does not deploy anything.
+## Hosting
 
-## Remaining launch work
+`.github/workflows/pages.yml` tests and builds the approved release before it
+can deploy to GitHub Pages. Deploy only that generated directory, never the
+repository or the historical source directory.
 
-Connect the actual host, review the export, deploy, check live links and HTTPS, keep an independent preservation copy, and update existing Wiki navigation with verified entrypoints. A full accessibility and reader-comprehension review remains separate from the local checks. No new Wiki, inbox, domain purchase, or canon system is introduced.
+Fastmail still serves the live website until the DNS cutover is deliberately
+completed. Its mail records must remain unchanged. See [DEPLOYMENT.md](DEPLOYMENT.md).
