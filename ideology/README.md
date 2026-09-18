@@ -6,7 +6,7 @@ It includes the stories, categories, assumptions, aesthetics, institutions, and 
 
 This folder examines ideologies that justify hierarchy, enclosure, extraction, exclusion, elite rule, technological domination, and authoritarian control. It also studies allegories and cultural works that make those structures easier to perceive.
 
-The older [`README.txt`](README.txt) is retained as a legacy index until repository normalization is completed. This Markdown file is the current directory orientation.
+This Markdown file is the canonical directory orientation. The older duplicate `README.txt` was retired during the repository normalization pass; its substantive links and purpose are preserved here.
 
 ---
 

@@ -2,11 +2,14 @@
 
 This directory is the canonical source for `rootsequence.systems`.
 
-The current site is the single-page public seed approved by Rae Lovejoy on
-2026-09-18. [`index.html`](index.html) is the exact approved preview: one
-self-contained file with its styles, scripts, favicon, and Cascadia Mono
-wordmark font embedded. It makes no runtime requests for fonts, images,
-analytics, translation, or previews.
+The current [`index.html`](index.html) is the single-page public seed approved
+by Rae Lovejoy on 2026-09-18. It includes the six-item Selected Research
+section and is tied to the exact digest recorded in
+[`approval.json`](approval.json).
+
+The page is one self-contained file with its styles, scripts, favicon, and
+Cascadia Mono wordmark font embedded. It makes no runtime requests for fonts,
+images, analytics, translation, or previews.
 
 ## Files
 
@@ -20,6 +23,13 @@ analytics, translation, or previews.
 - `DEPLOYMENT.md`: GitHub Pages and Fastmail DNS migration runbook.
 - `legacy-public-seed-v0.1/`: clearly labelled source from the superseded
   11-page candidate.
+
+Supporting records and instructions:
+
+- [`AGENTS.md`](AGENTS.md): writing, page-structure, and review instructions.
+- [`COPY-REVIEW.md`](COPY-REVIEW.md): approval and editorial review record.
+- [`VALIDATION.md`](VALIDATION.md): validation history and limits.
+- [`PLACEMENT.md`](PLACEMENT.md): repository placement and publication boundary.
 
 The research repository remains the canonical home of the full arguments. The
 Root Sequence Wiki remains the shared project reference. This site introduces

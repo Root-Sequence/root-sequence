@@ -1,8 +1,6 @@
 # Root Sequence Wiki moved
 
-The Root Sequence Wiki now lives in its own canonical repository:
-
-**https://github.com/Root-Sequence/wiki**
+The Root Sequence Wiki now lives in its own canonical repository: [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki).
 
 This former embedded location is intentionally kept only as a migration pointer so old links and repository history still explain where the wiki went.
 

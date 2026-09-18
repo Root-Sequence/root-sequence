@@ -1,5 +1,10 @@
 # Human(e) Design
 
+**Document role:** Cross-project design methodology<br>
+**Status:** Active / developing<br>
+**Canonical scope:** Shared translation practice; projects own their implementations, tests, and context-specific requirements.<br>
+**Evidence boundary:** This page proposes design guidance. Whether a choice helps or harms people must be investigated with affected people in the relevant setting.<br>
+
 **Human(e) Design** is the translation practice between understanding human experience and making concrete choices about systems, tools, spaces, services, institutions, interfaces, and processes.
 
 It asks a deceptively simple question:

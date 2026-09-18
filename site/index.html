@@ -7,7 +7,7 @@
 <meta content="light dark" name="color-scheme"/>
 <meta content="noindex,nofollow" name="robots"/>
 <meta content="no-referrer" name="referrer"/>
-<meta content="default-src 'none'; script-src 'sha256-OEcw/R6q5dxJ33i+y52dxs8+RvdGo0bjZDkZCoV8Jfw=' 'sha256-xBCVD1fOnlF2uaMwaExp2UVR8fZ3XxxZwSedcLVtAj4='; style-src 'unsafe-inline'; font-src data:; img-src data:; connect-src 'none'; base-uri 'none'; form-action 'none'; object-src 'none'" http-equiv="Content-Security-Policy"/>
+<meta content="default-src 'none'; script-src 'sha256-OEcw/R6q5dxJ33i+y52dxs8+RvdGo0bjZDkZCoV8Jfw=' 'sha256-TcLZYMcXebRZ7CohTfRT3csqryRYQZXLVgjsw3ssL6g='; style-src 'unsafe-inline'; font-src data:; img-src data:; connect-src 'none'; base-uri 'none'; form-action 'none'; object-src 'none'" http-equiv="Content-Security-Policy"/>
 <title>Root Sequence · Research for a more coherent world</title>
 <meta content="Root Sequence is an open research project about the connections between people, technology, institutions, and the systems we build." name="description"/>
 <link href="https://rootsequence.systems/" rel="canonical"/>
@@ -395,16 +395,44 @@ html{scrollbar-gutter:stable}html[data-overlay-open]{overflow:hidden;overscroll-
 </a>
 </li>
 <li>
-<p class="entry-type" data-i18n="research.type2">Research notes</p>
+<p class="entry-type" data-i18n="research.typeFramework">Conceptual framework</p>
+<h3 data-i18n="research.ecologyTitle">Intelligence Ecology</h3>
+<p data-i18n="research.ecologyDescription">How training, markets, institutions, permissions, and material conditions reward some forms of intelligent behavior over others.</p>
+<p class="fine" data-i18n="research.ecologyStatus">Developing framework. Claims about a particular system require their own evidence.</p>
+<a class="source-link" data-external-source="" href="https://github.com/Root-Sequence/root-sequence/blob/main/concepts/intelligence-ecology.md" rel="noopener noreferrer" target="_blank">
+<span data-i18n="research.ecologyLink">Read Intelligence Ecology</span> <span aria-hidden="true" class="arrow">↗</span>
+<span class="sr-only" data-i18n="overlay.newTab">Opens in a new tab</span>
+</a>
+</li>
+<li>
+<p class="entry-type" data-i18n="research.typePrinciple">Design principle</p>
 <h3 data-i18n="research.legibleTitle">Making systems understandable</h3>
 <p data-i18n="research.legibleDescription">When a tool or service goes wrong, what do people need to know, and what should they be able to do next?</p>
-<a class="source-link" data-external-source="" href="https://github.com/Root-Sequence/root-sequence/blob/main/core/legible-systems.md" rel="noopener noreferrer" target="_blank">
+<a class="source-link" data-external-source="" href="https://github.com/Root-Sequence/root-sequence/blob/main/concepts/legible-systems.md" rel="noopener noreferrer" target="_blank">
 <span data-i18n="research.legibleLink">Read the notes on understandable systems</span> <span aria-hidden="true" class="arrow">↗</span>
 <span class="sr-only" data-i18n="overlay.newTab">Opens in a new tab</span>
 </a>
 </li>
 <li>
-<p class="entry-type" data-i18n="research.type2">Research notes</p>
+<p class="entry-type" data-i18n="research.typeMethod">Systems method</p>
+<h3 data-i18n="research.scaleTitle">Events, patterns, and scale</h3>
+<p data-i18n="research.scaleDescription">A method for moving between individual events and wider patterns without losing evidence, causality, or accountability.</p>
+<a class="source-link" data-external-source="" href="https://github.com/Root-Sequence/root-sequence/blob/main/systems/events-patterns-and-scale.md" rel="noopener noreferrer" target="_blank">
+<span data-i18n="research.scaleLink">Read the systems note</span> <span aria-hidden="true" class="arrow">↗</span>
+<span class="sr-only" data-i18n="overlay.newTab">Opens in a new tab</span>
+</a>
+</li>
+<li>
+<p class="entry-type" data-i18n="research.typeSystems">Systems note</p>
+<h3 data-i18n="research.resilienceTitle">Resilience and graceful degradation</h3>
+<p data-i18n="research.resilienceDescription">How to preserve essential capabilities when dependencies fail, including diverse fallbacks, maintenance, local capacity, and humane limits.</p>
+<a class="source-link" data-external-source="" href="https://github.com/Root-Sequence/root-sequence/blob/main/systems/resilience-and-graceful-degradation.md" rel="noopener noreferrer" target="_blank">
+<span data-i18n="research.resilienceLink">Read the resilience notes</span> <span aria-hidden="true" class="arrow">↗</span>
+<span class="sr-only" data-i18n="overlay.newTab">Opens in a new tab</span>
+</a>
+</li>
+<li>
+<p class="entry-type" data-i18n="research.typeAnalysis">Historical analysis</p>
 <h3 data-i18n="research.historyTitle">Revisiting ideas that were left behind</h3>
 <p data-i18n="research.historyDescription">How to investigate an old possibility without assuming it would have worked, or that people would choose it now.</p>
 <a class="source-link" data-external-source="" href="https://github.com/Root-Sequence/root-sequence/blob/main/analysis/historical-contingency.md" rel="noopener noreferrer" target="_blank">
@@ -786,13 +814,27 @@ html{scrollbar-gutter:stable}html[data-overlay-open]{overflow:hidden;overscroll-
     "research.title": "A few places to begin.",
     "research.intro": "These are selected entry points, not the complete collection. They lead to longer source documents on GitHub, where the wider body of research notes, analysis, systems work, and essays lives.",
     "research.type1": "Working paper",
-    "research.type2": "Research notes",
+    "research.typeFramework": "Conceptual framework",
+    "research.typePrinciple": "Design principle",
+    "research.typeMethod": "Systems method",
+    "research.typeSystems": "Systems note",
+    "research.typeAnalysis": "Historical analysis",
     "research.paperDescription": "A developing argument about examining intelligent systems alongside the institutions, infrastructure, and conditions they depend on.",
     "research.paperStatus": "AI-assisted draft. Author review pending; not peer reviewed.",
     "research.paperLink": "Read the working paper",
+    "research.ecologyTitle": "Intelligence Ecology",
+    "research.ecologyDescription": "How training, markets, institutions, permissions, and material conditions reward some forms of intelligent behavior over others.",
+    "research.ecologyStatus": "Developing framework. Claims about a particular system require their own evidence.",
+    "research.ecologyLink": "Read Intelligence Ecology",
     "research.legibleTitle": "Making systems understandable",
     "research.legibleDescription": "When a tool or service goes wrong, what do people need to know, and what should they be able to do next?",
     "research.legibleLink": "Read the notes on understandable systems",
+    "research.scaleTitle": "Events, patterns, and scale",
+    "research.scaleDescription": "A method for moving between individual events and wider patterns without losing evidence, causality, or accountability.",
+    "research.scaleLink": "Read the systems note",
+    "research.resilienceTitle": "Resilience and graceful degradation",
+    "research.resilienceDescription": "How to preserve essential capabilities when dependencies fail, including diverse fallbacks, maintenance, local capacity, and humane limits.",
+    "research.resilienceLink": "Read the resilience notes",
     "research.historyTitle": "Revisiting ideas that were left behind",
     "research.historyDescription": "How to investigate an old possibility without assuming it would have worked, or that people would choose it now.",
     "research.historyLink": "Read the notes on past possibilities",
@@ -1100,7 +1142,10 @@ clearContext(isContact?'overlay.contact':'overlay.source',title,'');
 if(url.includes('/papers/coherent-systems/')){paragraph(t('research.paperDescription'));paragraph(t('research.paperStatus'));}
 else if(url.endsWith('/pull/6')){paragraph(t('overlay.review'));paragraph(t('research.paperStatus'));}
 else if(url.includes('/systems/coherence/'))paragraph(t('overlay.coherence'));
-else if(url.includes('/core/legible-systems.md'))paragraph(t('research.legibleDescription'));
+else if(url.includes('/concepts/intelligence-ecology.md')){paragraph(t('research.ecologyDescription'));paragraph(t('research.ecologyStatus'));}
+else if(url.includes('/concepts/legible-systems.md'))paragraph(t('research.legibleDescription'));
+else if(url.includes('/systems/events-patterns-and-scale.md'))paragraph(t('research.scaleDescription'));
+else if(url.includes('/systems/resilience-and-graceful-degradation.md'))paragraph(t('research.resilienceDescription'));
 else if(url.includes('/analysis/historical-contingency.md'))paragraph(t('research.historyDescription'));
 else if(url.endsWith('/ECOSYSTEM.md'))paragraph(t('projects.intro'));
 else if(url.endsWith('/contributing.md')){paragraph(t('about.contribution'));paragraph(t('about.terms'));}

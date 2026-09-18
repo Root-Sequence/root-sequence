@@ -152,6 +152,8 @@ def render(data: dict) -> str:
         "",
         "> **Trail membership indicates a meaningful relationship, not canonical authority.** Each project's own source-of-truth rules still apply. A ★ marks a document explicitly listed as a canonical treatment for that trail.",
         "",
+        "> Some destinations are private working repositories. Their links are routing context and will be unavailable without access; the public index does not expose their contents.",
+        "",
         "## Trails",
         "",
     ]

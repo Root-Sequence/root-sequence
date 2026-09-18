@@ -42,9 +42,10 @@ What amplifies it?
 
 ## In this folder
 
-- `model.md` defines cascade behavior in structural terms.
-- `mapping.md` provides a method for tracing cascade paths.
-- `applications/` contains real-world examples.
+- [`model.md`](model.md) defines cascade behavior in structural terms.
+- [`mapping.md`](mapping.md) provides a method for tracing cascade paths.
+
+No developed application pages are currently published in this directory. Homelab, identity, and social applications remain possible directions; add them only when they contain a distinct worked example.
 
 ## Directions
 

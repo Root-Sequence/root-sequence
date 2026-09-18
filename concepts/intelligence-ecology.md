@@ -1,10 +1,10 @@
 # Intelligence Ecology
 
-**Working question:** What conditions select for what kinds of intelligence?
-
-**Status:** Developing conceptual framework
-
-**Canonical scope:** The shared Root Sequence definition and cross-project systems frame. Project-specific documents should transform this concept rather than restate it as a second canonical source.
+**Document role:** Cross-project conceptual framework<br>
+**Status:** Developing<br>
+**Working question:** What conditions select for what kinds of intelligence?<br>
+**Canonical scope:** The shared Root Sequence definition and cross-project systems frame. Project-specific documents should transform this concept rather than restate it as a second canonical source.<br>
+**Evidence boundary:** The selection-environment framing is a working hypothesis. Claims about a particular intelligence, institution, or behavior require domain-specific evidence.<br>
 
 Intelligence does not develop or operate in a vacuum.
 
@@ -123,7 +123,7 @@ The aim is not to reduce a whole ecology to one score. It is to make the pressur
 
 ## See also
 
-- [`what-is-intelligence.md`](what-is-intelligence.md)
+- [Intelligence in the Working Vocabulary](working-vocabulary.md#intelligence)
 - [`../systems/emergence/applications/ai.md`](../systems/emergence/applications/ai.md)
 - [`../commons/humane-design-review.md`](../commons/humane-design-review.md)
 - [`../IDEA_TRAILS.md#trail-9--intelligence-automation-and-legitimate-authority`](../IDEA_TRAILS.md#trail-9--intelligence-automation-and-legitimate-authority)

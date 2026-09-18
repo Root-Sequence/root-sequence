@@ -29,6 +29,13 @@ Coherence shapes fragility.
 Fragility enables cascades.
 Recovery responds to what remains.
 
+## In this folder
+
+- [`model.md`](model.md) defines the local systems-layer coherence model.
+- [`diagnostics.md`](diagnostics.md) provides a method for identifying mismatches between assumptions and operating conditions.
+
+The [Universal Coherence Framework](https://github.com/Root-Sequence/universal-coherence-framework) is a separate focused project. This directory owns the smaller Root Sequence systems treatment, not UCF's project-specific model.
+
 ## Questions
 
 What assumptions does this system make?
@@ -61,3 +68,5 @@ Future work may include:
 - aligning systems with real-world conditions
 - designing for dynamic environments
 - integrating coherence with adaptation
+
+Identity and social applications remain planned directions, not published pages.

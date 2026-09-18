@@ -1,5 +1,32 @@
 # Website copy review: September 16, 2026
 
+## Approval update: expanded Selected Research — September 18, 2026
+
+The review candidate expands **Selected research and writing** from three to
+six entry points. It adds:
+
+- **Intelligence Ecology** as a developing conceptual framework;
+- **Events, patterns, and scale** as a systems method; and
+- **Resilience and graceful degradation** as a developing systems note.
+
+The existing entries now use more specific role labels: working paper,
+conceptual framework, design principle, systems method, systems note, and
+historical analysis. Each new link has a plain-language description and a
+local context panel. The candidate HTML has SHA-256
+`0fe3a3a228e75c7d30d73061a48409a971c0070b46e20f907c6d1e8979d5ca62`.
+
+Rae Lovejoy approved the current six-item Selected Research section for
+publication on 2026-09-18. `approval.json` is tied to this exact candidate.
+
+## Approval update: Legible Systems route — September 18, 2026
+
+Rae Lovejoy approved moving Legible Systems out of the obsolete `core/` path
+and updating the website accordingly. The source link and its contextual
+overlay now route directly to `concepts/legible-systems.md`. No visible copy,
+layout, project description, or interaction changed. The updated approved HTML
+has SHA-256
+`24224b29f6f049fa28409b9d785433997e1331d5c66659da648a1da41c97d526`.
+
 ## Approval update: September 18, 2026
 
 Rae Lovejoy initially approved the single-file website preview with SHA-256

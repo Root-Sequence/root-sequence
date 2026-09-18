@@ -16,7 +16,7 @@ from xml.etree import ElementTree as ET
 
 
 HERE = Path(__file__).resolve().parent
-APPROVED_PREVIEW_SHA256 = "d9f46f55c483cb9147bce6ece637f63f660f50a21f239b4ab43598008d72d36c"
+APPROVED_PREVIEW_SHA256 = "0fe3a3a228e75c7d30d73061a48409a971c0070b46e20f907c6d1e8979d5ca62"
 spec = importlib.util.spec_from_file_location("site_builder", HERE / "build.py")
 builder = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(builder)
@@ -174,6 +174,9 @@ class PublicationTests(unittest.TestCase):
             "Root Sequence is an independent project started by",
             "https://github.com/raelovejoy",
             "Selected research and writing",
+            "Intelligence Ecology",
+            "Events, patterns, and scale",
+            "Resilience and graceful degradation",
             "Being Human(e): An Incomplete Guide",
             'id="project-humane"',
             "Its public website has not been built yet",

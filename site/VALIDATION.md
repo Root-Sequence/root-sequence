@@ -1,5 +1,35 @@
 # Local validation — 2026-09-16
 
+## Approved Selected Research expansion — 2026-09-18
+
+- The approved source contains six selected entries with distinct reader-facing
+  roles: working paper, conceptual framework, design principle, systems method,
+  systems note, and historical analysis.
+- Reader-documentation and Idea Trail checks pass.
+- A fresh preview build completed with source digest
+  `7d009d9ea493e09db848823a399c9df8d7eebb4334b86aabc7c5343b89afebc3`.
+- All eleven publication tests pass, including the exact approval gate.
+- Fresh preview and approved release builds complete successfully.
+- Browser checks at 1440 × 1000 and 390 × 844 found all six entries, the
+  expected destinations, working contextual link details, and no horizontal
+  document overflow. Desktop and mobile views were visually inspected.
+- This validation records the approved local source and build. It is not a
+  deployment or a live-domain check.
+
+## Legible Systems source-route update — 2026-09-18
+
+- The current single-page source now routes its Legible Systems link and
+  contextual overlay directly to `concepts/legible-systems.md`.
+- The change does not alter visible copy or layout.
+- The updated inline-script Content Security Policy hash matches the script.
+- All eleven offline publication tests pass, including the exact approval gate.
+- Fresh preview and release builds completed with source digest
+  `29333bdb919498771bcf514dd7becca13d89efd5cfa1845497c18eef1cadcd88`.
+- Browser checks at 1440 × 1000 and 390 × 844 showed the expected headline,
+  visible section, reading, and language controls, the new source destination,
+  and no horizontal document overflow.
+- This branch validation is not a deployment or a check of the live domain.
+
 ## Approved single-page edition — 2026-09-18
 
 - The repository copy matches the approved preview byte-for-byte.

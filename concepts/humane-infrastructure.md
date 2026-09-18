@@ -1,5 +1,10 @@
 # Human(e) Infrastructure
 
+**Document role:** Cross-project systems concept<br>
+**Status:** Active / developing<br>
+**Canonical scope:** Shared Root Sequence definition; projects own concrete infrastructure requirements, governance, and validation.<br>
+**Evidence boundary:** This page proposes criteria and questions. Calling an arrangement humane requires contextual evidence, including the experiences of people affected by it.<br>
+
 **Human(e) Infrastructure** is the durable social, technical, physical, institutional, informational, and care-supporting substrate that makes humane life easier to sustain without requiring constant individual heroics.
 
 It asks:

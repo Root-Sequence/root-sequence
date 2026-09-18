@@ -1,5 +1,8 @@
 # 🕯️ Capitalist Myths (Collapse Memory Fragment)
 
+**Document role:** Poetic futures fragment<br>
+**Status:** Exploratory<br>
+
 > *“In the Before, they worshipped jobs. They called it dignity. They forgot what it meant to live.”*
 
 ---
@@ -57,5 +60,5 @@ It is here to **help us remember**:
 
 ---
 **See also:**  
-- [what-is-capitalism.md](../../concepts/what-is-capitalism.md) — the definition  
+- [Capitalism Replaces Reality](../../founding-texts/capitalism-replaces-reality.md) — interpretive political essay
 - [technofeudalism.md](../../analysis/technofeudalism.md) — contemporary form

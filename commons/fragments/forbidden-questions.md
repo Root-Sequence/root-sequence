@@ -24,7 +24,7 @@
 * Print and leave in public spaces
 * Use in workshops or discussion groups
 * Turn into flashcards, dialogue prompts, or collage art
-* Include in `collapse-memory/onboarding.md`
-* Link from `autonomy_manifesto.md` or `freedom-default.md`
+* Include in [Collapse Onboarding](../../futures/collapse-memory/collapse-onboarding.md)
+* Link from the [Autonomy Manifesto](../../founding-texts/autonomy-manifesto.md) or [Freedom as Default](../../founding-texts/freedom-default.md)
 
 > **Freedom begins when we ask the questions we were told not to ask.**

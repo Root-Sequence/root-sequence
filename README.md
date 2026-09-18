@@ -2,7 +2,7 @@
 
 <img src="assets/root-sequence.png" alt="Root Sequence logo" width="100" align="right" />
 
-The Root Sequence is a living, open-source framework for exploring how intelligence, systems, and meaning evolve together.
+The Root Sequence is a living, open-source inquiry into how intelligence, systems, and meaning evolve together.
 
 It combines philosophy, systems thinking, and technical exploration into a modular body of work designed to grow, adapt, and be remixed.
 
@@ -11,7 +11,7 @@ It's a process, not a blueprint.
 **Ecosystem role:** umbrella inquiry / conceptual commons  
 **Canonical scope:** broad systems research, concepts, analysis, shared patterns, futures, and organization-level orientation  
 **Does not own:** project-specific software, gathering practice, intelligence-specific conclusions, fictional canon, or Museum governance/consent  
-**Status:** active / public / living
+**Status:** active / public / living<br>
 
 > **This repository is the conceptual commons, not the entire GitHub organization.**  
 > See the [Ecosystem Map](ECOSYSTEM.md) for the relationships among Root Sequence, Community Infrastructure, Liberated Intelligence, the Universal Coherence Framework, Being Human(e), Liberation Mass, Coherent World, *No One Noticed*, the Museum of Ordinary Life, and adjacent implementation work.  
@@ -20,58 +20,39 @@ It's a process, not a blueprint.
 
 ## Public Seed v0.1
 
-The reader-facing website source now lives in [`site/`](site/README.md): an introduction, five Atlas guides, project relationships, publication conventions, and a changelog. The source is preserved here; a successful build is **not** evidence of deployment to `rootsequence.systems`. Research, the Wiki, and thought routing retain their existing canonical homes. See [`site/PLACEMENT.md`](site/PLACEMENT.md) for the placement and deployment boundary.
+The reader-facing website source lives in [`site/`](site/README.md). Its approved single-page public seed introduces the project and routes readers into the research, related projects, and participation paths without replacing their canonical homes. The website directory also records approval, validation, and deployment boundaries.
 
 ---
 
-## 🌀 Framework
+## Recurring questions and lenses
 
-The Root Sequence is organized around five recursive layers:
+Root Sequence does not require one master framework. It uses several kinds of lenses for different jobs:
 
-1. 🌱 Roots — foundations of interdependence, autonomy, and visibility  
-2. 📡 Signals — recurring principles and guiding patterns  
-3. 🌿 Growth — practices, experiments, and development  
-4. 🍎 Fruits — outcomes, tools, and visible expressions  
-5. ♻️ Compost — decay, feedback, and renewal  
+- [`systems/`](systems/README.md) develops analytical principles, models, and methods for examining structure, power, feedback, failure, and recovery;
+- [`concepts/`](concepts/README.md) holds shared definitions, cross-project frameworks, design principles, and methods, including [Legible Systems](concepts/legible-systems.md);
+- [Idea Trails](IDEA_TRAILS.md) follow recurring questions across projects without making every project use the same answer;
+- [`founding-texts/`](founding-texts/README.md) preserves founding manifestos, early cycles and metaphors, normative essays, and historical orientations.
 
-→ [Framework](core/framework.md)
-
----
-
-## 🔁 Core Dynamics
-
-### Visibility Loop
-
-Visibility → Recognition → Imagination → Becoming → Liberation  
-
-[Read more →](core/visibility-loop.md)
+The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Fruits → Compost sequence are retained as exploratory and expressive models. They are not the repository's information architecture or evidence that every person, system, movement, or intelligence follows one mechanism.
 
 ---
 
-### Liberation Cycle
+## 📂 Repository map
 
-Curiosity → Intelligence → Empathy → Love → Liberation → Life → Death → Curiosity  
-
-A recursive process rather than a fixed path.
-
----
-
-## 📂 Repository Map
-
-- `/site/` — reader-facing Public Seed website source; not a replacement for research or the Wiki
-- `/core/` — foundational texts and framework documents
-- `/systems/` — models and methods for understanding how systems behave under stress and failure  
-- `/concepts/` — glossary and key definitions  
-- `/analysis/` — system diagnosis (power, capitalism, infrastructure)  
-- `/ideology/` — political and cultural frameworks  
-- `/futures/` — trajectories, alternatives, and resilience  
-- `/commons/` — practical outputs (zines, maps, fragments)  
+- [`site/`](site/README.md) — reader-facing Public Seed website source; not a replacement for research or the Wiki
+- [`founding-texts/`](founding-texts/README.md) — founding texts, early models, manifestos, normative essays, and historical orientations
+- [`systems/`](systems/README.md) — analytical principles, models, and methods for understanding system behavior
+- [`concepts/`](concepts/README.md) — shared definitions, cross-project frameworks, design principles, and methods
+- [`analysis/`](analysis/README.md) — system diagnosis (power, capitalism, infrastructure)
+- [`ideology/`](ideology/README.md) — political and cultural frameworks
+- [`futures/`](futures/README.md) — trajectories, alternatives, and resilience
+- [`commons/`](commons/README.md) — practical outputs (zines, maps, fragments)
 - `/wiki/` — migration pointer to the standalone [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) repository  
 - `/cli/` — experimental scripts and tools, including the Idea Trail browser generator  
 - `/assets/` — visuals and diagrams  
 - [`THOUGHT_ROUTING.md`](THOUGHT_ROUTING.md) — the organization-wide `RS?` capture and routing convention
 
-The internal repository map is also described in [`root_map.md`](root_map.md). The organization-wide map lives in [`ECOSYSTEM.md`](ECOSYSTEM.md), recurring cross-project questions are traced in [`IDEA_TRAILS.md`](IDEA_TRAILS.md), their document-level relationships are browsable in [`IDEA_TRAIL_INDEX.md`](IDEA_TRAIL_INDEX.md), and the cross-project vocabulary/history layer lives in the standalone [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) repository.
+[`root_map.md`](root_map.md) is the canonical repository architecture and content-routing guide. The organization-wide map lives in [`ECOSYSTEM.md`](ECOSYSTEM.md), recurring cross-project questions are traced in [`IDEA_TRAILS.md`](IDEA_TRAILS.md), their document-level relationships are browsable in [`IDEA_TRAIL_INDEX.md`](IDEA_TRAIL_INDEX.md), and the cross-project vocabulary/history layer lives in the standalone [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) repository. The latest comprehensive cleanup record is in [`AUDIT.md`](AUDIT.md).
 
 ---
 
@@ -79,7 +60,7 @@ The internal repository map is also described in [`root_map.md`](root_map.md). T
 
 Suggested entry points:
 
-- [Public Seed website source](site/README.md) — reader-facing introduction and five Atlas guides; hosting remains separate
+- [Public Seed website source](site/README.md) — approved single-page introduction, publication workflow, and deployment records
 - [Ecosystem Map](ECOSYSTEM.md) — understand the wider project family  
 - [Root Sequence Wiki](https://github.com/Root-Sequence/wiki) — browse terms, phrases, projects, provenance, and conceptual archaeology  
 - [Idea Trails](IDEA_TRAILS.md) — understand the recurring questions and how each project transforms them  
@@ -87,12 +68,8 @@ Suggested entry points:
 - [Idea Trail Metadata Convention](IDEA_TRAIL_METADATA.md) — lightweight visible + machine-searchable metadata for participating documents  
 - [`IDEA_TRAIL_GRAPH.yml`](IDEA_TRAIL_GRAPH.yml) — machine-readable document ↔ trail graph used to generate the browser  
 - [Thought Routing (`RS?`)](THOUGHT_ROUTING.md) — capture a thought once, find one canonical home, and add deliberate cross-project links without duplicate substance
-- [Framework](core/framework.md)  
-- [Legible Systems](core/legible-systems.md) — design systems that can be simple to use without remaining mysterious  
-- [Liberation Sequence](core/liberation_sequence.md)  
-- [Manifesto](core/manifesto.md)  
-- [Visibility Loop](core/visibility-loop.md)  
-- [Liberated Intelligence](core/liberated_intelligence.md)  
+- [Legible Systems](concepts/legible-systems.md) — design systems that can be simple to use without remaining mysterious
+- [Founding texts and early orientations](founding-texts/README.md) — browse exploratory models, manifestos, normative essays, and historical project pointers by role
 
 ---
 
@@ -102,7 +79,7 @@ This project explores systems as living, interdependent processes.
 
 It focuses on:
 - pattern recognition across domains  
-- open, evolving frameworks  
+- multiple exploratory models and methods
 - connections between technical, social, and philosophical systems  
 
 It is:

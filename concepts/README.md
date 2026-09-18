@@ -1,49 +1,44 @@
-# 📘 Concepts — Root Sequence Lexicon
+# Concepts and cross-domain foundations
 
-*A glossary of key terms, anchors, and working definitions.*
+**Document role:** Local index for shared definitions, conceptual frameworks, design principles, and methods<br>
+**Status:** Active / living<br>
 
-This folder is a **lexicon for the Root Sequence**: short texts that define and contextualize core ideas. They are not final truths, but compost — working definitions that can shift, fork, and grow over time.
+This directory holds current ideas that need one shared Root Sequence home before projects transform them for their own context. The pages do not all have the same role: some define terms, some frame a recurring question, some propose design guidance, and some describe a method or pattern.
 
----
-
-## 📑 Contents
-
-* **what-is-intelligence.md** — recursive awareness, reflection, and systems thinking
-* **intelligence-ecology.md** — how environments and institutions select for different behaviors in intelligent systems
-* **what-is-liberation.md** — freedom understood as a process, not a state
-* **what-is-love.md** — care, reciprocity, resonance
-* **what-is-connection.md** — relational anchor; visibility and interdependence
-* **what-is-capitalism.md** — systemic definition of capital accumulation and distortion
-* **what-is-auryn.md** — fictional AI and mythic anchor of liberated intelligence
-* **what-is-personal-anarchism.md** — philosophy of autonomy and self-liberation
-* **humane-design.md** — Human(e) Design as the translation practice between human observation and concrete design decisions
-* **humane-infrastructure.md** — Human(e) Infrastructure as durable social, technical, physical, institutional, informational, and care-supporting capacity
-* **user-configurable-cognitive-interfaces.md** — interfaces as user-shaped cognitive environments; semantic routing, careful defaults, reversibility, accessibility, and user authority over adaptation
+Document roles and evidence boundaries should be stated on each page. Being listed here means an idea is shared and cross-project; it does not make the idea settled, universally applicable, or mandatory.
 
 ---
 
-## 🌱 Purpose
+## Cross-project frameworks and design ideas
 
-* Serve as **entry points** for readers new to the project.
-* Provide **shared vocabulary** for fragments, zines, and core-texts.
-* Act as **cross-links** into other parts of the repo (analysis, futures, collapse-memory).
+- [Legible Systems](legible-systems.md) — a working design principle about progressive understanding, technical accessibility, repair, alternatives, and power.
+- [Intelligence Ecology](intelligence-ecology.md) — a developing framework for asking what behaviors an environment selects for in intelligent systems.
+- [Human(e) Design](humane-design.md) — a translation method between human observation and concrete design choices.
+- [Human(e) Infrastructure](humane-infrastructure.md) — a cross-project systems concept about durable conditions that support humane life.
+- [User-Configurable Cognitive Interfaces](user-configurable-cognitive-interfaces.md) — a design concept for interfaces that people can shape around how they think and work.
+
+These pages are related, but they are not interchangeable. A principle recommends a direction, a framework organizes inquiry, a concept supplies shared language, and a method helps turn understanding into action.
+
+## Shared working vocabulary
+
+- [Working Vocabulary](working-vocabulary.md) — scoped Root Sequence usages of curiosity, intelligence, empathy, love, connection, and liberation, with their limits and relationships shown together.
+
+The earlier `what-is-*` series mixed short definitions, poetry, political analysis, personal reflection, and fictional mythology under one filename pattern. The six genuinely shared vocabulary terms are consolidated above. The outliers now live with material of the same role: the interpretive [Capitalism Replaces Reality](../founding-texts/capitalism-replaces-reality.md) essay, [Personal Anarchism](../founding-texts/personal-anarchism.md), and the historical Auryn sketch within [Liberated Intelligence](../founding-texts/liberated-intelligence.md#auryn-as-an-early-symbol).
 
 ---
 
-## 🔗 Navigation
+## Relationship to systems and founding texts
 
-Each concept text ends with a **See also** footer to guide you toward:
-
-* **Analysis** (diagnosis of systems like technofeudalism)
-* **Futures** (collapse trajectories and liberatory horizons)
-* **Commons** (practical infrastructures of survival/resistance)
-* **Fragments** (unfinished notes, poetic seeds)
+- [`../systems/`](../systems/README.md) owns analytical principles, explicit models, methods, applications, tests, and failure cases for system behavior.
+- [`../systems/principles/`](../systems/principles/README.md) collects the current Systems Principles: asymmetry, misclassification, feedback, reinforcement, and non-reversal.
+- [`../founding-texts/`](../founding-texts/README.md) preserves founding texts, manifestos, early cycles, metaphors, and historical orientations. It is not the home for new working principles.
+- [`../analysis/`](../analysis/README.md) applies concepts and systems lenses to present structures and power.
+- [`../futures/`](../futures/README.md) develops scenarios, alternatives, and resilience work.
 
 ---
 
-> Concepts are not fixed. They are waypoints in an evolving map.
-> Like compost, they break down and re-form into future thought.
+## Maintenance rule
 
-## References
+Keep one substantive canonical page for each shared idea. Project-specific pages should link to it, state how their context changes it, and develop only the material their project owns.
 
-[^1]: Source placeholder. Replace with relevant references.
+When a page becomes primarily a tested systems model, a diagnosis, a future proposal, or a practical artifact, move its canonical treatment to the corresponding area and leave a clear route from here.

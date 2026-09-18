@@ -3,7 +3,7 @@
 *Unfinished, poetic, and experimental notes.*
 
 This folder collects **drafts, fragments, and partial thoughts**.  
-They may later evolve into zines, core texts, or collapse memories — or remain as compost to inspire others.  
+They may later evolve into zines, developed essays, or collapse memories — or remain as compost to inspire others.
 Fragments are the raw soil of the Root Sequence: messy, recursive, fertile.
 
 ---
@@ -15,6 +15,9 @@ Fragments are the raw soil of the Root Sequence: messy, recursive, fertile.
 * 🗣 [not-mine-just-heard.md](not-mine-just-heard.md) — overheard reflections, collective thoughts  
 * 🌀 [psych-cycleogy.md](psych-cycleogy.md) — emotional systems and recursive loops  
 * 🤝 [we-are-all-each-other.md](we-are-all-each-other.md) — interdependence and identity beyond separation  
+* 🌈 [joy.md](joy.md) — joy as a signal of resonance
+* 🎲 [play.md](play.md) — improvisation as a way to practice freedom
+* 🛠 [repair.md](repair.md) — technical and social repair as care infrastructure
 
 *(Others may be added as compost accumulates.)*
 
@@ -24,7 +27,7 @@ Fragments are the raw soil of the Root Sequence: messy, recursive, fertile.
 
 * Hold **raw seeds** of future texts.  
 * Encourage **play and experimentation** without pressure to finish.  
-* Provide **poetic compost** that nourishes core frameworks, zines, and practices.  
+* Provide **poetic compost** that nourishes founding texts, zines, and practices.
 * Make visible the unfinished process, not just the polished outcomes.  
 
 ---

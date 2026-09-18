@@ -1,7 +1,7 @@
 {
-  "source_sha256": "6d4cb6470c578a72e9d76e2b71b146cd0d1a63fd815e41d6919a38b6595bf7fa",
-  "approved_preview_sha256": "d9f46f55c483cb9147bce6ece637f63f660f50a21f239b4ab43598008d72d36c",
+  "source_sha256": "7d009d9ea493e09db848823a399c9df8d7eebb4334b86aabc7c5343b89afebc3",
+  "approved_preview_sha256": "0fe3a3a228e75c7d30d73061a48409a971c0070b46e20f907c6d1e8979d5ca62",
   "approved_by": "Rae Lovejoy",
   "approved_at": "2026-09-18",
-  "scope": "The current single-file preview, including the Being Human(e): An Incomplete Guide project entry, and the mechanical publication-state substitutions defined in build.py."
+  "scope": "The current single-file preview, including the six-item Selected Research section, the Being Human(e): An Incomplete Guide project entry, and the canonical Concepts link for Legible Systems, plus the mechanical publication-state substitutions defined in build.py."
 }

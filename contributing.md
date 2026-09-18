@@ -32,7 +32,7 @@ Whether you're a writer, coder, artist, thinker, dreamer, or organizer, here are
 
 1. Fork the repo or clone it locally.
 2. Create a new branch (e.g. `feature/your-idea` or `remix/zine-title`).
-3. Add your contribution in a relevant folder (`commons/zines/`, `commons/fragments/`, `core/`, `cli/`, etc).
+3. Use the [repository map](root_map.md) to choose the narrowest appropriate home: shared concepts and design methods in `concepts/`, analytical principles and models in `systems/`, founding or historical material in `founding-texts/`, and reusable artifacts in `commons/`.
 4. Submit a Pull Request with a brief explanation.
 
 If you're not GitHub-savvy, feel free to:
@@ -82,6 +82,16 @@ As applicable, check:
 Do not update files mechanically or repeat the same explanation everywhere. The goal is **coherence without duplication**: important changes should be discoverable from the right entry points, while detailed material stays canonical in the most appropriate place.
 
 Pull requests should briefly state what changed, why, what was verified, which documentation surfaces were checked, and any unresolved questions.
+
+Before submitting reader-facing changes, run:
+
+```sh
+python3 cli/check_reader_docs.py
+python3 cli/generate_idea_trail_index.py --check
+python3 site/test_site.py
+```
+
+The documentation check validates local files, headings, links, and discoverability. It does not verify external URLs or the evidence behind a claim; record those checks separately when they matter.
 
 ---
 
