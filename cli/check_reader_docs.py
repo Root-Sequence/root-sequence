@@ -15,6 +15,7 @@ from urllib.parse import unquote
 
 
 ROOT = Path(__file__).resolve().parents[1]
+NON_READER_DIRECTORIES = {".git", ".github"}
 LINK_RE = re.compile(r"!?\[[^\]]*\]\(([^)]+)\)")
 HTML_LINK_RE = re.compile(r"\b(?:href|src)=[\"']([^\"']+)", re.IGNORECASE)
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*#*$", re.MULTILINE)
@@ -22,7 +23,11 @@ EXPLICIT_ID_RE = re.compile(r"<a\s+id=[\"']([^\"']+)[\"']\s*></a>", re.IGNORECAS
 
 
 def markdown_files() -> list[Path]:
-    return sorted(path for path in ROOT.rglob("*.md") if ".git" not in path.parts)
+    return sorted(
+        path
+        for path in ROOT.rglob("*.md")
+        if not NON_READER_DIRECTORIES.intersection(path.parts)
+    )
 
 
 def github_heading_ids(text: str) -> set[str]:

@@ -1,0 +1,56 @@
+name: Evidence or source gap
+description: Flag a factual claim whose support, status, interpretation, or sourcing needs review.
+title: "[Evidence]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for evidence work, not ordinary disagreement with a value judgment or clearly labeled speculation. A source should support the specific claim attributed to it.
+  - type: input
+    id: location
+    attributes:
+      label: Claim location
+      description: Link the page and identify the relevant heading or passage.
+      placeholder: https://github.com/Root-Sequence/root-sequence/blob/main/...
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: Claim needing review
+      description: Quote only the shortest excerpt needed to identify the claim.
+    validations:
+      required: true
+  - type: dropdown
+    id: gap
+    attributes:
+      label: What kind of gap is this?
+      options:
+        - A factual claim has no source
+        - The cited source does not support the claim
+        - The source or claim may be outdated
+        - Evidence and interpretation are not clearly distinguished
+        - The evidence status is unclear
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: Why does it need review?
+      description: Explain the mismatch, uncertainty, or potential consequence of leaving it unclear.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Potential sources or correction
+      description: Add primary or otherwise appropriate sources when available. It is fine to leave this open.
+  - type: checkboxes
+    id: public
+    attributes:
+      label: Public-content check
+      options:
+        - label: I have not included private, sensitive, or unpublished material in this public issue.
+          required: true

@@ -26,7 +26,8 @@ Search the repository's existing files, [issues](https://github.com/Root-Sequenc
 | ask where an idea belongs, or discuss something spanning projects | [Root Sequence Discussions](https://github.com/orgs/Root-Sequence/discussions), usually **Orientation & Q&A** or **Ideas & Open Questions** |
 | add a short definition, alias, provenance note, or project relationship | the [Root Sequence Wiki](https://github.com/Root-Sequence/wiki) |
 | change a specific project, implementation, gathering practice, archive, or work of fiction | the canonical project named in [`ECOSYSTEM.md`](ECOSYSTEM.md) |
-| report a privacy or safety concern that should not be public | the [maintainer contact page](https://raearea.net/contact) |
+| report a potential security vulnerability | the private process in [`SECURITY.md`](SECURITY.md) |
+| raise a non-security privacy or safety concern that should not be public | the [maintainer contact page](https://raearea.net/contact) |
 
 When the destination is unclear, begin with a discussion rather than creating a new top-level file or folder.
 
