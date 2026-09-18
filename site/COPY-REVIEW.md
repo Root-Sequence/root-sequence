@@ -1,6 +1,6 @@
 # Website copy review: September 16, 2026
 
-## Review pending: expanded Selected Research — September 18, 2026
+## Approval update: expanded Selected Research — September 18, 2026
 
 The review candidate expands **Selected research and writing** from three to
 six entry points. It adds:
@@ -15,8 +15,8 @@ historical analysis. Each new link has a plain-language description and a
 local context panel. The candidate HTML has SHA-256
 `0fe3a3a228e75c7d30d73061a48409a971c0070b46e20f907c6d1e8979d5ca62`.
 
-No publication approval is recorded for this candidate. `approval.json`
-intentionally remains tied to the last approved preview.
+Rae Lovejoy approved the current six-item Selected Research section for
+publication on 2026-09-18. `approval.json` is tied to this exact candidate.
 
 ## Approval update: Legible Systems route — September 18, 2026
 

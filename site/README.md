@@ -2,11 +2,10 @@
 
 This directory is the canonical source for `rootsequence.systems`.
 
-The current working [`index.html`](index.html) is a review candidate based on
-the single-page public seed approved by Rae Lovejoy on 2026-09-18. It proposes
-three additional Selected Research entries. [`approval.json`](approval.json)
-still covers the last approved preview, so release builds remain blocked until
-the exact candidate is reviewed and approved.
+The current [`index.html`](index.html) is the single-page public seed approved
+by Rae Lovejoy on 2026-09-18. It includes the six-item Selected Research
+section and is tied to the exact digest recorded in
+[`approval.json`](approval.json).
 
 The page is one self-contained file with its styles, scripts, favicon, and
 Cascadia Mono wordmark font embedded. It makes no runtime requests for fonts,
@@ -14,9 +13,8 @@ images, analytics, translation, or previews.
 
 ## Files
 
-- `index.html`: current review candidate and canonical editorial source.
-- `approval.json`: approval tied to the last approved source digest; update it
-  only after review of the exact candidate.
+- `index.html`: exact approved preview and canonical editorial source.
+- `approval.json`: approval tied to the exact current source digest.
 - `build.py`: offline publisher. Preview output preserves `index.html` exactly;
   release output changes only preview/publication-state labels.
 - `test_site.py`: checks the approved-file hash, release gate, links, fragments,

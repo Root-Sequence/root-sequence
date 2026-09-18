@@ -71,7 +71,7 @@ The consolidated [Working Vocabulary](concepts/working-vocabulary.md) also label
 
 While this cleanup remained in draft, the separately reviewed single-page website was approved and merged to `main`. This branch incorporates that completed work, then updates its Legible Systems source link and source-overlay recognition to use the canonical [`concepts/legible-systems.md`](concepts/legible-systems.md) path. The corresponding approval digest and inline-script security hash were updated; site copy and layout were not changed. The former 11-page candidate remains under [`site/legacy-public-seed-v0.1/`](site/legacy-public-seed-v0.1/README.md) as historical source rather than deployment input. Its two source links to retired `core/` paths are pinned to the last published commit that contained those files.
 
-A later review candidate expands the site's Selected Research section with [Intelligence Ecology](concepts/intelligence-ecology.md), [Events, Patterns, and Scale](systems/events-patterns-and-scale.md), and [Resilience and Graceful Degradation](systems/resilience-and-graceful-degradation.md). The exact-source approval remains intentionally unchanged, so publication stays blocked until Rae reviews the candidate.
+The approved site now expands its Selected Research section with [Intelligence Ecology](concepts/intelligence-ecology.md), [Events, Patterns, and Scale](systems/events-patterns-and-scale.md), and [Resilience and Graceful Degradation](systems/resilience-and-graceful-degradation.md). The exact-source approval and publication checks were updated after Rae reviewed the six-item selection.
 
 The website remains an introductory projection, not a replacement for repository research or the Wiki. Obsolete cleanup edits to the former `site/content.json` were not carried into the historical archive. Only repository navigation and this audit record were reconciled with the new canonical site structure.
 
@@ -96,8 +96,8 @@ The final branch was checked for:
 - local Markdown links, local heading fragments, inbound Markdown navigation, and at least one readable top-level heading per reader-facing Markdown page;
 - all 99 distinct GitHub repository or file destinations referenced by Markdown, JSON, or HTML through the GitHub API;
 - current generated Idea Trail output;
-- ten non-approval website checks and a fresh preview build of the Selected Research candidate; the exact-approval check and release build remain intentionally blocked pending review;
-- the Selected Research candidate at narrow and wide viewport sizes, including all six entries, contextual link details, controls, heading presence, and horizontal-overflow checks;
+- all 11 website publication checks and fresh preview and approved release builds of the expanded Selected Research source;
+- the approved Selected Research section at narrow and wide viewport sizes, including all six entries, contextual link details, controls, heading presence, and horizontal-overflow checks;
 - representative external destinations, with access-denied responses recorded as inconclusive rather than silently treated as success;
 - changed-file scope, whitespace integrity, valid JSON, and a full diff review.
 
