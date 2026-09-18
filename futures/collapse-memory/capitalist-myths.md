@@ -60,5 +60,5 @@ It is here to **help us remember**:
 
 ---
 **See also:**  
-- [Capitalism Replaces Reality](../../core/capitalism-replaces-reality.md) — interpretive political essay
+- [Capitalism Replaces Reality](../../founding-texts/capitalism-replaces-reality.md) — interpretive political essay
 - [technofeudalism.md](../../analysis/technofeudalism.md) — contemporary form

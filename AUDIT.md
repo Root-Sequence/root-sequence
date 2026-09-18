@@ -51,6 +51,7 @@ The previously linked `noonenoticed.world` domain could not be verified through 
 
 - `core/` is no longer presented as one uniformly authoritative framework. Its index separates exploratory cycles and metaphors, manifestos and normative essays, and historical project orientations. The Liberation Cycle, Visibility Loop, and ecological project-cycle metaphor remain available without serving as repository architecture or universal causal claims.
 - A follow-up architecture pass confirmed that the top-level `core/` name had become historical rather than descriptive. Its reader-facing role is now **Founding texts and early orientations**; current shared definitions, frameworks, design principles, and methods route to `concepts/`, while analytical principles and models route to `systems/`. Legible Systems moved canonically to `concepts/`, with its old path retained as a migration pointer.
+- A directory-naming pass then moved the founding material physically to `founding-texts/` and renamed `systems/core/` to `systems/principles/`. The old top-level `core/` directory now contains only explicit compatibility pointers required by the approved website and two external Wiki entries; it is not a content category. Path naming rules in [`root_map.md`](root_map.md) now favor descriptive current roles and lowercase kebab-case over inherited labels such as `core` or `framework`.
 - The nine-page `what-is-*` series mixed vocabulary, poetic fragments, political interpretation, personal reflection, and fictional mythology. Six recurring terms now share one scoped [`concepts/working-vocabulary.md`](concepts/working-vocabulary.md); the capitalism fragment was merged into its interpretive essay, Personal Anarchism moved to the founding/normative shelf, and the Auryn sketch was merged into the historical Liberated Intelligence overview. Duplicate Curiosity and Empathy cycle notes were retired after their distinct cautions were preserved in the vocabulary.
 - Root-level Liberated Intelligence and UCF pages are retained as historical Root Sequence overviews and point to their dedicated canonical repositories.
 - The two SECI entry layers are explicitly separated: the parent page defines the research umbrella; the nested README operates the active program.
@@ -87,7 +88,7 @@ Neither draft was merged into this audit branch, and neither was treated as curr
 
 The final branch was checked for:
 
-- zero empty Markdown files across the final 140-file set;
+- zero empty Markdown files across the final 141-file set;
 - local Markdown links, local heading fragments, inbound Markdown navigation, and at least one readable top-level heading per reader-facing Markdown page;
 - all 99 distinct GitHub repository or file destinations referenced by Markdown, JSON, or HTML through the GitHub API;
 - current generated Idea Trail output;

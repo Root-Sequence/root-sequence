@@ -48,9 +48,19 @@ Do not compress every kind of status into one word.
 
 ---
 
+## Path naming rules
+
+- Directory names should describe their current function, not historical importance or presumed authority.
+- Reader-facing paths use lowercase kebab-case when practical.
+- Avoid generic names such as `core`, `framework`, `final`, or `misc` unless the page explicitly explains a compatibility or historical role.
+- When a path must remain because an approved artifact or external repository still depends on it, reduce it to a labeled pointer and keep substantive material at the descriptive canonical path.
+- A renamed directory requires the same change to local indexes, repository maps, contributor guidance, and every affected internal link.
+
+---
+
 ## 🌱 Current structure
 
-- [`core/`](core/) — founding texts, early models, manifestos, normative essays, and historical orientations; the legacy path is retained for stable links.
+- [`founding-texts/`](founding-texts/) — founding texts, early models, manifestos, normative essays, and historical orientations.
 - [`concepts/`](concepts/) — shared vocabulary, cross-project frameworks, design principles, and methods.
 - [`analysis/`](analysis/) — diagnosis of systems, power, capitalism, infrastructure, surveillance, and related conditions.
 - [`ideology/`](ideology/) — myths, philosophies, and narratives that justify or contest power.
@@ -60,6 +70,7 @@ Do not compress every kind of status into one word.
   - [`commons/fragments/`](commons/fragments/) — short, unfinished, poetic, or compostable material.
   - [`commons/zines/`](commons/zines/) — longer public and printable artifacts.
 - [`wiki/`](wiki/) — migration pointer to the standalone [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) repository.
+- [`core/`](core/) — compatibility pointers for older links; do not add substantive material here.
 - [`site/`](site/README.md) — source for the introductory Public Seed website; it projects selected material without replacing research or the Wiki.
 - [`cli/`](cli/) — experimental scripts and tools.
 - [`assets/`](assets/) — visual material and diagrams.
@@ -103,7 +114,7 @@ Why is it justified? → ideology
 How does it behave?  → systems
 What could emerge?   → futures
 What can be shared?  → commons
-What shaped its values? → core (founding texts)
+What shaped its values? → founding-texts
 What is it called,
 where is it, or how
 did it evolve?       → Root-Sequence/wiki
@@ -128,7 +139,7 @@ Current recurring dynamics include:
 - **maintenance** — the often-invisible work that allows continuity;
 - **power** — who can define goals, impose costs, block alternatives, or escape consequences.
 
-The current [Systems Principles](systems/core/README.md) are asymmetry, misclassification, feedback loops, reinforcement, and non-reversal. The `systems/core/` path is retained for compatibility; it is not the same role as the founding material under top-level `core/`.
+The current [Systems Principles](systems/principles/README.md) are asymmetry, misclassification, feedback loops, reinforcement, and non-reversal.
 
 “Emergence” should not function as a mystical explanation. Emergent outcomes still have mechanisms, participants, histories, power relations, and accountable consequences.
 

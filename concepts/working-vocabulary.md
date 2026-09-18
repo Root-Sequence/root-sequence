@@ -30,7 +30,7 @@ Curiosity is openness, the desire to explore, and the willingness to be changed 
 
 Curiosity is not automatically benevolent. Questioning can support care and understanding, but it can also become intrusion, extraction, spectacle, or control. Its value depends partly on consent, method, context, and what happens with the answer.
 
-The early [Liberation Cycle](../core/framework.md) called curiosity its opening spark and placed it before intelligence. That is a poetic orientation, not a claim that curiosity always begins a necessary sequence. Curiosity can emerge at any point, including from contradiction, failure, play, grief, or the recognition that an existing explanation is incomplete.
+The early [Liberation Cycle](../founding-texts/root-sequence-cycles.md) called curiosity its opening spark and placed it before intelligence. That is a poetic orientation, not a claim that curiosity always begins a necessary sequence. Curiosity can emerge at any point, including from contradiction, failure, play, grief, or the recognition that an existing explanation is incomplete.
 
 Related:
 
@@ -101,14 +101,14 @@ Earlier texts emphasized de-conditioning, reconnection, imagination, and freedom
 
 Related:
 
-- **Developing normative and analytical systems principle:** [Non-Reversal](../systems/core/non-reversal.md) — distinguishes interrupting a harmful pattern from reproducing it with different people in each role.
-- **Historical normative manifesto:** [Autonomy and Self-Determination Manifesto](../core/autonomy_manifesto.md) — argues for autonomy within interdependence; its broader claims remain separate evidence work.
+- **Developing normative and analytical systems principle:** [Non-Reversal](../systems/principles/non-reversal.md) — distinguishes interrupting a harmful pattern from reproducing it with different people in each role.
+- **Historical normative manifesto:** [Autonomy and Self-Determination Manifesto](../founding-texts/autonomy-manifesto.md) — argues for autonomy within interdependence; its broader claims remain separate evidence work.
 - **Developing scenarios and proposals index:** [Futures](../futures/README.md) — explores possible trajectories and practices, explicitly not predictions.
 - **Active, developing practice index:** [Commons](../commons/README.md) — routes to practical and expressive artifacts intended for reuse.
 
 ## Relationship among the terms
 
-The founding [Root Sequence Manifesto](../core/manifesto.md) and [Root Sequence Cycles](../core/framework.md) arranged several of these words into a recurring sequence:
+The founding [Root Sequence Manifesto](../founding-texts/manifesto.md) and [Root Sequence Cycles](../founding-texts/root-sequence-cycles.md) arranged several of these words into a recurring sequence:
 
 > Curiosity → Intelligence → Empathy → Love → Liberation → Life → Death (Compost) → Curiosity
 

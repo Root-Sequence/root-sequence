@@ -32,7 +32,7 @@ Whether you're a writer, coder, artist, thinker, dreamer, or organizer, here are
 
 1. Fork the repo or clone it locally.
 2. Create a new branch (e.g. `feature/your-idea` or `remix/zine-title`).
-3. Use the [repository map](root_map.md) to choose the narrowest appropriate home: shared concepts and design methods in `concepts/`, analytical models in `systems/`, and reusable artifacts in `commons/`. Use the legacy `core/` path only when deliberately extending or contextualizing a founding text.
+3. Use the [repository map](root_map.md) to choose the narrowest appropriate home: shared concepts and design methods in `concepts/`, analytical principles and models in `systems/`, founding or historical material in `founding-texts/`, and reusable artifacts in `commons/`. Do not add substantive material to the legacy `core/` compatibility directory.
 4. Submit a Pull Request with a brief explanation.
 
 If you're not GitHub-savvy, feel free to:

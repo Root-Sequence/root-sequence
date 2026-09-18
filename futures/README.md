@@ -29,12 +29,12 @@ Futures are not predictions. They are structured possibilities built from presen
 Three former empty placeholders have been retired so they are not mistaken for finished pages. Their questions remain part of the roadmap:
 
 - **abundance and sufficiency** currently live inside [`futures.md`](futures.md#part-ii--beyond-the-castle-if-we-survive-and-how) and need a sourced, ecologically bounded treatment before becoming a separate page;
-- **liberation as an exploratory sequence** is preserved in [Root Sequence Cycles](../core/framework.md), while cross-project relationships belong in the [Ecosystem Map](../ECOSYSTEM.md);
+- **liberation as an exploratory sequence** is preserved in [Root Sequence Cycles](../founding-texts/root-sequence-cycles.md), while cross-project relationships belong in the [Ecosystem Map](../ECOSYSTEM.md);
 - **resistance, refusal, and durable alternatives** are distributed across [`futures.md`](futures.md), the [`commons/`](../commons/README.md), and [`collapse-practices.md`](collapse-practices.md). A future page should add a distinct treatment rather than repeat those lists.
 
 ### Related projects
 
-- [Liberated Intelligence](https://github.com/Root-Sequence/liberated-intelligence) now has its own repository rather than a `liberated_intelligence.md` file here.
+- [Liberated Intelligence](https://github.com/Root-Sequence/liberated-intelligence) now has its own canonical repository rather than being maintained as a futures page here.
 - **Coherent World** applies selected futures work to a private civilizational design space.
 - [*No One Noticed*](../ECOSYSTEM.md#no-one-noticed) turns that possibility space into narrative and lived transition; its current canonical workspace is private and no public site is verified.
 

@@ -31,7 +31,7 @@ Root Sequence does not require one master framework. It uses several kinds of le
 - [`systems/`](systems/README.md) develops analytical principles, models, and methods for examining structure, power, feedback, failure, and recovery;
 - [`concepts/`](concepts/README.md) holds shared definitions, cross-project frameworks, design principles, and methods, including [Legible Systems](concepts/legible-systems.md);
 - [Idea Trails](IDEA_TRAILS.md) follow recurring questions across projects without making every project use the same answer;
-- [`core/`](core/README.md) preserves founding manifestos, early cycles and metaphors, normative essays, and historical orientations.
+- [`founding-texts/`](founding-texts/README.md) preserves founding manifestos, early cycles and metaphors, normative essays, and historical orientations.
 
 The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Fruits → Compost sequence are retained as exploratory and expressive models. They are not the repository's information architecture or evidence that every person, system, movement, or intelligence follows one mechanism.
 
@@ -40,7 +40,7 @@ The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Frui
 ## 📂 Repository map
 
 - [`site/`](site/README.md) — reader-facing Public Seed website source; not a replacement for research or the Wiki
-- [`core/`](core/README.md) — founding texts, early models, manifestos, normative essays, and historical orientations; legacy path retained for stable links
+- [`founding-texts/`](founding-texts/README.md) — founding texts, early models, manifestos, normative essays, and historical orientations
 - [`systems/`](systems/README.md) — analytical principles, models, and methods for understanding system behavior
 - [`concepts/`](concepts/README.md) — shared definitions, cross-project frameworks, design principles, and methods
 - [`analysis/`](analysis/README.md) — system diagnosis (power, capitalism, infrastructure)
@@ -51,6 +51,7 @@ The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Frui
 - `/cli/` — experimental scripts and tools, including the Idea Trail browser generator  
 - `/assets/` — visuals and diagrams  
 - [`THOUGHT_ROUTING.md`](THOUGHT_ROUTING.md) — the organization-wide `RS?` capture and routing convention
+- [`core/`](core/README.md) — compatibility pointers for older links; not a current content category
 
 [`root_map.md`](root_map.md) is the canonical repository architecture and content-routing guide. The organization-wide map lives in [`ECOSYSTEM.md`](ECOSYSTEM.md), recurring cross-project questions are traced in [`IDEA_TRAILS.md`](IDEA_TRAILS.md), their document-level relationships are browsable in [`IDEA_TRAIL_INDEX.md`](IDEA_TRAIL_INDEX.md), and the cross-project vocabulary/history layer lives in the standalone [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) repository. The latest comprehensive cleanup record is in [`AUDIT.md`](AUDIT.md).
 
@@ -69,7 +70,7 @@ Suggested entry points:
 - [`IDEA_TRAIL_GRAPH.yml`](IDEA_TRAIL_GRAPH.yml) — machine-readable document ↔ trail graph used to generate the browser  
 - [Thought Routing (`RS?`)](THOUGHT_ROUTING.md) — capture a thought once, find one canonical home, and add deliberate cross-project links without duplicate substance
 - [Legible Systems](concepts/legible-systems.md) — design systems that can be simple to use without remaining mysterious
-- [Founding texts and early orientations](core/README.md) — browse exploratory models, manifestos, normative essays, and historical project pointers by role
+- [Founding texts and early orientations](founding-texts/README.md) — browse exploratory models, manifestos, normative essays, and historical project pointers by role
 
 ---
 

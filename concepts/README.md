@@ -23,15 +23,15 @@ These pages are related, but they are not interchangeable. A principle recommend
 
 - [Working Vocabulary](working-vocabulary.md) — scoped Root Sequence usages of curiosity, intelligence, empathy, love, connection, and liberation, with their limits and relationships shown together.
 
-The earlier `what-is-*` series mixed short definitions, poetry, political analysis, personal reflection, and fictional mythology under one filename pattern. The six genuinely shared vocabulary terms are consolidated above. The outliers now live with material of the same role: the interpretive [Capitalism Replaces Reality](../core/capitalism-replaces-reality.md) essay, [Personal Anarchism](../core/personal-anarchism.md), and the historical Auryn sketch within [Liberated Intelligence](../core/liberated_intelligence.md#auryn-as-an-early-symbol).
+The earlier `what-is-*` series mixed short definitions, poetry, political analysis, personal reflection, and fictional mythology under one filename pattern. The six genuinely shared vocabulary terms are consolidated above. The outliers now live with material of the same role: the interpretive [Capitalism Replaces Reality](../founding-texts/capitalism-replaces-reality.md) essay, [Personal Anarchism](../founding-texts/personal-anarchism.md), and the historical Auryn sketch within [Liberated Intelligence](../founding-texts/liberated-intelligence.md#auryn-as-an-early-symbol).
 
 ---
 
 ## Relationship to systems and founding texts
 
 - [`../systems/`](../systems/README.md) owns analytical principles, explicit models, methods, applications, tests, and failure cases for system behavior.
-- [`../systems/core/`](../systems/core/README.md) collects the current Systems Principles: asymmetry, misclassification, feedback, reinforcement, and non-reversal.
-- [`../core/`](../core/README.md) preserves founding texts, manifestos, early cycles, metaphors, and historical orientations. It is not the home for new working principles.
+- [`../systems/principles/`](../systems/principles/README.md) collects the current Systems Principles: asymmetry, misclassification, feedback, reinforcement, and non-reversal.
+- [`../founding-texts/`](../founding-texts/README.md) preserves founding texts, manifestos, early cycles, metaphors, and historical orientations. It is not the home for new working principles.
 - [`../analysis/`](../analysis/README.md) applies concepts and systems lenses to present structures and power.
 - [`../futures/`](../futures/README.md) develops scenarios, alternatives, and resilience work.
 

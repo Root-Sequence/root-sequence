@@ -86,7 +86,7 @@ The developed emergence branch includes:
 - [`adaptation/`](adaptation/) — how systems change in response to pressure, feedback, or altered conditions.
 - [`cascades/`](cascades/) — how effects propagate through connections and dependencies.
 - [`coherence/`](coherence/) — alignment and misalignment among signals, assumptions, structure, goals, and reality.
-- [`core/`](core/) — Systems Principles: cross-domain analytical lenses for asymmetry, misclassification, feedback, reinforcement, and non-reversal; folder name retained for link stability.
+- [`principles/`](principles/) — cross-domain analytical lenses for asymmetry, misclassification, feedback, reinforcement, and non-reversal.
 - [`economics/`](economics/) — economic structures, incentives, flows, and distribution.
 - [`emergence/`](emergence/) — system-level patterns and capacities arising through interaction.
 - [`fragility/`](fragility/) — how small failures become large consequences.

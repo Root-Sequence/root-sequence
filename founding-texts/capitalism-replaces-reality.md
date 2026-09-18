@@ -102,7 +102,7 @@ For economic and historical analysis, see [`../analysis/`](../analysis/README.md
 
 ## ✨ Use This File To...
 
-* Link from `freedom-default.md`, `autonomy_manifesto.md`, or the main `README`
+* Link from [Freedom as Default](freedom-default.md), the [Autonomy Manifesto](autonomy-manifesto.md), or the main [`README`](../README.md)
 * Quote for zines, talks, or Collapse Memory lore
 * Expand into community guides or collective unlearning rituals
 

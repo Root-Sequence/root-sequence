@@ -78,9 +78,9 @@ Additional scripts and visual material were proposed in earlier drafts but are n
 
 From the main Root Sequence:
 
-- [`freedom-default.md`](../../core/freedom-default.md) — freedom as a default rather than a scarce reward
-- [`capitalism-replaces-reality.md`](../../core/capitalism-replaces-reality.md) — self-limitation and systemic control
-- [`autonomy_manifesto.md`](../../core/autonomy_manifesto.md) — self-determination within interdependence
+- [Freedom as Default](../../founding-texts/freedom-default.md) — historical normative essay about freedom as a default rather than a scarce reward
+- [Capitalism Replaces Reality](../../founding-texts/capitalism-replaces-reality.md) — interpretive political essay about self-limitation and systemic control
+- [Autonomy and Self-Determination Manifesto](../../founding-texts/autonomy-manifesto.md) — historical normative manifesto about self-determination within interdependence
 - [`forbidden-questions.md`](../../commons/fragments/forbidden-questions.md) — questions systems teach people not to ask
 - [Fascism](../../ideology/fascism.md) — ecofascism and authoritarian collapse responses.
 
