@@ -11,9 +11,16 @@
 - Release generation changes only the declared publication-state strings.
 - The live Fastmail page and response headers were preserved outside the
   repository before migration work began.
+- GitHub Actions workflow run `35322447860` completed successfully.
+- The staged GitHub Pages origin returned HTTP 200 with GitHub's HTTPS and HSTS
+  headers. Its HTML matched the local release SHA-256
+  `232b741bbfecf2622c13ee644f1e303df741fff7a70c5a60122b74a26bf770fd`.
+- A browser load at 1440 × 1000 showed the approved headline, all three header
+  controls, the embedded Cascadia Mono wordmark, the publication footer,
+  `index,follow`, and no horizontal document overflow.
 
-Live GitHub Pages delivery, DNS propagation, the GitHub TLS certificate, and
-post-cutover browser behavior remain to be verified during deployment.
+DNS propagation, the custom-domain TLS certificate, and post-cutover browser
+behavior remain to be verified after the Fastmail web records change.
 
 - 13 automated tests passed for this site: generated structure, local links/fragments, feed/sitemap parsing, archive contents, missing/exact/stale release approval, unsafe/duplicate routes, unsafe external links, missing internal targets, overwrite refusal, HTML escaping/graph consistency, and private-repository address exclusion.
 - Eleven pages built successfully in preview mode.

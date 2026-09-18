@@ -19,13 +19,26 @@ other mail configuration.
 - A byte-for-byte copy of the current Fastmail homepage and response headers
   was saved outside the repository before migration work began.
 
+## Current migration status
+
+- GitHub Pages is enabled with GitHub Actions as the publishing source.
+- Workflow run `35322447860` passed its tests, release build, artifact upload,
+  and deployment steps.
+- The staged GitHub Pages origin returned HTTP 200 and its HTML matched the
+  locally verified release byte-for-byte before the custom domain was attached.
+- GitHub is configured for the custom domain `rootsequence.systems`.
+- The remaining step is the web-only DNS cutover in Fastmail. GitHub's domain
+  health check and HTTPS certificate remain pending until that change reaches
+  public resolvers.
+
 ## Staged migration
 
 1. Run `python site/test_site.py` and build a release into a new empty folder.
-2. Enable GitHub Pages with GitHub Actions as the publishing source.
+2. Enable GitHub Pages with GitHub Actions as the publishing source. **Done.**
 3. Run the Pages workflow and verify the GitHub-provided Pages origin before
    changing public DNS.
-4. Set the repository's custom domain to `rootsequence.systems`.
+   **Done.**
+4. Set the repository's custom domain to `rootsequence.systems`. **Done.**
 5. In Fastmail DNS, replace only the two apex web A records with GitHub Pages:
 
    - `185.199.108.153`

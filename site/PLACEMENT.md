@@ -9,9 +9,10 @@ The earlier 11-page candidate is retained under
 the substantive home of the arguments, and the standalone Wiki remains the
 shared project reference. Do not create duplicate canonical copies here.
 
-GitHub Pages is the intended website host. Fastmail remains the website host
-until the staged Pages origin is verified and the web-only DNS cutover is
-complete. Fastmail continues to provide DNS and mail after the website moves.
+GitHub Pages is configured and the generated release was verified at its staged
+origin. Fastmail remains the public website host until the web-only DNS cutover
+is complete. Fastmail continues to provide DNS and mail after the website
+moves.
 
 Deploy only the approved generated output. Never publish the repository root,
 the legacy source directory, private Wiki material, or unpublished fiction.
