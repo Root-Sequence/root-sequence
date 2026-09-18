@@ -10,9 +10,9 @@ the substantive home of the arguments, and the standalone Wiki remains the
 shared project reference. Do not create duplicate canonical copies here.
 
 GitHub Pages is configured and the generated release was verified at its staged
-origin. Fastmail remains the public website host until the web-only DNS cutover
-is complete. Fastmail continues to provide DNS and mail after the website
-moves.
+origin. The web-only DNS cutover was saved on 2026-09-18; certificate issuance
+and the final public-domain browser check are still pending. Fastmail continues
+to provide DNS and mail after the website move.
 
 Deploy only the approved generated output. Never publish the repository root,
 the legacy source directory, private Wiki material, or unpublished fiction.

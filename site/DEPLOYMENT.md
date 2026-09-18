@@ -27,9 +27,18 @@ other mail configuration.
 - The staged GitHub Pages origin returned HTTP 200 and its HTML matched the
   locally verified release byte-for-byte before the custom domain was attached.
 - GitHub is configured for the custom domain `rootsequence.systems`.
-- The remaining step is the web-only DNS cutover in Fastmail. GitHub's domain
-  health check and HTTPS certificate remain pending until that change reaches
-  public resolvers.
+- The web-only DNS cutover was saved in Fastmail on 2026-09-18. The four apex
+  A records now point to GitHub Pages, and `www` has an explicit CNAME to
+  `root-sequence.github.io`.
+- Google Public DNS and Cloudflare DNS both returned the new apex and `www`
+  records immediately after the change. The apex MX records still point to
+  Fastmail, and Fastmail reports that the domain remains correctly configured
+  to send and receive mail.
+- Public DNS also continues to return Fastmail's nameservers, SPF, DMARC, and
+  four DKIM records. A direct request to GitHub's edge returned the approved
+  release with the expected SHA-256 value.
+- GitHub's custom-domain health check recognizes both names as valid and
+  served by Pages. Certificate issuance remains pending.
 
 ## Staged migration
 
@@ -46,12 +55,19 @@ other mail configuration.
    - `185.199.110.153`
    - `185.199.111.153`
 
+   **Done.**
+
 6. Replace only the two `www` web A records with one CNAME to
    `root-sequence.github.io`.
-7. Leave all mail and nameserver records untouched.
+   **Done.**
+7. Leave all mail and nameserver records untouched. **Done.**
 8. Verify the apex and `www` results from more than one public resolver, then
    verify the deployed page, navigation, overlays, external links, HTTPS, and
    response headers at the public domain.
+   **DNS verified with Google Public DNS and Cloudflare DNS. GitHub's health
+   check recognizes both names as valid and served by Pages, and a direct edge
+   request returned the approved release. Public HTTPS and browser checks
+   remain pending certificate issuance.**
 9. Enable "Enforce HTTPS" after GitHub has issued the certificate.
 10. Keep the Fastmail rollback copy for at least 48 hours after the verified
     cutover.
