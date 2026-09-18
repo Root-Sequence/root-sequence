@@ -45,9 +45,11 @@ Meadows discusses intervention through information flows, rules, and system goal
 
 **Proposed working distinction:** *Functional performance describes whether a system produces specified behavior. Coherence asks whether its assumptions, behavior, dependencies, purposes, relationships, and consequences remain in contact with the conditions in which it operates.*
 
-Normative assessment asks a distinguishable but interacting set of questions: whose purposes are recognized, who bears costs, what authority is legitimate, and what objections remain? A seriously coercive arrangement can be internally consistent and operationally effective while remaining incoherent and illegitimate. Successful target execution establishes functional performance, not coherence. If apparent order depends on domination, suppressed dissent or feedback, hidden externalized costs, or an artificially narrow boundary, this paper calls it **false coherence**. Concealment is not required: “false” describes mistaking controlled stability for coherence. The term describes a mechanism of apparent fit, not merely the author's disapproval.
+Normative assessment asks a distinguishable but interacting set of questions: whose purposes are recognized, who bears costs, who has a legitimate right to make or enforce which decisions, and what objections remain? A seriously coercive arrangement can be internally consistent and operationally effective while remaining incoherent and illegitimate. Successful target execution establishes functional performance, not coherence. If apparent order depends on domination, suppressed dissent or feedback, hidden externalized costs, or an artificially narrow boundary, this paper calls it **false coherence**. Concealment is not required: “false” describes mistaking controlled stability for coherence. The term describes a mechanism of apparent fit, not merely the author's disapproval.
 
-An action may restrict choice through physical restraint, force, threats, confinement, penalties, withdrawal of access, or other means. “Coercion” should be used only when the specific mechanism supports it, not as the name for every restriction. The action and its justification should not be compressed into reassuring labels such as “protective coercion” or “a necessary agency-limiting intervention.” Record separately what was done and to whom; what harm was claimed, by whom, on what evidence, and with what uncertainty; and how necessity, proportionality, alternatives, authority, duration, challenge, review, and restoration of agency were assessed. Claims of harm cannot be wholly perspective-free, but neither should one actor's private or unchallengeable definition settle them. “Preventing harm” becomes a route to false coherence when the claimed purpose certifies the action in advance or suppresses the people said to be protected.
+An action may restrict choice through physical restraint, force, threats, confinement, penalties, withdrawal of access, or other means. “Coercion” should be used only when the specific mechanism supports it, not as the name for every restriction. The action and its justification should not be compressed into reassuring labels such as “protective coercion” or “a necessary agency-limiting intervention.” Record separately: who acted; what they did and to whom; where and when it occurred; how it was carried out; why they said they acted; what harm was claimed, by whom, on what evidence, and with what uncertainty; and what effects followed. Then assess necessity, proportionality, alternatives, duration, challenge, review, restoration of agency, and the source, scope, limits, and accountability of the decision-making power exercised. Claims of harm cannot be wholly perspective-free, but neither should one actor's private or unchallengeable definition settle them. “Preventing harm” becomes a route to false coherence when the claimed purpose certifies the action in advance or suppresses the people said to be protected.
+
+This paper does not treat **authority** as a single self-explanatory property. Each use should identify whether it means formal authorization, assigned responsibility, expertise, practical capacity, power to compel, or a normatively legitimate decision right—and state its source, scope, limits, duration, accountability, and path for challenge or review.
 
 Acknowledging coercion may improve legibility and revisability, but it does not by itself repair the coerced relationship or restore agency. Like admitting a lie, acknowledgment changes what is openly known; what follows determines whether the process begins moving toward greater coherence. Relevant changes may include ending or reducing the coercion, restoring agency, repairing consequences, accepting accountability, and changing conditions that would reproduce the harm. Treating admission itself as resolution can become another layer of false coherence.
 
@@ -89,7 +91,7 @@ The proposed change is in the surrounding review: who chooses the target, what i
 
 **Anchor: C-009.** More capable tools might change the cost or feasibility of some coordination tasks. Whether that happens is a hypothesis requiring task-specific evidence; it does not establish a timeline for AGI or an automatic direction of social change.
 
-Greater capability alone supplies no guarantee of benevolence, malevolence, legitimate authority, or shared benefit. More coordination capacity could also make intrusive control easier. Some proposed improvements may require no advanced AI at all.
+Greater capability alone supplies no guarantee of benevolence, malevolence, a legitimate right to decide or enforce, or shared benefit. More coordination capacity could also make intrusive control easier. Some proposed improvements may require no advanced AI at all.
 
 **To develop:** Name a task, its current bottleneck, a non-AI baseline, and the evidence that an AI-based intervention changes that bottleneck without merely transferring burdens.
 
@@ -97,7 +99,7 @@ Greater capability alone supplies no guarantee of benevolence, malevolence, legi
 
 **Anchor: C-008.** We propose checking actual decision rights and dependencies rather than inferring agency from labels such as “decentralized.” Separate nodes may still share one maintainer, infrastructure provider, or permission bottleneck. Conversely, a shared service need not erase meaningful local choice.
 
-**To develop:** Compare specific failure modes, coordination costs, accessibility, exit costs, and authority. No architecture receives an automatic normative or performance endorsement.
+**To develop:** Compare specific failure modes, coordination costs, accessibility, exit costs, and the sources, scopes, limits, and concentration of decision-making power. No architecture receives an automatic normative or performance endorsement.
 
 ## 10. Imagination as hypothesis generation
 
@@ -121,7 +123,7 @@ Changing financing does not eliminate requirements for energy, materials, time, 
 
 1. **Boundary and purpose:** What is changing, whose purposes count, which dependencies and timescales are included, and what is excluded?
 2. **Conditions and consequences:** Which assumptions must hold; what material limits, feedback, displaced costs, and failure modes matter?
-3. **Authority and difference:** Who can authorize, contest, refuse, or revise; what disagreement and privacy constraints remain?
+3. **Decision rights, power, and difference:** Who can formally authorize, practically compel or block, contest, refuse, or revise; what are the source, scope, limits, duration, and review path of those powers; what disagreement and privacy constraints remain?
 4. **Comparison and revision:** What baseline and alternative are considered; which outcomes would contradict the claimed improvement; when does review occur?
 
 Test whether this procedure identifies consequential omissions beyond an existing competent system review. Do not compare it only with an artificially weak checklist. Record reviewer effort, disagreement, false alarms, and failures to detect known issues.
@@ -142,7 +144,7 @@ The [research questions](open-questions.md) distinguish three activities. T-001 
 
 **Representation and burden.** Review procedures can exclude people through time, language, expertise, or accessibility demands. Participation itself can become a cost imposed on those already affected.
 
-**Coordination and urgency.** Distributed authority, reversibility, and repeated review have costs; some decisions are time-sensitive or cannot be undone. The proposal must handle these cases instead of treating them as exceptions to be ignored.
+**Coordination and urgency.** Distributed decision rights and practical power, reversibility, and repeated review have costs; some decisions are time-sensitive or cannot be undone. The proposal must handle these cases instead of treating them as exceptions to be ignored.
 
 **Conditional improvement.** A useful result in one bounded task does not validate a universal theory or a whole imagined society. Null results and counterexamples must remain part of the record.
 

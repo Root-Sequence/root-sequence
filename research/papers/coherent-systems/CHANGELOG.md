@@ -72,6 +72,15 @@ scope, and practical capacity to act on the specific constraint. It does not
 assume that such an actor always exists. The author accepted the narrowed
 wording during line review.
 
+The author expanded the requested factual record to the classic who, what,
+where, when, why, and how, including what happened to whom, the stated reason,
+the claimed harm and evidence, and the effects that followed. The author also
+warned that “authority” has multiple meanings and can be misinterpreted. The
+current draft no longer uses it as a self-explanatory property: it distinguishes
+formal authorization, assigned responsibility, expertise, practical capacity,
+power to compel, and legitimate decision rights, with their source, scope,
+limits, duration, accountability, and path for challenge or review.
+
 ## v0.1-dev — 2026-09-18 — Repository-structure rescue
 
 Transferred the twelve-file paper package from development revision

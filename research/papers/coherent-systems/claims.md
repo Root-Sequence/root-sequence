@@ -54,7 +54,7 @@ Bibliographic keys resolve in [references.bib](references.bib). Source coverage 
 
 **Assistant synthesis for review:** Keep understandable reasoning from a situated perspective distinct from correspondence with actual conditions. Also distinguish both from successful execution of a target: a program doing exactly what it was told demonstrates target compliance, not by itself coherence. If a service's own access commitments conflict with its completion target, the mismatch may already occur inside that service; no global scale is needed to expose it. “Local” must name a perspective or assessment boundary, not switch between those meanings unnoticed.
 
-A possible plain-language formulation is: **A choice can be understandable given what someone could see and do, while the decision process still leaves consequential needs or effects unaccounted for. Assessing that gap requires examining the support, information, time, resources, and authority available, not merely faulting the person.** This wording is proposed, not attributed to the author as an exact statement.
+A possible plain-language formulation is: **A choice can be understandable given what someone could see and do, while the decision process still leaves consequential needs or effects unaccounted for. Assessing that gap requires examining the support, information, time, resources, permissions, decision rights, and practical power available, not merely faulting the person.** This wording is proposed, not attributed to the author as an exact statement.
 
 **External grounding and limits:** Dekker's 2002 abstract argues for reconstructing why actions made sense as events unfolded rather than judging only with hindsight (`dekker2002reconstructing`). STPA distinguishes a controller's beliefs from actual conditions and examines missing or delayed feedback (`levesonThomas2018stpa`, printed pp. 23 and 40). These sources ground the comparison, not a universal guarantee of good intentions, a particular safeguard's effectiveness, or an automatic exemption from responsibility. Only the stated source portions were checked.
 
@@ -74,13 +74,13 @@ A possible plain-language formulation is: **A choice can be understandable given
 
 ### Author response: coercion and false coherence — 2026-09-18
 
-**Author-stated direction:** Serious coercion itself makes the apparent coherence incoherent because people, power, and lived consequences belong inside the system boundary. The author recalled the existing term **false coherence** for a system that seems to work but is ultimately flawed and incoherent, and agreed that openly acknowledging the coercion does not make the arrangement coherent. The author compared acknowledgment to admitting a lie: what happens afterward is important. The author then noted that whether an action is understood as stopping harm depends on someone's definition of harm, although it should not rest on one person's unchecked definition. The author objected to “protective coercion” as contradictory and to “an agency-limiting intervention justified as necessary to prevent harm” as another possible blank check.
+**Author-stated direction:** Serious coercion itself makes the apparent coherence incoherent because people, power, and lived consequences belong inside the system boundary. The author recalled the existing term **false coherence** for a system that seems to work but is ultimately flawed and incoherent, and agreed that openly acknowledging the coercion does not make the arrangement coherent. The author compared acknowledgment to admitting a lie: what happens afterward is important. The author then noted that whether an action is understood as stopping harm depends on someone's definition of harm, although it should not rest on one person's unchecked definition. The author objected to “protective coercion” as contradictory and to “an agency-limiting intervention justified as necessary to prevent harm” as another possible blank check. For the factual record, the author requested the classic who, what, where, when, why, and how. The author also cautioned that “authority” has multiple meanings and can be misinterpreted.
 
-**Assistant synthesis for review:** Reserve “functional performance” for successful execution of a stated target. Use “false coherence” when apparent order or effectiveness depends on domination, suppressed dissent or feedback, hidden externalized costs, excluded affected people, or control whose stated harm-prevention rationale cannot be examined. Do not solve the vocabulary problem with a new umbrella label. Describe separately: the observable action and restriction; the harm claimed, claimant, evidence, and uncertainty; and the later assessment of necessity, proportionality, alternatives, authority, duration, challenge, review, and restoration of agency. Use “coercion,” “restraint,” “constraint,” or “domination” only when the specific facts support that description. Concealment is not required: the falsehood lies in treating controlled stability as coherence. Explicit acknowledgment can make the coercion more legible and the process more revisable without repairing the coerced relationship or restoring agency. What follows determines whether the process begins moving toward greater coherence: ending or reducing the coercion, restoring agency, repairing consequences, accepting accountability, or changing the conditions that reproduce the harm. Treating admission itself as resolution can become another layer of false coherence. This extends an existing project term beyond manufactured consensus; it should remain tied to an identifiable mechanism rather than becoming a label for anything disfavored.
+**Assistant synthesis for review:** Reserve “functional performance” for successful execution of a stated target. Use “false coherence” when apparent order or effectiveness depends on domination, suppressed dissent or feedback, hidden externalized costs, excluded affected people, or control whose stated harm-prevention rationale cannot be examined. Do not solve the vocabulary problem with a new umbrella label. First record who acted; what they did and to whom; where and when; how; why they said they acted; what harm was claimed, by whom, on what evidence and with what uncertainty; and what effects followed. Then assess necessity, proportionality, alternatives, duration, challenge, review, restoration of agency, and the source, scope, limits, and accountability of the decision-making power exercised. Do not use “authority” alone where the text means formal authorization, responsibility, expertise, practical capacity, power to compel, or a legitimate decision right. Use “coercion,” “restraint,” “constraint,” or “domination” only when the specific facts support that description. Concealment is not required: the falsehood lies in treating controlled stability as coherence. Explicit acknowledgment can make the coercion more legible and the process more revisable without repairing the coerced relationship or restoring agency. What follows determines whether the process begins moving toward greater coherence: ending or reducing the coercion, restoring agency, repairing consequences, accepting accountability, or changing the conditions that reproduce the harm. Treating admission itself as resolution can become another layer of false coherence. This extends an existing project term beyond manufactured consensus; it should remain tied to an identifiable mechanism rather than becoming a label for anything disfavored.
 
 **Review status:** The author's conceptual answer is recorded and sections 4 and the abstract have been revised provisionally. The revised wording remains an assistant synthesis for review. C-003 remains PROVISIONAL; no whole-claim, source, byline, release, or publication approval follows.
 
-**Next question:** Does the separation among what was done, what harm was claimed, and how the action was later judged capture the distinction without creating another blank-check label?
+**Next question:** Does the expanded record—who, what, to whom, where, when, how, stated why, claimed harm and evidence, effects, and later assessment—capture the distinction without creating another blank-check label?
 
 ## C-004 — Explicit disagreement belongs in assessment
 
@@ -123,7 +123,7 @@ A possible plain-language formulation is: **A choice can be understandable given
 
 A hypothetical explanation might read: *This completion target favors shorter appointments. Longer requests remain unserved in the current plan. Changing the mix redistributes access but does not add capacity. Review access requirements and feasible alternatives; unresolved capacity needs can be escalated.* This is proposed interface text, not an implemented feature or an empirical prediction about a real service.
 
-**Limits and test questions:** A reminder cannot establish a feasible alternative, create capacity, or authorize a decision. Its framing may be incomplete or wrong; affected people need a way to contest it. Test comprehension, missing consequences, workload, unnecessary interruption, and whether anyone can act on the information. The AI or interface should not become an unquestionable authority. No warning system was built or evaluated in this pass.
+**Limits and test questions:** A reminder cannot establish a feasible alternative, create capacity, or authorize a decision. Its framing may be incomplete or wrong; affected people need a way to contest it. Test comprehension, missing consequences, workload, unnecessary interruption, and whether anyone can act on the information. The AI or interface should not become an unquestionable decision-maker. No warning system was built or evaluated in this pass.
 
 ## C-007 — Direction is situated, not guaranteed progress
 
@@ -144,7 +144,8 @@ A hypothetical explanation might read: *This completion target favors shorter ap
 
 **Basis:** proposed dependency analysis; public collective-judgment research.  
 **Support limit:** No overall ranking of architectures or universal governance prescription follows.  
-**Objection / boundary:** Shared authority can be necessary for coordination; formal exit may be practically unaffordable.  
+**Objection / boundary:** Shared decision rights and enforcement powers can be necessary for coordination; formal exit may be practically unaffordable.
+
 **Evidence needed / revision trigger:** Trace control, appeal, refusal, failure domains, and the material cost of alternatives in a bounded case; revise unsupported claims about practical autonomy.  
 **Related:** sections 5 and 9; Q-003 and Q-005.
 
@@ -155,7 +156,8 @@ A hypothetical explanation might read: *This completion target favors shorter ap
 
 **Basis:** a research question, not a reported result.  
 **Support limit:** No AGI timeline, moral direction, post-scarcity forecast, or general economic outcome is established.  
-**Objection / boundary:** Compute, energy, authority, information, or integration costs may become the new bottleneck; a non-AI method may work as well.  
+**Objection / boundary:** Compute, energy, authorization, practical control, information, or integration costs may become the new bottleneck; a non-AI method may work as well.
+
 **Evidence needed / revision trigger:** Define the task and compare end-to-end burden, failure, and control against a non-AI baseline. Reject the claimed benefit when burdens are merely displaced.  
 **Related:** section 8; Q-007–Q-008.
 
@@ -173,7 +175,7 @@ A hypothetical explanation might read: *This completion target favors shorter ap
 ## C-011 — Transition needs an account of intermediate dependencies
 
 **Type / state:** DESIGN PROPOSITION / PROVISIONAL.  
-**Proposition:** Compare intermediate states, failure, maintenance, resource requirements, and authority—not only a desired endpoint.
+**Proposition:** Compare intermediate states, failure, maintenance, resource requirements, decision rights, and practical power—not only a desired endpoint.
 
 **Basis:** public futures research and the authorized paper scope.  
 **Support limit:** No claim that incrementalism always works or that changes in financing remove physical constraints.  
