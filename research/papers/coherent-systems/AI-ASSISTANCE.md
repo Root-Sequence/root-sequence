@@ -53,7 +53,7 @@ The checkpoints below are a sequence to work through with support, not a batch o
 - [ ] Review C-001, C-003, and C-012 individually. Record accept, qualify, reject, or not yet decided for the exact passage and revision; do not infer reasons the author did not give.
 - [ ] Review the abstract and disclosure in small units. Confirm scope, assistance, and remaining uncertainty separately from any eventual release or byline decision.
 
-The first checkpoint is now in progress: the author's booking-service response is recorded under C-003 in [claims.md](claims.md), with the safeguard proposal under C-006. It does not yet settle the definition or approve the section.
+The first checkpoint remains in progress. The author's booking-service response and provisional direction that coherence can describe multiple ongoing processes are recorded under C-003 in [claims.md](claims.md), with the safeguard proposal under C-006. The resulting manuscript language is an assistant synthesis for review; it does not approve the definition or the section as a whole.
 
 Do not add an approved personal byline, institutional affiliation, peer-review claim, or release identifier before the appropriate decision is made. Project provenance is not a substitute for an eventual accountable author record.
 

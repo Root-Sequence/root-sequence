@@ -1,5 +1,19 @@
 # Changelog
 
+## v0.1-dev — 2026-09-18 — Author direction on coherence as process
+
+Recorded the author's response to the open C-003 capacity question: a
+supported and revisable allocation can be a coherent response to an unresolved
+constraint, and coherence is not necessarily a destination but may involve
+many processes. Added a provisional synthesis to sections 4 and 7 that keeps
+the unmet need visible and allows different interacting processes to have
+different coherence assessments.
+
+This is one author direction, not approval of the working definition, the
+whole section, the manuscript, its sources, a byline, or publication. The next
+question asks what minimum action distinguishes a coherent process from a
+transparent description of unresolved failure.
+
 ## v0.1-dev — 2026-09-18 — Repository-structure rescue
 
 Transferred the twelve-file paper package from development revision
