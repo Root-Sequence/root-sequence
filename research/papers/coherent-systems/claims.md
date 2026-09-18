@@ -43,6 +43,7 @@ Bibliographic keys resolve in [references.bib](references.bib). Source coverage 
 **Objection / boundary:** If every moral objection is renamed incoherence, the term becomes a circular synonym for disapproval. The analysis should therefore identify the mechanism: coerced compliance, suppressed dissent or feedback, hidden consequences, excluded affected people, authority mismatch, blocked revision, or another specified break in contact with relevant conditions. Normative legitimacy still asks questions that a coherence diagnosis cannot answer by itself.
 
 **Evidence needed / revision trigger:** Reviewers should distinguish target execution from genuine coherence in an effective but coercive arrangement, and distinguish humane intent from functional reliability in a protective but unreliable one. Revise if “false coherence” cannot be tied to a specified mechanism or adds no explanatory value.
+
 **Related:** section 4; Q-001–Q-002; T-001.
 
 ### Author discussion: situated reasoning and consequences — 2026-09-16
@@ -71,13 +72,13 @@ A possible plain-language formulation is: **A choice can be understandable given
 
 ### Author response: coercion and false coherence — 2026-09-18
 
-**Author-stated direction:** Serious coercion itself makes the apparent coherence incoherent because people, power, and lived consequences belong inside the system boundary. The author recalled the existing term **false coherence** for a system that seems to work but is ultimately flawed and incoherent.
+**Author-stated direction:** Serious coercion itself makes the apparent coherence incoherent because people, power, and lived consequences belong inside the system boundary. The author recalled the existing term **false coherence** for a system that seems to work but is ultimately flawed and incoherent, and agreed that openly acknowledging the coercion does not make the arrangement coherent.
 
-**Assistant synthesis for review:** Reserve “functional performance” for successful execution of a stated target. Use “false coherence” when apparent order or effectiveness depends on coerced compliance, suppressed dissent or feedback, hidden externalized costs, or exclusion of affected people and consequences from the boundary. This extends an existing project term beyond manufactured consensus; it should remain tied to an identifiable mechanism rather than becoming a label for anything disfavored.
+**Assistant synthesis for review:** Reserve “functional performance” for successful execution of a stated target. Use “false coherence” when apparent order or effectiveness depends on coerced compliance, suppressed dissent or feedback, hidden externalized costs, or exclusion of affected people and consequences from the boundary. Concealment is not required: the falsehood lies in treating controlled stability as coherence. Explicit acknowledgment can make the coercion more legible and the process more revisable without repairing the coerced relationship or restoring agency. This extends an existing project term beyond manufactured consensus; it should remain tied to an identifiable mechanism rather than becoming a label for anything disfavored.
 
 **Review status:** The author's conceptual answer is recorded and sections 4 and the abstract have been revised provisionally. The revised wording remains an assistant synthesis for review. C-003 remains PROVISIONAL; no whole-claim, source, byline, release, or publication approval follows.
 
-**Next question:** Does false coherence require the system to hide or suppress its coercion, or can openly acknowledged serious coercion still make the arrangement falsely coherent?
+**Next question:** How should the paper distinguish serious coercion from necessary coordination, protective boundaries, or temporary constraints, so that false coherence does not become a label for every rule or exercise of authority?
 
 ## C-004 — Explicit disagreement belongs in assessment
 

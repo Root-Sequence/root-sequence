@@ -34,9 +34,12 @@ appropriate term for a system that appears to work while remaining ultimately
 flawed and incoherent. The abstract, section 4, C-003, T-001, and reconciliation
 note now distinguish functional performance from coherence and legitimacy.
 The broader use of false coherence is an assistant synthesis for review, not a
-validated scale or approval of C-003 as a whole. The next question asks whether
-false coherence requires concealment or also includes openly acknowledged
-serious coercion.
+validated scale or approval of C-003 as a whole. The author confirmed that
+open acknowledgment does not make a seriously coercive arrangement coherent.
+Acknowledgment may improve legibility and revisability without repairing the
+coerced relationship or restoring agency. The next question asks how to
+distinguish serious coercion from necessary coordination, protective
+boundaries, or temporary constraints.
 
 ## v0.1-dev — 2026-09-18 — Repository-structure rescue
 
