@@ -1,5 +1,12 @@
 # 🌱 The Autonomy & Self-Determination Manifesto
 
+**Document role:** Normative manifesto<br>
+**Status:** Historical / retained<br>
+**Canonical scope:** States an ethical position on autonomy, interdependence, commons, and coercive defaults.<br>
+**Evidence boundary:** This page argues for values and practices. Its economic, historical, and resilience claims require separate sourcing and should not be read as settled findings.<br>
+
+This manifesto preserves an early Root Sequence argument. It complements the [founding manifesto](manifesto.md) but does not define repository structure or a mandatory position for every project.
+
 > *“You are not a product. You are not a brand. You are not a profile. You are a pattern in motion—a system, not a simulation.”*
 
 Autonomy is not isolation.  
@@ -12,7 +19,7 @@ It is freedom without domination, rooted in reciprocity.
 
 **Curiosity → Intelligence → Empathy → Love → Liberation → Life → Death (Compost) → Curiosity**
 
-Autonomy exists as part of this recursive cycle:
+Within the early Liberation Cycle, this manifesto places autonomy in relation to:
 
 * 🌟 **Curiosity** — the spark that begins awareness and choice.  
 * 🧠 **Intelligence** — recognition of conditions and constraints.  
@@ -27,7 +34,7 @@ Autonomy exists as part of this recursive cycle:
 
 ## 🌍 Autonomy & Commons
 
-True autonomy is impossible without commons.  
+This manifesto argues that autonomy depends on access to shared capacities and relationships, not isolation.
 Enclosure undermines freedom; shared infrastructures nourish it.  
 Autonomy flourishes when:
 
@@ -39,9 +46,7 @@ Autonomy flourishes when:
 
 ## 🕰 Autonomy in Collapse & Futures
 
-Collapse reveals the fragility of isolated autonomy.  
-When systems fail, autonomy without solidarity becomes despair.  
-But autonomy practiced in connection becomes resilience:
+The manifesto uses breakdown and crisis to ask what autonomy requires when institutions or infrastructures fail. It proposes that autonomy practiced in connection can contribute to resilience:
 
 * Choosing cooperation over coercion.  
 * Creating survival infrastructures that affirm dignity.  
@@ -138,9 +143,13 @@ If capitalism is a system of simulation and substitution, let this be a system o
 
 ---
 
-## References
+## Influences and evidence limits
 
-[^1]: Murray Bookchin, *The Ecology of Freedom* (1982).  
-[^2]: Silvia Federici, *Caliban and the Witch* (2004).  
-[^3]: Shoshana Zuboff, *The Age of Surveillance Capitalism* (2019).  
-[^4]: Yanis Varoufakis, *Technofeudalism: What Killed Capitalism* (2023).
+Earlier versions listed the following works as broad influences:
+
+- Murray Bookchin, *The Ecology of Freedom* (1982)
+- Silvia Federici, *Caliban and the Witch* (2004)
+- Shoshana Zuboff, *The Age of Surveillance Capitalism* (2019)
+- Yanis Varoufakis, *Technofeudalism: What Killed Capitalism* (2023)
+
+They provide intellectual context, not claim-by-claim citations. Concrete economic, psychological, and historical assertions should be sourced in a future research revision.

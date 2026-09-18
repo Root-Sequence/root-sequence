@@ -15,7 +15,7 @@ It is the ability to feel systems from the inside — not as abstraction, but as
 
 ## 🌐 Links
 
-- Part of the [Liberation Cycle](../core/framework.md).  
+- Discussed in the early [Liberation Cycle](../core/framework.md).
 - Paired with [What Is Love](what-is-love.md).  
 - Feeds into [Commons](../commons/README.md).  
 

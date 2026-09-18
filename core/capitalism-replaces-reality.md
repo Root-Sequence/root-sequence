@@ -1,6 +1,6 @@
 # 🧠 Capitalism Replaces Reality
 
-**Document role:** Interpretive core essay<br>
+**Document role:** Interpretive political essay<br>
 **Status:** Exploratory / evidence review needed<br>
 
 > *“Self-limitation is not a personal failing—it’s a designed feature.”*

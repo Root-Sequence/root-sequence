@@ -1,6 +1,6 @@
 # 🌱 Freedom as Default
 
-**Document role:** Normative core essay<br>
+**Document role:** Normative essay<br>
 **Status:** Exploratory<br>
 
 > *“You call this radical? You’ve just forgotten what freedom feels like.”*

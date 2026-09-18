@@ -50,6 +50,7 @@ The previously linked `noonenoticed.world` domain could not be verified through 
 ### Duplicated or unclear canonical homes
 
 - The nearly identical curiosity and empathy pages now have distinct roles: `concepts/` owns the short definition, while `core/` explains the concept's role in the Root Sequence cycle.
+- `core/` is no longer presented as one uniformly authoritative framework. Its index now separates a working design principle, exploratory cycles and metaphors, manifestos and normative essays, and historical project orientations. The Liberation Cycle, Visibility Loop, and ecological project-cycle metaphor remain available without serving as repository architecture or universal causal claims.
 - Root-level Liberated Intelligence and UCF pages are retained as historical Root Sequence overviews and point to their dedicated canonical repositories.
 - The two SECI entry layers are explicitly separated: the parent page defines the research umbrella; the nested README operates the active program.
 - Collapse Memory and Auryn material now identifies its speculative or fictional status and does not present itself as practical emergency guidance or current fiction canon.

@@ -1,7 +1,7 @@
 # Death as Compost
 
-**Document role:** Core metaphor and cycle note<br>
-**Status:** Exploratory<br>
+**Document role:** Exploratory metaphor and cycle note<br>
+**Status:** Retained / exploratory<br>
 **Evidence boundary:** “Compost” is a philosophical and ecological metaphor here, not a scientific claim that personal, political, and cosmic endings share one mechanism.<br>
 
 In the Root Sequence, death is not the end. It is the hidden stage that closes the loop and makes the cycle regenerative. Without death, the cycle would exhaust itself. With death, it composts back into **curiosity and intelligence**, feeding the next turn.

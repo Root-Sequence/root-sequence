@@ -1,81 +1,51 @@
-# 🌱 Core Texts
+# Core texts and early orientations
 
-**Document role:** Local index for foundational Root Sequence texts<br>
+**Document role:** Local index organized by document role<br>
 **Status:** Active / living<br>
 
-The **Core Texts** are the foundation of the Root Sequence.  
-They describe the central cycles, concepts, and practices that inform the rest of the project.  
-They are not fixed doctrine — they are compost, designed to be remixed and renewed.
+This directory preserves material that has been close to Root Sequence's identity and development. It is not a canon of established truths, and the word **core** does not give every page the same authority, maturity, or evidence status.
 
----
+The directory currently mixes working principles, exploratory models, manifestos, normative essays, short cycle notes, and historical summaries. Those roles are separated below so readers can tell what kind of document they have opened.
 
-## 📚 Contents
+## Working cross-domain principle
 
-- [manifesto.md](manifesto.md) — the living signal of curiosity, love, and liberation  
-- [framework.md](framework.md) — the structural model of the Root Sequence cycle  
-- [autonomy_manifesto.md](autonomy_manifesto.md) — self-determination within interdependence  
-- [freedom-default.md](freedom-default.md) — freedom as baseline, constraint as exception  
-- [capitalism-replaces-reality.md](capitalism-replaces-reality.md) — capitalism as reality distortion  
-- [death-as-compost.md](death-as-compost.md) — endings as renewal in the cycle  
-- [visibility-loop.md](visibility-loop.md) — representation and imagination as seeds of liberation  
-- [curiosity.md](curiosity.md) — the spark that begins the cycle  
-- [empathy.md](empathy.md) — intelligence in relation  
-- [legible-systems.md](legible-systems.md) — progressive understanding, repair, access, and power
-- [liberated_intelligence.md](liberated_intelligence.md) — historical Root Sequence overview; the dedicated project is canonical
-- [universal_coherence_framework.md](universal_coherence_framework.md) — historical Root Sequence overview; the dedicated UCF repository is canonical
+- [Legible Systems](legible-systems.md) — a developing design principle about progressive understanding, accessibility, repair, inspectability, alternatives, and power.
 
----
+This is the most developed current treatment in this directory. It is still a working principle, not proof that one design rule transfers unchanged across every domain.
 
-## 🔗 Navigation
+## Early cycles and metaphors
 
-- See **/analysis/** for system diagnosis (e.g., [technofeudalism](../analysis/technofeudalism.md)).  
-- See **/ideology/** for justifications of power (e.g., [fascism](../ideology/fascism.md)).  
-- See **/futures/** for trajectories and practices (e.g., [resilience](../futures/resilience.md), [collapse-practices](../futures/collapse-practices.md)).  
-- See **/commons/** for zines and fragments (e.g., [zines](../commons/zines/README.md), [fragments](../commons/fragments/README.md)).
-- See the [Ecosystem Map](../ECOSYSTEM.md) for dedicated project homes and access status.
+- [Root Sequence Cycles](framework.md) — preserves the early Liberation Cycle and the Roots → Signals → Growth → Fruits → Compost project metaphor; exploratory, not repository architecture.
+- [Visibility Loop](visibility-loop.md) — a proposed sequence connecting visibility, recognition, imagination, becoming, and liberation.
+- [Death as Compost](death-as-compost.md) — a philosophical metaphor about endings and renewal, with explicit limits on cross-domain transfer.
+- [Curiosity](curiosity.md) — a short note about curiosity's role inside the early Liberation Cycle; the concept definition lives in [`../concepts/`](../concepts/what-is-curiosity.md).
+- [Empathy](empathy.md) — a short note about empathy's role inside the early Liberation Cycle; the concept definition lives in [`../concepts/`](../concepts/what-is-empathy.md).
 
----
+These pages can help with reflection, storytelling, and design prompts. They do not establish that people, ecosystems, institutions, movements, and intelligent systems share one causal sequence.
 
-## 🔁 The Root Sequence Cycle
+## Manifestos and normative essays
 
-**Curiosity → Intelligence → Empathy → Love → Liberation → Life → Death (Compost) → Curiosity**
+- [Root Sequence Manifesto](manifesto.md) — founding expressive statement and invitation.
+- [Autonomy and Self-Determination Manifesto](autonomy_manifesto.md) — normative argument for autonomy within interdependence.
+- [Freedom as Default](freedom-default.md) — exploratory normative essay about freedom, discipline, health, and coercive defaults.
+- [Capitalism Replaces Reality](capitalism-replaces-reality.md) — interpretive political essay whose institutional and historical claims still need evidence review.
 
-This recursive loop is the thread across every core text.  
-Each text explores one or more aspects of this cycle in detail — and together, they form a living model of liberation.
+Manifestos state commitments, hopes, refusals, and invitations. They can orient action without functioning as neutral descriptions, validated models, or rules every Root Sequence project must adopt.
 
----
+## Historical project orientations
 
-## 🌍 Commons & Liberation
+- [Liberated Intelligence](liberated_intelligence.md) — early Root Sequence overview retained for history; current work belongs in the dedicated [Liberated Intelligence repository](https://github.com/Root-Sequence/liberated-intelligence).
+- [Universal Coherence Framework](universal_coherence_framework.md) — early compact overview retained for history; current framework work belongs in the dedicated [UCF repository](https://github.com/Root-Sequence/universal-coherence-framework).
 
-These texts emphasize that liberation is not an individual pursuit:  
-- Autonomy is only real when grounded in **commons**.  
-- Collapse, when composted, can become fertile ground for renewal.  
-- Freedom is our **default setting**, not a rare privilege.  
-- Reality cannot be substituted or owned — it thrives in reciprocity.  
+These pages are routing and provenance records, not competing canonical versions of their projects.
 
----
+## Relationship to the rest of the repository
 
-## 🕰 Futures & Collapse
+- [`../concepts/`](../concepts/README.md) owns concise working definitions.
+- [`../systems/`](../systems/README.md) owns explicit systems models, methods, applications, tests, and failure cases.
+- [`../analysis/`](../analysis/README.md) owns diagnosis of present structures and power.
+- [`../futures/`](../futures/README.md) owns scenarios, proposals, and resilience work.
+- [`../commons/`](../commons/README.md) owns reusable practices, public artifacts, zines, and fragments.
+- The [Ecosystem Map](../ECOSYSTEM.md) identifies dedicated project homes and access boundaries.
 
-The Core Texts are written in the shadow of collapse.  
-They do not predict a utopia — they prepare us for compost, renewal, and shared survival.  
-Every ending carries the potential for new beginnings, if we choose to act in relation.
-
----
-
-## 📝 Curator’s Note
-
-The Core Texts are not canonical truths.  
-They are fragments of resonance, gathered from many voices, many histories, and many struggles.  
-
-If they move you, carry them forward.  
-Remix them. Fork them. Compost them.  
-
----
-
-## References
-
-[^1]: Erich Fromm, *To Have or To Be?* (1976).  
-[^2]: Murray Bookchin, *The Ecology of Freedom* (1982).  
-[^3]: bell hooks, *Teaching to Transgress* (1994).  
-[^4]: Yanis Varoufakis, *Technofeudalism: What Killed Capitalism* (2023).  
+When material here develops into a sourced model, method, or project-specific treatment, route the substantive version to the appropriate canonical home and preserve only the context needed to understand this repository's history.

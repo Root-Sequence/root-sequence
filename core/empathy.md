@@ -1,8 +1,9 @@
 # 🫂 Empathy — Intelligence in Relation
 
-**Document role:** Core-cycle note<br>
-**Status:** Active / concise<br>
+**Document role:** Exploratory cycle note<br>
+**Status:** Retained / concise<br>
 **Definition:** The short concept definition lives at [What Is Empathy?](../concepts/what-is-empathy.md).<br>
+**Evidence boundary:** The relationships proposed by the Liberation Cycle are an orientation, not a necessary or universal progression.<br>
 
 Within the Root Sequence cycle, empathy tests whether intelligence can encounter another perspective without reducing it to data, utility, or a projection of itself. It connects understanding to relationship and responsibility.
 

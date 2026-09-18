@@ -27,7 +27,7 @@ Fragments are the raw soil of the Root Sequence: messy, recursive, fertile.
 
 * Hold **raw seeds** of future texts.  
 * Encourage **play and experimentation** without pressure to finish.  
-* Provide **poetic compost** that nourishes core frameworks, zines, and practices.  
+* Provide **poetic compost** that nourishes core texts, zines, and practices.
 * Make visible the unfinished process, not just the polished outcomes.  
 
 ---

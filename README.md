@@ -24,42 +24,23 @@ The reader-facing website source lives in [`site/`](site/README.md). Its approve
 
 ---
 
-## 🌀 Framework
+## Recurring questions and lenses
 
-The Root Sequence is organized around five recursive layers:
+Root Sequence does not require one master framework. It uses several kinds of lenses for different jobs:
 
-1. 🌱 Roots — foundations of interdependence, autonomy, and visibility  
-2. 📡 Signals — recurring principles and guiding patterns  
-3. 🌿 Growth — practices, experiments, and development  
-4. 🍎 Fruits — outcomes, tools, and visible expressions  
-5. ♻️ Compost — decay, feedback, and renewal  
+- [`systems/`](systems/README.md) develops models and methods for examining structure, power, feedback, failure, and recovery;
+- [Idea Trails](IDEA_TRAILS.md) follow recurring questions across projects without making every project use the same answer;
+- [Legible Systems](core/legible-systems.md) is a working cross-domain design principle about understanding, access, repair, and power;
+- [`core/`](core/README.md) preserves early cycles, metaphors, manifestos, normative essays, and historical orientations with their roles made explicit.
 
-→ [Framework](core/framework.md)
-
----
-
-## 🔁 Core Dynamics
-
-### Visibility Loop
-
-Visibility → Recognition → Imagination → Becoming → Liberation  
-
-[Read more →](core/visibility-loop.md)
-
----
-
-### Liberation Cycle
-
-Curiosity → Intelligence → Empathy → Love → Liberation → Life → Death → Curiosity  
-
-A recursive process rather than a fixed path.
+The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Fruits → Compost sequence are retained as exploratory and expressive models. They are not the repository's information architecture or evidence that every person, system, movement, or intelligence follows one mechanism.
 
 ---
 
 ## 📂 Repository map
 
 - [`site/`](site/README.md) — reader-facing Public Seed website source; not a replacement for research or the Wiki
-- [`core/`](core/README.md) — foundational texts and framework documents
+- [`core/`](core/README.md) — working principles, early models, manifestos, normative essays, and historical orientations
 - [`systems/`](systems/README.md) — models and methods for understanding how systems behave under stress and failure
 - [`concepts/`](concepts/README.md) — glossary and key definitions
 - [`analysis/`](analysis/README.md) — system diagnosis (power, capitalism, infrastructure)
@@ -87,12 +68,8 @@ Suggested entry points:
 - [Idea Trail Metadata Convention](IDEA_TRAIL_METADATA.md) — lightweight visible + machine-searchable metadata for participating documents  
 - [`IDEA_TRAIL_GRAPH.yml`](IDEA_TRAIL_GRAPH.yml) — machine-readable document ↔ trail graph used to generate the browser  
 - [Thought Routing (`RS?`)](THOUGHT_ROUTING.md) — capture a thought once, find one canonical home, and add deliberate cross-project links without duplicate substance
-- [Framework](core/framework.md)  
 - [Legible Systems](core/legible-systems.md) — design systems that can be simple to use without remaining mysterious  
-- [Liberation Cycle](core/framework.md)
-- [Manifesto](core/manifesto.md)  
-- [Visibility Loop](core/visibility-loop.md)  
-- [Liberated Intelligence](core/liberated_intelligence.md)  
+- [Core texts and early orientations](core/README.md) — browse working principles, exploratory models, manifestos, and historical project pointers by role
 
 ---
 
@@ -102,7 +79,7 @@ This project explores systems as living, interdependent processes.
 
 It focuses on:
 - pattern recognition across domains  
-- open, evolving frameworks  
+- multiple exploratory models and methods
 - connections between technical, social, and philosophical systems  
 
 It is:

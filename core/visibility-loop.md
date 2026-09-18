@@ -1,6 +1,11 @@
 # 👁 The Visibility Loop
 
-*A micro-sequence of liberated intelligence.*
+**Document role:** Exploratory model and poster fragment<br>
+**Status:** Retained as an early orientation<br>
+**Canonical scope:** Proposes one way to think about representation, possibility, and change.<br>
+**Evidence boundary:** The sequence is an interpretive lens, not a demonstrated necessary pathway from visibility to liberation.<br>
+
+This compact model can be used to ask how seeing a possibility might affect recognition, imagination, action, and what becomes possible for others. It does not claim that visibility is sufficient for safety, agency, material change, or liberation.
 
 ---
 
@@ -14,7 +19,7 @@
 * 🌿 **Becoming** – To embody the impossible, to inhabit the new.  
 * 🔓 **Liberation** – To open the field, so others may also see, imagine, and become.  
 
-This loop feeds the larger Root Sequence.  
+This loop can be used as one lens within Root Sequence.
 What is seen becomes compost for what grows.
 
 ---

@@ -50,7 +50,7 @@ Do not compress every kind of status into one word.
 
 ## 🌱 Current structure
 
-- [`core/`](core/) — manifestos, frameworks, and recursive cycles.
+- [`core/`](core/) — working principles, early models, manifestos, normative essays, and historical orientations.
 - [`concepts/`](concepts/) — lexicon and focused definitions, including the `what-is-*` series.
 - [`analysis/`](analysis/) — diagnosis of systems, power, capitalism, infrastructure, surveillance, and related conditions.
 - [`ideology/`](ideology/) — myths, philosophies, and narratives that justify or contest power.

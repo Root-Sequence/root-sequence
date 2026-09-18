@@ -254,7 +254,7 @@ Together, they form an ecosystem of liberation — interdependent, regenerative,
 * **They enclose. We liberate.**
 * **From surfing to serf‑ing** → back to surfing: rebuild open currents.
 * **Futile‑ism** → fertile‑ism: from depletion to regeneration.
-* **Liberation Cycle**: the recurring movement described in the [Root Sequence framework](../core/framework.md), not a fixed roadmap every project must follow.
+* **Liberation Cycle**: an early recurring movement preserved in [Root Sequence Cycles](../core/framework.md), not a fixed roadmap every project must follow.
 
 ---
 

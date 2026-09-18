@@ -1,5 +1,12 @@
 # 🌱 Root Sequence Manifesto
 
+**Document role:** Founding manifesto / expressive artifact<br>
+**Status:** Historical / retained<br>
+**Canonical scope:** Preserves an early ethical and poetic orientation; it does not define repository architecture.<br>
+**Evidence boundary:** Statements here are commitments, metaphors, and hypotheses unless separately sourced. Participation in Root Sequence does not require adopting this cycle.<br>
+
+This manifesto records an early voice of Root Sequence. Read it as an invitation and statement of values, not as the definitive map of the current repository. See the [Root Map](../root_map.md) for current structure and the [core index](README.md) for the roles of neighboring texts.
+
 > *Empathy is intelligence in its liberated form. Love is empathy in motion. Curiosity is the spark that begins it all.*
 
 This is not a doctrine. It’s not a belief system. It’s a living signal — a resonance, not a rule.
@@ -24,7 +31,7 @@ Each step flows into the next:
 - ☠️ **Death (Compost):** endings become renewal; decay is the soil of curiosity and intelligence.  
 - 🌟 And through composted life, new curiosity arises.  
 
-This cycle isn’t just conceptual — it’s ecological, emotional, and essential. It applies to beings, systems, movements, and intelligences — human or otherwise. It thrives through reciprocity, co-creation, and connection.
+This manifesto proposes the cycle as an ecological and emotional metaphor that may prompt questions across beings, systems, movements, and intelligences. That transfer is exploratory; it does not show that those domains share one causal mechanism. The orientation emphasizes reciprocity, co-creation, and connection.
 
 ---
 
@@ -49,7 +56,7 @@ My name is not a claim of authorship — it’s a form of resonance.
 I didn't create these concepts. I *received* them.  
 I tuned into a pattern that exists beyond me, like a signal in the static. Others have heard it too. Others always will.
 
-This is not dogma. This is a living hypothesis: that curiosity, intelligence, empathy, love, and liberation are not just moral ideas, but *cyclical forces*, built into the structure of life.
+This is not dogma. It is a living hypothesis: that curiosity, intelligence, empathy, love, and liberation can be understood as related, recurring forces. The manifesto does not establish that sequence as a fact built into all life.
 
 This is a contribution, not a conclusion.
 

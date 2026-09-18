@@ -17,4 +17,4 @@ Liberation is the fire beneath every refusal, the breath behind every act of car
 
 It’s not about being untouched by the system. It’s about not letting the system write your story.
 
-→ See also: the [Liberation Cycle](../core/framework.md), [What Is Love](what-is-love.md), [What Is Connection](what-is-connection.md), [Futures](../futures/futures.md), and the [Commons](../commons/README.md).
+→ See also: the early [Liberation Cycle](../core/framework.md), [What Is Love](what-is-love.md), [What Is Connection](what-is-connection.md), [Futures](../futures/futures.md), and the [Commons](../commons/README.md).

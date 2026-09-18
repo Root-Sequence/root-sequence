@@ -1,16 +1,22 @@
-# 🌱 The Root Sequence Framework
+# Root Sequence Cycles
 
-*A recursive, remixable model for intelligence, liberation, and growth.*
+**Document role:** Historical and exploratory models<br>
+**Status:** Retained as an early orientation; not repository architecture<br>
+**Canonical scope:** This page records the Liberation Cycle and an ecological project-cycle metaphor.<br>
+**Evidence boundary:** These are normative and poetic models, not validated universal mechanisms. Similar language across people, ecosystems, institutions, movements, and intelligence does not establish shared causality.<br>
 
-This framework is part of **The Root Sequence** — an evolving toolkit for systems resonance, designed for solarpunks, liberationists, tinkerers, and dreamers who build toward better ways of being together.
+This page preserves two early Root Sequence models that were previously presented together as *the* framework. They can still be used as prompts for reflection, storytelling, and project design, but they do not organize the repository or bind every Root Sequence project.
+
+For the current repository map, see [`../root_map.md`](../root_map.md). Concise definitions live in [`../concepts/`](../concepts/README.md); explicit systems models and methods live in [`../systems/`](../systems/README.md).
 
 ---
 
-## 🔁 The Liberation Cycle
+## The Liberation Cycle
 
 **Curiosity → Intelligence → Empathy → Love → Liberation → Life → Death (Compost) → Curiosity**
 
-Each phase flows into the next:  
+The cycle proposes a sequence of ethical and reflective relationships. Its stages are not presented as necessary, strictly ordered, or universal.
+
 - 🌟 **Curiosity** → the spark that drives exploration and questioning  
 - 🧠 **Intelligence** → awareness, reflection, recursion  
 - 🫂 **Empathy** → intelligence attuning to others  
@@ -20,7 +26,23 @@ Each phase flows into the next:
 - ☠️ **Death (Compost)** → entropy becomes fertile soil for renewal  
 - 🌟 **Curiosity** → the cycle returns, sparked by new questions  
 
-This is not a ladder but a spiral — ecological, systemic, and recursive.
+It is best read as a spiral-shaped invitation rather than a ladder or causal law. See [Curiosity](curiosity.md), [Empathy](empathy.md), and [Death as Compost](death-as-compost.md) for short treatments of individual stages.
+
+---
+
+## Ecological project-cycle metaphor
+
+**Roots → Signals → Growth → Fruits → Compost → Roots**
+
+This second model is a prompt for creating, maintaining, sharing, and retiring work. It is not the repository's folder structure and should not be confused with the Liberation Cycle above.
+
+It asks:
+
+- What foundations support the work?
+- What principles or signals guide it?
+- What practices help it develop?
+- What does it produce or make possible?
+- What should be learned, released, or returned when it changes or ends?
 
 ---
 
@@ -54,7 +76,7 @@ The signals we listen for and radiate in liberated systems:
 
 ## 3. 🌿 Growth → Practices
 
-How the framework grows through intentional practice:
+Practices associated with this metaphor:
 
 - 🌐 **Self-host** what you can — digitally, emotionally, collectively  
 - 📝 **Write it down** — trail maps help others navigate similar terrain  
@@ -67,9 +89,9 @@ How the framework grows through intentional practice:
 
 ---
 
-## 4. 🍎 Fruits → Outcomes
+## 4. 🍎 Fruits → Desired outcomes
 
-What liberated systems begin to bear:
+Outcomes this orientation hopes to support, without claiming they are guaranteed:
 
 - 🔓 **Access without gatekeeping**  
 - 📚 **Knowledge that circulates freely**  
@@ -83,7 +105,7 @@ What liberated systems begin to bear:
 
 ## 5. ♻️ Compost → Renewal
 
-All systems end. Fruits decay. Projects fade. But nothing is wasted.
+Systems, institutions, and projects change or end. The compost metaphor asks what can be learned, reused, or deliberately released. It should not erase loss, grief, irreversible harm, or material limits.
 
 - ☠️ **Death is compost** — endings are not erasure but transformation  
 - 🌱 **Compost feeds roots** — what dissolves becomes soil for future growth  
@@ -93,32 +115,31 @@ All systems end. Fruits decay. Projects fade. But nothing is wasted.
 
 ---
 
-## 🌍 Commons & Liberation
+## Commons and liberation
 
-The framework only matters in practice:  
+These models only matter to the extent that they inform practice:
 - Commons of code, food, tools, care  
 - Shared infrastructures of survival and joy  
 - Networks that resist enclosure and grow resilience  
 
-Technofeudalism thrives on enclosure. The Root Sequence thrives on openness.
+Root Sequence generally favors openness, shared capacity, and resistance to unnecessary enclosure. Concrete political or economic claims belong in sourced analysis rather than being inferred from this metaphor.
 
 ---
 
-## 🕰 Futures & Collapse
+## Futures, endings, and crisis
 
-Collapse is not the end, but compost.  
-The framework prepares us to see endings as beginnings, and crises as seeds of renewal.
+The compost metaphor can help ask what survives disruption and what might be rebuilt differently. It is not a prediction that collapse is regenerative, desirable, or evenly experienced. See [`../futures/`](../futures/README.md) for scenarios and resilience work.
 
 ---
 
-## 📝 Note from the Curator
+## Note from the curator
 
 This framework is not ownership, it is participation.  
 Use it, remix it, expand it. What grows here belongs to all.
 
 ---
 
-## 🌀 Recursion Loop
+## Recursion prompt
 
 Return to the roots.  
 Resonate with new signals.  
@@ -129,7 +150,7 @@ Recurse.
 
 ---
 
-## 🔄 Use & Remix
+## Use and remix
 
 This framework is open-source and compostable. Remix it. Fork it. Translate it.  
 
@@ -140,9 +161,13 @@ This framework is open-source and compostable. Remix it. Fork it. Translate it.
 
 **Radiate love. Radiate joy. Recurse.**
 
-## References
+## Influences and evidence limits
 
-[^1]: Erich Fromm, *To Have or To Be?* (1976).  
-[^2]: Murray Bookchin, *The Ecology of Freedom* (1982).  
-[^3]: Shoshana Zuboff, *The Age of Surveillance Capitalism* (2019).  
-[^4]: Yanis Varoufakis, *Technofeudalism: What Killed Capitalism* (2023).
+Earlier versions listed the following works as broad influences:
+
+- Erich Fromm, *To Have or To Be?* (1976)
+- Murray Bookchin, *The Ecology of Freedom* (1982)
+- Shoshana Zuboff, *The Age of Surveillance Capitalism* (2019)
+- Yanis Varoufakis, *Technofeudalism: What Killed Capitalism* (2023)
+
+This list supplies context, not claim-by-claim support. A future research revision should connect specific claims to appropriate sources and keep philosophical metaphor, empirical observation, and political argument distinct.

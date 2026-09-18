@@ -1,7 +1,9 @@
 # Legible Systems
 
-**Status:** Working foundation / cross-domain design principle  
-**First formalized here:** 2026-09-06
+**Document role:** Working cross-domain design principle<br>
+**Status:** Active / developing<br>
+**Evidence boundary:** This page proposes design guidance. Each translation into technical, institutional, educational, or physical domains needs independent validation.<br>
+**First formalized here:** 2026-09-06<br>
 
 ## Core idea
 

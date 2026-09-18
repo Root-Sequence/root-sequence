@@ -15,7 +15,7 @@ It is openness, desire to explore, and willingness to be changed by what is enco
 
 ## 🌐 Links
 
-- Added to the [Liberation Cycle](../core/framework.md).  
+- Discussed in the early [Liberation Cycle](../core/framework.md).
 - Precedes [What Is Intelligence](what-is-intelligence.md).  
 - Resonates with [Fragments](../commons/fragments/README.md).  
 
