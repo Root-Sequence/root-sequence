@@ -1,197 +1,141 @@
 #!/usr/bin/env python3
-"""Small, offline static publisher. Preview by default; exact-source approval for release."""
+"""Build the approved single-file Root Sequence site for review or publication."""
 from __future__ import annotations
+
 import argparse
 import hashlib
-import html
 import json
-import re
 import sys
-import zipfile
 from datetime import date
 from pathlib import Path
-from urllib.parse import urlparse
-from xml.etree import ElementTree as ET
+
 
 HERE = Path(__file__).resolve().parent
-SAFE_SLUG = re.compile(r"^(?:[a-z0-9]+(?:-[a-z0-9]+)*(?:/[a-z0-9]+(?:-[a-z0-9]+)*)*/)?$")
-STATES = {"Seed", "Growing", "Established"}
+DOMAIN = "rootsequence.systems"
+BASE_URL = f"https://{DOMAIN}/"
+SOURCE_FILES = ("build.py", "index.html")
+
+# These are publication-state changes, not an editorial rewrite. Preview output is
+# byte-for-byte identical to index.html; release output makes the same approved
+# page truthful once it is hosted publicly.
+RELEASE_REPLACEMENTS = (
+    ('<meta content="noindex,nofollow" name="robots"/>',
+     '<meta content="index,follow" name="robots"/>', 1),
+    ('This preview rearranges existing project text and adds proposed About and participation copy.',
+     'This public seed rearranges existing project text and adds About and participation copy.', 2),
+    ('Privacy and this preview', 'Privacy and this site', 2),
+    ('This is a local review copy, not a deployment or a publication approval. There are no manuscript scenes in this edition.',
+     'This is the public seed edition of the Root Sequence site. There are no manuscript scenes in this edition.', 2),
+    ('A future hosted version may produce ordinary request logs at its hosting provider. This local preview makes no claim about the provider’s retention or access policies.',
+     'This hosted version may produce ordinary request logs at its hosting provider. This site makes no claim about the provider’s retention or access policies.', 2),
+    ('Design study · Updated 17 September 2026 · Not a published site',
+     'Public seed · Published 18 September 2026', 2),
+    ('This preview has no separate public website to link to for Coherent World.',
+     'This site has no separate public website to link to for Coherent World.', 1),
+    ('so this preview does not link to it.', 'so this site does not link to it.', 1),
+)
+
 
 def source_digest(root: Path) -> str:
     digest = hashlib.sha256()
-    for name in ("build.py", "content.json", "style.css"):
+    for name in SOURCE_FILES:
         digest.update(name.encode() + b"\0" + (root / name).read_bytes() + b"\0")
     return digest.hexdigest()
 
-def safe_url(value: str) -> str:
-    parsed = urlparse(value)
-    if parsed.scheme:
-        if parsed.scheme != "https" or not parsed.netloc or parsed.username or parsed.password:
-            raise ValueError(f"Only ordinary HTTPS external links are allowed: {value!r}")
-    elif parsed.netloc or not value.startswith("/") or value.startswith("//") or ".." in value.split("/"):
-        raise ValueError(f"Invalid internal link: {value!r}")
-    return value
 
-def validate(data: dict) -> None:
-    base = urlparse(data["base_url"])
-    if base.scheme != "https" or not base.netloc or base.path not in ("", "/") or base.query or base.fragment:
-        raise ValueError("base_url must be an HTTPS origin, without a path or query")
-    if data["theme"] not in ("research", "story"):
-        raise ValueError("Unknown theme")
-    pages = data["pages"]
-    slugs = [p["slug"] for p in pages]
-    if len(set(slugs)) != len(slugs) or "" not in slugs:
-        raise ValueError("Page slugs must be unique and include the homepage")
-    targets = {"/" + s for s in slugs}
-    targets |= {"/feed.xml", "/seed-archive.zip", "/project-map.json"}
-    for p in pages:
-        if not SAFE_SLUG.fullmatch(p["slug"]):
-            raise ValueError(f"Unsafe slug: {p['slug']!r}")
-        if p["maturity"] not in STATES or not p.get("kind") or not p.get("epistemic_status"):
-            raise ValueError("Each page needs separate maturity, kind and epistemic status")
-        created, updated = date.fromisoformat(p["created"]), date.fromisoformat(p["updated"])
-        if updated < created:
-            raise ValueError("Updated date precedes created date")
-        for section in p.get("sections", []):
-            for link in section.get("links", []):
-                check_link(link, targets)
-        for link in p.get("sources", []) + p.get("related", []):
-            check_link(link, targets)
-    for link in data["nav"]:
-        check_link(link, targets)
-    ids = {n["id"] for n in data.get("projects", [])}
-    if len(ids) != len(data.get("projects", [])):
-        raise ValueError("Duplicate project identity")
-    for node in data.get("projects", []):
-        safe_url(node["url"])
-    for edge in data.get("relationships", []):
-        if edge["from"] not in ids or edge["to"] not in ids or not edge.get("relation"):
-            raise ValueError("Graph edge references an unknown project or lacks a relation")
+def release_html(source: str) -> str:
+    result = source
+    for old, new, expected_count in RELEASE_REPLACEMENTS:
+        actual_count = result.count(old)
+        if actual_count != expected_count:
+            raise ValueError(
+                f"Release marker changed unexpectedly: expected {expected_count} occurrence(s), "
+                f"found {actual_count}: {old[:72]!r}"
+            )
+        result = result.replace(old, new)
+    return result
 
-def check_link(link: dict, targets: set[str]) -> None:
-    value = safe_url(link["url"])
-    if value.startswith("/") and urlparse(value).path not in targets:
-        raise ValueError(f"Internal link has no generated target: {value}")
 
-def render(data: dict, page: dict, preview: bool) -> str:
-    esc = html.escape
-    prefix = "../" * page["slug"].count("/")
-    def href(value: str) -> str:
-        safe_url(value)
-        if value.startswith("/"):
-            parsed = urlparse(value)
-            path = parsed.path[1:]
-            if not path or path.endswith("/"):
-                path += "index.html"
-            suffix = ("?" + parsed.query if parsed.query else "") + ("#" + parsed.fragment if parsed.fragment else "")
-            return esc(prefix + path + suffix, quote=True)
-        return esc(value, quote=True)
-    def link(item: dict) -> str:
-        return f'<a href="{href(item["url"])}">{esc(item["label"])}</a>'
-    nav = "".join(f'<a href="{href(n["url"])}"' + (' aria-current="page"' if n["url"] == "/" + page["slug"] else '') + f'>{esc(n["label"])}</a>' for n in data["nav"])
-    body = []
-    for i, section in enumerate(page.get("sections", []), 1):
-        heading = f'<h2 id="section-{i}">{esc(section["heading"])}</h2>' if section.get("heading") else ""
-        paragraphs = "".join(f'<p>{esc(p)}</p>' for p in section.get("paragraphs", []))
-        quotation = f'<blockquote><p>{esc(section["quote"])}</p></blockquote>' if section.get("quote") else ""
-        items = "".join(f'<li>{link(item)}<span>{esc(item.get("description", ""))}</span></li>' for item in section.get("links", []))
-        listing = f'<ul class="directory">{items}</ul>' if items else ""
-        body.append(f'<section>{heading}{quotation}{paragraphs}{listing}</section>')
-    if page.get("show_project_map"):
-        nodes = {n["id"]: n for n in data["projects"]}
-        rows = "".join(f'<tr><th scope="row">{esc(nodes[e["from"]]["title"])}</th><td>{esc(e["relation"])}</td><td>{esc(nodes[e["to"]]["title"])}</td></tr>' for e in data["relationships"])
-        body.append('<details class="project-details"><summary>How these projects connect</summary><div class="table-scroll"><table><caption>Selected project connections</caption><thead><tr><th scope="col">Project</th><th scope="col">Relationship</th><th scope="col">Project</th></tr></thead><tbody>' + rows + '</tbody></table></div></details>')
-    def reference_section(title: str, key: str) -> str:
-        items = "".join(f'<li>{link(n)}</li>' for n in page.get(key, []))
-        return f'<section class="references"><h2>{title}</h2><ul>{items}</ul></section>' if items else ""
-    canonical = esc(data["base_url"].rstrip("/") + "/" + page["slug"], quote=True)
-    state = "Website draft. Not published yet." if preview else "Edition 0.1"
-    robots = '<meta name="robots" content="noindex,nofollow">' if preview else '<meta name="robots" content="index,follow">'
-    canon = f'<dt>Story status</dt><dd>{esc(page["canon_status"])}</dd>' if page.get("canon_status") else ""
-    source_note = f'<p>{esc(page["provenance"])}</p>' if page.get("provenance") else ""
-    stage = {"Seed": "Seed (early draft)", "Growing": "Growing (in development)", "Established": "Established (developed reference)"}[page["maturity"]]
-    details = f'<details class="page-details"><summary>About this page</summary><dl><dt>Stage</dt><dd>{stage}</dd><dt>Type</dt><dd>{esc(page["kind"])}</dd><dt>How to read it</dt><dd>{esc(page["epistemic_status"])}</dd>{canon}<dt>Created</dt><dd><time datetime="{page["created"]}">{page["created"]}</time></dd><dt>Updated</dt><dd><time datetime="{page["updated"]}">{page["updated"]}</time></dd></dl>{source_note}</details>'
-    return f'''<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{esc(page['title'])} · {esc(data['title'])}</title><meta name="description" content="{esc(page['description'], quote=True)}">
-{robots}<link rel="canonical" href="{canonical}"><link rel="alternate" type="application/atom+xml" title="{esc(data['title'], quote=True)} updates" href="{prefix}feed.xml"><link rel="stylesheet" href="{prefix}style.css"></head>
-<body class="{data['theme']}"><a class="skip" href="#main">Skip to content</a>
-<header class="site-header"><a class="wordmark" href="{prefix}index.html">{esc(data['title'])}<span>{esc(data['tagline'])}</span></a><nav aria-label="Main navigation">{nav}</nav></header>
-<main id="main" tabindex="-1"><h1>{esc(page['title'])}</h1><p class="lede">{esc(page['description'])}</p>
-{''.join(body)}{reference_section('Sources and further reading', 'sources')}{reference_section('Related reading', 'related')}{details}</main>
-<footer><p>{esc(data['footer'])} <a href="{prefix}about/index.html">About this project</a></p><p><a href="{prefix}changelog/index.html">Site updates</a> · <a href="{prefix}feed.xml">Updates feed</a></p><details class="technical-details"><summary>Downloads and technical details</summary><p><a href="{prefix}seed-archive.zip">Download a copy of the site</a> · <a href="{prefix}project-map.json">Project connections as JSON</a></p><p>The updates feed works with Atom feed readers. The site uses no accounts, analytics, external fonts, or client-side JavaScript.</p></details><p class="build-status">{state}</p></footer></body></html>'''
+def approval_for(root: Path, digest: str) -> dict:
+    path = root / "approval.json"
+    approval = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+    if (
+        approval.get("source_sha256") != digest
+        or not approval.get("approved_by")
+        or not approval.get("approved_at")
+    ):
+        raise ValueError(
+            "Release blocked: approval.json must identify the reviewer and match "
+            "the exact current source digest."
+        )
+    date.fromisoformat(approval["approved_at"])
+    return approval
+
 
 def build(root: Path, output: Path, release: bool = False) -> dict:
-    data = json.loads((root / "content.json").read_text(encoding="utf-8"))
-    validate(data)
     digest = source_digest(root)
-    if release:
-        approval_path = root / "approval.json"
-        approval = json.loads(approval_path.read_text(encoding="utf-8")) if approval_path.exists() else {}
-        if approval.get("source_sha256") != digest or not approval.get("approved_by") or not approval.get("approved_at"):
-            raise ValueError("Release blocked: review these exact source files and record their digest, approved_by and approved_at in approval.json. Preview needs no approval.")
-        date.fromisoformat(approval["approved_at"])
+    approval = approval_for(root, digest) if release else None
     if output.exists() and (output.is_symlink() or any(output.iterdir())):
-        raise ValueError("Choose a new empty output directory; the builder will not delete or overwrite an existing build.")
+        raise ValueError("Choose a new empty output directory; the builder will not overwrite it.")
     output.mkdir(parents=True, exist_ok=True)
-    contents: dict[str, bytes] = {}
-    for page in data["pages"]:
-        contents[page["slug"] + "index.html"] = render(data, page, not release).encode("utf-8")
-    contents["style.css"] = (root / "style.css").read_bytes()
-    graph = {"scope": "Selected project connections. The Root Sequence Wiki holds the fuller project reference.", "projects": data.get("projects", []), "relationships": data.get("relationships", [])}
-    contents["project-map.json"] = (json.dumps(graph, indent=2, ensure_ascii=False) + "\n").encode()
-    ET.register_namespace("", "http://www.w3.org/2005/Atom")
-    ns = "{http://www.w3.org/2005/Atom}"
-    feed = ET.Element(ns + "feed")
-    for tag, value in (("title", data["title"]), ("id", data["base_url"]), ("updated", max(p["updated"] for p in data["pages"]) + "T00:00:00Z")):
-        ET.SubElement(feed, ns + tag).text = value
-    ET.SubElement(feed, ns + "link", {"href": data["base_url"].rstrip("/") + "/feed.xml", "rel": "self"})
-    author = ET.SubElement(feed, ns + "author")
-    ET.SubElement(author, ns + "name").text = data["author"]
-    for page in sorted(data["pages"], key=lambda p: (p["updated"], p["slug"]), reverse=True):
-        entry = ET.SubElement(feed, ns + "entry")
-        url = data["base_url"].rstrip("/") + "/" + page["slug"]
-        for tag, value in (("title", page["title"]), ("id", url), ("updated", page["updated"] + "T00:00:00Z"), ("summary", page["description"])):
-            ET.SubElement(entry, ns + tag).text = value
-        ET.SubElement(entry, ns + "link", {"href": url})
-    contents["feed.xml"] = ET.tostring(feed, encoding="utf-8", xml_declaration=True)
-    sitemap = ET.Element("urlset", xmlns="http://www.sitemaps.org/schemas/sitemap/0.9")
-    for page in data["pages"]:
-        url = ET.SubElement(sitemap, "url")
-        ET.SubElement(url, "loc").text = data["base_url"].rstrip("/") + "/" + page["slug"]
-        ET.SubElement(url, "lastmod").text = page["updated"]
-    contents["sitemap.xml"] = ET.tostring(sitemap, encoding="utf-8", xml_declaration=True)
-    contents["robots.txt"] = ("User-agent: *\nDisallow: /\n" if not release else "User-agent: *\nAllow: /\nSitemap: " + data["base_url"].rstrip("/") + "/sitemap.xml\n").encode()
-    contents[".nojekyll"] = b""
-    manifest = {"site": data["title"], "build_mode": "release" if release else "preview", "source_sha256": digest, "html_pages": len(data["pages"]), "files": {name: hashlib.sha256(value).hexdigest() for name, value in contents.items()}, "note": "Hashes cover generated files before this manifest and its preservation ZIP. Build success is not deployment verification."}
+
+    source = (root / "index.html").read_text(encoding="utf-8")
+    html = release_html(source) if release else source
+    contents: dict[str, bytes] = {
+        "index.html": html.encode("utf-8"),
+        "robots.txt": (
+            f"User-agent: *\nAllow: /\nSitemap: {BASE_URL}sitemap.xml\n"
+            if release
+            else "User-agent: *\nDisallow: /\n"
+        ).encode(),
+        "sitemap.xml": (
+            '<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+            f"  <url><loc>{BASE_URL}</loc><lastmod>2026-09-18</lastmod></url>\n"
+            "</urlset>\n"
+        ).encode(),
+        ".nojekyll": b"",
+        "CNAME": f"{DOMAIN}\n".encode(),
+    }
+    manifest = {
+        "site": "Root Sequence",
+        "canonical_url": BASE_URL,
+        "build_mode": "release" if release else "preview",
+        "source_sha256": digest,
+        "approved_by": approval.get("approved_by") if approval else None,
+        "approved_at": approval.get("approved_at") if approval else None,
+        "html_pages": 1,
+        "files": {name: hashlib.sha256(value).hexdigest() for name, value in contents.items()},
+        "note": "Hashes cover generated files before this manifest. Build success is not live-host verification.",
+    }
     contents["build-manifest.json"] = (json.dumps(manifest, indent=2) + "\n").encode()
     for name, value in contents.items():
-        target = output / name
-        target.parent.mkdir(parents=True, exist_ok=True)
-        target.write_bytes(value)
-    with zipfile.ZipFile(output / "seed-archive.zip", "w", zipfile.ZIP_DEFLATED) as archive:
-        for name, value in contents.items():
-            info = zipfile.ZipInfo(name, (2026, 9, 16, 0, 0, 0))
-            info.compress_type = zipfile.ZIP_DEFLATED
-            archive.writestr(info, value)
+        (output / name).write_bytes(value)
     return manifest
+
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output", type=Path, default=HERE / "preview")
-    parser.add_argument("--release", action="store_true", help="Requires approval of the exact current source digest")
-    parser.add_argument("--digest", action="store_true", help="Print the exact-source digest without approving or publishing anything")
+    parser.add_argument("--release", action="store_true")
+    parser.add_argument("--digest", action="store_true")
     args = parser.parse_args()
     try:
         if args.digest:
             print(source_digest(HERE))
         else:
             manifest = build(HERE, args.output, args.release)
-            print(json.dumps({"output": str(args.output.resolve()), "mode": manifest["build_mode"], "pages": manifest["html_pages"], "source_sha256": manifest["source_sha256"]}, indent=2))
-    except (OSError, ValueError, KeyError, TypeError) as exc:
+            print(json.dumps({
+                "output": str(args.output.resolve()),
+                "mode": manifest["build_mode"],
+                "pages": manifest["html_pages"],
+                "source_sha256": manifest["source_sha256"],
+            }, indent=2))
+    except (OSError, ValueError, KeyError, TypeError, json.JSONDecodeError) as exc:
         print(f"Build failed: {exc}", file=sys.stderr)
         return 1
     return 0
+
 
 if __name__ == "__main__":
     raise SystemExit(main())

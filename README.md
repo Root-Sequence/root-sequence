@@ -20,7 +20,7 @@ It's a process, not a blueprint.
 
 ## Public Seed v0.1
 
-The reader-facing website source now lives in [`site/`](site/README.md): an introduction, five Atlas guides, project relationships, publication conventions, and a changelog. The source is preserved here; a successful build is **not** evidence of deployment to `rootsequence.systems`. Research, the Wiki, and thought routing retain their existing canonical homes. See [`site/PLACEMENT.md`](site/PLACEMENT.md) for the placement and deployment boundary.
+The reader-facing website source lives in [`site/`](site/README.md). Its approved single-page public seed introduces the project and routes readers into the research, related projects, and participation paths without replacing their canonical homes. The website directory also records approval, validation, and deployment boundaries.
 
 ---
 
@@ -79,7 +79,7 @@ A recursive process rather than a fixed path.
 
 Suggested entry points:
 
-- [Public Seed website source](site/README.md) — reader-facing introduction and five Atlas guides; hosting remains separate
+- [Public Seed website source](site/README.md) — approved single-page introduction, publication workflow, and deployment records
 - [Ecosystem Map](ECOSYSTEM.md) — understand the wider project family  
 - [Root Sequence Wiki](https://github.com/Root-Sequence/wiki) — browse terms, phrases, projects, provenance, and conceptual archaeology  
 - [Idea Trails](IDEA_TRAILS.md) — understand the recurring questions and how each project transforms them  

@@ -1,5 +1,27 @@
 # Website copy review: September 16, 2026
 
+## Approval update: September 18, 2026
+
+Rae Lovejoy initially approved the single-file website preview with SHA-256
+`9e5bb0eade87e488410baf4fb42ce812efbe5f013c517603edb448337d78f56e`.
+
+Rae Lovejoy approved a follow-up addition on 2026-09-18: section 6 now lists
+**Being Human(e): An Incomplete Guide** as a developing practical field
+guide. Its project panel says that the public website has not been built yet
+and therefore offers no external website link. The updated approved HTML has
+SHA-256
+`d9f46f55c483cb9147bce6ece637f63f660f50a21f239b4ab43598008d72d36c`.
+
+Publication changes are limited to state-dependent labels: search indexing,
+local-preview wording, the publication date, and references that say "this
+preview" when the page is hosted. Apart from the approved Being Human(e)
+addition, the headline, body copy, sections, existing project descriptions,
+links, overlays, accessibility controls, English source edition, palette,
+logo, and embedded Cascadia Mono wordmark are unchanged.
+
+The prior review below describes the superseded 11-page candidate and remains
+as project history.
+
 ## Request
 
 Make both websites understandable to first-time visitors and edit the machine-sounding prose using Rae's repeated Rossmann writing reference.

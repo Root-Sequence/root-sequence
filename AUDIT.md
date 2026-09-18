@@ -3,6 +3,7 @@
 **Document role:** Audit record and cleanup change log<br>
 **Status:** Active record<br>
 **Audit date:** 2026-09-17<br>
+**Reconciled with `main`:** 2026-09-18<br>
 **Baseline:** `main` at `8b551209ea04d4ce5425d569565a2a9784fd463c`<br>
 
 This audit covers the reader-facing Markdown, generated-site pages, directory indexes, navigation sources, and related publishing records in `Root-Sequence/root-sequence`.
@@ -25,7 +26,7 @@ The detailed canonical-page, linking, and status-label rules live in [`root_map.
 The pass inspected:
 
 - 156 Markdown files present at the baseline;
-- the 11 pages defined in `site/content.json` and their generated output;
+- the 11-page website candidate present at the audit baseline, followed by the approved single-page site merged to `main` on 2026-09-18;
 - repository, directory, Idea Trail, and website navigation;
 - the machine-readable Idea Trail graph and generated browser;
 - the public agent-contact files and SECI research indexes;
@@ -63,9 +64,9 @@ Concepts, core texts, commons fragments and zines, and systems subareas now link
 
 ### Generated website
 
-The website remains an introductory projection, not a replacement for repository research or the Wiki. Its source, publication boundary, and validation records remain in `site/`. The cleanup checks generated navigation and rendered pages but does not approve or deploy a release.
+While this cleanup remained in draft, the separately reviewed single-page website was approved and merged to `main`. This branch incorporates that completed work without changing the approved [`site/index.html`](site/index.html), its approval digest, or its publication controls. The former 11-page candidate now lives under [`site/legacy-public-seed-v0.1/`](site/legacy-public-seed-v0.1/README.md) as historical source rather than deployment input.
 
-`site/content.json` was also expanded from minified JSON into reviewable formatting. The formatting change is large in line count; the semantic changes are limited to the project list, related-project relationships, unavailable *No One Noticed* links, homepage framing, and this audit's changelog entry.
+The website remains an introductory projection, not a replacement for repository research or the Wiki. Obsolete cleanup edits to the former `site/content.json` were not carried into the historical archive. Only repository navigation and this audit record were reconciled with the new canonical site structure.
 
 ## Remaining work
 
@@ -74,7 +75,7 @@ This cleanup makes evidence debt visible; it does not invent sources or claim th
 Two draft pull requests remain separate by design:
 
 - PR #6 develops the coherent-systems paper and should rebase or reconcile any shared navigation files before merge.
-- PR #7 is an isolated website editorial/accessibility review and should be integrated into the canonical builder only after editorial approval.
+- PR #7 is the older isolated website editorial/accessibility prototype. The approved site now carries its central project-first and accessible-theme direction; do not merge the alternate review builder as a second website system. Preserve any still-useful review notes before closing it as superseded.
 
 Neither draft was merged into this audit branch, and neither was treated as current published state.
 
@@ -82,12 +83,12 @@ Neither draft was merged into this audit branch, and neither was treated as curr
 
 The final branch was checked for:
 
-- zero empty Markdown files across the final 146-file set;
+- zero empty Markdown files across the final 148-file set;
 - local Markdown links, local heading fragments, inbound Markdown navigation, and at least one readable top-level heading per reader-facing Markdown page;
-- all 95 distinct referenced GitHub repository or file destinations through the GitHub API;
+- all 99 distinct GitHub repository or file destinations referenced by Markdown, JSON, or HTML through the GitHub API;
 - current generated Idea Trail output;
-- all 17 website publication tests and a fresh preview build;
-- all 11 generated-site routes at narrow and wide viewport sizes, including navigation, page details, heading presence, and horizontal-overflow checks;
+- all 11 current website publication tests and a fresh preview build of the approved single-page source;
+- the approved single-page site at narrow and wide viewport sizes, including navigation, controls, heading presence, and horizontal-overflow checks;
 - representative external destinations, with access-denied responses recorded as inconclusive rather than silently treated as success;
 - changed-file scope, whitespace integrity, valid JSON, and a full diff review.
 
