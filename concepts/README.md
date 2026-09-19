@@ -12,6 +12,7 @@ Document roles and evidence boundaries should be stated on each page. Being list
 ## Cross-project frameworks and design ideas
 
 - [Legible Systems](legible-systems.md) — a working design principle about progressive understanding, technical accessibility, repair, alternatives, and power.
+- [Legible AI-Assisted Expression](legible-ai-assisted-expression.md) — a working principle for reducing the cost of expression while keeping human contributions, AI additions, transformations, evidence, uncertainty, and decisions visible.
 - [Intelligence Ecology](intelligence-ecology.md) — a developing framework for asking what behaviors an environment selects for in intelligent systems.
 - [Human(e) Design](humane-design.md) — a translation method between human observation and concrete design choices.
 - [Human(e) Infrastructure](humane-infrastructure.md) — a cross-project systems concept about durable conditions that support humane life.
