@@ -1,5 +1,5 @@
 version: 0.3
-updated: 2026-09-18
+updated: 2026-09-19
 canonical_trails: IDEA_TRAILS.md
 metadata_convention: IDEA_TRAIL_METADATA.md
 
@@ -76,6 +76,14 @@ documents:
       - intelligence-authority
       - stewardship-authority
       - accountability-externalization
+
+  - repo: Root-Sequence/root-sequence
+    path: concepts/legible-ai-assisted-expression.md
+    role: analytical-lens
+    trails:
+      - accessibility-participation
+      - intelligence-authority
+      - memory-provenance
 
   - repo: Root-Sequence/root-sequence
     path: research/papers/coherent-systems/README.md
