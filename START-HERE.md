@@ -8,6 +8,8 @@ review_sources: README.md, ECOSYSTEM.md, root_map.md, IDEA_TRAILS.md, THOUGHT_RO
 review_when: scope, status, structure, routing, or active-frontier changes
 END-START-HERE-META -->
 
+For a comprehensive working briefing, continue to [PROJECT-CONTEXT.md](PROJECT-CONTEXT.md).
+
 ## In one sentence
 
 Root Sequence is the public conceptual commons for investigating how systems become what they are—and what else they could become.
