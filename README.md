@@ -1,5 +1,7 @@
 # 🌱 The Root Sequence
 
+> **New, returning, or overloaded? Read [START-HERE.md](START-HERE.md) for the smallest useful map.**
+
 <img src="assets/root-sequence.png" alt="Root Sequence logo" width="100" align="right" />
 
 The Root Sequence is a living, open-source inquiry into how intelligence, systems, and meaning evolve together.
