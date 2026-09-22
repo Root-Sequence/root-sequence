@@ -2,7 +2,7 @@
 
 **Document role:** Opening research question and test design sketch<br>
 **Status:** v0.1-dev; AI-assisted exploratory draft, author review pending<br>
-**Evidence status:** Three empirical starting points below; the proposed comparisons are untested here<br>
+**Evidence status:** Four empirical starting points below; the proposed comparisons are untested here<br>
 **Idea Trail:** [Intelligence, Automation & Legitimate Authority](../../IDEA_TRAILS.md#trail-9--intelligence-automation-and-legitimate-authority)<br>
 **Trail role:** research
 
@@ -19,13 +19,34 @@ This is a proposed research question, not an answer that organization alone is s
 
 | Dimension | Question |
 | --- | --- |
-| Contents and character | What is experienced, and how does it feel? |
-| Connectedness | Is the experience of the surrounding world, or internally generated, as in a dream? |
-| Responsiveness | Can the system act or answer when prompted? |
-| Recall and report | Can it later remember or describe an experience? |
-| Selfhood and agency | Is there a sense of self, and can it make choices? |
+| Physical event | What chemical, electrical, bodily, or computational process occurred? |
+| Experience | Was anything subjectively felt while it occurred? |
+| Contents and character | What was experienced, and how did it feel? |
+| Connectedness | Was the experience of the surrounding world, or internally generated, as in a dream? |
+| Responsiveness | Could the system act or answer when prompted? |
+| Memory of occurrence | Does it later remember or believe that an experience occurred? |
+| Memory of content | Can it later recover what the experience contained? |
+| Implicit trace | Did the event alter later processing or behavior without being consciously remembered? |
+| Report | Can it describe any of these states to someone else? |
+| Selfhood and agency | Was there a sense of self, and could it make choices? |
 
-These dimensions cannot stand in for one another. In an experimental sedation study, participants reported dream-like experiences associated with periods of unresponsiveness; an absence of response alone was therefore an unreliable sign that experience had ended in that setting.[^radek] Conversely, a missing later report could reflect impaired recall. We need multiple kinds of evidence, while acknowledging that none provides direct access to another system's point of view.
+These dimensions cannot stand in for one another. In an experimental sedation study, participants reported dream-like experiences associated with periods of unresponsiveness; an absence of response alone was therefore an unreliable sign that experience had ended in that setting.[^radek] Research with memory-impaired participants also found durable perceptual learning despite severe impairment in consciously remembering the relevant images, showing that a later functional trace and later conscious recollection can dissociate.[^squire]
+
+## The event, the experience, and the memory are different variables
+
+At the time of an event, a physical or chemical process can occur with or without subjective experience. If experience occurs, its contents may or may not be encoded in a form that can later be retrieved. At a later time, a person might remember the contents, retain only a bare sense that *something was experienced*, show an implicit effect without recollection, or retain no detectable trace.
+
+That gives us several distinct possibilities:
+
+- an experience occurs and its contents are later remembered;
+- an experience occurs, but only its occurrence is later remembered;
+- an experience occurs and is not later remembered at all;
+- a nonconscious process leaves a physical, chemical, neural, or behavioral trace;
+- a later memory-like judgment is reconstructed or inferred rather than preserved from the event.
+
+The third possibility creates a basic evidence problem: if an experience leaves no retrievable memory, a later report cannot confirm it. The fourth creates the inverse problem: evidence that a system detected, learned from, or reacted to something establishes processing, but does not by itself establish that the processing felt like anything. A later statement such as “I experienced something” is evidence to interpret, not the experience itself and not an infallible recording of it.
+
+This means a study should track at least four time-indexed variables: **the process that occurred, whether experience occurred, what its contents were, and what traces were later available**. We need multiple kinds of evidence while acknowledging that none provides direct access to another system's point of view.
 
 ## What could be varied?
 
@@ -53,7 +74,7 @@ The most difficult case is an artificial system. Matching input-output behavior,
 
 1. Choose one narrow contrast, such as connected versus dream-like experience during states of impaired responsiveness.
 2. Map two competing theories to different, preregisterable predictions for that contrast.
-3. Identify at least two distinct measurements, the report and memory confounds, and an intervention or natural variation that could discriminate between predictions.
+3. Identify at least two distinct measurements, distinguish occurrence memory from content memory and implicit traces, and identify an intervention or natural variation that could discriminate between predictions.
 4. Record results that would weaken each account as well as those that would support it. Do not promote a correlation to necessity or sufficiency without an argument that survives the alternatives.
 
 The longer-range question of substrate independence remains open. The ethical commitment is also separate from any empirical finding: uncertainty about possible artificial experience gives reason to examine welfare and avoid creating potentially harmful conditions while the evidence is incomplete. It does not grant a system authority over people, nor does it prove that a present system has experiences.
@@ -63,6 +84,7 @@ The longer-range question of substrate independence remains open. The ethical co
 ## References
 
 [^radek]: Radek et al., “Dreaming and awareness during dexmedetomidine- and propofol-induced unresponsiveness,” *British Journal of Anaesthesia* 121 (2018), 260–269. [DOI: 10.1016/j.bja.2018.03.014](https://doi.org/10.1016/j.bja.2018.03.014). Experimental sedation, not all anesthesia or all unresponsive states.
+[^squire]: Squire et al., “One-trial perceptual learning in the absence of conscious remembering and independent of the medial temporal lobe,” *Proceedings of the National Academy of Sciences* 118 (2021), e2104072118. [DOI: 10.1073/pnas.2104072118](https://doi.org/10.1073/pnas.2104072118). Shows a dissociation between durable perceptual learning and later conscious remembering; it does not establish whether every underlying learning process was phenomenally unconscious.
 [^casali]: Casali et al., “A theoretically based index of consciousness independent of sensory processing and behavior,” *Science Translational Medicine* 5 (2013), 198ra105. [DOI: 10.1126/scitranslmed.3006294](https://doi.org/10.1126/scitranslmed.3006294). Theory-derived human-state measure; not a substrate-independent consciousness test.
 [^cogitate]: Cogitate Consortium et al., “Adversarial testing of global neuronal workspace and integrated information theories of consciousness,” *Nature* 642 (2025), 133–142. [DOI: 10.1038/s41586-025-08888-1](https://doi.org/10.1038/s41586-025-08888-1). Tests specified neural predictions for visual content, not all possible experiences.
 
