@@ -2,7 +2,7 @@
 
 **Document role:** Cross-project concept routing map  
 **Status:** Living / exploratory  
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-22
 
 Root Sequence projects repeatedly encounter the same underlying questions at different scales and in different forms.
 
@@ -235,6 +235,7 @@ This trail also asks: **What behaviors does this system select for?** Capability
 | **Museum of Ordinary Life** | Preserve ordinary pre-transition AI interfaces, prompts, automated decisions, help systems, errors, consent notices, and the human labor hidden behind “automation.” |
 
 - **Canonical broad systems concept:** [`concepts/intelligence-ecology.md`](concepts/intelligence-ecology.md).
+- **Related research question:** [`research/conscious-systems/`](research/conscious-systems/README.md) asks which conditions might support experience; it does not infer consciousness or authority from capability.
 - **Canonical focused research:** Liberated Intelligence.
 - **Canonical real Community Assistant constraints:** Community Infrastructure.
 
