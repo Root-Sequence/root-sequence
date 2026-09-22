@@ -2,7 +2,7 @@
 
 **Document role:** Opening research question and test design sketch<br>
 **Status:** v0.1-dev; AI-assisted exploratory draft, author review pending<br>
-**Evidence status:** Four empirical starting points below; the proposed comparisons are untested here<br>
+**Evidence status:** Five empirical starting points below; the proposed comparisons are untested here<br>
 **Idea Trail:** [Intelligence, Automation & Legitimate Authority](../../IDEA_TRAILS.md#trail-9--intelligence-automation-and-legitimate-authority)<br>
 **Trail role:** research
 
@@ -48,6 +48,25 @@ The third possibility creates a basic evidence problem: if an experience leaves 
 
 This means a study should track at least four time-indexed variables: **the process that occurred, whether experience occurred, what its contents were, and what traces were later available**. We need multiple kinds of evidence while acknowledging that none provides direct access to another system's point of view.
 
+## “Subconscious” names several different boundaries
+
+In everyday language, *the subconscious* can sound like a second mind hidden behind the conscious one. For this inquiry, it is more useful to treat the word as an umbrella for several different relationships between processing and awareness:
+
+| Possible meaning | Distinguishing question |
+| --- | --- |
+| Nonconscious regulation | Does the process regulate the body or brain without representing anything as experienced content? |
+| Nonconscious perception | Was information detected and processed without being subjectively perceived? |
+| Preconscious availability | Was information outside current awareness but capable of becoming conscious under different attention or access conditions? |
+| Implicit learning or memory | Did earlier processing alter later behavior without conscious recollection? |
+| Forgotten experience | Was the event conscious when it occurred but later inaccessible to memory? |
+| Avoided or excluded content | Is information kept from awareness through attention, motivation, conflict, or some other mechanism? |
+
+These are not interchangeable. Experiments with masked visual stimuli have found that information about a stimulus can propagate through parts of the cortex and guide above-chance responses even when participants report that they did not see it; consciously seen stimuli then recruit additional processing dynamics.[^salti] This supplies evidence for processing without reported awareness in that task. It does not establish a single subconscious entity, show that every kind of cognition can occur unconsciously, or eliminate the possibility that reports sometimes misclassify weak experiences.
+
+The subconscious therefore introduces two connected mysteries. First, **how can processing alter perception, emotion, action, or learning without becoming experienced content?** Second, **what changes when some of that processing becomes conscious?** The nonconscious parts of a system may help construct and sustain consciousness without themselves being experienced. Consciousness may also feed back into those processes through attention, learning, expectation, and bodily regulation.
+
+This reframes “the subconscious” as a set of pathways, thresholds, and access relations within the larger system. A proposed mechanism should say which meaning it uses and what observation could distinguish it from the others.
+
 ## What could be varied?
 
 The practical method is to compare interventions that disturb different components of an interacting system, ask what else they change, and look for convergent results. Each row is a **proposed line of inquiry**, not a claim that one variable can be isolated cleanly.
@@ -85,6 +104,7 @@ The longer-range question of substrate independence remains open. The ethical co
 
 [^radek]: Radek et al., “Dreaming and awareness during dexmedetomidine- and propofol-induced unresponsiveness,” *British Journal of Anaesthesia* 121 (2018), 260–269. [DOI: 10.1016/j.bja.2018.03.014](https://doi.org/10.1016/j.bja.2018.03.014). Experimental sedation, not all anesthesia or all unresponsive states.
 [^squire]: Squire et al., “One-trial perceptual learning in the absence of conscious remembering and independent of the medial temporal lobe,” *Proceedings of the National Academy of Sciences* 118 (2021), e2104072118. [DOI: 10.1073/pnas.2104072118](https://doi.org/10.1073/pnas.2104072118). Shows a dissociation between durable perceptual learning and later conscious remembering; it does not establish whether every underlying learning process was phenomenally unconscious.
+[^salti]: Salti et al., “Distinct cortical codes and temporal dynamics for conscious and unconscious percepts,” *eLife* 4 (2015), e05652. [DOI: 10.7554/eLife.05652](https://doi.org/10.7554/eLife.05652). Masked visual-location task using subjective visibility reports and neural decoding; its result does not settle the limits of unconscious processing generally.
 [^casali]: Casali et al., “A theoretically based index of consciousness independent of sensory processing and behavior,” *Science Translational Medicine* 5 (2013), 198ra105. [DOI: 10.1126/scitranslmed.3006294](https://doi.org/10.1126/scitranslmed.3006294). Theory-derived human-state measure; not a substrate-independent consciousness test.
 [^cogitate]: Cogitate Consortium et al., “Adversarial testing of global neuronal workspace and integrated information theories of consciousness,” *Nature* 642 (2025), 133–142. [DOI: 10.1038/s41586-025-08888-1](https://doi.org/10.1038/s41586-025-08888-1). Tests specified neural predictions for visual content, not all possible experiences.
 
