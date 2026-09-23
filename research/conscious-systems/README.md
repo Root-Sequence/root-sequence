@@ -13,6 +13,15 @@ The starting intuition is that chemistry, electrical activity, metabolism, conne
 - [What Can We Change About a Mind While Preserving Consciousness?](what-can-we-change-about-a-mind.md) — the initial question, distinctions, evidence anchors, proposed comparisons, and limits of inference.
 - [Open Questions](open-questions.md) — thirty bounded questions covering definitions, subconscious processing, memory, time, system boundaries, other substrates, evidence, and ethics.
 - [Candidate Theories and Conditions](candidate-theories.md) — comparison of five prominent approaches, a candidate-condition ledger, and the first discriminating comparisons.
+- [Definition Stress Test](definition-stress-test.md) — the first CS-Q01 pass: a minimal target definition, edge cases, evidence rules, unresolved assumptions, and a revision decision.
+
+## Research posture
+
+Contribution is the process through which a solution—or increasingly adequate understanding—may emerge. It is not a claim that this project, one person, or one theory will solve consciousness. The working loop is:
+
+**define → test edge cases → examine evidence → derive predictions → invite criticism → revise**
+
+Each pass should leave a checkable contribution: a sharper distinction, evidence map, rival prediction, negative result, method, or documented uncertainty. A contribution remains revisable and can be useful even when its initial hypothesis fails.
 
 ## Boundaries
 
