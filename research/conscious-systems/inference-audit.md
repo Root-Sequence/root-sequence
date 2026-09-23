@@ -61,7 +61,7 @@ The entries below are project audit rules, not universal diagnostic standards.
 
 ### IA-02 — Does late activity survive removal of overt report?
 
-**Extraction update:** The [partial methods record](sergent-2021-extraction.md) distinguishes the main active/passive comparison from sampled-report validation and explicitly lists uninspected fields. It does not constitute a completed methods audit.
+**Extraction update:** The [partial methods record](sergent-2021-extraction.md) corrects our earlier mistaken separation of the main passive protocol from sampled reports, records sample exclusions and decoder validation, and lists remaining uninspected fields. It does not constitute a completed methods audit.
 
 **Observed:** Sergent and colleagues reported late bifurcation-like auditory responses without a continuous report task; activity predicted randomly sampled reports.[^sergent]
 

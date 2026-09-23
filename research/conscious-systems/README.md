@@ -19,7 +19,7 @@ The starting intuition is that chemistry, electrical activity, metabolism, conne
 
 ## Research posture
 
-The [Sergent 2021 partial extraction](sergent-2021-extraction.md) starts IA-02 with matched audit fields and a comparison to Pitts. Full methods access and statistical extraction remain outstanding; passive listening is not automatically absence of all tasks.
+The [Sergent 2021 partial extraction](sergent-2021-extraction.md) records IA-02 samples, reporting conditions, decoder validation, and a comparison to Pitts. A follow-up methods check corrected our own protocol description. Complete statistical extraction remains outstanding.
 
 The [Pitts 2014 methods extraction](pitts-2014-extraction.md) begins the study-level evidence records for IA-01, including participant exclusions, controls, condition-specific estimates, and review limits.
 
@@ -45,7 +45,7 @@ At a completed evidence pass, before a stronger public claim, or when drafting r
 4. **What kind of work is it?** Label learning notes, exploratory synthesis, systematic review, proposed method, executed analysis, and validated result distinctly. Do not claim systematic coverage without a documented search and selection procedure.
 5. **Is the next step worth doing?** Prefer resolving an existing uncertainty over expanding the framework. If access, expertise, or data block a consequential check, record the blocker and narrow or pause the claim.
 
-**Checkpoint, 2026-09-23:** The current contribution is exploratory literature synthesis and inference auditing, not a demonstrated new account of consciousness. The Pitts record corrected an overbroad P3b summary; the Sergent record distinguishes experimental protocols but remains incomplete. No data reanalysis or independent scholarly review has occurred. Document growth has outpaced methods verification, so the next pass should resolve an existing extraction gap rather than add another conceptual matrix. Novelty relative to the wider literature has not been established.
+**Checkpoint, 2026-09-23:** The current contribution is exploratory literature synthesis and inference auditing, not a demonstrated new account of consciousness. The Pitts record corrected an overbroad P3b summary; a follow-up source check corrected our own Sergent protocol description. That error shows why uncertainty labels alone are insufficient: provisional descriptions still need verification. No data reanalysis or independent scholarly review has occurred. Document growth has outpaced methods verification, so the next pass should resolve an existing extraction gap rather than add another conceptual matrix. Novelty relative to the wider literature has not been established.
 
 Documentation checks and site tests validate technical integrity only. They do not validate source interpretation, scientific methods, or conclusions. This checkpoint is itself an AI-assisted self-audit, not independent quality assurance.
 
