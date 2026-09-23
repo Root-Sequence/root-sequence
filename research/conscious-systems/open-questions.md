@@ -102,6 +102,8 @@ Death is not defined here as the opposite of consciousness. Organisms can be ali
 
 ## First research sequence
 
+Study-level follow-through has begun with the [IA-01 methods extraction](pitts-2014-extraction.md). The next extraction is IA-02; no new experiment or data reanalysis has been performed.
+
 The [inference audit](inference-audit.md) records the first CS-Q26–28 pass. Every topic in this initial sequence now has a provisional pass; the next work is a methods-level extraction of existing studies, beginning with Pitts et al. (2014), rather than treating the proposed theory comparison as ready for experimentation.
 
 The [system boundary matrix](system-boundary-matrix.md) records the first CS-Q16 pass. It separates supporting conditions from constitutive mechanisms and routes the next deliverable to a CS-Q26–28 inference-audit protocol.

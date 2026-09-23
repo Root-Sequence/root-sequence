@@ -51,6 +51,8 @@ The entries below are project audit rules, not universal diagnostic standards.
 
 ### IA-01 — Is P3b necessary for visual experience?
 
+**Extraction update:** The [methods record](pitts-2014-extraction.md) qualifies the summary below: it must not be generalized across stimulus categories. Use that record for condition-specific results and review scope.
+
 **Observed:** Pitts and colleagues crossed awareness with task relevance. Visible task-irrelevant stimuli lacked the robust P3b associated with immediate task use, while an earlier posterior negativity remained.[^pitts]
 
 **Bridge and alternative:** awareness in the relevant no-immediate-report conditions is inferred from behavioral checks rather than independently verified on every neural trial. Task relevance can change attention and other processing as well as reporting.

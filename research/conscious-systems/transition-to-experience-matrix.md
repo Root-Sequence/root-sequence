@@ -64,6 +64,8 @@ The inference is disputed: matched percent correct does not guarantee matched ev
 
 ### 3. Report requirements contaminate proposed correlates
 
+**Methods-review qualification:** The [IA-01 extraction](pitts-2014-extraction.md) supplies category-specific estimates and limits the broad summary below. This comparison does not establish absence of global availability.
+
 Pitts, Metzler, and Hillyard crossed awareness with task relevance. A mid-latency posterior negativity was associated with visible stimuli even when they were not immediately reported, whereas a robust P3b appeared with task relevance and report access.[^pitts] This weakens any simple identification of the P3b with consciousness.
 
 It does not cleanly vindicate RPT. The authors noted that the remaining posterior component could reflect object-based attention, and classifying a stimulus as consciously seen without a trial-level report requires its own inference.
