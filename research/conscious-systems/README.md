@@ -15,6 +15,7 @@ The starting intuition is that chemistry, electrical activity, metabolism, conne
 - [Candidate Theories and Conditions](candidate-theories.md) — comparison of five prominent approaches, a candidate-condition ledger, and the first discriminating comparisons.
 - [Definition Stress Test](definition-stress-test.md) — the first CS-Q01 pass: a minimal target definition, edge cases, evidence rules, unresolved assumptions, and a revision decision.
 - [Experience, Memory, and Trace Evidence Matrix](experience-memory-evidence-matrix.md) — provisional answers to CS-Q13–14, four rival cases, observation-level discriminators, and the limit created by experiences that leave no trace.
+- [Transition to Experience Matrix](transition-to-experience-matrix.md) — provisional answers to CS-Q06–07, shared-case predictions for five approaches, explicit failure conditions, and a first discriminating design.
 
 ## Research posture
 

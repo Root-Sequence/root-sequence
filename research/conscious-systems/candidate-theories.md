@@ -89,6 +89,8 @@ Its purpose is to organize comparisons without presuming the answer. A future re
 4. **Predictive/interoceptive vs. cortex-centered accounts:** Which dimensions disappear when bodily inference is altered while exteroceptive processing remains intact?
 5. **All accounts:** Can they distinguish experience from responsiveness, memory formation, and later report in sleep and anesthesia?
 
+The [transition to experience matrix](transition-to-experience-matrix.md) carries these comparisons into the first bounded CS-Q06–07 pass. It concludes that GNW, RPT, and HOT form the most direct initial contest; IIT and predictive/interoceptive approaches contribute differently scoped system and content claims that should not be forced into the same transition test.
+
 ## References
 
 [^seth-bayne]: Anil K. Seth and Tim Bayne, “Theories of consciousness,” *Nature Reviews Neuroscience* 23 (2022), 439–452. [DOI: 10.1038/s41583-022-00587-4](https://doi.org/10.1038/s41583-022-00587-4). Review of prominent theory families and requirements for stronger theory testing.
@@ -100,4 +102,4 @@ Its purpose is to organize comparisons without presuming the answer. A future re
 [^cogitate]: Cogitate Consortium et al., “Adversarial testing of global neuronal workspace and integrated information theories of consciousness,” *Nature* 642 (2025), 133–142. [DOI: 10.1038/s41586-025-08888-1](https://doi.org/10.1038/s41586-025-08888-1).
 [^casali]: Adenauer G. Casali et al., “A theoretically based index of consciousness independent of sensory processing and behavior,” *Science Translational Medicine* 5 (2013), 198ra105. [DOI: 10.1126/scitranslmed.3006294](https://doi.org/10.1126/scitranslmed.3006294). A human-state complexity measure, not a direct implementation of every IIT claim or a substrate-independent consciousness test.
 
-[Conscious Systems index](README.md) · [Open questions](open-questions.md) · [Opening paper](what-can-we-change-about-a-mind.md)
+[Conscious Systems index](README.md) · [Open questions](open-questions.md) · [Transition matrix](transition-to-experience-matrix.md) · [Opening paper](what-can-we-change-about-a-mind.md)

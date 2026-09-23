@@ -110,9 +110,9 @@ The first sequence should answer enough of five questions to design one discrimi
 4. **CS-Q16:** state the assumed system boundary.
 5. **CS-Q26–28:** identify confounds and failure conditions before choosing measurements.
 
-The [definition stress test](definition-stress-test.md) records the first CS-Q01 pass. The [experience, memory, and trace evidence matrix](experience-memory-evidence-matrix.md) records the first CS-Q13–14 pass. The [candidate theory map](candidate-theories.md) begins CS-Q06 and CS-Q28. The [opening paper](what-can-we-change-about-a-mind.md) develops the distinctions behind CS-Q13–14.
+The [definition stress test](definition-stress-test.md) records the first CS-Q01 pass. The [experience, memory, and trace evidence matrix](experience-memory-evidence-matrix.md) records the first CS-Q13–14 pass. The [transition to experience matrix](transition-to-experience-matrix.md) records the first CS-Q06–07 pass and narrows the first direct comparison to recurrent processing, global workspace, and higher-order approaches. The [candidate theory map](candidate-theories.md) begins CS-Q28. The [opening paper](what-can-we-change-about-a-mind.md) develops the distinctions behind CS-Q13–14.
 
-[Conscious Systems index](README.md) · [Definition stress test](definition-stress-test.md) · [Experience-memory matrix](experience-memory-evidence-matrix.md) · [Opening paper](what-can-we-change-about-a-mind.md)
+[Conscious Systems index](README.md) · [Definition stress test](definition-stress-test.md) · [Experience-memory matrix](experience-memory-evidence-matrix.md) · [Transition matrix](transition-to-experience-matrix.md) · [Opening paper](what-can-we-change-about-a-mind.md)
 
 [^brain-death]: Greer et al., “Pediatric and Adult Brain Death/Death by Neurologic Criteria Consensus Guideline,” *Neurology* 101 (2023), 1112–1132. [DOI: 10.1212/WNL.0000000000207740](https://doi.org/10.1212/WNL.0000000000207740). A clinical determination standard, not a general theory of consciousness.
 [^brainex]: Vrselja et al., “Restoration of brain circulation and cellular functions hours post-mortem,” *Nature* 568 (2019), 336–343. [DOI: 10.1038/s41586-019-1099-1](https://doi.org/10.1038/s41586-019-1099-1). The study reported no global electrocorticographic activity.
