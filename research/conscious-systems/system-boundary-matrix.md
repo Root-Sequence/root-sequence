@@ -37,6 +37,8 @@ These are candidate models, not increasingly conscious levels. Larger is not aut
 
 ## What selected studies establish
 
+**Follow-up evidence checks:** the [developmental-origins note](developmental-origins-note.md) distinguishes ancestry from adult system boundaries; the [Pinto 2017 extraction](pinto-2017-extraction.md) adds methods-level limits to the split-brain example below. Neither establishes a count of conscious subjects.
+
 ### A local intervention can alter content without locating the whole subject
 
 Parvizi and colleagues electrically stimulated face-selective fusiform regions in one implanted patient. Stimulation distorted the appearance of faces, with sham and nearby-site controls.[^parvizi] This supplies causal evidence for a contribution to face perception. It does not show that the stimulated region alone experiences faces: the rest of the functioning brain and body remained present, and stimulation can affect connected networks.
