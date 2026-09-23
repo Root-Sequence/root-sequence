@@ -11,7 +11,7 @@ The starting intuition is that chemistry, electrical activity, metabolism, conne
 ## Start here
 
 - [What Can We Change About a Mind While Preserving Consciousness?](what-can-we-change-about-a-mind.md) — the initial question, distinctions, evidence anchors, proposed comparisons, and limits of inference.
-- [Open Questions](open-questions.md) — thirty bounded questions covering definitions, subconscious processing, memory, time, system boundaries, other substrates, evidence, and ethics.
+- [Open Questions](open-questions.md) — thirty-six bounded questions covering definitions, subconscious processing, memory, time, system boundaries, other substrates, evidence, ethics, dying, death, and recoverability.
 - [Candidate Theories and Conditions](candidate-theories.md) — comparison of five prominent approaches, a candidate-condition ledger, and the first discriminating comparisons.
 - [Definition Stress Test](definition-stress-test.md) — the first CS-Q01 pass: a minimal target definition, edge cases, evidence rules, unresolved assumptions, and a revision decision.
 - [Experience, Memory, and Trace Evidence Matrix](experience-memory-evidence-matrix.md) — provisional answers to CS-Q13–14, four rival cases, observation-level discriminators, and the limit created by experiences that leave no trace.
@@ -30,6 +30,6 @@ This area brings neuroscience, anesthesia and sleep research, comparative cognit
 
 Related work has different jobs: [emergence in AI](../../systems/emergence/applications/ai.md#capability-agency-and-personhood-are-different-claims) separates capability, consciousness, personhood, and authority; the [coherent systems living paper](../papers/coherent-systems/README.md) asks how intelligent systems interact with their institutions and surroundings. Possible implications for [Coherent Computing](https://github.com/Root-Sequence/coherent-computing), [Coherent World](https://github.com/Root-Sequence/coherent-world), and [Liberated Intelligence](https://github.com/Root-Sequence/liberated-intelligence) belong in those projects when developed. This area owns the general research question.
 
-**Review note:** The guiding question and whole-system intuition came from the initiating discussion. Follow-up author clarifications distinguish experience from memory of its occurrence, memory of its contents, and physical or functional traces that may arise without experience, and identify the subconscious as a connected open problem. The structure, literature selection, and proposed tests are AI-assisted interpretations awaiting author review; they are not attributed as approved author conclusions.
+**Review note:** The guiding question and whole-system intuition came from the initiating discussion. Follow-up author clarifications distinguish experience from memory of its occurrence, memory of its contents, and physical or functional traces that may arise without experience; identify the subconscious as a connected open problem; and separate death from current experience and the capacity for consciousness. The structure, literature selection, and proposed tests are AI-assisted interpretations awaiting author review; they are not attributed as approved author conclusions.
 
 [Research index](../README.md) · [Repository map](../../root_map.md)

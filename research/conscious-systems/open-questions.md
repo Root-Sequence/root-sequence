@@ -16,8 +16,9 @@ These positions record the inquiry's present direction. They remain revisable.
 4. **Plural subconscious:** “Subconscious” is an umbrella for several processes and access relations, not evidence of one hidden agent or location.
 5. **Theory comparison:** Candidate theories should make risky, divergent predictions. Agreement with one measurement does not establish necessity or sufficiency.
 6. **Ethical separation:** Consciousness, moral consideration, personhood, capability, and legitimate authority require separate judgments.
+7. **Death/consciousness separation:** Life, death, current experience, capacity for experience, responsiveness, and recoverability are different variables. Neither absent experience nor absent report is by itself death.
 
-Positions 2–4 originate in the initiating discussion and follow-up author clarifications. Their formulation here is AI-assisted and awaiting review.
+Positions 2–4 and 7 originate in the initiating discussion and follow-up author clarifications. Their formulation here is AI-assisted and awaiting review.
 
 ## A. What phenomenon are we trying to explain?
 
@@ -79,6 +80,26 @@ Positions 2–4 originate in the initiating discussion and follow-up author clar
 | CS-Q29 | How should uncertainty about consciousness affect treatment of animals, patients, organoids, and artificial systems? | Waiting for certainty may permit harm; indiscriminate attribution also has costs. | Develop graded evidence and welfare precautions without converting them into claims of personhood or authority. |
 | CS-Q30 | Which dimensions of possible experience create welfare risk? | Capacity for suffering may depend on valence, persistence, memory, helplessness, and self-modeling rather than consciousness alone. | Track welfare-relevant capacities separately and examine whether architectures can avoid or limit them. |
 
+## G. What can dying and death reveal?
+
+Death is not defined here as the opposite of consciousness. Organisms can be alive without current experience or, perhaps, without ever having supported experience; loss of responsiveness can be reversible; and biological processes end at different rates across cells, organs, and the organism. The scientifically useful target is therefore the **process by which a once-conscious system loses, retains, or regains particular capacities**, not “death” as one instantaneous switch.
+
+| ID | Question | Why it matters | First route |
+| --- | --- | --- | --- |
+| CS-Q31 | How should organismal life and death be separated from current experience, capacity for experience, responsiveness, and recoverability? | Treating these as one binary state confuses sleep, anesthesia, coma, cardiac arrest, brain death, and cellular survival. | Build a state matrix using independent biological, behavioral, experiential, and reversibility dimensions. |
+| CS-Q32 | What distinguishes reversible loss of consciousness from permanent loss of the capacity for consciousness? | The contrast may identify enabling conditions more clearly than ordinary conscious/unconscious comparisons. | Compare anesthesia, sleep, syncope, coma, cardiac arrest with resuscitation, and death by neurologic criteria while controlling for drugs and injury. |
+| CS-Q33 | In what order do metabolism, circulation, brainstem regulation, large-scale coordination, content-specific processing, access, and report fail during dying? | The order of breakdown could discriminate causal layers from downstream markers. | Align physiological and neural time series around circulatory arrest, hypoxia, withdrawal of support, and successful resuscitation; avoid assuming every terminal signal is experiential. |
+| CS-Q34 | Can transient organized brain activity during cardiac arrest or terminal hypoxia support experience, or is it disinhibited, pathological, or fragmented activity? | Gamma power or connectivity can resemble proposed correlates of consciousness without demonstrating experience. | Compare terminal dynamics with verified conscious, anesthetized, seizure, hypoxic, and recovery states; require converging evidence and theory-specific predictions. |
+| CS-Q35 | What does preserved or restored cellular, synaptic, metabolic, or circulatory activity after organismal death reveal about the minimum organization required for consciousness? | Surviving parts show that cellular activity, whole-organ coordination, and consciousness must not be treated as equivalent. | Compare local recovery with global electrocorticographic organization, perturbational responses, integration, and the possibility of coordinated brain-body regulation. |
+| CS-Q36 | Which features of dying generalize across humans, other conscious animals, organisms of uncertain consciousness, and living systems that may never be conscious? | Death is common to life, whereas consciousness may not be; many death mechanisms may reveal self-maintenance rather than experience. | Separate conserved cellular and organismal failure mechanisms from evidence specifically linked to conscious capacity across taxa. |
+
+### Initial evidence boundaries
+
+- The 2023 United States consensus guideline defines brain death/death by neurologic criteria as permanent loss of function of the brain as a whole, including the brainstem, resulting in coma, brainstem areflexia, and apnea under adequate testing conditions.[^brain-death] It is not merely unresponsiveness or an ordinary unconscious state.
+- BrainEx experiments restored microcirculation and several molecular, cellular, metabolic, and spontaneous synaptic functions in isolated pig brains four hours post-mortem without global electrocorticographic activity.[^brainex] This separates cellular viability and local activity from demonstrated whole-brain organization or consciousness.
+- A retrospective study of four comatose dying patients found surges of gamma power and connectivity after withdrawal of ventilatory support in two patients.[^xu] The sample was small, both responders had seizure histories, no reports were possible, and a consciousness-associated signal is not evidence that experience occurred.
+- AWARE-II studied in-hospital cardiac arrest during resuscitation. Of 567 arrests, 53 people survived, 28 completed interviews, and 11 reported memories or perceptions the authors classified as suggestive of consciousness; EEG patterns interpreted as compatible with consciousness also appeared during some prolonged resuscitations.[^aware] These are observations during potentially reversible arrest and recovery among survivors, not reports from irreversible death.
+
 ## First research sequence
 
 The first sequence should answer enough of five questions to design one discriminating study:
@@ -92,3 +113,8 @@ The first sequence should answer enough of five questions to design one discrimi
 The [definition stress test](definition-stress-test.md) records the first CS-Q01 pass. The [experience, memory, and trace evidence matrix](experience-memory-evidence-matrix.md) records the first CS-Q13–14 pass. The [candidate theory map](candidate-theories.md) begins CS-Q06 and CS-Q28. The [opening paper](what-can-we-change-about-a-mind.md) develops the distinctions behind CS-Q13–14.
 
 [Conscious Systems index](README.md) · [Definition stress test](definition-stress-test.md) · [Experience-memory matrix](experience-memory-evidence-matrix.md) · [Opening paper](what-can-we-change-about-a-mind.md)
+
+[^brain-death]: Greer et al., “Pediatric and Adult Brain Death/Death by Neurologic Criteria Consensus Guideline,” *Neurology* 101 (2023), 1112–1132. [DOI: 10.1212/WNL.0000000000207740](https://doi.org/10.1212/WNL.0000000000207740). A clinical determination standard, not a general theory of consciousness.
+[^brainex]: Vrselja et al., “Restoration of brain circulation and cellular functions hours post-mortem,” *Nature* 568 (2019), 336–343. [DOI: 10.1038/s41586-019-1099-1](https://doi.org/10.1038/s41586-019-1099-1). The study reported no global electrocorticographic activity.
+[^xu]: Xu et al., “Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain,” *Proceedings of the National Academy of Sciences* 120 (2023), e2216268120. [DOI: 10.1073/pnas.2216268120](https://doi.org/10.1073/pnas.2216268120). Retrospective four-patient study; terminal gamma activity cannot establish experience.
+[^aware]: Parnia et al., “AWAreness during REsuscitation — II: A multi-center study of consciousness and awareness in cardiac arrest,” *Resuscitation* 191 (2023), 109903. [DOI: 10.1016/j.resuscitation.2023.109903](https://doi.org/10.1016/j.resuscitation.2023.109903). Low survival and limited interviews constrain inference and timing.
