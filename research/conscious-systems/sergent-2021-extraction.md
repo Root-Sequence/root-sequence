@@ -52,15 +52,25 @@ Not using report labels during fitting avoids one route to circularity. It does 
 
 **Decision:** retain evidence for a relationship between neural dynamics and later reported content under reduced auditory-task demands. Do not promote it to an independently validated binary detector of experience. This is an audit of our inference, not a finding that the published study is invalid.
 
-## Remaining bounded work
+## Intensity and validation check — 2026-09-23
+
+**Verified from primary-text methods:** high/low-state distributions are specified separately by signal-to-noise ratio (SNR). Model comparison uses five-fold held-out log likelihood, with test trials from other blocks. The active-session analysis also includes an SNR-by-report mixed-effects model (Figure 3C). These are distinct analyses, not interchangeable validations of passive report prediction.
+
+**Source locators:** Methods, “Bayesian models comparison,” “Predicting conscious report…,” and the Figure 3C mixed-effects analysis. The paper's Data availability statement identifies [OSF aw3t5](https://osf.io/aw3t5/) ([dataset DOI](https://doi.org/10.17605/OSF.IO/AW3T5)). The archive returned HTTP 403 during this check; files, code, and dataset licensing were not inspected.
+
+**Our conclusion:** it would be wrong to describe the neural model as ignoring intensity. However, using intensity-conditioned distributions to score neural activity is not the same test as showing that the score improves prediction of passive reports over an intensity-only baseline. The active-session statistical control cannot simply be transferred to the passive outcome. We have not verified that incremental-prediction claim, nor established that the paper lacks an adequate analysis elsewhere.
+
+**Stopping decision:** the selected-text audit has resolved sample flow, report coding, and model-comparison validation, and corrected our protocol error. Stop repeating abstract-level searches for the remaining numerical question. Resume that check when the relevant supplementary analysis, source data, or code is accessible. No new criticism of the study follows merely from our access limitation.
+
+## Remaining work requiring fuller access
 
 Complete the missing fields before proposing new experiments or reproducing numerical claims:
 
 1. Complete the methods and supplement audit; do not treat access failures as missing reporting by the authors. The participant/task gaps above are now partly resolved through indexed primary text.
 2. Verify probe frequencies and per-category trial counts; report coding is now checked above. Participant counts alone do not establish effective sample size for every analysis.
-3. Establish how the bifurcation models were fitted and evaluated, separately from the verified decoder cross-validation. Check whether feature selection or fitting reused evaluation trials. This is a verification question, not an allegation of leakage.
+3. The model-comparison split is now verified above. Audit implementation and upstream feature selection separately before claiming end-to-end independent evaluation. This is a verification question, not an allegation of leakage.
 4. Extract direct model comparisons and report-prediction estimates with uncertainty; check intensity-conditioned prediction before claiming performance beyond stimulus strength. Distinguish active-session validation from passive sampled-report validation.
-5. Check data/code provenance and licenses before any reanalysis. Record what is available versus what has actually been reproduced.
+5. Inspect the identified archive's files, code provenance, and licenses before reanalysis; the paper's availability statement is not verification of current accessibility or reproducibility.
 
 **Current gate:** incomplete methods extraction. The conceptual comparison is useful, but it is not a completed statistical audit, a preregistration, or evidence that all confounds have been removed.
 
