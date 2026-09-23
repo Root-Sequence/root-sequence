@@ -89,6 +89,6 @@ The first sequence should answer enough of five questions to design one discrimi
 4. **CS-Q16:** state the assumed system boundary.
 5. **CS-Q26–28:** identify confounds and failure conditions before choosing measurements.
 
-The [definition stress test](definition-stress-test.md) records the first CS-Q01 pass. The [candidate theory map](candidate-theories.md) begins CS-Q06 and CS-Q28. The [opening paper](what-can-we-change-about-a-mind.md) develops the distinctions behind CS-Q13–14.
+The [definition stress test](definition-stress-test.md) records the first CS-Q01 pass. The [experience, memory, and trace evidence matrix](experience-memory-evidence-matrix.md) records the first CS-Q13–14 pass. The [candidate theory map](candidate-theories.md) begins CS-Q06 and CS-Q28. The [opening paper](what-can-we-change-about-a-mind.md) develops the distinctions behind CS-Q13–14.
 
-[Conscious Systems index](README.md) · [Definition stress test](definition-stress-test.md) · [Opening paper](what-can-we-change-about-a-mind.md)
+[Conscious Systems index](README.md) · [Definition stress test](definition-stress-test.md) · [Experience-memory matrix](experience-memory-evidence-matrix.md) · [Opening paper](what-can-we-change-about-a-mind.md)

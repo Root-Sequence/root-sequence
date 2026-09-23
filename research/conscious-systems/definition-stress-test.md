@@ -75,14 +75,14 @@ Evidence can converge without becoming certainty. Ethical precautions may be war
 
 It succeeds at preventing report, memory, responsiveness, intelligence, selfhood, and substrate from being mistaken for consciousness itself. It fails—productively—to identify the relevant system, temporal grain, or evidence bridge. Those failures route the next work to CS-Q03, CS-Q11, CS-Q16, and CS-Q26–28.
 
-The next bounded pass should use CS-Q13–14 to construct an evidence matrix for four possibilities:
+The [next bounded pass](experience-memory-evidence-matrix.md) uses CS-Q13–14 to construct an evidence matrix for four possibilities:
 
 1. experience with content memory;
 2. experience with only occurrence memory;
 3. experience without later retrievable memory;
 4. nonconscious processing that leaves an implicit or physical trace.
 
-The matrix should state which observations are compatible with more than one possibility rather than forcing a verdict.
+The matrix states which observations are compatible with more than one possibility rather than forcing a verdict.
 
 ## References
 
@@ -92,4 +92,4 @@ The matrix should state which observations are compatible with more than one pos
 [^salti]: Salti et al., “Distinct cortical codes and temporal dynamics for conscious and unconscious percepts,” *eLife* 4 (2015), e05652. [DOI: 10.7554/eLife.05652](https://doi.org/10.7554/eLife.05652). A masked-vision task using subjective visibility reports; it does not establish the limits of unconscious processing generally.
 [^kouider]: Kouider et al., “A neural marker of perceptual consciousness in infants,” *Science* 340 (2013), 376–380. [DOI: 10.1126/science.1232509](https://doi.org/10.1126/science.1232509). The proposed marker is an inference by comparison with adult findings, not direct access to infant experience.
 
-[Conscious Systems index](README.md) · [Open questions](open-questions.md) · [Opening paper](what-can-we-change-about-a-mind.md) · [Candidate theories](candidate-theories.md)
+[Conscious Systems index](README.md) · [Experience-memory matrix](experience-memory-evidence-matrix.md) · [Open questions](open-questions.md) · [Opening paper](what-can-we-change-about-a-mind.md) · [Candidate theories](candidate-theories.md)
