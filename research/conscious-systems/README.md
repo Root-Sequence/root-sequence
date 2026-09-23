@@ -19,6 +19,8 @@ The starting intuition is that chemistry, electrical activity, metabolism, conne
 
 ## Research posture
 
+The [Sergent 2021 partial extraction](sergent-2021-extraction.md) starts IA-02 with matched audit fields and a comparison to Pitts. Full methods access and statistical extraction remain outstanding; passive listening is not automatically absence of all tasks.
+
 The [Pitts 2014 methods extraction](pitts-2014-extraction.md) begins the study-level evidence records for IA-01, including participant exclusions, controls, condition-specific estimates, and review limits.
 
 The [Inference Audit](inference-audit.md) completes the first CS-Q26–28 pass with observation limits, three worked examples, repairs to the proposed design, and a gate for moving from conceptual comparison to methods-level evidence extraction.

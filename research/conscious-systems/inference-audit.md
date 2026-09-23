@@ -61,6 +61,8 @@ The entries below are project audit rules, not universal diagnostic standards.
 
 ### IA-02 — Does late activity survive removal of overt report?
 
+**Extraction update:** The [partial methods record](sergent-2021-extraction.md) distinguishes the main active/passive comparison from sampled-report validation and explicitly lists uninspected fields. It does not constitute a completed methods audit.
+
 **Observed:** Sergent and colleagues reported late bifurcation-like auditory responses without a continuous report task; activity predicted randomly sampled reports.[^sergent]
 
 **Bridge and alternative:** the report link gives the neural pattern empirical relevance but is not independent proof of phenomenality. It can remain related to availability for later reporting or memory. Sparse probes also leave possible effects of anticipating a probe.
@@ -104,7 +106,7 @@ Necessity and sufficiency must be qualified by background conditions. A disrupti
 
 The initial conceptual sequence now has a first pass for each planned topic. Its output is a set of distinctions and conditional predictions, not an experiment ready to run.
 
-**Next action: complete one methods-level evidence extraction for IA-01 (Pitts et al., 2014).** Record participant numbers and exclusions, stimulus and task conditions, timing of awareness checks, exact contrasts, estimates and uncertainty, and which claims the actual design supports. Then apply the identical extraction fields to IA-02. Use “not reported” or “not yet inspected” instead of filling gaps by inference.
+**Next action: complete the outstanding IA-02 methods fields.** IA-01 now has a compact methods record; IA-02 has a partial extraction and cross-study comparison. Record participant numbers and exclusions separately for each experiment, stimulus and task conditions, awareness-check timing, exact contrasts, estimates and uncertainty. Use “not reported” only after checking the relevant source; otherwise use “not yet inspected.” Neither record is a statistical reproduction.
 
 Proceed to a study proposal only when at least one rival prediction remains distinguishable after that comparison. If none survives, the useful contribution is a documented non-discrimination result and a sharper question. No new experiment, dataset analysis, or independent scholarly validation has occurred in this pass.
 

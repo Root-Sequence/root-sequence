@@ -33,6 +33,6 @@ For any future reanalysis, require:
 5. A justified smallest effect of interest before interpreting a null as evidence against a necessary marker. Do not invent a threshold after observing the estimates.
 6. A check of how component windows and electrodes were selected, plus sensitivity to defensible alternative choices. A selection concern is a question to test, not an accusation of invalid analysis.
 
-**Next:** extract IA-02 (Sergent et al., 2021) using the same fields. Compare what each design identifies before considering new experimental work. Full statistical reproduction and a comprehensive effect-size inventory remain outstanding.
+**Next:** complete the [partial IA-02 extraction](sergent-2021-extraction.md) using the same fields. Its initial comparison separates ERP components from single-trial model dynamics; full methods verification remains outstanding. Compare what each design identifies before considering new experimental work. Full statistical reproduction and a comprehensive effect-size inventory remain outstanding.
 
 [Inference audit](inference-audit.md) · [Conscious Systems index](README.md)
