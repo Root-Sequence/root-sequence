@@ -102,6 +102,8 @@ Death is not defined here as the opposite of consciousness. Organisms can be ali
 
 ## First research sequence
 
+The [system boundary matrix](system-boundary-matrix.md) records the first CS-Q16 pass. It separates supporting conditions from constitutive mechanisms and routes the next deliverable to a CS-Q26–28 inference-audit protocol.
+
 The first sequence should answer enough of five questions to design one discriminating study:
 
 1. **CS-Q01:** define the target phenomenon.

@@ -19,6 +19,8 @@ The starting intuition is that chemistry, electrical activity, metabolism, conne
 
 ## Research posture
 
+The [System Boundary Matrix](system-boundary-matrix.md) records the first CS-Q16 pass: support, constitution, content influence, and evidence channels; candidate spatial boundaries; and limits of disruption, rescue, and disconnection tests.
+
 Contribution is the process through which a solution—or increasingly adequate understanding—may emerge. It is not a claim that this project, one person, or one theory will solve consciousness. The working loop is:
 
 **define → test edge cases → examine evidence → derive predictions → invite criticism → revise**

@@ -142,6 +142,8 @@ No perturbation is perfectly selective. The design must therefore measure sensor
 
 ## Decision after the third pass
 
+**Fourth-pass qualification:** A surprise report may introduce retrieval, reconstruction, and global availability after the original target interval. It cannot by itself establish earlier experience without broadcast. The [system boundary pass](system-boundary-matrix.md#correction-to-the-previous-proposed-experiment) adds this temporal limit; the prediction table above is a conditional proposal, not an operationally decisive test.
+
 1. **Answer CS-Q06 provisionally:** no unique transition has been established. Local recurrence, broad availability, higher-order representation, and system-level complexity are serious but differently scoped candidates.
 2. **Answer CS-Q07 provisionally:** the transition can appear graded or abrupt depending on the dimension, scale, and measurement. Binary report is insufficient to decide.
 3. **Treat GNW, RPT, and HOT as the first directly discriminating comparison.** Do not force IIT or predictive processing into predictions they do not presently make at the same level.
