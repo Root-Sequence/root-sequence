@@ -19,6 +19,8 @@ The starting intuition is that chemistry, electrical activity, metabolism, conne
 
 ## Research posture
 
+The [Inference Audit](inference-audit.md) completes the first CS-Q26–28 pass with observation limits, three worked examples, repairs to the proposed design, and a gate for moving from conceptual comparison to methods-level evidence extraction.
+
 The [System Boundary Matrix](system-boundary-matrix.md) records the first CS-Q16 pass: support, constitution, content influence, and evidence channels; candidate spatial boundaries; and limits of disruption, rescue, and disconnection tests.
 
 Contribution is the process through which a solution—or increasingly adequate understanding—may emerge. It is not a claim that this project, one person, or one theory will solve consciousness. The working loop is:

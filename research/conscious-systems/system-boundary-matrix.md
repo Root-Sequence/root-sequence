@@ -84,6 +84,8 @@ The comparison therefore requires time-resolved pre-probe measurements and expli
 
 ## References and review scope
 
+The subsequent [inference audit](inference-audit.md) implements the proposed CS-Q26–28 step and qualifies the experimental design against measurement and temporal confounds.
+
 This is a bounded pass using four primary studies, not an exhaustive assessment of embodiment, enactivism, neural lesions, or split-brain scholarship. Study results and this project's inferences are deliberately separated. Source review used publisher or PubMed study descriptions; a full methods-level extraction remains necessary before experimental commitments.
 
 [^parvizi]: Parvizi et al. (2012), “Electrical Stimulation of Human Fusiform Face-Selective Regions Distorts Face Perception,” *Journal of Neuroscience* 32, 14915–14920. [DOI: 10.1523/JNEUROSCI.2609-12.2012](https://doi.org/10.1523/JNEUROSCI.2609-12.2012). Single-patient causal study; the linked correction concerns an author-name spelling.

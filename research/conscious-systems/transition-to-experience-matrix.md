@@ -112,6 +112,8 @@ The most tractable first contest is **RPT versus GNW versus HOT** in perceptual 
 
 ### Phase 1 — observational separation
 
+**Fifth-pass correction:** The following dimensions are a design sketch, not a fully independent factorial manipulation. Visibility is an outcome, expected reports alter task relevance, and the proposed neural measures are not yet validated selective readouts of each mechanism. See the [inference audit](inference-audit.md#repairs-to-our-proposed-design) before interpreting the prediction table as a discriminating experiment.
+
 Use a within-person visual task crossing:
 
 1. **visibility:** strongly masked, individually calibrated near-threshold, and clearly visible;
