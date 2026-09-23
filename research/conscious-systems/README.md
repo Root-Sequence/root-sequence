@@ -33,7 +33,25 @@ Contribution is the process through which a solution—or increasingly adequate 
 
 Each pass should leave a checkable contribution: a sharper distinction, evidence map, rival prediction, negative result, method, or documented uncertainty. A contribution remains revisable and can be useful even when its initial hypothesis fails.
 
-## Boundaries
+## Research-quality checkpoint
+
+For this project, **research slop** means research-shaped output whose apparent authority or volume exceeds its traceable evidence, reasoning, or useful contribution. This is a working quality criterion, not a formal scientific category. AI assistance, unfinished work, negative results, and conceptual inquiry are not disqualifying in themselves.
+
+At a completed evidence pass, before a stronger public claim, or when drafting repeatedly outpaces verification, ask:
+
+1. **What changed?** Name a checked fact, corrected claim, explicit argument, reproduced result, or decision-relevant uncertainty. New formatting or another taxonomy alone is not an evidence gain.
+2. **Can someone check it?** Link the exact source and locator, distinguish inspected material from uninspected material, and separate authors' findings from our inference. Repeated AI agreement is not independent corroboration.
+3. **What could defeat it?** State the strongest relevant alternative and what evidence or argument would change the conclusion. Conceptual work needs clear premises and counterexamples; empirical work additionally needs adequate measurements and uncertainty.
+4. **What kind of work is it?** Label learning notes, exploratory synthesis, systematic review, proposed method, executed analysis, and validated result distinctly. Do not claim systematic coverage without a documented search and selection procedure.
+5. **Is the next step worth doing?** Prefer resolving an existing uncertainty over expanding the framework. If access, expertise, or data block a consequential check, record the blocker and narrow or pause the claim.
+
+**Checkpoint, 2026-09-23:** The current contribution is exploratory literature synthesis and inference auditing, not a demonstrated new account of consciousness. The Pitts record corrected an overbroad P3b summary; the Sergent record distinguishes experimental protocols but remains incomplete. No data reanalysis or independent scholarly review has occurred. Document growth has outpaced methods verification, so the next pass should resolve an existing extraction gap rather than add another conceptual matrix. Novelty relative to the wider literature has not been established.
+
+Documentation checks and site tests validate technical integrity only. They do not validate source interpretation, scientific methods, or conclusions. This checkpoint is itself an AI-assisted self-audit, not independent quality assurance.
+
+The same questions can be applied to other projects, with evidence suited to their claims: executed usability checks for interface claims, explicit assumptions and sensitivity tests for simulations, and textual consistency for fiction. A fictional possibility is not thereby an empirical prediction. No other project's quality is assessed by this checkpoint.
+
+## Scope limits
 
 This area brings neuroscience, anesthesia and sleep research, comparative cognition, philosophy of mind, and artificial-system assessment into conversation. It does not claim to solve consciousness, establish a universal test, infer experience from intelligence or fluent language, or presume that biology is either indispensable or replaceable. These pages form a research agenda; no experiments were run for them.
 
