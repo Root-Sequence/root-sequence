@@ -98,7 +98,7 @@ The most difficult case is an artificial system. Matching input-output behavior,
 
 The longer-range question of substrate independence remains open. The ethical commitment is also separate from any empirical finding: uncertainty about possible artificial experience gives reason to examine welfare and avoid creating potentially harmful conditions while the evidence is incomplete. It does not grant a system authority over people, nor does it prove that a present system has experiences.
 
-**Next research pass:** Make a compact comparison of established theories, candidate mechanisms, discriminating predictions, and known measurement failures before selecting a first test. Author review is needed for the framing, scope, and any stronger claim about what “the whole system” requires.
+The next research pass is now scaffolded in the [open-question ledger](open-questions.md) and [candidate theory map](candidate-theories.md). Author review is needed for the framing, scope, provisional systems hypothesis, and any stronger claim about what “the whole system” requires before selecting a first test.
 
 ## References
 
@@ -108,4 +108,4 @@ The longer-range question of substrate independence remains open. The ethical co
 [^casali]: Casali et al., “A theoretically based index of consciousness independent of sensory processing and behavior,” *Science Translational Medicine* 5 (2013), 198ra105. [DOI: 10.1126/scitranslmed.3006294](https://doi.org/10.1126/scitranslmed.3006294). Theory-derived human-state measure; not a substrate-independent consciousness test.
 [^cogitate]: Cogitate Consortium et al., “Adversarial testing of global neuronal workspace and integrated information theories of consciousness,” *Nature* 642 (2025), 133–142. [DOI: 10.1038/s41586-025-08888-1](https://doi.org/10.1038/s41586-025-08888-1). Tests specified neural predictions for visual content, not all possible experiences.
 
-[Conscious Systems index](README.md) · [Research index](../README.md)
+[Conscious Systems index](README.md) · [Open questions](open-questions.md) · [Candidate theories](candidate-theories.md) · [Research index](../README.md)

@@ -11,10 +11,12 @@ The starting intuition is that chemistry, electrical activity, metabolism, conne
 ## Start here
 
 - [What Can We Change About a Mind While Preserving Consciousness?](what-can-we-change-about-a-mind.md) — the initial question, distinctions, evidence anchors, proposed comparisons, and limits of inference.
+- [Open Questions](open-questions.md) — thirty bounded questions covering definitions, subconscious processing, memory, time, system boundaries, other substrates, evidence, and ethics.
+- [Candidate Theories and Conditions](candidate-theories.md) — comparison of five prominent approaches, a candidate-condition ledger, and the first discriminating comparisons.
 
 ## Boundaries
 
-This area brings neuroscience, anesthesia and sleep research, comparative cognition, philosophy of mind, and artificial-system assessment into conversation. It does not claim to solve consciousness, establish a universal test, infer experience from intelligence or fluent language, or presume that biology is either indispensable or replaceable. The first page is a research agenda; no experiments were run for it.
+This area brings neuroscience, anesthesia and sleep research, comparative cognition, philosophy of mind, and artificial-system assessment into conversation. It does not claim to solve consciousness, establish a universal test, infer experience from intelligence or fluent language, or presume that biology is either indispensable or replaceable. These pages form a research agenda; no experiments were run for them.
 
 Related work has different jobs: [emergence in AI](../../systems/emergence/applications/ai.md#capability-agency-and-personhood-are-different-claims) separates capability, consciousness, personhood, and authority; the [coherent systems living paper](../papers/coherent-systems/README.md) asks how intelligent systems interact with their institutions and surroundings. Possible implications for [Coherent Computing](https://github.com/Root-Sequence/coherent-computing), [Coherent World](https://github.com/Root-Sequence/coherent-world), and [Liberated Intelligence](https://github.com/Root-Sequence/liberated-intelligence) belong in those projects when developed. This area owns the general research question.
 
