@@ -19,6 +19,8 @@ The starting intuition is that chemistry, electrical activity, metabolism, conne
 
 ## Research posture
 
+The [access, memory, and unity evidence note](access-memory-unity-evidence.md) consolidates the DID, connected-twin, PCI, and AWARE II follow-up. It records source-inspection depth, a DID stimulus-exposure qualification, and the limited overlap between AWARE II EEG recordings and survivor interviews. The existing anesthesia evidence is cross-linked rather than duplicated.
+
 The [developmental-origins note](developmental-origins-note.md) separates developmental ancestry from conscious-system boundaries. The [Pinto 2017 audit](pinto-2017-extraction.md) then examines whether divided visual comparison and preserved reporting establish anything about subject unity; it records sample coverage, exclusions, and unresolved alternatives.
 
 The [Sergent 2021 partial extraction](sergent-2021-extraction.md) records IA-02 samples, reporting conditions, decoder validation, and a comparison to Pitts. A follow-up methods check corrected our own protocol description. Complete statistical extraction remains outstanding.
