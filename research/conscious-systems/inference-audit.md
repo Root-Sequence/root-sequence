@@ -67,6 +67,8 @@ The entries below are project audit rules, not universal diagnostic standards.
 
 **Bridge and alternative:** the report link gives the neural pattern empirical relevance but is not independent proof of phenomenality. It can remain related to availability for later reporting or memory. Sparse probes also leave possible effects of anticipating a probe.
 
+**Report-coding update:** the [report-prediction audit](sergent-2021-extraction.md#report-prediction-audit--2026-09-23) narrows our inference: a different reported focus is not a verified absence of earlier sound experience. Incremental prediction beyond stimulus intensity remains to be checked; this is an open verification item, not an established confound.
+
 **Audit judgment:** strengthens the case for a late process beyond immediate motor reporting, and prevents equating absence of P300 with absence of every GNW-compatible dynamic. It does not independently eliminate RPT or HOT. Review scope here: publisher results and discussion; the linked dataset has not been downloaded or reanalyzed.
 
 ### IA-03 — What did the adversarial theory test test?
