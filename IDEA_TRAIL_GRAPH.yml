@@ -78,6 +78,14 @@ documents:
       - accountability-externalization
 
   - repo: Root-Sequence/root-sequence
+    path: concepts/agency-and-automation.md
+    role: analytical-lens
+    trails:
+      - intelligence-authority
+      - maintenance-invisible-labor
+      - commons-shared-capacity
+
+  - repo: Root-Sequence/root-sequence
     path: concepts/legible-ai-assisted-expression.md
     role: analytical-lens
     trails:

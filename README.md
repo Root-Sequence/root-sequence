@@ -81,6 +81,8 @@ Suggested entry points:
 - [Idea Trail Metadata Convention](IDEA_TRAIL_METADATA.md) — lightweight visible + machine-searchable metadata for participating documents  
 - [`IDEA_TRAIL_GRAPH.yml`](IDEA_TRAIL_GRAPH.yml) — machine-readable document ↔ trail graph used to generate the browser  
 - [Thought Routing (`RS?`)](THOUGHT_ROUTING.md) — capture a thought once, find one canonical home, and add deliberate cross-project links without duplicate substance
+- [Design Grammar](concepts/design-grammar.md) — review-pending map of recurring cross-project design questions
+- [Agency and Automation](concepts/agency-and-automation.md) — review-pending treatment of delegation, chosen activity, compulsory labor, and collective authority
 - [Legible Systems](concepts/legible-systems.md) — design systems that can be simple to use without remaining mysterious
 - [Founding texts and early orientations](founding-texts/README.md) — browse exploratory models, manifestos, normative essays, and historical project pointers by role
 
