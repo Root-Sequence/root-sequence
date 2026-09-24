@@ -17,7 +17,7 @@
 
 This is a provisional shorthand. A fuller version: remove unwanted, exhausting, dangerous, repetitive, or compulsory burdens when doing so helps people, while preserving meaningful ways to participate, delegate, refuse, inspect, contest, and change course.
 
-The author's clarification is that automation and agency should be **balanced**. They want automation for friction, mundane work, and work they lack mental or physical energy to do, and envision much necessary paid labor becoming shared infrastructure so people can spend more of life on meaningful activity. This page develops that direction without treating one person's dislike of a task as a universal verdict on its meaning.
+The 2026-09-24 discussion emphasized a **balance**: automation can remove friction and mundane work, especially when physical or cognitive energy is limited, and much necessary paid labor could increasingly become shared infrastructure. The aim is more room for meaningful activity without treating one person's dislike of a task as a universal verdict on its meaning.
 
 ## Agency includes delegation
 
