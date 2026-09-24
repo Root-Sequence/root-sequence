@@ -288,11 +288,15 @@ Legible design spends people's limited attention on the first category and aggre
 
 - assistance without mandatory mediation;
 - source-aware explanations where possible;
+- visible contribution provenance when AI helps create an artifact;
 - visible permissions and boundaries;
 - replaceable models and runtimes where practical;
 - clear distinction between suggestion, prediction, authorization, and decision;
+- clear distinction between human-originated material and AI-added inference, synthesis, transformation, and wording;
 - plain-language consequences with inspectable technical evidence;
 - no authority derived merely from capability or opacity.
+
+[Legible AI-Assisted Expression](legible-ai-assisted-expression.md) develops this domain translation into a shared authoring principle and review method.
 
 ---
 

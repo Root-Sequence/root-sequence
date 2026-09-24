@@ -37,7 +37,7 @@ It will not claim to solve society, predict AGI, prove inevitable progress, prov
 4. [Source and provenance map](notes/source-map.md).
 5. [Bibliography](references.bib) and [revision history](CHANGELOG.md).
 6. [UCF reconciliation and worked-example status](notes/ucf-reconciliation.md).
-7. [Related work](notes/related-work.md) and the [published healthcare case](case-studies/healthcare-cost-proxy.md).
+7. [Related work](notes/related-work.md), the [published healthcare cost-proxy case](case-studies/healthcare-cost-proxy.md), and a [provisional emergence-and-agency case reading](case-studies/healthcare-emergence-and-agency.md).
 8. [AI-assistance disclosure and author-review checkpoint](AI-ASSISTANCE.md).
 
 ### What “living” means

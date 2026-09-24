@@ -14,6 +14,7 @@ Document roles and evidence boundaries should be stated on each page. Being list
 - [Root Sequence Design Grammar](design-grammar.md) — an AI-assisted, review-pending synthesis of recurring design questions and their existing homes; it does not make one project govern another.
 - [Agency and Automation](agency-and-automation.md) — a review-pending principle about reducing compulsory burdens while preserving chosen participation, bounded delegation, collective authority, and recovery.
 - [Legible Systems](legible-systems.md) — a working design principle about progressive understanding, technical accessibility, repair, alternatives, and power.
+- [Legible AI-Assisted Expression](legible-ai-assisted-expression.md) — a working principle for reducing the cost of expression while keeping human contributions, AI additions, transformations, evidence, uncertainty, and decisions visible.
 - [Intelligence Ecology](intelligence-ecology.md) — a developing framework for asking what behaviors an environment selects for in intelligent systems.
 - [Human(e) Design](humane-design.md) — a translation method between human observation and concrete design choices.
 - [Human(e) Infrastructure](humane-infrastructure.md) — a cross-project systems concept about durable conditions that support humane life.
