@@ -74,7 +74,7 @@ Recovery checked the saved UCF source against local Git blob hashes and reran al
 
 ## Proposed contribution, not established novelty
 
-The draft combines a boundary-and-dependency review with explicit separation of functional fit, normative authority, and revisability. C-012 asks whether this combination is useful beyond existing practice. Do not claim that this paper first discovered systemic alignment, pluralism, institutional design, or the limitations of proxies.
+The draft combines a boundary-and-dependency review with explicit distinctions among functional performance, coherence, the normative legitimacy of decision rights and power, and revisability. It provisionally uses false coherence for apparent fit produced by a specified mechanism such as coerced compliance, suppressed feedback, hidden consequences, or an artificially narrow boundary. C-012 asks whether this combination is useful beyond existing practice. Do not claim that this paper first discovered systemic alignment, pluralism, institutional design, or the limitations of proxies.
 
 The earlier conversation's contrast with MAI is not a verified literature comparison. In particular, do not infer from selected proposals that MAI ignores system-wide relationships or plural values. A detailed comparison must address the source authors' actual claims and acknowledge shared ground.
 

@@ -7,7 +7,7 @@
 
 ## Provisional abstract
 
-Aligning an intelligent system with its operator's objective does not, by itself, establish that its effects are acceptable to those affected by its operation. This paper proposes a relational approach to examining intelligence alongside the institutions, infrastructures, and environments through which it acts. It distinguishes functional coherence—the fit among assumptions, behavior, dependencies, and actual conditions—from normative questions about whose purposes count and who may authorize change. These questions cannot be settled by internal consistency or technical competence alone. The proposed method tracks boundaries, displaced costs, material constraints, disagreement, and the capacity to revise decisions as conditions change. Coherence is treated as a situated direction of inquiry, not a universal score, an inevitable trajectory, or a final state. Optimization remains a useful bounded technique rather than a substitute for choosing and contesting purposes. Speculative scenarios and recovered possibilities are used to generate hypotheses, while evidence and explicit tests determine what can be claimed about the world. The intended contribution is a review procedure and research agenda linking these concerns across scales. This version connects provisional definitions and a constructed example to selected prior work and a published healthcare case. It reports no new field findings, validated measure, or demonstrated advantage over existing approaches.
+Aligning an intelligent system with its operator's objective does not, by itself, establish that its effects are acceptable to those affected by its operation. This paper proposes a relational approach to examining intelligence alongside the institutions, infrastructures, and environments through which it acts. It distinguishes functional performance—whether a system produces specified behavior—from coherence and from normative legitimacy. Coherence also requires relevant relationships, power, affected people, dependencies, and consequences to remain inside the assessment boundary; an effective process that excludes or suppresses them may exhibit false coherence rather than genuine fit. These questions cannot be settled by internal consistency or technical competence alone. The proposed method tracks boundaries, displaced costs, material constraints, disagreement, and the capacity to revise decisions as conditions change. Coherence is treated as a situated direction of inquiry, not a universal score, an inevitable trajectory, or a final state. Optimization remains a useful bounded technique rather than a substitute for choosing and contesting purposes. Speculative scenarios and recovered possibilities are used to generate hypotheses, while evidence and explicit tests determine what can be claimed about the world. The intended contribution is a review procedure and research agenda linking these concerns across scales. This version connects provisional definitions and a constructed example to selected prior work and a published healthcare case. It reports no new field findings, validated measure, or demonstrated advantage over existing approaches.
 
 ## 1. The problem is larger than an individual objective
 
@@ -43,9 +43,15 @@ Meadows discusses intervention through information flows, rules, and system goal
 
 **Anchor: C-003.** The current [coherence model](../../../systems/coherence/model.md) concerns the fit between structure, assumptions, and reality. We retain that diagnostic meaning rather than silently redefining it as goodness.
 
-**Proposed working definition:** *Functional coherence is the context-dependent fit among a system's assumptions, behavior, dependencies, stated purposes, and the conditions in which it operates.*
+**Proposed working distinction:** *Functional performance describes whether a system produces specified behavior. Coherence asks whether its assumptions, behavior, dependencies, purposes, relationships, and consequences remain in contact with the conditions in which it operates.*
 
-Normative assessment asks a distinguishable but interacting set of questions: whose purposes are recognized, who bears costs, what authority is legitimate, and what objections remain? An arrangement can be internally consistent and operationally effective while its purposes or treatment of people remain unacceptable to those affected. Consistency alone cannot answer that objection.
+Normative assessment asks a distinguishable but interacting set of questions: whose purposes are recognized, who bears costs, who has a legitimate right to make or enforce which decisions, and what objections remain? A seriously coercive arrangement can be internally consistent and operationally effective while remaining incoherent and illegitimate. Successful target execution establishes functional performance, not coherence. If apparent order depends on domination, suppressed dissent or feedback, hidden externalized costs, or an artificially narrow boundary, this paper calls it **false coherence**. Concealment is not required: “false” describes mistaking controlled stability for coherence. The term describes a mechanism of apparent fit, not merely the author's disapproval.
+
+An action may restrict choice through physical restraint, force, threats, confinement, penalties, withdrawal of access, or other means. “Coercion” should be used only when the specific mechanism supports it, not as the name for every restriction. The action and its justification should not be compressed into reassuring labels such as “protective coercion” or “a necessary agency-limiting intervention.” Record separately: who acted; what they did and to whom; where and when it occurred; how it was carried out; why they said they acted; what harm was claimed, by whom, on what evidence, and with what uncertainty; and what effects followed. Then assess necessity, proportionality, alternatives, duration, challenge, review, restoration of agency, and the source, scope, limits, and accountability of the decision-making power exercised. Claims of harm cannot be wholly perspective-free, but neither should one actor's private or unchallengeable definition settle them. “Preventing harm” becomes a route to false coherence when the claimed purpose certifies the action in advance or suppresses the people said to be protected.
+
+This paper does not treat **authority** as a single self-explanatory property. Each use should identify whether it means formal authorization, assigned responsibility, expertise, practical capacity, power to compel, or a normatively legitimate decision right—and state its source, scope, limits, duration, accountability, and path for challenge or review.
+
+Acknowledging coercion may improve legibility and revisability, but it does not by itself repair the coerced relationship or restore agency. Like admitting a lie, acknowledgment changes what is openly known; what follows determines whether the process begins moving toward greater coherence. Relevant changes may include ending or reducing the coercion, restoring agency, repairing consequences, accepting accountability, and changing conditions that would reproduce the harm. Treating admission itself as resolution can become another layer of false coherence.
 
 This is not a two-stage process in which value-free engineering comes first and ethics is attached later. Gabriel's analysis challenges the independence of technical and normative choices; Selbst and colleagues likewise challenge treating contextual social concepts as self-sufficient technical properties.[^gabriel2020][^selbst2019] C-003 therefore distinguishes questions without claiming that they can be answered independently.
 
@@ -53,7 +59,11 @@ The definition is now explicitly compared with UCF's earlier model and glossary 
 
 A definition becomes operational only when an application specifies observations, rules, and uncertainty. The [reconciliation note](notes/ucf-reconciliation.md) maps the distinctions and their provenance; it does not claim independent evidence for UCF.
 
-**To develop:** Four contrasting cases have received an AI-assisted editorial pass, not independent review. Test the distinction with an effective but coercive arrangement and a protective but unreliable arrangement without hiding either defect in one aggregate label.
+A supported and revisable response may be coherent in how it handles a constraint even when it cannot resolve that constraint. That description applies to the handling process; it does not turn an unmet need into a successful outcome. A system may contain several interacting processes whose assumptions, consequences, and capacity to adapt differ, so one overall label should not erase those differences. Coherence is not binary: within a stated boundary, developing an actionable route toward an unmet need can be more coherent than only documenting it. This is a qualified comparison, not a universal score, and improvement in one process does not cancel failure in another.
+
+A route need not be complete to be real. A process moves toward an actionable route when it changes the conditions surrounding an unresolved need so that a consequential next step becomes more possible, supported, or accountable. This may involve identifying a feasible action; connecting the need to an identified person or body with defined responsibility, accountable decision scope, and practical capacity to act on the specific constraint; creating a credible escalation path; or clarifying what must become true next. The need should remain visible, responsibility and limitations should remain traceable, and the burden of continuation should not simply be transferred to those already affected. An escalation without traction, continuity, or accountability is deferral rather than a route.
+
+**To develop:** Four contrasting cases have received an AI-assisted editorial pass, not independent review. Test whether reviewers can identify why an effective but coercive arrangement exhibits false coherence and why a protective but unreliable arrangement still fails functionally, without hiding either defect in one aggregate label.
 
 ## 5. Values and disagreement are not noise
 
@@ -73,7 +83,7 @@ The proposed change is in the surrounding review: who chooses the target, what i
 
 **Anchors: C-006, C-007.** We propose evaluating changes partly by whether they preserve or improve the conditions for correction, participation, maintenance, and adaptation. This does not justify replacing outcomes with another untested proxy called “conditions.” Both must be examined.
 
-“Directional” means a comparison under stated circumstances, not an inevitable or monotonic journey. A repair may improve one relationship while worsening another. This paper neither proves a final coherent state impossible nor assumes that one is attainable. It does not require such a state to motivate a bounded change.
+“Directional” means a context-specific comparison, including qualified judgments of more or less coherence, not a universal scalar or an inevitable, monotonic journey. Coherence is treated here as ongoing work across multiple interacting processes, not a single destination. A repair may improve one relationship while worsening another, and some mixed outcomes may not support an overall ranking. This paper neither proves a final coherent state impossible nor assumes that one is attainable. It does not require such a state to motivate a bounded change.
 
 **To develop:** Specify what improved, for whom, over what period, what deteriorated, and what remains unknown.
 
@@ -81,7 +91,7 @@ The proposed change is in the surrounding review: who chooses the target, what i
 
 **Anchor: C-009.** More capable tools might change the cost or feasibility of some coordination tasks. Whether that happens is a hypothesis requiring task-specific evidence; it does not establish a timeline for AGI or an automatic direction of social change.
 
-Greater capability alone supplies no guarantee of benevolence, malevolence, legitimate authority, or shared benefit. More coordination capacity could also make intrusive control easier. Some proposed improvements may require no advanced AI at all.
+Greater capability alone supplies no guarantee of benevolence, malevolence, a legitimate right to decide or enforce, or shared benefit. More coordination capacity could also make intrusive control easier. Some proposed improvements may require no advanced AI at all.
 
 **To develop:** Name a task, its current bottleneck, a non-AI baseline, and the evidence that an AI-based intervention changes that bottleneck without merely transferring burdens.
 
@@ -89,7 +99,7 @@ Greater capability alone supplies no guarantee of benevolence, malevolence, legi
 
 **Anchor: C-008.** We propose checking actual decision rights and dependencies rather than inferring agency from labels such as “decentralized.” Separate nodes may still share one maintainer, infrastructure provider, or permission bottleneck. Conversely, a shared service need not erase meaningful local choice.
 
-**To develop:** Compare specific failure modes, coordination costs, accessibility, exit costs, and authority. No architecture receives an automatic normative or performance endorsement.
+**To develop:** Compare specific failure modes, coordination costs, accessibility, exit costs, and the sources, scopes, limits, and concentration of decision-making power. No architecture receives an automatic normative or performance endorsement.
 
 ## 10. Imagination as hypothesis generation
 
@@ -113,7 +123,7 @@ Changing financing does not eliminate requirements for energy, materials, time, 
 
 1. **Boundary and purpose:** What is changing, whose purposes count, which dependencies and timescales are included, and what is excluded?
 2. **Conditions and consequences:** Which assumptions must hold; what material limits, feedback, displaced costs, and failure modes matter?
-3. **Authority and difference:** Who can authorize, contest, refuse, or revise; what disagreement and privacy constraints remain?
+3. **Decision rights, power, and difference:** Who can formally authorize, practically compel or block, contest, refuse, or revise; what are the source, scope, limits, duration, and review path of those powers; what disagreement and privacy constraints remain?
 4. **Comparison and revision:** What baseline and alternative are considered; which outcomes would contradict the claimed improvement; when does review occur?
 
 Test whether this procedure identifies consequential omissions beyond an existing competent system review. Do not compare it only with an artificially weak checklist. Record reviewer effort, disagreement, false alarms, and failures to detect known issues.
@@ -134,7 +144,7 @@ The [research questions](open-questions.md) distinguish three activities. T-001 
 
 **Representation and burden.** Review procedures can exclude people through time, language, expertise, or accessibility demands. Participation itself can become a cost imposed on those already affected.
 
-**Coordination and urgency.** Distributed authority, reversibility, and repeated review have costs; some decisions are time-sensitive or cannot be undone. The proposal must handle these cases instead of treating them as exceptions to be ignored.
+**Coordination and urgency.** Distributed decision rights and practical power, reversibility, and repeated review have costs; some decisions are time-sensitive or cannot be undone. The proposal must handle these cases instead of treating them as exceptions to be ignored.
 
 **Conditional improvement.** A useful result in one bounded task does not validate a universal theory or a whole imagined society. Null results and counterexamples must remain part of the record.
 
