@@ -131,6 +131,30 @@ That makes it a systems problem rather than merely a morality play.
 
 ---
 
+## Case reading: "no one designed" American healthcare
+
+**Status:** Source-backed description and provisional interpretation, 2026-09-24. This is an analysis of an argument, not evidence of a speaker's private motive or a causal audit of UnitedHealth Group.
+
+In a [December 13, 2024 guest essay](https://www.nytimes.com/2024/12/13/opinion/united-health-care-brian-thompson-luigi-mangione.html), then-UnitedHealth Group CEO Andrew Witty wrote: “No one would design a system like the one we have. And no one did.” The essay described a patchwork built over decades and proposed that his company help improve it. A [republication of the essay](https://pnhp.org/news/the-flawed-corporate-health-care-model/) preserves the relevant passage. **Source correction:** This sentence came from the guest essay, not the December 4 investor conference. The investor booklet below is a separate source about company strategy.
+
+The claim is plausible at one scale: the entire US healthcare arrangement has no single author. It says much less about the intentional choices inside that arrangement. UnitedHealth Group's own [2024 investor booklet](https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2024/ic24/Investor-Conference-2024-Book.pdf) names five strategic growth priorities—care delivery, health benefits, health technology, financial services, and pharmacy care—and describes connecting them. That is evidence of deliberate component-level strategy. It does not, by itself, establish that the company created the system's problems or intentionally sustains complexity.
+
+| Question | What the available evidence can support | What it cannot settle |
+|---|---|---|
+| How did the whole arrangement form? | A historical, multi-actor account is appropriate; a single-master-designer story is inadequate. | Whether a specific present practice is justified. |
+| Who designs consequential parts now? | Institutions choose coverage products, authorization rules, contracts, data flows, appeals, and integration strategies within legal and material constraints. | Which decision caused a particular patient's outcome without a traced case. |
+| Who can change a part? | Examine formal authority, practical discretion, information, alternatives, and the costs of change for each actor. | An individual's motive, blame, or freedom to act from their job title alone. |
+
+A concrete site of present agency is prior authorization. [KFF's analysis of 2024 Medicare Advantage data](https://www.kff.org/medicare/medicare-advantage-insurers-made-nearly-53-million-prior-authorization-determinations-in-2024/) reports that UnitedHealth Group plans denied in whole or part 12.8% of prior authorization requests, compared with 7.7% across Medicare Advantage insurers. This denominator is **submitted prior authorization requests**, not all claims, care, or patients. The figures describe decisions and variation; they do not tell us which decisions were clinically wrong, explain the difference by themselves, or establish the effects of Witty's essay. KFF notes differences in the services subject to authorization and in enrollee and provider circumstances that complicate comparisons.
+
+**Interpretation:** An account of how the whole system arose can coexist with an audit of who currently shapes particular rules and receives their feedback. The rhetorical risk is that “no one designed the whole” gets heard as “no one here can answer for a part.” That implication does not follow. It is also possible for a company to simplify some interfaces while acquiring greater control over others; either effect requires evidence, not an inference from corporate size alone.
+
+**Hypothesis to test:** Fragmentation can create demand for intermediaries; intermediaries may reduce friction, introduce new interfaces, or both. To test whether an intervention reduces overall complexity, examine patient and clinician time, denials and reversals, appeal access, costs borne elsewhere, decision transparency, and the ability to leave or challenge the intermediary. Compare those outcomes before and after a specified change, accounting for policy, population, and service mix. The loop is a research question, not a demonstrated story about UnitedHealth's intent.
+
+The generalizable principle is already present in [Root Sequence's emergence account](../systems/emergence/README.md#emergence-and-power): **emergence does not erase agency**. Responsibility may be distributed, yet it should remain traceable to the actors with relevant power to decide, prevent, explain, and repair. The [paper's bounded case note](../research/papers/coherent-systems/case-studies/healthcare-emergence-and-agency.md) asks what this reading contributes to a proposed review procedure without treating it as a test result.
+
+---
+
 ## Pass-through is not the same as accountability
 
 Organizations ultimately obtain resources from somewhere: customers, taxpayers, investors, members, donors, insurers, workers, or accumulated reserves. It is therefore too simple to demand that an institution "pay" without asking who ultimately bears that payment.

@@ -53,6 +53,18 @@ Paths below are relative to this file. The paper synthesizes their questions; it
 
 Primary PDFs were read through text retrieval and relevant screenshots; no OCR was used. The failed initial guessed article address and unavailable Gabriel HTML were replaced by accessible author-hosted and arXiv PDFs. The public package links to these sources without redistributing their full text or figures.
 
+## Additional bounded case sources — 2026-09-24
+
+AI-assisted inspection for [the emergence-and-agency case](../case-studies/healthcare-emergence-and-agency.md), separate from the 2026-09-16 cost-proxy study. The author has not approved the interpretation, and no procedure was applied or compared.
+
+| Bibliography key / source | Coverage checked | Remaining limits |
+|---|---|---|
+| `witty2024patchwork` | December 13, 2024 guest essay's relevant paragraph in the PNHP republication; original *New York Times* URL and authorship identified. | Original page could not be opened directly; a public argument is not evidence of the speaker's private motives or a full history of healthcare. The quote was previously misattributed to the December 4 investor conference. |
+| `unitedhealth2024investor` | UnitedHealth Group investor booklet, printed pp. 2 and 6, for five strategic growth priorities, integration, and stated financial outlook. | Self-description, not an independent assessment of outcomes or intent to preserve complexity. |
+| `kff2026priorauth` | January 28, 2026 KFF report: introduction, 2024 insurer comparison, and methods for CMS Part C data. | Contract-level insurer-submitted service determinations, not claims or patient-level causal findings; service mix and exemptions complicate rate comparisons. |
+
+The canonical [responsibility analysis](../../../../analysis/externalized-responsibility.md#case-reading-no-one-designed-american-healthcare) retains the wider systems interpretation. This note asks how the paper's existing review questions might be applied to one decision rule; it supplies neither an empirical test nor evidence that the proposed procedure adds value.
+
 ## Historical initial source checks
 
 The table below preserves the earlier scaffold's coverage record. The current table above supersedes it where review expanded. Keys match [references.bib](../references.bib); no empirical result from these papers was independently reproduced.
