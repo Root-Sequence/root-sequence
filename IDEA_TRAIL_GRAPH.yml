@@ -1,5 +1,5 @@
 version: 0.3
-updated: 2026-09-22
+updated: 2026-09-24
 canonical_trails: IDEA_TRAILS.md
 metadata_convention: IDEA_TRAIL_METADATA.md
 
@@ -76,6 +76,14 @@ documents:
       - intelligence-authority
       - stewardship-authority
       - accountability-externalization
+
+  - repo: Root-Sequence/root-sequence
+    path: concepts/agency-and-automation.md
+    role: analytical-lens
+    trails:
+      - intelligence-authority
+      - maintenance-invisible-labor
+      - commons-shared-capacity
 
   - repo: Root-Sequence/root-sequence
     path: research/papers/coherent-systems/README.md

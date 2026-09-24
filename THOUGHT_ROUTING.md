@@ -178,6 +178,12 @@ An `RS?` pass should end with:
 - **Not changed:** relevant surfaces deliberately left alone;
 - **Next:** the highest-leverage unresolved action.
 
+## From a captured thought to a design decision
+
+The 2026-09-24 [Agency and Automation](concepts/agency-and-automation.md) draft illustrates a possible path: a conversation clarified that delegation can increase agency; the shared concept records the general question; each project may then translate it into its own scenarios, authority rules, observations, and tests. That path is **not** a mandatory ladder. A thought can remain an open question, research may overturn a principle, and a local decision does not automatically become universal guidance.
+
+The [Design Grammar](concepts/design-grammar.md) is a findable synthesis of recurring questions, not another intake queue or an automatic canon layer. Existing capture states, Idea Trails, local backlogs, and review boundaries above still apply.
+
 ## Automation boundary
 
 Safe deterministic assistance includes validating required fields, checking links, regenerating indexes, surfacing unresolved captures, detecting exact duplicate IDs, and reporting drift between explicit metadata and generated views.

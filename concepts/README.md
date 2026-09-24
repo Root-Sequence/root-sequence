@@ -11,6 +11,8 @@ Document roles and evidence boundaries should be stated on each page. Being list
 
 ## Cross-project frameworks and design ideas
 
+- [Root Sequence Design Grammar](design-grammar.md) — an AI-assisted, review-pending synthesis of recurring design questions and their existing homes; it does not make one project govern another.
+- [Agency and Automation](agency-and-automation.md) — a review-pending principle about reducing compulsory burdens while preserving chosen participation, bounded delegation, collective authority, and recovery.
 - [Legible Systems](legible-systems.md) — a working design principle about progressive understanding, technical accessibility, repair, alternatives, and power.
 - [Intelligence Ecology](intelligence-ecology.md) — a developing framework for asking what behaviors an environment selects for in intelligent systems.
 - [Human(e) Design](humane-design.md) — a translation method between human observation and concrete design choices.
