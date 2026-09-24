@@ -32,15 +32,18 @@ Bibliographic keys resolve in [references.bib](references.bib). Source coverage 
 **Evidence needed / revision trigger:** A bounded causal comparison with alternative explanations and outcomes beyond the targeted metric; revise where the mechanism fails.  
 **Related:** section 3; Q-007; UC-009. T-002 illustrates a constrained allocation, not behavior persisting or changing over time; C-002 still needs its own causal study.
 
-## C-003 — Functional coherence is distinct from normative legitimacy
+## C-003 — Functional performance does not establish coherence or legitimacy
 
 **Type / state:** DEFINITION + INFERENCE / PROVISIONAL.  
-**Proposition:** Distinguish functional fit from the justification of purposes and decision rights while examining how those choices shape the technical design and its assessment. Neither inquiry supplies all the answers to the other.
+**Proposition:** Distinguish functional performance from coherence and normative legitimacy while examining how purposes, boundaries, power, and decision rights shape all three. A process that executes its target but depends on domination, suppressed feedback, hidden externalized costs, excluded affected people, or control whose stated harm-prevention rationale cannot be examined may exhibit false coherence rather than genuine fit.
 
 **Basis:** `gabriel2020alignment` and `selbst2019abstraction` constrain the separation claim; the UCF sources and public `systems/coherence/model.md` provide internal provenance for the proposed vocabulary. See [the definition map](notes/ucf-reconciliation.md) and [external comparison](notes/related-work.md).  
-**Support limit:** This is a proposed vocabulary, not a discovered law or validated scale. Working definition replaces the earlier premature operational-definition label. Four layers and four state labels are distinct; the paper assumes no universal state taxonomy.  
-**Objection / boundary:** “Fit” may be too vague. The previous wording could imply independent technical and normative stages; this revision rejects that reading. The functional description itself depends on purposes, boundaries, and measurements that require justification.  
-**Evidence needed / revision trigger:** Reviewers should distinguish an effective but coercive arrangement from a protective but unreliable one without labeling either unqualifiedly coherent. Revise if distinctions cannot be applied consistently or add no explanatory value.  
+**Support limit:** This is proposed project vocabulary, not a discovered law or validated scale. “False coherence” has existing provenance in Root Sequence's [manufactured-consensus analysis](../../../analysis/collective-judgment-and-manufactured-consensus.md#coherence-without-conformity) and UCF's [false-coherence](https://github.com/Root-Sequence/universal-coherence-framework/blob/c4d7b236828a59139c0d5204b1faaed13154682a/docs/idea-trails.md#collective-judgment-dissent--false-coherence) and [coherence-hijacking](https://github.com/Root-Sequence/universal-coherence-framework/blob/c4d7b236828a59139c0d5204b1faaed13154682a/docs/domains/language-and-semantics.md#8-misinformation-and-coherence-hijacking) treatments; applying it to coercive systems is a broader author-directed synthesis that still requires testing. Four layers and four state labels are distinct; the paper assumes no universal state taxonomy.
+
+**Objection / boundary:** If every moral objection or restriction is renamed incoherence, the term becomes a circular synonym for disapproval. “Coercion” should be used only when the described mechanism supports it, not as an umbrella for restraint, boundaries, rules, emergencies, and domination alike. No replacement label establishes justification. Record the action and effect, the claimed harm and evidence, and the normative or procedural assessment separately. Normative legitimacy still asks questions that a coherence diagnosis cannot answer by itself.
+
+**Evidence needed / revision trigger:** Reviewers should distinguish target execution from genuine coherence in an effective but dominating arrangement, an action described as responding to immediate harm, and a well-intended but unreliable system. Revise if “false coherence” cannot be tied to a specified mechanism, if the claimed harm cannot be examined or contested, or if the vocabulary adds no explanatory value.
+
 **Related:** section 4; Q-001–Q-002; T-001.
 
 ### Author discussion: situated reasoning and consequences — 2026-09-16
@@ -49,15 +52,35 @@ Bibliographic keys resolve in [references.bib](references.bib). Source coverage 
 
 **Author-stated direction:** A decision may make sense from someone's perspective, circumstances, and available information, including when they are doing their best. The author questioned whether calling that “locally coherent” mistakenly certifies a decision that is incoherent at the same local scale as well as systemically. Incomplete consideration should not automatically blame the person, including when the ability or resources to consider more are unavailable. The author proposed “malconsidered” tentatively, meaning not fully considered or reasoned, rather than malicious.
 
-**Assistant synthesis for review:** Keep understandable reasoning from a situated perspective distinct from correspondence with actual conditions. Also distinguish both from successful execution of a target: a program doing exactly what it was told demonstrates target compliance, not by itself functional coherence. If a service's own access commitments conflict with its completion target, the mismatch may already occur inside that service; no global scale is needed to expose it. “Local” must name a perspective or assessment boundary, not switch between those meanings unnoticed.
+**Assistant synthesis for review:** Keep understandable reasoning from a situated perspective distinct from correspondence with actual conditions. Also distinguish both from successful execution of a target: a program doing exactly what it was told demonstrates target compliance, not by itself coherence. If a service's own access commitments conflict with its completion target, the mismatch may already occur inside that service; no global scale is needed to expose it. “Local” must name a perspective or assessment boundary, not switch between those meanings unnoticed.
 
-A possible plain-language formulation is: **A choice can be understandable given what someone could see and do, while the decision process still leaves consequential needs or effects unaccounted for. Assessing that gap requires examining the support, information, time, resources, and authority available, not merely faulting the person.** This wording is proposed, not attributed to the author as an exact statement.
+A possible plain-language formulation is: **A choice can be understandable given what someone could see and do, while the decision process still leaves consequential needs or effects unaccounted for. Assessing that gap requires examining the support, information, time, resources, permissions, decision rights, and practical power available, not merely faulting the person.** This wording is proposed, not attributed to the author as an exact statement.
 
 **External grounding and limits:** Dekker's 2002 abstract argues for reconstructing why actions made sense as events unfolded rather than judging only with hindsight (`dekker2002reconstructing`). STPA distinguishes a controller's beliefs from actual conditions and examines missing or delayed feedback (`levesonThomas2018stpa`, printed pp. 23 and 40). These sources ground the comparison, not a universal guarantee of good intentions, a particular safeguard's effectiveness, or an automatic exemption from responsibility. Only the stated source portions were checked.
 
 **Unresolved terms and cases:** “Malconsidered” remains the author's candidate, not an adopted technical term. “Insufficiently considered” and “unsupported decision-making” are assistant alternatives, not replacements. Unknown consequences, known consequences without feasible alternatives, and deliberately accepted burdens need different descriptions. No one is required to foresee every possible effect. Do not infer intent or opportunity to act differently from the outcome alone.
 
-**Next question:** When limited capacity remains after consequences are made visible, is a supported and revisable allocation a coherent response to an unresolved constraint, or does the shortfall itself remain part of the incoherence? These possibilities may coexist at different boundaries. Do not settle this by editing the manuscript or UCF definition before the author's response.
+### Author response: coherence amid an unresolved constraint — 2026-09-18
+
+**Author-stated direction:** The author leaned toward a supported and revisable allocation being a coherent response to an unresolved capacity constraint. In the author's words, “Coherence isn't necessarily a destination but a process... many processes even.” The author then clarified that coherence can have levels rather than being a yes-or-no property, and that moving toward an actual route for addressing the shortage would be more coherent than making less progress toward one. This answers the immediate either-or question without approving C-003 or the manuscript as a whole.
+
+**Assistant synthesis for review:** Coherence can describe the ongoing process of noticing a constraint, making its consequences visible, involving affected people, and revising the response as conditions change. The unresolved shortfall remains an unmet need and may remain incoherent at another boundary; calling the response coherent must not hide it. Because a system contains multiple interacting processes, coherence may differ among them rather than becoming one final label for the whole system. Within an explicit boundary, a process that develops a workable route toward the unmet need can be described as more coherent than one that only records it. This is a qualified comparison, not a claim that every dimension belongs on one universal scale.
+
+**Author confirmation: actionable route — 2026-09-18:** After being shown an assistant synthesis connecting the existing Root Sequence, Legible Systems, Human(e) Infrastructure, C-006, and Exit-Ramp treatments, the author affirmed the proposed route passage. The accepted wording says that a route need not be complete to be real, but must change the conditions around an unresolved need so that a consequential next step becomes more possible, supported, or accountable. Traction, continuity, and accountability distinguish a credible escalation from deferral.
+
+**Author wording review — 2026-09-18:** While reviewing the draft, the author flagged “relevant authority” as too broad. The passage now specifies an identified person or body whose responsibility, decision scope, accountability, and practical capacity to act on the particular constraint are explicit. The author accepted this narrowed wording. It does not imply that such an actor always exists.
+
+**Review status:** The actionable-route passage is accepted for the current draft and has been added to section 4. The broader C-003 definition and inference remain PROVISIONAL. This passage-level decision does not approve the whole claim, section, manuscript, sources, byline, release, or publication.
+
+### Author response: coercion and false coherence — 2026-09-18
+
+**Author-stated direction:** Serious coercion itself makes the apparent coherence incoherent because people, power, and lived consequences belong inside the system boundary. The author recalled the existing term **false coherence** for a system that seems to work but is ultimately flawed and incoherent, and agreed that openly acknowledging the coercion does not make the arrangement coherent. The author compared acknowledgment to admitting a lie: what happens afterward is important. The author then noted that whether an action is understood as stopping harm depends on someone's definition of harm, although it should not rest on one person's unchecked definition. The author objected to “protective coercion” as contradictory and to “an agency-limiting intervention justified as necessary to prevent harm” as another possible blank check. For the factual record, the author requested the classic who, what, where, when, why, and how. The author also cautioned that “authority” has multiple meanings and can be misinterpreted.
+
+**Assistant synthesis for review:** Reserve “functional performance” for successful execution of a stated target. Use “false coherence” when apparent order or effectiveness depends on domination, suppressed dissent or feedback, hidden externalized costs, excluded affected people, or control whose stated harm-prevention rationale cannot be examined. Do not solve the vocabulary problem with a new umbrella label. First record who acted; what they did and to whom; where and when; how; why they said they acted; what harm was claimed, by whom, on what evidence and with what uncertainty; and what effects followed. Then assess necessity, proportionality, alternatives, duration, challenge, review, restoration of agency, and the source, scope, limits, and accountability of the decision-making power exercised. Do not use “authority” alone where the text means formal authorization, responsibility, expertise, practical capacity, power to compel, or a legitimate decision right. Use “coercion,” “restraint,” “constraint,” or “domination” only when the specific facts support that description. Concealment is not required: the falsehood lies in treating controlled stability as coherence. Explicit acknowledgment can make the coercion more legible and the process more revisable without repairing the coerced relationship or restoring agency. What follows determines whether the process begins moving toward greater coherence: ending or reducing the coercion, restoring agency, repairing consequences, accepting accountability, or changing the conditions that reproduce the harm. Treating admission itself as resolution can become another layer of false coherence. This extends an existing project term beyond manufactured consensus; it should remain tied to an identifiable mechanism rather than becoming a label for anything disfavored.
+
+**Review status:** The author's conceptual answer is recorded and sections 4 and the abstract have been revised provisionally. The revised wording remains an assistant synthesis for review. C-003 remains PROVISIONAL; no whole-claim, source, byline, release, or publication approval follows.
+
+**Next question:** Does the expanded record—who, what, to whom, where, when, how, stated why, claimed harm and evidence, effects, and later assessment—capture the distinction without creating another blank-check label?
 
 ## C-004 — Explicit disagreement belongs in assessment
 
@@ -100,14 +123,15 @@ A possible plain-language formulation is: **A choice can be understandable given
 
 A hypothetical explanation might read: *This completion target favors shorter appointments. Longer requests remain unserved in the current plan. Changing the mix redistributes access but does not add capacity. Review access requirements and feasible alternatives; unresolved capacity needs can be escalated.* This is proposed interface text, not an implemented feature or an empirical prediction about a real service.
 
-**Limits and test questions:** A reminder cannot establish a feasible alternative, create capacity, or authorize a decision. Its framing may be incomplete or wrong; affected people need a way to contest it. Test comprehension, missing consequences, workload, unnecessary interruption, and whether anyone can act on the information. The AI or interface should not become an unquestionable authority. No warning system was built or evaluated in this pass.
+**Limits and test questions:** A reminder cannot establish a feasible alternative, create capacity, or authorize a decision. Its framing may be incomplete or wrong; affected people need a way to contest it. Test comprehension, missing consequences, workload, unnecessary interruption, and whether anyone can act on the information. The AI or interface should not become an unquestionable decision-maker. No warning system was built or evaluated in this pass.
 
 ## C-007 — Direction is situated, not guaranteed progress
 
 **Type / state:** DEFINITION / PROVISIONAL.  
-**Proposition:** An improvement claim names a baseline, affected relationships, timescale, and tradeoffs; it does not imply monotonic convergence to a perfect state.
+**Proposition:** A qualified claim of more or less coherence names a baseline, affected relationships, timescale, and tradeoffs; it does not imply one universal score or monotonic convergence to a perfect state.
 
-**Basis:** the authorized living-paper brief and public futures framing.  
+**Basis:** the authorized living-paper brief, the author's 2026-09-18 process direction recorded under C-003, and public futures framing.
+
 **Support limit:** This does not prove a final coherent state mathematically impossible, or that every system can improve.  
 **Objection / boundary:** Some changes may be incomparable; a multidimensional account can become indecisive.  
 **Evidence needed / revision trigger:** Apply the definition to mixed outcomes and identify cases where “more coherent” cannot responsibly be concluded. Retain those cases rather than forcing an ordering.  
@@ -120,7 +144,8 @@ A hypothetical explanation might read: *This completion target favors shorter ap
 
 **Basis:** proposed dependency analysis; public collective-judgment research.  
 **Support limit:** No overall ranking of architectures or universal governance prescription follows.  
-**Objection / boundary:** Shared authority can be necessary for coordination; formal exit may be practically unaffordable.  
+**Objection / boundary:** Shared decision rights and enforcement powers can be necessary for coordination; formal exit may be practically unaffordable.
+
 **Evidence needed / revision trigger:** Trace control, appeal, refusal, failure domains, and the material cost of alternatives in a bounded case; revise unsupported claims about practical autonomy.  
 **Related:** sections 5 and 9; Q-003 and Q-005.
 
@@ -131,7 +156,8 @@ A hypothetical explanation might read: *This completion target favors shorter ap
 
 **Basis:** a research question, not a reported result.  
 **Support limit:** No AGI timeline, moral direction, post-scarcity forecast, or general economic outcome is established.  
-**Objection / boundary:** Compute, energy, authority, information, or integration costs may become the new bottleneck; a non-AI method may work as well.  
+**Objection / boundary:** Compute, energy, authorization, practical control, information, or integration costs may become the new bottleneck; a non-AI method may work as well.
+
 **Evidence needed / revision trigger:** Define the task and compare end-to-end burden, failure, and control against a non-AI baseline. Reject the claimed benefit when burdens are merely displaced.  
 **Related:** section 8; Q-007–Q-008.
 
@@ -149,7 +175,7 @@ A hypothetical explanation might read: *This completion target favors shorter ap
 ## C-011 — Transition needs an account of intermediate dependencies
 
 **Type / state:** DESIGN PROPOSITION / PROVISIONAL.  
-**Proposition:** Compare intermediate states, failure, maintenance, resource requirements, and authority—not only a desired endpoint.
+**Proposition:** Compare intermediate states, failure, maintenance, resource requirements, decision rights, and practical power—not only a desired endpoint.
 
 **Basis:** public futures research and the authorized paper scope.  
 **Support limit:** No claim that incrementalism always works or that changes in financing remove physical constraints.  

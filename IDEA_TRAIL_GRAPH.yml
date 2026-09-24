@@ -1,5 +1,5 @@
 version: 0.3
-updated: 2026-09-19
+updated: 2026-09-24
 canonical_trails: IDEA_TRAILS.md
 metadata_convention: IDEA_TRAIL_METADATA.md
 
@@ -94,6 +94,12 @@ documents:
       - accountability-externalization
       - collective-judgment-dissent
       - accessibility-participation
+
+  - repo: Root-Sequence/root-sequence
+    path: research/conscious-systems/what-can-we-change-about-a-mind.md
+    role: research
+    trails:
+      - intelligence-authority
 
   - repo: Root-Sequence/coherent-world
     path: no-one-noticed/research/INTELLIGENCE-ECOLOGY-AND-AURYN.md

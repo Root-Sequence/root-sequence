@@ -1,5 +1,7 @@
 # 🌱 The Root Sequence
 
+> **New, returning, or overloaded? Read [START-HERE.md](START-HERE.md) for the smallest useful map.**
+
 <img src="assets/root-sequence.png" alt="Root Sequence logo" width="100" align="right" />
 
 The Root Sequence is a living, open-source inquiry into how intelligence, systems, and meaning evolve together.
@@ -48,7 +50,7 @@ The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Frui
 ## 📂 Repository map
 
 - [`site/`](site/README.md) — reader-facing Public Seed website source; not a replacement for research or the Wiki
-- [`research/`](research/README.md) — versioned synthesis papers; underlying concepts and evidence retain their canonical homes
+- [`research/`](research/README.md) — bounded research inquiries and versioned synthesis papers; underlying concepts and evidence retain their canonical homes
 - [`founding-texts/`](founding-texts/README.md) — founding texts, early models, manifestos, normative essays, and historical orientations
 - [`systems/`](systems/README.md) — analytical principles, models, and methods for understanding system behavior
 - [`concepts/`](concepts/README.md) — shared definitions, cross-project frameworks, design principles, and methods
@@ -71,6 +73,7 @@ Suggested entry points:
 
 - [Public Seed website source](site/README.md) — approved single-page introduction, publication workflow, and deployment records
 - [Coherence Is a Systems Property](research/papers/coherent-systems/README.md) — v0.1-dev living-paper scaffold; AI-assisted and awaiting author review
+- [Conscious Systems](research/conscious-systems/README.md) — exploratory research question on experience, physical organization, and possible artificial systems; AI-assisted and awaiting author review
 - [Ecosystem Map](ECOSYSTEM.md) — understand the wider project family  
 - [Root Sequence Wiki](https://github.com/Root-Sequence/wiki) — browse terms, phrases, projects, provenance, and conceptual archaeology  
 - [Idea Trails](IDEA_TRAILS.md) — understand the recurring questions and how each project transforms them  
