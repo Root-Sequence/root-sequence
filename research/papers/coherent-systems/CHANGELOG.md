@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.1-dev — 2026-09-24 — Emergence and accountability case reading
+
+Added a bounded case note on Andrew Witty's 2024 patchwork-healthcare argument, distinguishing whole-system history from present component-level decisions and their accountability. Corrected the preceding conversation's source attribution: the quotation was in his December 13 guest essay, while the investor booklet documents UnitedHealth Group's stated strategy. The note separates source-backed observations, interpretations, hypotheses, and an unrun C-012 application; it is distinct from the Obermeyer cost-proxy study. Three sources and their limited coverage are recorded in the bibliography and source map.
+
+The analysis home and social-emergence application link to the case. This pass does not revise the manuscript, claims ledger, paper definition, author decisions, byline, test statuses, or release approval. Author review and a concrete comparison remain pending.
+
 ## v0.1-dev — 2026-09-18 — Author direction on coherence as process
 
 Recorded the author's response to the open C-003 capacity question: a

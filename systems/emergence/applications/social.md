@@ -170,6 +170,10 @@ And:
 
 ---
 
+The [American healthcare case reading](../../../analysis/externalized-responsibility.md#case-reading-no-one-designed-american-healthcare) applies this distinction to a public claim about an undesigned whole and deliberately managed component parts. Its source-backed observations, interpretation, and untested intermediary feedback hypothesis are kept separate.
+
+---
+
 ## Spatial emergence
 
 Space is socially produced as well as physically built.
