@@ -685,6 +685,41 @@ The same-case stop rule now applies. Do not tune the framework further against t
 
 ---
 
+## 16B. Method routing: ask which discipline owns the mechanism
+
+The framework is becoming more useful as a **method router** than as a universal method.
+
+A first routing table:
+
+| Question actually being asked | Established method / literature to check first | Dynamic-coherence role |
+| --- | --- | --- |
+| Why did a technical service fail and propagate? | reliability engineering, incident analysis, safety engineering, STPA where appropriate | connect propagation to history, future recovery capacity, and cross-boundary effects |
+| Which states remain reachable under explicit dynamical constraints? | control theory, reachability, viability theory | connect formal reachability to other constraints the formal model does not encode |
+| Does a person have a real opportunity, not merely a nominal option? | capability approach, accessibility/usability research | connect substantive opportunity to technical, institutional, and temporal dependencies |
+| Who defines the system, improvement, knowledge, and affected boundary? | Critical Systems Heuristics | carry boundary/power questions into project-local design without claiming to replace CSH |
+| Are several worldviews defining different problem situations? | Soft Systems Methodology | preserve multiple framings and route disagreements instead of forcing one system model |
+| Is an organization changing action while preserving or revising governing assumptions? | organizational learning / double-loop learning | connect rule revision to longer-term continuity and surrounding systems |
+| Can an organization remain viable while balancing autonomy, coordination, present operations, and future adaptation? | organizational cybernetics / Viable System Model | compare organizational viability claims rather than redescribing them as generic coherence |
+| Can a socio-technical system continue adapting near changing capacity boundaries? | resilience engineering, graceful extensibility, sustained adaptability | connect adaptive capacity to agency, ownership, and externalized burden |
+| How do ecological systems persist, reorganize, or transform? | ecological resilience / adaptive management | preserve domain definitions and resist importing social/psychological meanings |
+| Is a human stress/trauma response being discussed? | trauma, stress physiology, psychology, clinical science, lived expertise | prevent systems analogy from replacing human evidence |
+| What produces subjective experience? | neuroscience, philosophy of mind, comparative consciousness research | keep identity/agency/system-boundary questions distinct from consciousness claims |
+| Does an artificial system's adaptive behavior imply experience? | AI mechanism analysis + consciousness/welfare evidence | enforce the inference boundary: functional adaptation is not phenomenology |
+
+This table is deliberately incomplete.
+
+Its purpose is not to reduce fields to one row each. It is to create an early warning:
+
+> **If an established discipline already owns the mechanism, Root Sequence should learn from it before creating new vocabulary.**
+
+Dynamic Coherence becomes valuable when it helps reveal that **several different native questions are coupled in the same real situation**.
+
+That is a meta-methodological role.
+
+Critical Systems Thinking is an important predecessor for this pluralist stance; the [lineage note](../research/dynamic-coherence-lineage.md) records the comparison.
+
+---
+
 ## 17. Candidate Root Sequence principles
 
 These are candidates for testing, not doctrine.
