@@ -55,6 +55,46 @@ It asks whether a system can remain responsive to conditions and consequences wh
 
 ---
 
+## Coherence is relational, not an intrinsic substance
+
+Avoid treating coherence as though it were an amount stored inside a system.
+
+A useful coherence statement should be expandable into something like:
+
+> **This process / relationship / arrangement exhibits [kind of fit] with respect to [conditions, purpose, dependency, or other relation], for [affected parties / boundary], over [timescale], under [evidence and uncertainty].**
+
+For example:
+
+- a protocol may be coherent with a documented interface contract while creating an inaccessible user experience;
+- a team may coordinate efficiently around a purpose whose legitimacy is contested;
+- an organism may maintain physiological integration while autobiographical identity changes;
+- an institution may be stable internally while transferring costs elsewhere;
+- a repair may fit present conditions while creating future lock-in.
+
+Those are not contradictions.
+
+They are different relations.
+
+This yields a language rule:
+
+> **Prefer "coherent with respect to..." or "coherence among..." over an unqualified "this system is coherent."**
+
+When the qualifier is obvious from a tightly bounded local context, prose need not become cumbersome. The analytical record should still make it recoverable.
+
+### No automatic total ordering
+
+Several coherence relations can improve or deteriorate independently.
+
+Do not assume that they can always be aggregated into:
+
+    system A > system B in coherence
+
+A comparison is warranted only after stating the dimension, boundary, affected parties, timescale, and tradeoffs that make it meaningful.
+
+This keeps "coherence" from becoming a hidden utility function.
+
+---
+
 ## Static fit and dynamic coherence
 
 A snapshot can be coherent in a limited sense:
