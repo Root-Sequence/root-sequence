@@ -44,9 +44,9 @@ A later extension should test recurring demand, referrals, service outcomes, unc
 
 ## T-003 — Added-value comparison
 
-**Still unrun.** The [related-work note](notes/related-work.md#candidate-comparison-for-t-003-not-a-completed-study) now identifies candidate baselines and fidelity checks. The published healthcare case is a retrospective interpretation, not a blinded test of discovery. No independent reviewer results are claimed.
+**Still unrun.** The [related-work note](notes/related-work.md#candidate-comparison-for-t-003-not-a-completed-study) identifies candidate baselines and fidelity checks. The new [T-003 protocol draft](notes/t003-added-value-protocol.md) freezes the proposed dynamic-coherence prompt, finding definitions, coding dimensions, burden/privacy measures, null-result criteria, and the distinction between an editorial pilot and independent review. The published healthcare case remains a retrospective interpretation, not a blinded test of discovery. No case, evidence packet, reviewer, coder, or independent result is registered yet.
 
-Choose a small, public, non-sensitive design case and a competent existing review method. Compare it with the section 12 procedure using the same information and a comparable review effort. Avoid giving the new method more evidence while calling its findings an improvement.
+The next legitimate step is **case selection and packet freezing**, not another conceptual expansion. Choose a small, public, non-sensitive design case and a competent existing review method. Compare it with the section 12 procedure using the same information and a comparable review effort. Avoid choosing a case merely because its known conclusion already matches the framework, and avoid giving the new method more evidence while calling its findings an improvement.
 
 **Measure:** Consequential omissions identified, false alarms, traceability, disagreement, reviewer time, and unnecessary information requests. Define “consequential” before evaluating outputs.
 
