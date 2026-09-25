@@ -56,6 +56,8 @@ Instead:
 
 This makes the central repository a **conceptual commons and routing layer**.
 
+That routing role includes **epistemic discoverability**: helping someone who has a real question but not yet the field's vocabulary discover the relevant terms, literatures, communities, and methods. See [Epistemic Discoverability and Knowledge Routing](epistemic-discoverability.md) and the [Reading Trails](../research/reading-trails/README.md).
+
 It can hold shared questions such as:
 
 > What conditions made this possible, and what does it make possible next?
