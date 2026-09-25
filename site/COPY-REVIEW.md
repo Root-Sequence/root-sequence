@@ -1,5 +1,55 @@
 # Website copy review: September 16, 2026
 
+## Review candidate: Root Sequence router role — September 25, 2026
+
+**Status: awaiting Rae Lovejoy's editorial approval. Not approved for release.**
+
+This candidate updates the public explanation after the merged
+adaptive-continuity / research-method work changed Root Sequence's current
+self-description.
+
+The one-page structure, headline **"Research for a more coherent world,"**
+reading controls, selected-project section, participation routes, visual
+design, embedded assets, and publication architecture remain unchanged.
+
+### Copy changes
+
+- The introduction now describes Root Sequence as an **open transdisciplinary
+  research and design project for questions that cross fields**.
+- The About section explains the current workflow in plain language:
+  trace the whole problem, identify the different kinds of question inside it,
+  route mechanisms to the fields and methods that study them, then reconnect
+  the findings without pretending the mechanisms are identical.
+- The repair example no longer presents "coherence" as the catch-all answer.
+  It shows the device, software, access, ownership, cost, and decision-right
+  questions as different parts of one problem and routes readers to the
+  Method & Concept Router.
+- The six Selected Research entries now foreground:
+  1. Root Sequence Research Method;
+  2. *Coherence Is a Systems Property*;
+  3. Adaptive continuity and dynamic coherence;
+  4. Epistemic discoverability and knowledge routing;
+  5. Legible Systems;
+  6. Reading Trails.
+- The social/metadata description now reflects the transdisciplinary
+  research-and-design role.
+
+### What this candidate does not claim
+
+The site does not say Root Sequence invented the native theories it routes to.
+It does not present Dynamic Coherence as a universal analysis method or score.
+It does not claim the editorial router pilots validated the method.
+
+The research repository remains the canonical source for the details and
+evidence boundaries.
+
+### Approval boundary
+
+`approval.json` is intentionally unchanged from the 2026-09-18 approved
+edition. The release builder must continue to reject this candidate until a
+new exact-source approval is recorded.
+
+
 ## Approval update: name explanation — September 18, 2026
 
 The current candidate adds a short **Why “Root Sequence”?** passage to the
