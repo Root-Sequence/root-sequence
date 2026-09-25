@@ -1,5 +1,30 @@
 # Local validation — 2026-09-16
 
+## Approved router-role edition — September 25, 2026
+
+- GitHub Actions run `36181297846` executed all 11 publication tests against
+  the September 25 source; all 11 passed.
+- The workflow reported exact source digest
+  `45288440e4e5f04a6ded6660659bf6f01ade1faf856f59f859b959ee14ea0669`.
+- The exact preview HTML SHA-256 is
+  `723b6f5025328778fe205de1a36f62d6fa5fcbd0697aa388309bbf702cb95f31`.
+- The run then stopped at the approval gate, as expected, because the prior
+  September 18 approval still applied at that moment.
+- Rae Lovejoy subsequently approved this exact September 25 source and preview;
+  `approval.json` now records those hashes.
+- The site footer/publication state and sitemap date are updated to
+  September 25, 2026.
+- The workflow permanently prints future publication digests before attempting
+  release, making exact-source approval auditable from Actions logs.
+- The router-role edition preserves the existing one-page visual structure and
+  interaction architecture while updating the introduction, About explanation,
+  repair example, metadata, and six selected research entry points.
+
+The approval establishes permission to publish this exact source. The final
+post-approval GitHub Pages run remains the deployment evidence and should be
+recorded separately once complete.
+
+
 ## Router-role copy candidate — September 25, 2026
 
 **Status: review candidate only; not approved or released.**

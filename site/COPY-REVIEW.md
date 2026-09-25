@@ -1,8 +1,8 @@
 # Website copy review: September 16, 2026
 
-## Review candidate: Root Sequence router role — September 25, 2026
+## Approval update: Root Sequence router role — September 25, 2026
 
-**Status: awaiting Rae Lovejoy's editorial approval. Not approved for release.**
+**Status: approved by Rae Lovejoy for release on September 25, 2026.**
 
 This candidate updates the public explanation after the merged
 adaptive-continuity / research-method work changed Root Sequence's current
@@ -43,11 +43,17 @@ It does not claim the editorial router pilots validated the method.
 The research repository remains the canonical source for the details and
 evidence boundaries.
 
-### Approval boundary
+### Approval record
 
-`approval.json` is intentionally unchanged from the 2026-09-18 approved
-edition. The release builder must continue to reject this candidate until a
-new exact-source approval is recorded.
+The approved source digest is
+`45288440e4e5f04a6ded6660659bf6f01ade1faf856f59f859b959ee14ea0669`.
+The approved preview HTML SHA-256 is
+`723b6f5025328778fe205de1a36f62d6fa5fcbd0697aa388309bbf702cb95f31`.
+
+This approval covers the September 25 router-role copy and the mechanical
+publication-state substitutions in `build.py`. It does not approve the
+underlying research paper, frameworks, or project claims beyond their existing
+review states.
 
 
 ## Approval update: name explanation — September 18, 2026

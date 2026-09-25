@@ -16,7 +16,7 @@ from xml.etree import ElementTree as ET
 
 
 HERE = Path(__file__).resolve().parent
-LAST_APPROVED_PREVIEW_SHA256 = "08a1ce67f37f3db55e235cb3703bcdb552deead2ffd4aafd6cd732f69b384356"
+APPROVED_PREVIEW_SHA256 = "723b6f5025328778fe205de1a36f62d6fa5fcbd0697aa388309bbf702cb95f31"
 spec = importlib.util.spec_from_file_location("site_builder", HERE / "build.py")
 builder = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(builder)
@@ -87,11 +87,11 @@ class PublicationTests(unittest.TestCase):
         parser.feed(path.read_text(encoding="utf-8"))
         return parser
 
-    def test_review_candidate_differs_from_last_approved_preview(self):
+    def test_canonical_source_is_the_approved_preview(self):
         actual = hashlib.sha256((HERE / "index.html").read_bytes()).hexdigest()
-        self.assertNotEqual(actual, LAST_APPROVED_PREVIEW_SHA256)
+        self.assertEqual(actual, APPROVED_PREVIEW_SHA256)
 
-    def test_preview_build_preserves_the_review_html_exactly(self):
+    def test_preview_build_preserves_the_approved_html_exactly(self):
         output, manifest = self.build()
         self.assertEqual((output / "index.html").read_bytes(), (self.root / "index.html").read_bytes())
         self.assertEqual(manifest["build_mode"], "preview")
