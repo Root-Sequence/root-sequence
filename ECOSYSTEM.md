@@ -111,11 +111,11 @@ The central repository, [`root-sequence`](https://github.com/Root-Sequence/root-
 | **Coherent World** | Private systemic design space for a possible civilization beyond coercive scarcity and concentrated veto power | Incubating / private | [`Root-Sequence/coherent-world`](https://github.com/Root-Sequence/coherent-world) |
 | **No One Noticed** | Narrative expression of Coherent World; invisible singularity, Auryn, transition, legitimacy, maintenance, and ordinary life | Active / unpublished | Private Coherent World workspace; no verified public site |
 | **Root Sequence Discussions** | Cross-project conversation, planning, questions, and coordination | Active / public | [`Root-Sequence/root-sequence-discussions`](https://github.com/Root-Sequence/root-sequence-discussions) |
-
-The Commons of Inquiry & Creation entry records a public design seed, not an operating institution, validated model, or permanent Root Sequence subproject. Its current nested location is temporary, and hosting the seed does not give Root Sequence governance authority over any future community.
 | **Museum of Ordinary Life** | Autonomous real-world archive of ordinary objects, spaces, interfaces, routines, sounds, documents, and testimony | Active / autonomous; also reflected in the fiction | [museumofordinarylife.org](https://museumofordinarylife.org/) |
 | **Dev11** | Adjacent implementation work: building systems and tools in practice | Adjacent / separate | Project-specific repositories outside this org map |
 | **Liberated Technology** | Technology organized around access, autonomy, repair, care, and liberation | Concept / future home not yet normalized | To be established or linked when its canonical home is clear |
+
+The Commons of Inquiry & Creation entry records a public design seed, not an operating institution, validated model, or permanent Root Sequence subproject. Its current nested location is temporary, and hosting the seed does not give Root Sequence governance authority over any future community.
 
 ## Cross-project translation layers
 
