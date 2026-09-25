@@ -12,17 +12,17 @@ For a comprehensive working briefing, continue to [PROJECT-CONTEXT.md](PROJECT-C
 
 ## In one sentence
 
-Root Sequence is the public conceptual commons for investigating how systems become what they are—and what else they could become.
+Root Sequence is the public conceptual commons and transdisciplinary research-and-design router for investigating how systems become what they are—and what else they could become.
 
 ## If you remember only three things
 
 1. This repository is one project, not the entire Root Sequence organization.
-2. It holds broad patterns, research, concepts, and questions; narrower projects own their own implementation, practice, or canon.
+2. It decomposes cross-field questions, routes their mechanisms to relevant fields and methods, then reconnects the findings without flattening their differences; narrower projects still own their implementation, practice, or canon.
 3. A connection is an invitation to investigate, not proof that every project follows one master theory.
 
 ## Current reality
 
-This is an active, public, evolving body of writing, research, maps, and small tools. Some material is mature; some is exploratory, historical, or explicitly speculative. The Public Seed website source exists, and the Idea Trail system helps trace recurring questions. The repository also temporarily hosts an explicitly non-canonical incubation seed for the proposed standalone Commons of Inquiry & Creation project. Root Sequence is not a finished theory, product, institution, or universal explanation.
+This is an active, public, evolving body of writing, research, maps, and small tools. Some material is mature; some is exploratory, historical, or explicitly speculative. The canonical research method now formalizes a route–synthesize–test–build workflow for cross-field questions. The revised Public Seed website source reflects that role but remains an unapproved review candidate; the last approved edition is still the September 18 public seed, and release remains blocked. The repository also temporarily hosts an explicitly non-canonical incubation seed for the proposed standalone Commons of Inquiry & Creation project. Root Sequence is not a finished theory, product, institution, or universal explanation.
 
 ## The smallest useful map
 
@@ -40,6 +40,7 @@ Root Sequence asks broad questions. Other repositories transform selected questi
 ## What to do next
 
 - **Just exploring:** read [Why “Root Sequence”?](concepts/root-sequence.md).
+- **Investigating a cross-field question:** use the [Root Sequence Research Method](research/method.md).
 - **Trying to place an idea:** use [Thought Routing](THOUGHT_ROUTING.md).
 - **Trying to understand the project family:** open the [Ecosystem Map](ECOSYSTEM.md).
 - **Following one question across projects:** use [Idea Trails](IDEA_TRAILS.md).
