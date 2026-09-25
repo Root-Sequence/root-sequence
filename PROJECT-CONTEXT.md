@@ -10,7 +10,7 @@ status: active-living
 
 ## Purpose and scope
 
-Root Sequence is the organization’s public conceptual commons: the broadest home for systems inquiry, shared concepts, research synthesis, analysis, and possible futures. It asks how conditions, relationships, feedback, power, and time produce systems—and what alternatives they permit.
+Root Sequence is the organization’s public conceptual commons and transdisciplinary research-and-design router: the broadest home for systems inquiry, shared concepts, research synthesis, analysis, and possible futures. It decomposes cross-field questions, routes their mechanisms to relevant disciplines and methods, reconnects findings without treating different mechanisms as identical, and translates useful results into research, tests, simulations, tools, designs, or possible futures.
 
 It is not the whole organization and does not absorb project-specific implementation, gathering practice, intelligence ethics, private worldbuilding, narrative canon, or autonomous Museum governance.
 
@@ -19,6 +19,7 @@ It is not the whole organization and does not absorb project-specific implementa
 | Question | Canonical source |
 | --- | --- |
 | What is this repository? | [`README.md`](README.md) |
+| How does Root Sequence research across fields? | [`research/method.md`](research/method.md) and [`research/method-router.md`](research/method-router.md) |
 | How does the organization connect? | [`ECOSYSTEM.md`](ECOSYSTEM.md) |
 | How is this repository organized? | [`root_map.md`](root_map.md) |
 | Where should a new thought go? | [`THOUGHT_ROUTING.md`](THOUGHT_ROUTING.md) |
@@ -28,7 +29,7 @@ It is not the whole organization and does not absorb project-specific implementa
 
 ## Current reality
 
-The repository contains active and historical writing, sourced research scaffolds, concepts, systems principles, analysis, futures, public artifacts, the Public Seed site source, and small navigation tools. It also temporarily hosts the public bootstrap seed for Commons of Inquiry & Creation under `incubator/`; that seed is explicitly non-canonical here, proposes a future standalone repository, and does not establish an operating institution. Maturity and evidence vary by document. Root Sequence is not a finished theory, validated universal model, deployed social system, or single doctrine.
+The repository contains active and historical writing, sourced research scaffolds, concepts, systems principles, analysis, futures, public artifacts, the Public Seed site source, and small navigation tools. The canonical research method now formalizes the project’s route–synthesize–test–build workflow. The current `site/index.html` is a September 25 router-role review candidate, not an approved release: the September 18 approval record intentionally does not match it, and the release gate remains blocked pending explicit approval and full validation. The repository also temporarily hosts the public bootstrap seed for Commons of Inquiry & Creation under `incubator/`; that seed is explicitly non-canonical here, proposes a future standalone repository, and does not establish an operating institution. Maturity and evidence vary by document. Root Sequence is not a finished theory, validated universal model, deployed social system, or single doctrine.
 
 ## Repository structure
 
@@ -48,6 +49,7 @@ These are typed transformations, not a command hierarchy.
 
 ## Working rules
 
+- Route mechanisms to the fields and methods that study them, then reconnect findings without erasing domain differences.
 - Preserve one canonical home and link rather than copying undifferentiated material.
 - Distinguish evidence, interpretation, hypothesis, normative position, and fiction.
 - Treat disagreement and failed connections as information.

@@ -18,13 +18,11 @@ images, analytics, translation, or previews.
 
 ## Files
 
-- `index.html`: exact approved preview and canonical editorial source.
-- `approval.json`: approval tied to the exact current source digest.
+- `index.html`: current unapproved review candidate and canonical editorial source.
+- `approval.json`: approval record for the last approved edition; it intentionally does not match the current candidate.
 - `build.py`: offline publisher. Preview output preserves `index.html` exactly;
   release output changes only preview/publication-state labels.
-- `test_site.py`: checks the approved-file hash, release gate, links, fragments,
-  embedded assets, Content Security Policy hashes, English-only setup, and
-  required controls and copy.
+- `test_site.py`: checks that the candidate differs from the last approved preview, preserves the release gate, and validates links, fragments, embedded assets, Content Security Policy hashes, English-only setup, and required controls and copy.
 - `DEPLOYMENT.md`: GitHub Pages and Fastmail DNS migration runbook.
 - `legacy-public-seed-v0.1/`: clearly labelled source from the superseded
   11-page candidate.
