@@ -9,7 +9,9 @@ It is not automatically beneficial. A system can adapt by learning, redistributi
 
 ## Current material
 
+- [`model.md`](model.md) is the working analysis model for state change, transition dynamics, path dependence, feedback, possibility-space effects, maladaptation, power, recovery, and transformation.
 - [`applications/social.md`](applications/social.md) is an early question set about adaptation in social systems.
+- [`../../concepts/dynamic-coherence.md`](../../concepts/dynamic-coherence.md) is the cross-project conceptual synthesis that connects adaptation to agency, identity, continuity, emergence, and coherence.
 
 ## Relationship to other system areas
 
@@ -22,4 +24,6 @@ Adaptation may happen before, during, or after failure. Recovery can restore an 
 
 ## Planned directions
 
-A future model should distinguish learning, accommodation, transformation, defensive adaptation, and harmful optimization. Feedback and identity applications remain planned topics, not published pages.
+The first model now distinguishes compensation, learning, accommodation, reallocation, structural adaptation, environmental modification, transformation, defensive adaptation, harmful optimization, and capture/entrenchment. Next work should test those distinctions against bounded cases rather than adding categories by intuition.
+
+Feedback, identity, AI, infrastructure, and institutional applications remain planned topics. Human trauma or clinical applications require domain-specific evidence and should not be inferred from the generic systems model.
