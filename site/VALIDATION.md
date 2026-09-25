@@ -1,5 +1,43 @@
 # Local validation — 2026-09-16
 
+## Router-role copy candidate — September 25, 2026
+
+**Status: review candidate only; not approved or released.**
+
+Connector-level structural checks on the branch found:
+
+- one `h1`;
+- 60 unique HTML IDs with no duplicates;
+- 27 internal fragment links with no missing targets;
+- English translation JSON parses and covers all 171 referenced i18n/aria keys;
+- two executable inline scripts remain present and the CSP still declares two
+  SHA-256 script hashes; the copy edit changed only HTML text, links, and the
+  non-executable translation JSON;
+- all new canonical GitHub destinations exist on current `main`:
+  - `research/method.md`;
+  - `research/method-router.md`;
+  - `research/papers/coherent-systems/paper.md`;
+  - `concepts/dynamic-coherence.md`;
+  - `concepts/epistemic-discoverability.md`;
+  - `concepts/legible-systems.md`;
+  - `research/reading-trails/README.md`;
+- the old selected-research labels (Intelligence Ecology, Events/patterns/scale,
+  Resilience/graceful-degradation, historical-contingency entry) are no longer
+  present in the selected-reading copy;
+- required router-role copy is present in both visible HTML and the English
+  translation table.
+
+`test_site.py` was updated so this branch is treated as an **unapproved review
+candidate** rather than falsely expected to match the September 18 approved
+preview. The release approval record remains unchanged, so the actual
+`build.py --release` gate is intentionally expected to reject this candidate
+until Rae Lovejoy approves the exact current source.
+
+The complete Python site test suite and browser-layout/render checks were **not
+executed in this connector-only pass**. They remain required before publication.
+No live-domain or deployment check is claimed.
+
+
 ## Approved Root Sequence name explanation — 2026-09-18
 
 - The About section includes a compact explanation of “root,” “sequence,” and
