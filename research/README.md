@@ -6,6 +6,7 @@ This directory holds bounded research inquiries and versioned papers that synthe
 
 - [Root Sequence Research Method](method.md) — the canonical loop for preserving intuitions, decomposing concepts, routing to native disciplines, comparing against competent baselines, testing, narrowing/retiring, and translating findings locally.
 - [Method & Concept Router](method-router.md) — a practical question-shape → native-method map; use it before inventing new RS vocabulary.
+- [Learning from Reading Trails](reading-trails/learning-and-routing.md) — applies that same method in both directions: questions discover trails, and trails reveal questions; source checking, local proposals, bounded tests, and public-safe returns remain distinct.
 
 ## Research areas
 
