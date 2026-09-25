@@ -22,7 +22,7 @@ Root Sequence is the public conceptual commons for investigating how systems bec
 
 ## Current reality
 
-This is an active, public, evolving body of writing, research, maps, and small tools. Some material is mature; some is exploratory, historical, or explicitly speculative. The Public Seed website source exists, and the Idea Trail system helps trace recurring questions. Root Sequence is not a finished theory, product, institution, or universal explanation.
+This is an active, public, evolving body of writing, research, maps, and small tools. Some material is mature; some is exploratory, historical, or explicitly speculative. The Public Seed website source exists, and the Idea Trail system helps trace recurring questions. The repository also temporarily hosts an explicitly non-canonical incubation seed for the proposed standalone Commons of Inquiry & Creation project. Root Sequence is not a finished theory, product, institution, or universal explanation.
 
 ## The smallest useful map
 
@@ -31,10 +31,11 @@ This is an active, public, evolving body of writing, research, maps, and small t
 - `founding-texts/` — origins, metaphors, manifestos, and historical orientations.
 - `analysis/`, `ideology/`, and `futures/` — diagnosis, frameworks, and alternatives.
 - `commons/`, `site/`, and `cli/` — public outputs, the reader-facing seed, and experiments.
+- `incubator/` — temporary, explicitly non-canonical project seeds awaiting migration or a final home.
 
 ## Where it fits
 
-Root Sequence asks broad questions. Other repositories transform selected questions: Liberated Intelligence focuses on intelligence and agency; UCF tests one analytical vocabulary; Being Human(e) grounds ordinary experience; Liberation Mass explores embodied practice; Community Infrastructure tests present-day systems; Coherent World designs speculative systems; and the Wiki helps people navigate names and relationships.
+Root Sequence asks broad questions. Other repositories transform selected questions: Liberated Intelligence focuses on intelligence and agency; UCF tests one analytical vocabulary; Being Human(e) grounds ordinary experience; Liberation Mass explores embodied practice; Community Infrastructure tests present-day systems; Coherent World designs speculative systems; and the Wiki helps people navigate names and relationships. Commons of Inquiry & Creation is currently a public bootstrap seed here, intended for a standalone repository; hosting the seed does not give Root Sequence governance authority over any future community.
 
 ## What to do next
 
