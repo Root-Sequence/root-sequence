@@ -49,6 +49,7 @@ Do not replace claim-level evidence with a cool website.
 ## Current trails
 
 - [Systems, Cybernetics, Complexity & Adaptive Systems](systems-cybernetics-complexity.md) — the current giant rabbit hole: cybernetics, systems thinking, system dynamics, resilience engineering, critical systems, organizational cybernetics, complexity science, and systemic design.
+- [Information Discovery, Sensemaking & Epistemic Agency](information-discovery-sensemaking.md) — how people search when they do not yet know the vocabulary: berrypicking, information foraging, the vocabulary problem, exploratory search, sensemaking, and knowledge-building agency.
 
 ## Future use
 
