@@ -299,6 +299,40 @@ Record:
 
 ---
 
+## 10A. Check contamination and analyst knowledge
+
+A frozen evidence packet does **not** create blinding by itself.
+
+Before claiming discovery or prediction, ask:
+
+- Has the analyst already seen the withheld answer/recommendation/outcome?
+- Did the same AI process browse the source before the packet was frozen?
+- Was the case selected after its conclusion was known?
+- Did the method author help construct the evidence packet?
+- Are "withheld" facts still present in conversation or analyst memory?
+
+If yes:
+
+> **downgrade the exercise to an editorial method/ownership test.**
+
+It may still test:
+
+- prompt usability;
+- overlap;
+- concept ownership;
+- synthesis;
+- unsupported inference.
+
+It cannot honestly test:
+
+- blinded discovery;
+- prediction;
+- independent derivation.
+
+Record contamination rather than performing methodological theater.
+
+---
+
 ## 11. Freeze before testing
 
 When doing a comparison:
