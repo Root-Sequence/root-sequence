@@ -40,6 +40,12 @@ Reading Trails preserve them.
 
 These are suggested paths, not a curriculum, ranking of fields, or obligation to turn every curiosity into a project.
 
+## Learn in both directions
+
+A project question can lead to a trail; wandering a trail can reveal a new project question. Both can lead to a checked source, a proposed local change, a bounded test, and a return that revises the trail itself.
+
+Use [Learning from Reading Trails](learning-and-routing.md) for the project-routing map and a compact integration record. It applies the existing research method rather than introducing a parallel process. Keep source evidence separate from local adoption, and allow findings to narrow, contradict, or retire an idea—not merely confirm it.
+
 ## Rules
 
 A Reading Trail should distinguish:
