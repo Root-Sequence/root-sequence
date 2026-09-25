@@ -28,8 +28,8 @@ RELEASE_REPLACEMENTS = (
      'This is the public seed edition of the Root Sequence site. There are no manuscript scenes in this edition.', 2),
     ('A future hosted version may produce ordinary request logs at its hosting provider. This local preview makes no claim about the provider’s retention or access policies.',
      'This hosted version may produce ordinary request logs at its hosting provider. This site makes no claim about the provider’s retention or access policies.', 2),
-    ('Design study · Updated 17 September 2026 · Not a published site',
-     'Public seed · Published 18 September 2026', 2),
+    ('Design study · Updated 25 September 2026 · Not a published site',
+     'Public seed · Published 25 September 2026', 2),
     ('This preview has no separate public website to link to for Coherent World.',
      'This site has no separate public website to link to for Coherent World.', 1),
     ('so this preview does not link to it.', 'so this site does not link to it.', 1),
@@ -91,7 +91,7 @@ def build(root: Path, output: Path, release: bool = False) -> dict:
         "sitemap.xml": (
             '<?xml version="1.0" encoding="UTF-8"?>\n'
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-            f"  <url><loc>{BASE_URL}</loc><lastmod>2026-09-18</lastmod></url>\n"
+            f"  <url><loc>{BASE_URL}</loc><lastmod>2026-09-25</lastmod></url>\n"
             "</urlset>\n"
         ).encode(),
         ".nojekyll": b"",
