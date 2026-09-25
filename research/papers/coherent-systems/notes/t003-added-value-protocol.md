@@ -89,6 +89,34 @@ A missing fact may itself be a finding.
 
 ---
 
+## 4A. Baseline-method selection is part of the protocol
+
+Do not default to "ordinary review" when a better-established domain method exists.
+
+Before freezing the methods, ask which mechanism dominates the case:
+
+| Case feature | Candidate baseline |
+| --- | --- |
+| technical reliability / incident propagation | competent SRE/reliability review |
+| safety-control structure | STPA or another appropriate safety method |
+| practical human opportunity / exclusion | capability-oriented analysis + accessibility methods |
+| contested problem definitions / worldviews | Soft Systems Methodology |
+| boundary, power, affected-but-not-involved parties | Critical Systems Heuristics |
+| organizational governing assumptions / learning | double-loop learning / organizational learning |
+| organizational viability / autonomy-cohesion | Viable System Model or relevant organizational-cybernetics approach |
+| ecological adaptation / transformation | ecological resilience / adaptive management |
+| formal constrained reachability | viability/control analysis |
+
+The chosen baseline must be justified before outputs are generated.
+
+Dynamic Coherence should **not receive credit for rediscovering a distinction already central to the selected baseline**.
+
+When several mechanisms materially matter, a plural baseline may be more honest than forcing one method to cover everything.
+
+This follows the growing evidence that Root Sequence's most defensible role is methodological routing/synthesis rather than universal replacement.
+
+---
+
 ## 5. Methods
 
 ### Method A — competent ordinary review
