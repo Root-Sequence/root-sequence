@@ -2,6 +2,11 @@
 
 This directory holds bounded research inquiries and versioned papers that synthesize Root Sequence's existing work. It does not replace the canonical treatments in `concepts/`, `systems/`, `analysis/`, or `futures/`.
 
+## Method
+
+- [Root Sequence Research Method](method.md) — the canonical loop for preserving intuitions, decomposing concepts, routing to native disciplines, comparing against competent baselines, testing, narrowing/retiring, and translating findings locally.
+- [Method & Concept Router](method-router.md) — a practical question-shape → native-method map; use it before inventing new RS vocabulary.
+
 ## Research areas
 
 - [Conscious Systems](conscious-systems/README.md) — **exploratory, AI-assisted seed; author review pending**. Starts with [what can change about a mind while preserving consciousness](conscious-systems/what-can-we-change-about-a-mind.md), separating experience from report, capability, and authority.
