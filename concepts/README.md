@@ -12,8 +12,10 @@ Document roles and evidence boundaries should be stated on each page. Being list
 ## Cross-project frameworks and design ideas
 
 - [Root Sequence Design Grammar](design-grammar.md) — an AI-assisted, review-pending synthesis of recurring design questions and their existing homes; it does not make one project govern another.
+- [Dynamic Coherence and Adaptive Continuity](dynamic-coherence.md) — a review-pending cross-project framework for path dependence, adaptive change, agency as effective future possibility, continuity-through-transformation, and coherence across time and scale.
 - [Agency and Automation](agency-and-automation.md) — a review-pending principle about reducing compulsory burdens while preserving chosen participation, bounded delegation, collective authority, and recovery.
 - [Legible Systems](legible-systems.md) — a working design principle about progressive understanding, technical accessibility, repair, alternatives, and power.
+- [Epistemic Discoverability and Knowledge Routing](epistemic-discoverability.md) — a working concept for helping people move from the language/questions they currently have toward fields, terminology, sources, methods, and communities they do not yet know how to name.
 - [Legible AI-Assisted Expression](legible-ai-assisted-expression.md) — a working principle for reducing the cost of expression while keeping human contributions, AI additions, transformations, evidence, uncertainty, and decisions visible.
 - [Intelligence Ecology](intelligence-ecology.md) — a developing framework for asking what behaviors an environment selects for in intelligent systems.
 - [Human(e) Design](humane-design.md) — a translation method between human observation and concrete design choices.

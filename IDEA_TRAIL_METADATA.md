@@ -55,6 +55,7 @@ Use these IDs in the hidden `idea-trails` comment even if the display title late
 | `accountability-externalization` | Accountability, Consequences & Externalization |
 | `collective-judgment-dissent` | Collective Judgment, Dissent & Manufactured Consensus |
 | `possibility-historical-contingency` | Possibility, Historical Contingency & Abandoned Futures |
+| `adaptive-continuity-agency` | Adaptive Continuity, Agency & Becoming |
 
 The numeric trail ordering in `IDEA_TRAILS.md` is presentation-only. The slug is the stable identifier.
 

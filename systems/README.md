@@ -81,6 +81,14 @@ The developed emergence branch includes:
 
 ---
 
+## Dynamic coherence and adaptive continuity
+
+[Dynamic Coherence and Adaptive Continuity](../concepts/dynamic-coherence.md) is a cross-project synthesis of a recurring question: how can a system change while preserving or rebuilding the capacities and relationships that make continued change possible?
+
+The [Adaptation model](adaptation/model.md) operationalizes part of that question by separating current state from transition dynamics, recording path dependence, and asking which future possibilities an adaptation opens or closes. This does not establish one mechanism across organisms, people, institutions, ecosystems, and artificial systems; cross-domain transfer still requires a mechanism and evidence.
+
+---
+
 ## Current system areas
 
 - [`adaptation/`](adaptation/) — how systems change in response to pressure, feedback, or altered conditions.

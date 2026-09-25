@@ -22,13 +22,34 @@ Keys resolve in [references.bib](../references.bib). Page references use printed
 
 **C-012:** Narrow the proposed contribution to an inspectable synthesis and a review procedure that still needs comparison. Our current material does not demonstrate novelty, better detection, lower burden, or cross-domain validity. A useful outcome could be an accessible guide to existing methods rather than a new theory.
 
+## September 24 extension: adaptation, viable possibility, and agency
+
+The dynamic-coherence/adaptive-continuity synthesis adds useful comparison targets, but no checked source establishes the synthesis as a new general theory.
+
+| Source / framework | What it adds to the comparison | Limit on our inference |
+| --- | --- | --- |
+| Di Paolo (2005), enactive adaptivity | A developed theory linking living autonomy, viability, adaptivity, normativity, and agency. It makes "adaptation" more specific than generic change. | Organismic adaptivity is not automatically an institutional or AI mechanism and does not establish consciousness. |
+| Holling (1973); Walker et al. (2004), resilience literature | Distinguishes resilience from stability and, in social-ecological work, separates resilience, adaptability, and transformability. | Does not justify ranking UCF states by resilience or importing ecological identity criteria into unrelated domains. |
+| Tognoli & Kelso (2014), metastability | Gives metastability a technical meaning in coordination dynamics involving tendencies toward integration and independence. | Does not establish "metastable" as a generic synonym for healthy social or institutional flexibility. |
+| Capability approach | Distinguishes real/substantive opportunities from merely formal options. This is a close predecessor to the claim that nominal choice count is not enough for agency. | Does not itself model causal reachability, authorization, or all system dependencies. |
+| Viability theory | Formalizes constrained dynamical evolution and viability kernels / reachable viable states. | Does not by itself encode meaning, justice, consent, knowledge, or legitimate authority. |
+| Information-theoretic empowerment | Formalizes potential control over future sensor-accessible states and connects to controllability/observability. | Is not equivalent to human empowerment, legitimate power, welfare, or subjective agency. |
+| Shoda et al. (2002); Nowak et al. (2005), personality dynamics | Demonstrates that attractor language can be literal within specified cognitive-affective models rather than only metaphorical. | Does not justify calling every persistent identity, institution, trauma response, or social pattern an attractor. |
+| McEwen (1998; 2007), allostasis | Supports the bounded biological proposition that regulatory responses can aid short-run adaptation while cumulative activation can carry longer-run costs. | Is not a general trauma theory and should not be transferred directly to organizations or AI. |
+
+**Implication for the proposed contribution:** the candidate novelty is unlikely to be any single term above. If there is added value, it may lie in keeping present fit, path dependence, feedback, power over revision, future reachable possibilities, continuity criteria, and externalized costs visible in one review without collapsing them into a scalar.
+
+That is still only a hypothesis. A competent baseline may already recover all consequential findings.
+
+The targeted evidence reconciliation in UCF records exact sources and stronger scope limits: [dynamic coherence evidence audit](https://github.com/Root-Sequence/universal-coherence-framework/blob/dynamic-coherence-evidence-reconciliation-2026-09-24/docs/dynamic-coherence-evidence-audit-2026-09-24.md). That branch is draft provenance, not independent evidence.
+
 ## Candidate comparison for T-003, not a completed study
 
-Use a bounded service-design vignette with a declared evidence packet and task: identify consequential assumptions, missing feedback, displaced burdens, and unresolved decisions. Compare the proposed review with a competent ordinary service review and, where the task fits, a properly prepared STPA analysis. Before calling anything an STPA baseline, have the scope and implementation checked by someone able to assess its fidelity to that method.
+Use a bounded service-design vignette with a declared evidence packet and task: identify consequential assumptions, missing feedback, displaced burdens, future constraints/options, path dependence, and unresolved decisions. Compare the proposed review with a competent ordinary service review and, where the task fits, a properly prepared STPA analysis. If human agency is central, add a capability-oriented check for real versus merely formal opportunities rather than crediting UCF for rediscovering that distinction. Before calling anything an STPA baseline, have the scope and implementation checked by someone able to assess its fidelity to that method.
 
 The three booking allocation rules are not three review methods. Their completion totals cannot establish the relative value of STPA, UCF, or this paper.
 
-Keep the information packet identical. Record preparation and training time, not just time spent writing an answer. Pilot reasonable resource limits rather than arbitrarily truncating one method. Specify in advance how omissions, false alarms, evidence traceability, unresolved disagreements, and unnecessary information requests will be recorded. “Finds more things” is not enough if the extra findings are unsupported.
+Keep the information packet identical. Record preparation and training time, not just time spent writing an answer. Pilot reasonable resource limits rather than arbitrarily truncating one method. Specify in advance how omissions, false alarms, evidence traceability, unresolved disagreements, unnecessary information requests, review burden, and decision-relevant unique findings will be recorded. “Finds more things” is not enough if the extra findings are unsupported.
 
 Do not use the published healthcare case as a blinded discovery test after revealing its conclusions. It is suitable for retrospective explanation. A comparative exercise needs a separate case or withheld facts, with any researcher-designed omissions clearly identified as artificial. Neither test proves universal validity.
 

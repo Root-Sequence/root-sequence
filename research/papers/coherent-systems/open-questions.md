@@ -44,15 +44,66 @@ A later extension should test recurring demand, referrals, service outcomes, unc
 
 ## T-003 — Added-value comparison
 
-**Still unrun.** The [related-work note](notes/related-work.md#candidate-comparison-for-t-003-not-a-completed-study) now identifies candidate baselines and fidelity checks. The published healthcare case is a retrospective interpretation, not a blinded test of discovery. No independent reviewer results are claimed.
+**Three AI-assisted editorial pilots completed; independent comparison still unrun.**
 
-Choose a small, public, non-sensitive design case and a competent existing review method. Compare it with the section 12 procedure using the same information and a comparable review effort. Avoid giving the new method more evidence while calling its findings an improvement.
+### Pilot 001–002: Cloudflare technical incident
 
-**Measure:** Consequential omissions identified, false alarms, traceability, disagreement, reviewer time, and unnecessary information requests. Define “consequential” before evaluating outputs.
+Two same-case comparisons tested a competent ordinary incident/system review against the frozen dynamic-coherence prompt, once with source-authored remediation present and once with that section withheld from the written packet.
 
-**Failure signal:** No useful additional findings, unacceptable burden, unresolvable reviewer disagreement, or more privacy exposure without corresponding benefit.
+Both produced a near-null result for unique decision-relevant Dynamic Coherence findings. The ordinary review also surfaced a concrete component-level containment action that the dynamic prompt omitted twice.
 
-**Boundary:** Select the baseline and protocol before execution. No experiment, deployment, or participant recruitment is authorized by this plan.
+See:
+
+- [Pilot 001 comparison](notes/t003-editorial-pilot-001-comparison.md)
+- [Pilot 002 comparison](notes/t003-editorial-pilot-002-comparison.md)
+
+### Pilot 003: NDSS agency / accessibility / boundary case
+
+The [NDSS case](notes/t003-case-2-selection-ndss.md) compared:
+
+- competent service/accessibility review;
+- capability-oriented analysis;
+- simplified Critical Systems Heuristics;
+- Root Sequence routing/adaptive-continuity synthesis.
+
+Result:
+
+- native methods owned the important mechanisms;
+- RS added cross-method connections and routing;
+- no clearly evidence-supported, decision-relevant native mechanism was unique to RS;
+- the pilot exposed missing router paths for participatory/co-design methods and stronger service-design/digital-inclusion methods.
+
+See [Pilot 003 comparison](notes/t003-editorial-pilot-003-comparison.md).
+
+### Methodological correction
+
+Pilot 003 also exposed a contamination issue: the same AI process had viewed source recommendations while vetting the case. The packet could withhold those recommendations from the written method inputs, but the analyst was not genuinely blind.
+
+The canonical [Root Sequence Research Method](../../method.md) now records the rule:
+
+> withholding evidence from a packet is not blinding if the analyst has already seen it.
+
+### Current T-003 conclusion
+
+The editorial evidence increasingly supports treating Root Sequence / Dynamic Coherence as a **routing and synthesis layer**, not a replacement for competent native methods.
+
+That is still not independent validation of the router.
+
+### Next legitimate gate
+
+Do **not** run a fourth same-model case merely to accumulate volume.
+
+The next useful comparison should include independent human/domain expertise, for example:
+
+- service/accessibility practitioner;
+- capability-approach-informed reviewer;
+- Critical Systems Heuristics / critical-systems practitioner;
+- independent finding coders.
+
+A different case should be selected and frozen before those reviewers see outputs from other methods.
+
+A null result remains acceptable: if the router adds no useful cross-method synthesis or reduces no fragmentation, narrow it further.
+
 
 ## Next writing pass
 

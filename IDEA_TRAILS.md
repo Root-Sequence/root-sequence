@@ -386,7 +386,30 @@ This trail also asks: **What behaviors does this system select for?** Capability
 **Speculative-design index:** `Root-Sequence/coherent-world/world/possibility-atlas/`<br>
 **Narrative research:** `Root-Sequence/coherent-world/no-one-noticed/research/HISTORICAL-CONTINGENCY-AND-ABANDONED-FUTURES.md`
 
+
 ---
+
+# Trail 17 — Adaptive Continuity, Agency, and Becoming
+
+## Root question
+
+> How can a person, community, institution, intelligence, or technical system change enough to adapt while preserving or rebuilding the capacities, relationships, and meaningful possibilities that make continued becoming possible—and who gets to shape that possibility space?
+
+| Project | Treatment |
+|---|---|
+| **Root Sequence** | Develop shared language for path dependence, dynamic coherence, agency envelopes, meta-agency, continuity-through-transformation, reflexivity, and adaptation across scale while testing whether existing disciplines already supply sharper concepts. |
+| **Conscious Systems** | Separate organismic, embodied, autobiographical, social, and subjective continuity; ask whether bodily regulation, development, learned history, and system boundaries matter to experience without assuming that identity and consciousness are the same problem. |
+| **Being Human(e)** | Ground adaptation in lived bodies and environments: fear, trauma, disability, learning, recovery, care, and changing possibility without diagnosing people from abstract systems language. |
+| **Coherent Computing** | Preserve future user capability across repair, automation, migration, identity, service, and failure: inspect, understand, modify, refuse, recover, and continue without unnecessary lock-in. |
+| **Community Infrastructure** | Adapt across legal, technical, institutional, and cultural contexts without making any one surrounding institution the ontology of community; preserve portability, local authority, and graceful degradation. |
+| **Liberated Intelligence** | Ask how intelligences can learn, change, retain or revise identity and memory, and participate in relationships without treating capability as authority or functional adaptation as evidence of consciousness. |
+| **Coherent World** | Model history as changes in future dynamics and affordances, not merely a log of events; let interventions reshape agents, institutions, dependencies, feedback, and later possibility without reducing coherence to one score. |
+| **Museum of Ordinary Life** | Preserve evidence of trajectories—ordinary objects, routines, interfaces, records, testimony, and material traces that reveal how earlier conditions became later possibilities or constraints. |
+
+**Canonical cross-project concept:** [Dynamic Coherence and Adaptive Continuity](concepts/dynamic-coherence.md)<br>
+**Systems model:** [Adaptation — Working Analysis Model](systems/adaptation/model.md)<br>
+**Related research:** [Conscious Systems](research/conscious-systems/README.md) · [Coherent Systems living paper](research/papers/coherent-systems/README.md)<br>
+**Related simulation:** [Coherent World core loop](https://github.com/Root-Sequence/coherent-world/blob/main/simulation/core-loop.md) · [Coherent World coherence model](https://github.com/Root-Sequence/coherent-world/blob/main/simulation/coherence-model.md)
 
 # Idea Trail index
 
@@ -408,6 +431,7 @@ This trail also asks: **What behaviors does this system select for?** Capability
 | Accountability & Externalization | benefit vs. consequence | Root Sequence / Being Human(e) |
 | Collective Judgment & Dissent | action vs. manufactured agreement | Being Human(e) / Community Infrastructure / Coherent World / UCF |
 | Possibility & Historical Contingency | possibility vs. manufactured inevitability | Root Sequence / Being Human(e) / Coherent World / Museum of Ordinary Life |
+| Adaptive Continuity & Becoming | persistence vs. transformation; present choice vs. future possibility | Root Sequence / Conscious Systems / Being Human(e) / Coherent Computing / Community Infrastructure / Liberated Intelligence / Coherent World |
 
 ---
 

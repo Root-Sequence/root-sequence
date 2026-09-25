@@ -1,4 +1,4 @@
-version: 0.3
+version: 0.4
 updated: 2026-09-24
 canonical_trails: IDEA_TRAILS.md
 metadata_convention: IDEA_TRAIL_METADATA.md
@@ -36,6 +36,8 @@ trails:
     title: Collective Judgment, Dissent & Manufactured Consensus
   possibility-historical-contingency:
     title: Possibility, Historical Contingency & Abandoned Futures
+  adaptive-continuity-agency:
+    title: Adaptive Continuity, Agency & Becoming
 
 documents:
   - repo: Root-Sequence/root-sequence
@@ -58,6 +60,7 @@ documents:
       - accountability-externalization
       - collective-judgment-dissent
       - possibility-historical-contingency
+      - adaptive-continuity-agency
 
   - repo: Root-Sequence/root-sequence
     path: ECOSYSTEM.md
@@ -747,3 +750,88 @@ documents:
   # Museum of Ordinary Life is intentionally referenced but not mutated here.
   # Add exact canonical Museum document paths only through the Museum's own
   # governance/workflow when those documents explicitly adopt Idea Trail metadata.
+
+  - repo: Root-Sequence/root-sequence
+    path: concepts/dynamic-coherence.md
+    role: analytical-lens
+    canonical_for:
+      - adaptive-continuity-agency
+    trails:
+      - adaptive-continuity-agency
+      - resilience-failure
+      - memory-provenance
+      - possibility-historical-contingency
+
+  - repo: Root-Sequence/root-sequence
+    path: systems/adaptation/model.md
+    role: research
+    trails:
+      - adaptive-continuity-agency
+      - resilience-failure
+
+  - repo: Root-Sequence/root-sequence
+    path: systems/emergence/applications/personal.md
+    role: research
+    trails:
+      - adaptive-continuity-agency
+      - memory-provenance
+
+  - repo: Root-Sequence/root-sequence
+    path: research/conscious-systems/open-questions.md
+    role: research
+    trails:
+      - adaptive-continuity-agency
+      - intelligence-authority
+      - memory-provenance
+
+  - repo: Root-Sequence/coherent-world
+    path: simulation/core-loop.md
+    role: speculative-design
+    trails:
+      - adaptive-continuity-agency
+      - possibility-historical-contingency
+      - accountability-externalization
+
+  - repo: Root-Sequence/coherent-world
+    path: simulation/coherence-model.md
+    role: speculative-design
+    trails:
+      - adaptive-continuity-agency
+      - collective-judgment-dissent
+      - accountability-externalization
+
+  - repo: Root-Sequence/coherent-computing
+    path: docs/lifecycle-coherence-and-service-architecture.md
+    role: real-system
+    trails:
+      - adaptive-continuity-agency
+      - resilience-failure
+      - maintenance-invisible-labor
+      - accountability-externalization
+
+  - repo: Root-Sequence/beinghumane-atlas
+    path: seeds/fear-trauma-and-systemic-mismatch.md
+    role: human-practice
+    trails:
+      - adaptive-continuity-agency
+      - resilience-failure
+      - accountability-externalization
+
+  - repo: Root-Sequence/community-infrastructure
+    path: docs/concepts/contextual-adaptability.md
+    role: real-system
+    trails:
+      - adaptive-continuity-agency
+      - resilience-failure
+      - stewardship-authority
+      - federation-autonomy
+      - accessibility-participation
+      - right-to-stay-small
+
+  - repo: Root-Sequence/liberated-intelligence
+    path: notes/roots-of-conscious-consent.md
+    role: research
+    trails:
+      - adaptive-continuity-agency
+      - intelligence-authority
+
