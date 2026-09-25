@@ -20,9 +20,14 @@
   interaction architecture while updating the introduction, About explanation,
   repair example, metadata, and six selected research entry points.
 
-The approval establishes permission to publish this exact source. The final
-post-approval GitHub Pages run remains the deployment evidence and should be
-recorded separately once complete.
+The approval established permission to publish this exact source. GitHub Actions
+run `36181565309` then completed successfully: all 11 tests passed, the
+approved source/preview digests matched, the release build succeeded, the Pages
+artifact uploaded, and GitHub reported the deployment successful for commit
+`e795e2e19e38f0a613cc15d25d680b25467b7475`.
+
+This is deployment evidence from GitHub Pages. An independent browser fetch of
+the custom domain was not completed in this pass.
 
 
 ## Router-role copy candidate — September 25, 2026
