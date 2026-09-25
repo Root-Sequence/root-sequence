@@ -35,6 +35,15 @@ jobs:
       - name: Verify the site
         run: python site/test_site.py
 
+      - name: Show publication digests
+        run: |
+          echo "source_sha256=$(python site/build.py --digest)"
+          python - <<'PY'
+          from hashlib import sha256
+          from pathlib import Path
+          print("approved_preview_sha256=" + sha256(Path("site/index.html").read_bytes()).hexdigest())
+          PY
+
       - name: Build the approved release
         run: python site/build.py --release --output site/dist
 
