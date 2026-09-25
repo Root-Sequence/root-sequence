@@ -24,14 +24,15 @@ It is not the whole organization and does not absorb project-specific implementa
 | Where should a new thought go? | [`THOUGHT_ROUTING.md`](THOUGHT_ROUTING.md) |
 | Which questions recur across projects? | [`IDEA_TRAILS.md`](IDEA_TRAILS.md) and [`IDEA_TRAIL_INDEX.md`](IDEA_TRAIL_INDEX.md) |
 | What was found in the last broad cleanup? | [`AUDIT.md`](AUDIT.md) |
+| What temporary project seed is hosted here? | [`incubator/commons-of-inquiry/README.md`](incubator/commons-of-inquiry/README.md) |
 
 ## Current reality
 
-The repository contains active and historical writing, sourced research scaffolds, concepts, systems principles, analysis, futures, public artifacts, the Public Seed site source, and small navigation tools. Maturity and evidence vary by document. Root Sequence is not a finished theory, validated universal model, deployed social system, or single doctrine.
+The repository contains active and historical writing, sourced research scaffolds, concepts, systems principles, analysis, futures, public artifacts, the Public Seed site source, and small navigation tools. It also temporarily hosts the public bootstrap seed for Commons of Inquiry & Creation under `incubator/`; that seed is explicitly non-canonical here, proposes a future standalone repository, and does not establish an operating institution. Maturity and evidence vary by document. Root Sequence is not a finished theory, validated universal model, deployed social system, or single doctrine.
 
 ## Repository structure
 
-`research/`, `systems/`, and `concepts/` hold current inquiry; `analysis/`, `ideology/`, and `futures/` apply or extend it; `founding-texts/` preserves origins; `commons/` produces reusable artifacts; `site/` is a reader-facing projection; `cli/` contains experiments.
+`research/`, `systems/`, and `concepts/` hold current inquiry; `analysis/`, `ideology/`, and `futures/` apply or extend it; `founding-texts/` preserves origins; `commons/` produces reusable artifacts; `site/` is a reader-facing projection; `cli/` contains experiments; `incubator/` holds temporary, explicitly non-canonical project seeds pending migration or a final home.
 
 ## Ecosystem connections
 
@@ -41,6 +42,7 @@ The repository contains active and historical writing, sourced research scaffold
 - **Present-world testing:** Community Infrastructure tests selected ideas under practical constraints.
 - **Speculative transformation:** Coherent World designs systems; *No One Noticed* experiences them.
 - **Findability:** the Wiki indexes names, provenance, relationships, and canonical homes.
+- **Institutional incubation:** Commons of Inquiry & Creation is a public seed for a proposed residential commons, temporarily hosted under `incubator/` and intended to migrate to a standalone repository. Root Sequence does not govern a future community by default.
 
 These are typed transformations, not a command hierarchy.
 
