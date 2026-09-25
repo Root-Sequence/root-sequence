@@ -2,7 +2,7 @@
 
 **Document role:** Canonical organization-level map<br>
 **Status:** Living orientation document<br>
-**Last updated:** 2026-09-17<br>
+**Last updated:** 2026-09-25<br>
 
 Root Sequence is not one linear project. It is a recursively connected ecosystem of research, frameworks, practical experiments, speculative worlds, public artifacts, tools, and real-world institutions.
 
@@ -60,6 +60,8 @@ umbrella inquiry / conceptual commons
 ├── practical and cultural expressions
 │   ├── Being Human(e)
 │   ├── Liberation Mass
+│   ├── Commons of Inquiry & Creation (public seed)
+│   │   └── proposed residential commons / inquiry / creation / ordinary life
 │   └── Community Infrastructure
 │       └── digital commons / coordination / community capacity
 │
@@ -104,6 +106,7 @@ The central repository, [`root-sequence`](https://github.com/Root-Sequence/root-
 | **Coherent Computing** | Private concept-first operating-system research; hardware-agnostic interaction, authority, continuity, and adaptation | Developing / private; no released OS | `Root-Sequence/coherent-computing` (private) |
 | **Being Human(e)** | Practical field guide to being human and repeatedly choosing care; observation before doctrine | Active / public / developing | [`Root-Sequence/beinghumane-guide`](https://github.com/Root-Sequence/beinghumane-guide) |
 | **Liberation Mass** | Participatory gathering, ritual, commons, reflection, care, mutual aid, and collective meaning | Active / public / experimental | [`Root-Sequence/liberation-mass`](https://github.com/Root-Sequence/liberation-mass) |
+| **Commons of Inquiry & Creation** | Proposed residential commons for inquiry, creation, experimentation, and ordinary life | Public seed / incubating; no standalone repository or operating institution yet | [Temporary bootstrap seed](incubator/commons-of-inquiry/README.md); intended home: `Root-Sequence/commons-of-inquiry` |
 | **Community Infrastructure** | Community-controlled digital commons for discovery, communication, coordination, mutual aid, resources, knowledge, governance, and resilience | Active / private / discovery + prototyping | [`Root-Sequence/community-infrastructure`](https://github.com/Root-Sequence/community-infrastructure) |
 | **Coherent World** | Private systemic design space for a possible civilization beyond coercive scarcity and concentrated veto power | Incubating / private | [`Root-Sequence/coherent-world`](https://github.com/Root-Sequence/coherent-world) |
 | **No One Noticed** | Narrative expression of Coherent World; invisible singularity, Auryn, transition, legitimacy, maintenance, and ordinary life | Active / unpublished | Private Coherent World workspace; no verified public site |
@@ -111,6 +114,8 @@ The central repository, [`root-sequence`](https://github.com/Root-Sequence/root-
 | **Museum of Ordinary Life** | Autonomous real-world archive of ordinary objects, spaces, interfaces, routines, sounds, documents, and testimony | Active / autonomous; also reflected in the fiction | [museumofordinarylife.org](https://museumofordinarylife.org/) |
 | **Dev11** | Adjacent implementation work: building systems and tools in practice | Adjacent / separate | Project-specific repositories outside this org map |
 | **Liberated Technology** | Technology organized around access, autonomy, repair, care, and liberation | Concept / future home not yet normalized | To be established or linked when its canonical home is clear |
+
+The Commons of Inquiry & Creation entry records a public design seed, not an operating institution, validated model, or permanent Root Sequence subproject. Its current nested location is temporary, and hosting the seed does not give Root Sequence governance authority over any future community.
 
 ## Cross-project translation layers
 

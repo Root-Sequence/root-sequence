@@ -2,7 +2,7 @@
 
 **Document role:** Canonical repository architecture and content-routing guide<br>
 **Status:** Active / living<br>
-**Last reviewed:** 2026-09-22<br>
+**Last reviewed:** 2026-09-25<br>
 
 This file is a compass for the **`root-sequence` repository**: how its folders and conceptual flows connect.
 
@@ -70,6 +70,7 @@ Do not compress every kind of status into one word.
 - [`commons/`](commons/) — zines, fragments, maps, and practices intended for practical or public reuse.
   - [`commons/fragments/`](commons/fragments/) — short, unfinished, poetic, or compostable material.
   - [`commons/zines/`](commons/zines/) — longer public and printable artifacts.
+- [`incubator/`](incubator/) — temporary, explicitly non-canonical project seeds. Each seed must state its status, current and intended home, evidence boundary, and migration or retirement path.
 - [`wiki/`](wiki/) — migration pointer to the standalone [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) repository.
 - [`site/`](site/README.md) — source for the introductory Public Seed website; it projects selected material without replacing research or the Wiki.
 - [`cli/`](cli/) — experimental scripts and tools.
@@ -118,6 +119,7 @@ What connects several layers
 into a bounded inquiry or
 versioned synthesis?  → research
 What can be shared?  → commons
+What is a temporary project seed? → incubator
 What shaped its values? → founding-texts
 What is it called,
 where is it, or how
@@ -160,6 +162,7 @@ It may later be transformed by:
 - **Being Human(e)**, when translated into grounded, ordinary-life guidance;
 - **Liberation Mass**, when expressed through shared gathering or practice;
 - **Coherent World**, when applied to systemic speculative design;
+- **Commons of Inquiry & Creation**, currently as a public bootstrap seed for a proposed residential commons; its intended standalone project would govern its own institution rather than inheriting authority from Root Sequence;
 - ***No One Noticed***, when made into plot, character, scene, or fiction canon;
 - **the Museum of Ordinary Life**, when preserved as evidence of lived ordinary experience under its own consent and stewardship rules.
 
