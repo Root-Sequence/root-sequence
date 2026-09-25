@@ -836,6 +836,35 @@ The model should preserve disagreement and uncertainty rather than collapsing th
 
 ---
 
+## 20A. Intellectual lineage and naming caution
+
+A targeted [intellectual-lineage / prior-art note](../research/dynamic-coherence-lineage.md) found strong predecessors for many component ideas:
+
+- Ashby's state-versus-parameter distinction and ultrastability;
+- requisite variety;
+- the Good Regulator theorem;
+- Argyris and Schön's double-loop learning;
+- resilience engineering's respond / monitor / learn / anticipate framework;
+- Woods's graceful extensibility and sustained adaptability;
+- adaptive management and adaptive governance;
+- path-dependence research;
+- second-order cybernetics and observer/reflexivity questions.
+
+This substantially narrows any novelty claim.
+
+It also found prior, materially different uses of the phrase **dynamic coherence**, including systems-methodology and AI-evaluation work. Root Sequence therefore treats **Dynamic Coherence** as provisional scoped project language, not a coined or exclusive term.
+
+The naming question remains open:
+
+- keep Dynamic Coherence with explicit qualification;
+- prefer Adaptive Continuity;
+- use dynamic-coherence grammar as a descriptive label;
+- rename after further related-work review.
+
+No public naming decision is implied by this draft.
+
+---
+
 ## 21. Research anchors
 
 These sources support pieces of the vocabulary, not the whole synthesis.
