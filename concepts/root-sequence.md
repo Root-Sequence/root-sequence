@@ -35,6 +35,39 @@ Sequences also become roots. An outcome in one moment becomes part of the starti
 
 That recursion is central to the name. Root Sequence is interested not only in where systems come from, but in how they keep producing the conditions of their own continuation or transformation.
 
+## A routing and synthesis layer, not a replacement discipline
+
+Root Sequence often begins with a cross-domain pattern:
+
+- a technical system and an institution both exhibit lock-in;
+- a living organism and an organization both adapt;
+- an interface and a law both alter practical possibilities;
+- an individual and a community both carry history into later behavior.
+
+The correct next move is **not** to assume one mechanism.
+
+Instead:
+
+1. trace the relationship that made the comparison interesting;
+2. ask what each domain already calls and studies that mechanism;
+3. route to the strongest relevant methods and evidence;
+4. compare where the structures genuinely match and where they diverge;
+5. keep the connection only if it remains useful after the differences are restored.
+
+This makes the central repository a **conceptual commons and routing layer**.
+
+It can hold shared questions such as:
+
+> What conditions made this possible, and what does it make possible next?
+
+while a reliability engineer, trauma researcher, ecological scientist, accessibility practitioner, critical-systems analyst, neuroscientist, historian, or community member may each supply very different mechanisms and evidence.
+
+A cross-domain synthesis earns its place when it makes those relationships more legible **without making the domains less precise**.
+
+The September 24 adaptive-continuity work sharpened this role after related-work review found deep predecessors in cybernetics, resilience engineering, capability theory, critical systems thinking, ecological psychology, organizational learning, biological autonomy, and other fields. Two editorial method pilots also failed to show unique technical-incident findings from the proposed dynamic-coherence review over a competent ordinary review.
+
+Those are reasons for **more routing and less totalization**, not reasons to stop connecting ideas.
+
 ## What the name does not require
 
 The name does not require:
