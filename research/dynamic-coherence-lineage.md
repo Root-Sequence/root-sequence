@@ -552,7 +552,234 @@ The VSM should be studied as a serious predecessor, not adopted wholesale as Roo
 
 ---
 
-# 14. Prior use of the phrase “dynamic coherence”
+# 14. Affordances: possibility is relational, embodied, and skill-dependent
+
+James J. Gibson's ecological psychology introduced **affordances** as possibilities for action available in the relation between an organism and its environment.
+
+Later work emphasizes that affordances depend not only on environmental structure but on an animal's or person's action capabilities and skills.
+
+Rietveld and Kiverstein develop the idea of a **landscape of affordances**: the rich field of possible actions available in a form of life, with relevance shaped by skills and situated activity.
+
+Sources:
+
+- James J. Gibson, *The Ecological Approach to Visual Perception* (1979).
+- Erik Rietveld & Julian Kiverstein, "A Rich Landscape of Affordances," *Ecological Psychology* 26(4) (2014), 325–352. DOI: 10.1080/10407413.2014.958035
+- Historical/review overview of ecological psychology and affordances: https://pmc.ncbi.nlm.nih.gov/articles/PMC6280920/
+
+## Relation to Root Sequence
+
+This is an extremely close predecessor to one layer of the proposed **agency envelope**.
+
+It sharpens a key point:
+
+> An action is not simply "available" in the abstract. Possibility can exist at the organism–environment relation.
+
+A stairway may be physically present while not affording the same action to every body.
+
+A tool may exist while requiring a skill the person does not have.
+
+An interface may expose a command while its sensory/motor presentation makes it unusable.
+
+This means Root Sequence should distinguish:
+
+- **affordance** — what the organism/environment relation enables;
+- **knowledge** — whether the actor knows or perceives the possibility;
+- **authorization** — whether social/institutional rules permit it;
+- **resources/support** — whether the actor can practically execute it;
+- **value/choice** — whether the actor wants or has reason to pursue it.
+
+Do not collapse these into one "agency amount."
+
+---
+
+# 15. Capabilities: substantive opportunity and conversion factors
+
+The capability approach provides an even closer social/normative predecessor for the distinction between **nominal options** and **real opportunities**.
+
+Capabilities are commonly described as real or substantive opportunities to do or be something.
+
+The literature explicitly emphasizes **conversion factors**: personal, social, and environmental conditions affect whether resources or formal rights can actually be converted into functioning.
+
+Source:
+
+- Ingrid Robeyns & Morten Fibieger Byskov, "The Capability Approach," *Stanford Encyclopedia of Philosophy*, substantive revision 2025: https://plato.stanford.edu/entries/capability-approach/
+
+The capability literature also warns against inferring justice from reported satisfaction or preferences alone: people living under deprivation may adapt expectations to constrained circumstances.
+
+## Relation to Root Sequence
+
+This strongly supports dropping any implication that Root Sequence discovered:
+
+> real options matter more than menu size.
+
+The **agency envelope** is better understood as a proposed *systems representation* that can route among several distinct questions, including capability questions.
+
+When human wellbeing/freedom is central, capability theory should be engaged directly.
+
+---
+
+# 16. Niche construction: agents modify the conditions that later shape them
+
+Niche-construction theory studies cases in which organisms modify environmental conditions and thereby alter ecological or evolutionary selection pressures affecting themselves, descendants, and other organisms.
+
+Sources:
+
+- Laland, Matthews & Feldman, "An introduction to niche construction theory," *Evolutionary Ecology* (2016): https://pmc.ncbi.nlm.nih.gov/articles/PMC4922671/
+- Laland et al., "Niche construction, sources of selection and trait coevolution," *Philosophical Transactions of the Royal Society B* (2017): https://pmc.ncbi.nlm.nih.gov/articles/PMC5566808/
+
+The literature also develops **ecological inheritance**: modified environmental states can persist and shape later generations.
+
+## Relation to Root Sequence
+
+This is a striking biological predecessor for part of what Root Sequence called **meta-agency**:
+
+> action changes the environment that structures later action and development.
+
+The analogy is strong at a structural level.
+
+But Root Sequence should not flatten:
+
+- evolutionary niche construction;
+- deliberate institutional design;
+- personal habit formation;
+- technical environment configuration;
+
+into one mechanism.
+
+For biological/evolutionary claims, use niche-construction theory.
+
+For social/institutional claims, use the relevant social theory.
+
+For technical systems, identify the actual architecture.
+
+The useful shared question is:
+
+> **How did an actor/system's activity modify the conditions that will shape later behavior?**
+
+---
+
+# 17. Social power: shaping the conditions and capacities of action
+
+The insight that power can operate by shaping **conditions of action**, not only by directly commanding someone, also has strong predecessors.
+
+Barnett and Duvall's taxonomy of power distinguishes:
+
+- **compulsory power** — direct control of one actor over another;
+- **institutional power** — indirect control through institutions over the conditions of others' action;
+- **structural power** — social relations that constitute actors' positions and capacities;
+- **productive power** — diffuse social processes that produce subjects, meanings, and capacities.
+
+Source:
+
+- Michael Barnett & Raymond Duvall, "Power in International Politics," *International Organization* 59(1) (2005), 39–75. DOI: 10.1017/S0020818305050010
+
+This taxonomy is situated in international-relations theory and should not be treated as the only theory of power.
+
+## Relation to Root Sequence
+
+It is nevertheless a direct warning against claiming novelty for:
+
+> **power includes the ability to shape the conditions under which others can act.**
+
+That idea already has mature social-theoretical forms.
+
+Root Sequence may still contribute an accessible systems map that connects such power to:
+
+- infrastructure;
+- interfaces;
+- defaults;
+- standards;
+- ownership;
+- accessibility;
+- AI-mediated environments;
+- future path dependence.
+
+But the social-power mechanism belongs to social and political theory, not to a new law of coherence.
+
+---
+
+# 18. Decomposing the “agency envelope”
+
+After this lineage pass, the proposed agency-envelope concept should be treated as a **composite map**, not one latent quantity.
+
+A more disciplined decomposition is:
+
+| Layer | Native concept / question |
+| --- | --- |
+| Physical / embodied possibility | affordances; what does this organism–environment relation permit? |
+| Skilled possibility | which affordances exist given learned abilities? |
+| Formal reachability | viability/control/reachability; which trajectories satisfy explicit constraints? |
+| Substantive human opportunity | capabilities; what is genuinely possible given conversion factors? |
+| Knowledge / perception | does the actor know or notice the possibility? |
+| Authorization | who has decision rights / permission? |
+| Material support | are time, energy, money, tools, care, infrastructure, and assistance available? |
+| Causal influence | empowerment/control; how much influence can actions exert over later state? |
+| Power over conditions | who can alter the environment, rules, institutions, or capacities structuring others' possibilities? |
+| Value / choice | which possibilities does the actor actually value or choose? |
+
+This decomposition is more useful than a scalar.
+
+The project term **agency envelope** can remain shorthand for visualizing these layers together, but it should not be presented as a discovered unit of agency.
+
+---
+
+# 19. Decomposing “meta-agency”
+
+Likewise, meta-agency may name several different mechanisms:
+
+### Self-modification
+
+Changing one's own habits, skills, policies, goals, thresholds, or governing assumptions.
+
+Relevant lineages:
+
+- learning;
+- double-loop learning;
+- self-regulation;
+- reflective accountability.
+
+### Environment modification
+
+Changing the material/environmental conditions of later action.
+
+Relevant lineages:
+
+- ecological affordances;
+- niche construction;
+- architecture and infrastructure design.
+
+### Institutional modification
+
+Changing rules, rights, resource distributions, standards, ownership, or governance.
+
+Relevant lineages:
+
+- institutional design;
+- adaptive governance;
+- critical systems;
+- theories of power.
+
+### Capacity building
+
+Acquiring skills, resources, relationships, infrastructure, or redundancy that expand later practical possibility.
+
+Relevant lineages:
+
+- capability approach;
+- resilience engineering;
+- education / development / accessibility research.
+
+So the better Root Sequence question is not simply:
+
+> How much meta-agency exists?
+
+It is:
+
+> **Which mechanism is changing the conditions of future agency, for whom, under what authority, and with what consequences?**
+
+---
+
+# 20. Prior use of the phrase “dynamic coherence”
 
 The phrase **dynamic coherence** is not original to Root Sequence and is not unambiguous.
 
@@ -593,7 +820,7 @@ No naming decision is made by this note.
 
 ---
 
-# 15. “Adaptive continuity” also has unrelated prior uses
+# 21. “Adaptive continuity” also has unrelated prior uses
 
 The phrase **adaptive continuity** also appears in other domains, including recent engineering and urban-network work.
 
@@ -603,7 +830,7 @@ That does not make the phrase unusable, but it reinforces the same rule:
 
 ---
 
-# 16. What looks genuinely old versus potentially distinctive
+# 22. What looks genuinely old versus potentially distinctive
 
 ## Strong predecessors / not novel as components
 
@@ -620,7 +847,11 @@ That does not make the phrase unusable, but it reinforces the same rule:
 - worldview-explication and soft systems methodology;
 - boundary critique around motivation, power, knowledge, and legitimacy;
 - critical systems methodological pluralism;
-- organizational viability/autonomy/cohesion models.
+- organizational viability/autonomy/cohesion models;
+- ecological affordances;
+- capability/conversion-factor accounts of substantive opportunity;
+- niche construction and ecological inheritance;
+- social theories of institutional/structural/productive power.
 
 ## Candidate Root Sequence synthesis
 
@@ -642,7 +873,7 @@ It is not yet a novelty finding.
 
 ---
 
-# 17. A better working picture
+# 23. A better working picture
 
 Rather than:
 
@@ -676,7 +907,7 @@ This is a much stronger epistemic posture.
 
 ---
 
-# 18. Next research tasks
+# 24. Next research tasks
 
 1. Read Ashby's parameter/state and requisite-variety passages at source level and record exact scope.
 2. Compare Root Sequence's **meta-agency** concept against double-loop learning, adaptive governance, and institutional-design literature.
@@ -687,7 +918,9 @@ This is a much stronger epistemic posture.
 7. Compare Root Sequence's boundary/power questions directly against Critical Systems Heuristics before claiming added analytical value.
 8. Compare the cross-domain routing strategy against Critical Systems Thinking's methodological pluralism.
 9. Examine Stafford Beer's Viable System Model for useful organizational continuity/autonomy distinctions without importing its entire architecture.
-10. Do not expand the framework further merely to absorb every predecessor; prefer links and scoped translations.
+10. Compare agency-envelope language directly with affordance landscapes, capabilities/conversion factors, formal reachability, and empowerment/control.
+11. Compare meta-agency against niche construction, double-loop learning, capacity building, institutional design, and theories of structural/institutional power.
+12. Do not expand the framework further merely to absorb every predecessor; prefer links and scoped translations.
 
 ---
 
