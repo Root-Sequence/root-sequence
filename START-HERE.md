@@ -22,7 +22,7 @@ Root Sequence is the public conceptual commons and transdisciplinary research-an
 
 ## Current reality
 
-This is an active, public, evolving body of writing, research, maps, and small tools. Some material is mature; some is exploratory, historical, or explicitly speculative. The canonical research method formalizes a route–synthesize–test–build workflow for cross-field questions. The September 25 Public Seed website source now has exact-source approval for release; that approval covers the website source and publication transformation, not blanket approval of the underlying research, and live deployment remains a separate status. The repository also temporarily hosts an explicitly non-canonical incubation seed for the proposed standalone Commons of Inquiry & Creation project. Root Sequence is not a finished theory, product, institution, or universal explanation.
+This is an active, public, evolving body of writing, research, maps, and small tools. Some material is mature; some is exploratory, historical, or explicitly speculative. The canonical research method formalizes a route–synthesize–test–build workflow for cross-field questions. The September 25 Public Seed website source has exact-source approval and a successful GitHub Pages deployment for the approved commit. That approval covers the website source and publication transformation, not blanket approval of the underlying research; an independent browser fetch of the custom domain has not yet been recorded. The repository also temporarily hosts an explicitly non-canonical incubation seed for the proposed standalone Commons of Inquiry & Creation project. Root Sequence is not a finished theory, product, institution, or universal explanation.
 
 ## The smallest useful map
 
