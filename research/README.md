@@ -6,6 +6,10 @@ This directory holds bounded research inquiries and versioned papers that synthe
 
 - [Conscious Systems](conscious-systems/README.md) — **exploratory, AI-assisted seed; author review pending**. Starts with [what can change about a mind while preserving consciousness](conscious-systems/what-can-we-change-about-a-mind.md), separating experience from report, capability, and authority.
 
+## Cross-cutting related work
+
+- [Adaptive continuity / dynamic coherence — intellectual lineage and prior art](dynamic-coherence-lineage.md) — **targeted related-work note; not a novelty finding or systematic review**. Traces state/parameter change, ultrastability, requisite variety, double-loop learning, resilience engineering, sustained adaptability, adaptive management/governance, path dependence, and second-order cybernetics; also records prior uses of the phrase “dynamic coherence.”
+
 ## Living papers
 
 - [Coherence Is a Systems Property](papers/coherent-systems/README.md) — **v0.1-dev; AI-assisted working draft; author review pending**. Charter, annotated argument, claims ledger, source map, and research questions. Not a reviewed release or a validated theory.
