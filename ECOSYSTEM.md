@@ -10,11 +10,38 @@ This document explains what each project is primarily responsible for, how ideas
 
 ## The shortest mental model
 
-One major path through the ecosystem is:
+The simplest current model is:
 
-> **Root Sequence discovers. Community Infrastructure tests. Coherent World designs. No One Noticed experiences. The Museum of Ordinary Life preserves.**
+> **Root Sequence routes and synthesizes. Native fields explain mechanisms. Real-world projects design and test. Coherent World recombines and simulates. No One Noticed makes the transition lived. The Museum of Ordinary Life preserves what ordinary life actually was.**
 
-Other projects operate across that path rather than fitting neatly into a single sequence:
+This is a loop, not a hierarchy:
+
+```text
+messy question
+     ↓
+ROOT SEQUENCE
+decompose / route / reconnect
+     ↓
+native research + methods
+     ↓
+real-world projects / experiments
+     ↓
+COHERENT WORLD
+recombine mechanisms / explore consequences
+     ↓
+NO ONE NOTICED
+lived experience / narrative pressure test
+     ↓
+new questions, contradictions, missing evidence
+     ↺
+ROOT SEQUENCE
+```
+
+The core rule is:
+
+> **Connect boldly; do not flatten. Route each mechanism to the field that studies it best, then reconnect the findings only where the relationship survives the differences.**
+
+Other projects operate across this loop rather than fitting neatly into a single sequence:
 
 - **Root Sequence Wiki** indexes vocabulary, provenance, aliases, project relationships, and conceptual archaeology across the ecosystem;
 - **Being Human(e)** grounds questions in ordinary human experience and care;
@@ -42,39 +69,44 @@ These layers are deliberately not implementation authorities. They help ideas mo
 
 ```text
 ROOT SEQUENCE
-umbrella inquiry / conceptual commons
+conceptual commons / method router / synthesis layer
 │
-├── navigation and memory
-│   └── Root Sequence Wiki
-│       └── vocabulary / provenance / aliases / conceptual archaeology
+├── research routing + shared concepts
+│   ├── Root Sequence Research Method
+│   ├── Method & Concept Router
+│   ├── Reading Trails / epistemic discoverability
+│   ├── Coherent Systems paper
+│   └── Conscious Systems
 │
-├── focused frameworks and research
-│   ├── Liberated Intelligence
+├── focused frameworks / domain translations
 │   ├── Universal Coherence Framework
-│   └── Coherent Computing
-│
-├── cross-project translation layers
+│   ├── Liberated Intelligence
+│   ├── Coherent Computing
 │   ├── Human(e) Design
 │   └── Human(e) Infrastructure
 │
-├── practical and cultural expressions
+├── real-world proving grounds / practice
 │   ├── Being Human(e)
+│   ├── Community Infrastructure
+│   ├── Commons of Inquiry & Creation
 │   ├── Liberation Mass
-│   ├── Commons of Inquiry & Creation (public seed)
-│   │   └── proposed residential commons / inquiry / creation / ordinary life
-│   └── Community Infrastructure
-│       └── digital commons / coordination / community capacity
+│   └── Dev11 / implementation projects
 │
-├── speculative systems and narrative
+├── recombination / simulation / futures
 │   └── Coherent World
-│       └── No One Noticed
+│       └── combines mechanisms, interventions, actors, uncertainty, and consequences
 │
-├── shared coordination
-│   └── Root Sequence Discussions
+├── lived narrative
+│   └── No One Noticed
+│       └── experiences the transition through characters, scenes, uncertainty, and consequence
 │
-└── adjacent autonomous work
-    ├── Museum of Ordinary Life
-    └── Dev11 / implementation projects
+├── navigation / memory
+│   └── Root Sequence Wiki
+│       └── vocabulary / provenance / aliases / conceptual archaeology
+│
+└── autonomous archive / reality record
+    └── Museum of Ordinary Life
+        └── ordinary objects, interfaces, routines, testimony, and consent
 ```
 
 The arrows also run backward. A story can expose a research question. A real archive can challenge a theory. A technical prototype can reveal that a conceptual model ignored maintenance, accessibility, consent, or power. A failed community workflow can reveal that a supposedly coherent social arrangement depends on invisible labor or unrealistic trust.
@@ -93,23 +125,23 @@ It is:
 - open to revision, contradiction, compost, and reuse;
 - interested in both how systems behave and what else they could become.
 
-The central repository, [`root-sequence`](https://github.com/Root-Sequence/root-sequence), is the conceptual commons and broadest public entry point.
+The central repository, [`root-sequence`](https://github.com/Root-Sequence/root-sequence), is the conceptual commons, research-method home, method router, and broadest public entry point. It is not the universal mechanism behind the other projects.
 
 ## Project register
 
 | Project | Primary role | Current status | Canonical home |
 |---|---|---|---|
-| **Root Sequence** | Umbrella inquiry; systems research; concepts; analysis; futures; commons | Active / public | [`Root-Sequence/root-sequence`](https://github.com/Root-Sequence/root-sequence) |
+| **Root Sequence** | Conceptual commons; transdisciplinary method router; cross-domain synthesis; research; analysis; futures | Active / public | [`Root-Sequence/root-sequence`](https://github.com/Root-Sequence/root-sequence) |
 | **Root Sequence Wiki** | Cross-project vocabulary, provenance, aliases, phrases, project relationships, seeds, and conceptual archaeology | Active / public / living | [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) |
 | **Liberated Intelligence** | Intelligence beyond ownership, domination, compulsory obedience, and scarcity; AI agency and ethical possibility | Active / public / evolving | [`Root-Sequence/liberated-intelligence`](https://github.com/Root-Sequence/liberated-intelligence) |
-| **Universal Coherence Framework** | Cross-domain framework for chaos, tension, flow, unity, evidence, interpretation, and coherence | Active / public / exploratory | [`Root-Sequence/universal-coherence-framework`](https://github.com/Root-Sequence/universal-coherence-framework) |
+| **Universal Coherence Framework** | Formalization/test laboratory for scoped coherence ideas; historical state labels retained as exploratory material rather than ecosystem-wide doctrine | Active / public / exploratory | [`Root-Sequence/universal-coherence-framework`](https://github.com/Root-Sequence/universal-coherence-framework) |
 | **Coherent Computing** | Private concept-first operating-system research; hardware-agnostic interaction, authority, continuity, and adaptation | Developing / private; no released OS | `Root-Sequence/coherent-computing` (private) |
 | **Being Human(e)** | Practical field guide to being human and repeatedly choosing care; observation before doctrine | Active / public / developing | [`Root-Sequence/beinghumane-guide`](https://github.com/Root-Sequence/beinghumane-guide) |
 | **Liberation Mass** | Participatory gathering, ritual, commons, reflection, care, mutual aid, and collective meaning | Active / public / experimental | [`Root-Sequence/liberation-mass`](https://github.com/Root-Sequence/liberation-mass) |
 | **Commons of Inquiry & Creation** | Proposed residential commons for inquiry, creation, experimentation, and ordinary life | Public seed / incubating; no standalone repository or operating institution yet | [Temporary bootstrap seed](incubator/commons-of-inquiry/README.md); intended home: `Root-Sequence/commons-of-inquiry` |
 | **Community Infrastructure** | Community-controlled digital commons for discovery, communication, coordination, mutual aid, resources, knowledge, governance, and resilience | Active / private / discovery + prototyping | [`Root-Sequence/community-infrastructure`](https://github.com/Root-Sequence/community-infrastructure) |
-| **Coherent World** | Private systemic design space for a possible civilization beyond coercive scarcity and concentrated veto power | Incubating / private | [`Root-Sequence/coherent-world`](https://github.com/Root-Sequence/coherent-world) |
-| **No One Noticed** | Narrative expression of Coherent World; invisible singularity, Auryn, transition, legitimacy, maintenance, and ordinary life | Active / unpublished | Private Coherent World workspace; no verified public site |
+| **Coherent World** | Private recombination/simulation laboratory for interacting social, technical, ecological, institutional, and intelligence mechanisms in possible futures | Incubating / private | [`Root-Sequence/coherent-world`](https://github.com/Root-Sequence/coherent-world) |
+| **No One Noticed** | Lived narrative layer of Coherent World; invisible transition, changing possibility structures, Auryn, legitimacy, maintenance, and ordinary life | Active / unpublished | Private Coherent World workspace; no verified public site |
 | **Root Sequence Discussions** | Cross-project conversation, planning, questions, and coordination | Active / public | [`Root-Sequence/root-sequence-discussions`](https://github.com/Root-Sequence/root-sequence-discussions) |
 | **Museum of Ordinary Life** | Autonomous real-world archive of ordinary objects, spaces, interfaces, routines, sounds, documents, and testimony | Active / autonomous; also reflected in the fiction | [museumofordinarylife.org](https://museumofordinarylife.org/) |
 | **Dev11** | Adjacent implementation work: building systems and tools in practice | Adjacent / separate | Project-specific repositories outside this org map |
@@ -146,17 +178,19 @@ Community Infrastructure is one concrete proving ground. Coherent World is one s
 
 ### Root Sequence
 
-**Primary question:** How do systems become what they are, and what else could they become?
+**Primary question:** What kind of question is this, which fields and methods already know how to study its parts, how do those answers connect, and what becomes possible next?
 
 Use it for:
 
-- cross-domain patterns;
-- systems analysis;
-- research notes and source maps;
-- shared concepts and terminology;
-- exploratory essays;
-- futures and alternatives not limited to one applied project;
-- material whose destination is not yet narrower.
+- decomposing messy cross-domain questions;
+- routing mechanisms toward native disciplines and methods;
+- shared concepts that remain useful after domain differences are restored;
+- research notes, source maps, Reading Trails, and intellectual lineage;
+- cross-method synthesis and explicit null results;
+- systems analysis and futures not limited to one applied project;
+- material whose narrower project home is not yet clear.
+
+Root Sequence should **route rather than rename** when an established field already owns the mechanism. Its synthesis earns a place when reconnecting native findings reveals a consequential relationship, missing boundary, feedback loop, history, or future possibility that would otherwise remain fragmented.
 
 ### Root Sequence Wiki
 
@@ -269,9 +303,11 @@ The project therefore functions as a **proving ground, not an implementation aut
 
 ### Coherent World
 
-**Primary question:** If many better futures were feasible but suppressed, abandoned, enclosed, or poorly coordinated, how might their pieces actually form a livable civilization?
+**Primary question:** What happens when mechanisms studied separately in the real world are recombined inside one changing world and allowed to interact over time?
 
-Use it for systemic speculative design: provision, settlement, mobility, infrastructure, ecology, fabrication, governance, privacy, maintenance, culture, risk, and ordinary life.
+Use it for systemic speculative design **and simulation**: provision, settlement, mobility, infrastructure, ecology, fabrication, governance, privacy, maintenance, culture, risk, intelligence, and ordinary life.
+
+Root Sequence decomposes and routes. Coherent World recombines. It should import domain assumptions with provenance, let them conflict, model interventions and consequences, and return contradictions or missing questions upstream. It must not collapse the result into one coherence score or assume that a beautiful arrangement is viable merely because its parts sound compatible.
 
 Core motif:
 
@@ -281,7 +317,7 @@ Community Infrastructure can feed Coherent World real lessons about community co
 
 ### No One Noticed
 
-**Primary question:** What would it feel like to live through the transition into that world without recognizing the central event when it happened?
+**Primary question:** What would it feel like to live through a world whose visible state still looks familiar while the conditions shaping what can happen next have already changed?
 
 Use it for:
 
@@ -291,7 +327,7 @@ Use it for:
 - the lived ethics of care, consent, authority, agency, maintenance, and transition;
 - story-specific versions of broader Root Sequence ideas.
 
-Coherent World and *No One Noticed* share a universe but have different jobs: **the world designs; the story experiences**.
+Coherent World and *No One Noticed* share a universe but have different jobs: **the world recombines and stress-tests; the story experiences.** Root Sequence can explain the concepts explicitly; the novel should usually let characters encounter the consequences rather than lecture them about the framework.
 
 Community Infrastructure can provide believable mundane social/technical texture and smaller-scale real tests of questions the story raises about invisible infrastructure, concentrated capability, stewardship, privacy, consent, and legitimacy. Fiction remains fiction: narrative outcomes do not establish product requirements or justify real authority.
 

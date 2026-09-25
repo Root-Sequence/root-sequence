@@ -1,5 +1,38 @@
 # Changelog
 
+## v0.1-dev — 2026-09-25 — Relational coherence and router-role revision
+
+Revised the paper after the September 24–25 adaptive-continuity work and three
+T-003 editorial method comparisons.
+
+The abstract no longer presents a general coherence review procedure as the
+paper's primary methodological contribution. Coherence is now stated more
+explicitly as a **relational claim** that must name what is claimed to fit with
+what, for whom, within which boundary and timescale.
+
+Section 12 now records the narrower workflow: decompose the situation, route
+mechanism-level questions to competent native methods, preserve evidence
+boundaries, reconnect the analyses, and test whether the synthesis changes a
+consequential question or merely restates existing work.
+
+Recorded the actual editorial comparison result:
+
+- two Cloudflare technical-incident pilots found no clearly unique
+  decision-relevant Dynamic Coherence finding over competent ordinary review;
+- the NDSS pilot found service/accessibility analysis, capability-oriented
+  analysis, and simplified Critical Systems Heuristics owned the native
+  mechanisms while Root Sequence mainly supplied cross-method synthesis;
+- all three are same-process AI-assisted editorial pilots, not independent
+  validation.
+
+Updated C-003 and C-012 accordingly. The current claim is **routing/synthesis
+may add value**, not that a standalone coherence method has demonstrated
+advantage.
+
+No byline, publication approval, independent review, or empirical validation is
+created by this revision.
+
+
 ## v0.1-dev — 2026-09-24 — Emergence and accountability case reading
 
 Added a bounded case note on Andrew Witty's 2024 patchwork-healthcare argument, distinguishing whole-system history from present component-level decisions and their accountability. Corrected the preceding conversation's source attribution: the quotation was in his December 13 guest essay, while the investor booklet documents UnitedHealth Group's stated strategy. The note separates source-backed observations, interpretations, hypotheses, and an unrun C-012 application; it is distinct from the Obermeyer cost-proxy study. Three sources and their limited coverage are recorded in the bibliography and source map.

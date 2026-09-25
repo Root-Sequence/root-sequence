@@ -7,7 +7,11 @@
 
 ## Provisional abstract
 
-Aligning an intelligent system with its operator's objective does not, by itself, establish that its effects are acceptable to those affected by its operation. This paper proposes a relational approach to examining intelligence alongside the institutions, infrastructures, and environments through which it acts. It distinguishes functional performance—whether a system produces specified behavior—from coherence and from normative legitimacy. Coherence also requires relevant relationships, power, affected people, dependencies, and consequences to remain inside the assessment boundary; an effective process that excludes or suppresses them may exhibit false coherence rather than genuine fit. These questions cannot be settled by internal consistency or technical competence alone. The proposed method tracks boundaries, displaced costs, material constraints, disagreement, and the capacity to revise decisions as conditions change. Coherence is treated as a situated direction of inquiry, not a universal score, an inevitable trajectory, or a final state. Optimization remains a useful bounded technique rather than a substitute for choosing and contesting purposes. Speculative scenarios and recovered possibilities are used to generate hypotheses, while evidence and explicit tests determine what can be claimed about the world. The intended contribution is a review procedure and research agenda linking these concerns across scales. This version connects provisional definitions and a constructed example to selected prior work and a published healthcare case. It reports no new field findings, validated measure, or demonstrated advantage over existing approaches.
+Aligning an intelligent system with an operator's objective does not, by itself, establish that its effects are acceptable to people and systems affected by its operation. This paper develops a **relational** account of coherence: not a quantity possessed by a system as a whole, but a situated claim about fit among specified assumptions, behaviors, dependencies, purposes, relationships, and consequences over a stated boundary and timescale. Functional performance, coherence, and normative legitimacy remain distinguishable even when they interact.
+
+The paper also narrows its original methodological ambition. Early drafts proposed a general coherence-review procedure. Three AI-assisted editorial comparisons subsequently failed to show clearly unique decision-relevant findings over competent native analyses: an ordinary technical incident review in two Cloudflare pilots, and a service/accessibility + capability + Critical Systems Heuristics comparison in an NDSS pilot. Those exercises are not independent validation, but they are enough to reject a stronger claim that coherence analysis should replace domain methods. The revised proposal is instead a **routing and synthesis role**: identify the different question-types coupled in a real situation, route mechanism-level questions to the fields and methods that study them, then reconnect the results without collapsing their differences.
+
+Coherence therefore remains a direction of inquiry rather than a universal score, final state, or master method. Optimization remains a useful bounded technique. Speculative scenarios and recovered possibilities generate hypotheses rather than evidence. The intended contribution is now a relational vocabulary, a transparent research method, and a testable account of where cross-domain synthesis may help preserve boundaries, power, feedback, history, and revisability across otherwise separated analyses. No new field findings, validated measure, independent reviewer result, or demonstrated comparative advantage are claimed.
 
 ## 1. The problem is larger than an individual objective
 
@@ -43,7 +47,9 @@ Meadows discusses intervention through information flows, rules, and system goal
 
 **Anchor: C-003.** The current [coherence model](../../../systems/coherence/model.md) concerns the fit between structure, assumptions, and reality. We retain that diagnostic meaning rather than silently redefining it as goodness.
 
-**Proposed working distinction:** *Functional performance describes whether a system produces specified behavior. Coherence asks whether its assumptions, behavior, dependencies, purposes, relationships, and consequences remain in contact with the conditions in which it operates.*
+**Proposed working distinction:** *Functional performance describes whether a system produces specified behavior. A coherence claim describes a specified relation of fit among assumptions, behavior, dependencies, purposes, relationships, consequences, and operating conditions within a stated boundary and timescale.*
+
+This revision matters because "the system is coherent" is usually underspecified. Prefer claims such as **coherent with respect to** a protocol, purpose, dependency, affected group, operating condition, or repair path. Different relations can improve or deteriorate independently; a system may fit one objective while conflicting with another relationship or externalizing costs elsewhere. Coherence therefore does not automatically support a total ordering of whole systems.
 
 Normative assessment asks a distinguishable but interacting set of questions: whose purposes are recognized, who bears costs, who has a legitimate right to make or enforce which decisions, and what objections remain? A seriously coercive arrangement can be internally consistent and operationally effective while remaining incoherent and illegitimate. Successful target execution establishes functional performance, not coherence. If apparent order depends on domination, suppressed dissent or feedback, hidden externalized costs, or an artificially narrow boundary, this paper calls it **false coherence**. Concealment is not required: “false” describes mistaking controlled stability for coherence. The term describes a mechanism of apparent fit, not merely the author's disapproval.
 
@@ -117,24 +123,37 @@ For a hypothetical shift from car-dependent access to other forms of access, ask
 
 Changing financing does not eliminate requirements for energy, materials, time, physical access, ecological limits, or agreement about burdens.
 
-## 12. Proposed review procedure and research agenda
+## 12. Routing, synthesis, and the research agenda
 
-**Anchor: C-012.** The first candidate procedure is a short written assessment, not a numerical coherence score:
+**Anchor: C-012.** The original draft proposed a general relational review procedure. The current evidence does not justify treating that procedure as a new standalone method.
 
-1. **Boundary and purpose:** What is changing, whose purposes count, which dependencies and timescales are included, and what is excluded?
-2. **Conditions and consequences:** Which assumptions must hold; what material limits, feedback, displaced costs, and failure modes matter?
-3. **Decision rights, power, and difference:** Who can formally authorize, practically compel or block, contest, refuse, or revise; what are the source, scope, limits, duration, and review path of those powers; what disagreement and privacy constraints remain?
-4. **Comparison and revision:** What baseline and alternative are considered; which outcomes would contradict the claimed improvement; when does review occur?
+Root Sequence now uses a different sequence:
 
-Test whether this procedure identifies consequential omissions beyond an existing competent system review. Do not compare it only with an artificially weak checklist. Record reviewer effort, disagreement, false alarms, and failures to detect known issues.
+1. **Decompose the situation.** Identify the different question-types coupled in the same case: technical reliability, accessibility, substantive opportunity, power, governance, ecological effects, identity, history, or another mechanism.
+2. **Route to native methods.** Use the strongest appropriate domain methods first. A technical incident may need reliability or safety analysis; a substantive-opportunity question may need capability/accessibility analysis; a contested boundary or decision-right question may need Critical Systems Heuristics or another participatory/critical method.
+3. **Preserve evidence boundaries.** Give each method the evidence needed for its own question and keep empirical findings, formal models, normative judgments, analogies, and hypotheses distinct.
+4. **Reconnect the analyses.** Ask how the native findings interact across timescale, feedback, dependency, power, path dependence, and future revision. Do not rename the native mechanism as "coherence" merely because the findings are connected.
+5. **Test the synthesis.** Record whether the cross-method view changes a decision, reveals a consequential omission, reduces fragmentation, or merely restates what the native methods already showed. **No added value** is an acceptable result.
 
-The [comparison plan](notes/related-work.md#candidate-comparison-for-t-003-not-a-completed-study) identifies STPA as a candidate method to examine where appropriate. STPA already specifies boundaries, stakeholder losses, feedback, and causal scenarios.[^stpa2018] We must check baseline fidelity and use equivalent information before claiming additional value. A retrospective reading of a known case is not a blinded discovery test.
+The canonical [Root Sequence Research Method](../../method.md) and [Method & Concept Router](../../method-router.md) now describe this workflow. They are project methods, not validated universal methodologies.
 
-The [research questions](open-questions.md) distinguish three activities. T-001 has an initial editorial set of fictional cases, but no independent reviewer study. T-002 now has a reproducible synthetic model in UCF. T-003, the added-value comparison against a competent baseline, has not been run. These statuses do not amount to empirical validation.
+### Editorial comparisons so far
+
+T-003 has now been exercised in three AI-assisted editorial pilots:
+
+- **Cloudflare Pilot 001:** competent ordinary incident/system review versus the frozen dynamic-coherence prompt, with source-authored remediation present.
+- **Cloudflare Pilot 002:** the same comparison with the remediation section withheld from the written packet.
+- **NDSS Pilot 003:** competent service/accessibility review + capability-oriented analysis + simplified Critical Systems Heuristics versus the Root Sequence synthesis layer.
+
+Across all three, the Root Sequence / Dynamic Coherence layer produced **no clearly evidence-supported, decision-relevant native mechanism that was substantively absent from competent baseline analyses**. Its recurring value was integrative: state-versus-transition framing, feedback across boundaries, burden shifting, path dependence, continuity, and the relationship between findings owned by different methods.
+
+These are weak editorial results because the same AI-assisted research process helped prepare the framework, evidence packets, outputs, and coding; the NDSS analyst was also not genuinely blind to source recommendations. They cannot establish comparative performance. They can, however, narrow the paper's present claim: **coherence analysis should route and synthesize rather than replace competent native methods.**
+
+The next legitimate T-003 gate is independent human/domain review on a separately frozen case, with method fidelity and independent coding. A null result should narrow the framework further rather than trigger prompt-tuning until it "wins."
 
 ## Limitations and counterarguments
 
-**Possible relabeling.** Systems engineering, sociotechnical alignment, participatory design, and other traditions may already supply these tools. A literature review and a comparative evaluation are necessary before claiming added value.
+**Method ownership and relabeling.** The editorial pilots already show that many important mechanisms belong to established methods: reliability/service analysis, capability-oriented analysis, Critical Systems Heuristics, accessibility research, organizational learning, cybernetics, and others. The paper should claim cross-domain synthesis only where that synthesis changes a consequential question or relationship. Otherwise it should route rather than rename.
 
 **Ambiguous boundaries.** “The wider system” can expand indefinitely. The method needs a stopping rule and an account of consequential exclusions.
 
@@ -146,11 +165,11 @@ The [research questions](open-questions.md) distinguish three activities. T-001 
 
 **Coordination and urgency.** Distributed decision rights and practical power, reversibility, and repeated review have costs; some decisions are time-sensitive or cannot be undone. The proposal must handle these cases instead of treating them as exceptions to be ignored.
 
-**Conditional improvement.** A useful result in one bounded task does not validate a universal theory or a whole imagined society. Null results and counterexamples must remain part of the record.
+**Conditional improvement.** A useful result in one bounded task does not validate a universal theory or a whole imagined society. The three editorial T-003 pilots currently support only a routing/synthesis role, not method superiority. Null results, contamination, counterexamples, and failures to add value must remain part of the record.
 
 ## AI assistance and review status
 
-ChatGPT assisted with research organization, source discovery, substantive drafting and critique, and the earlier synthetic-example code. Source inspection and implementation checks do not stand in for the author's judgment or independent review. Those reviews remain pending. The [AI-assistance record](AI-ASSISTANCE.md) states the scope, reproducibility limits, and approval checkpoint; no approved byline or submission is inferred from this draft.
+ChatGPT assisted with research organization, source discovery, substantive drafting and critique, the earlier synthetic-example code, the three T-003 editorial method comparisons, and the subsequent narrowing of the paper's methodological claim. The same AI-assisted process helped generate and evaluate those pilots, so they are editorial method-debugging evidence rather than independent validation. Source inspection and implementation checks do not stand in for the author's judgment or independent review. Those reviews remain pending. The [AI-assistance record](AI-ASSISTANCE.md) states the scope, reproducibility limits, and approval checkpoint; no approved byline or submission is inferred from this draft.
 
 ## References
 
