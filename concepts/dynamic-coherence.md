@@ -74,8 +74,8 @@ The arrows are a routing map, not a causal theory. Different domains implement h
 | **Adaptive continuity** | Persistence through change: preserving or rebuilding enough organization, capability, relationship, or lineage for meaningful continuation. |
 | **Dynamic coherence** | Examining coherence across change, feedback, scale, and time rather than only static consistency. |
 | **Path dependence** | Earlier states or events alter later reachable possibilities or response dynamics. |
-| **Agency envelope** | The meaningful reachable possibilities an actor can perceive, access, influence, refuse, or help create; currently a working concept, not a validated metric. |
-| **Meta-agency** | Capacity to alter the conditions that shape later agency. |
+| **Agency envelope** | Project shorthand for a **layered map**, not a latent quantity: embodied affordances, formal reachability, substantive opportunity, knowledge/perception, authorization, resources/support, causal influence, and power over conditions may all differ. |
+| **Meta-agency** | Provisional umbrella for mechanisms that alter later agency conditions, including self-modification, environment modification, institutional change, and capacity building; not one validated faculty. |
 | **Attractor-like pattern** | A persistent or self-reinforcing regime described by analogy to dynamical systems unless a formal attractor is actually modeled. |
 | **Maladaptation / mismatch** | A response that is ineffective or costly under relevant current conditions, including responses that once fit different conditions. |
 | **Reflexivity** | A model, measurement, prediction, or intervention changes the system being modeled. |
@@ -170,9 +170,19 @@ What can occur from the present state under actual material, temporal, instituti
 
 Which reachable possibilities an actor can perceive, understand, access, influence, refuse, or help create.
 
-For now, this page calls the third region an **agency envelope**.
+For now, this page calls the layered relationship among these conditions an **agency envelope**.
 
-This is a Root Sequence working term, not an established scientific metric.
+This is a Root Sequence working shorthand, not an established scientific metric or one latent property.
+
+The [intellectual-lineage note](../research/dynamic-coherence-lineage.md) now decomposes it against several established neighbors:
+
+- **affordances** — organism/environment action possibilities;
+- **capabilities** — real or substantive human opportunities under personal, social, and environmental conversion factors;
+- **viability / reachability** — formally reachable trajectories under stated constraints;
+- **empowerment / control** — causal influence over later observable states in specific formal models;
+- **boundary / power analysis** — who controls the conditions, resources, rules, or institutions shaping action.
+
+The point of the project term is to keep those dimensions visible together when a real system couples them—not to replace their native theories.
 
 An agency envelope can be narrowed by:
 
@@ -234,9 +244,18 @@ Examples include:
 - preserving an exit path;
 - establishing a right to appeal.
 
-This page provisionally calls that **meta-agency**:
+This page provisionally calls that family of effects **meta-agency**:
 
-> **the capacity to influence the future structure of one's own or a group's agency envelope.**
+> **changing the conditions that will shape future agency.**
+
+The term should not imply one mechanism. The same surface description may involve very different processes:
+
+- **self-modification:** learning, habit change, revised governing assumptions or policies;
+- **environment modification:** changing material affordances or infrastructure;
+- **institutional modification:** changing rules, rights, standards, ownership, or decision processes;
+- **capacity building:** adding skills, resources, relationships, redundancy, accessibility, or support.
+
+Relevant prior literatures include double-loop learning, niche construction, the capability approach, adaptive governance, affordance theory, and theories of institutional/structural power.
 
 Meta-agency is not unlimited self-authorship. People do not choose their initial bodies, histories, institutions, resources, social positions, or many of the events that shape them. Collective attempts to widen one group's possibilities can also narrow another group's possibilities.
 
@@ -727,8 +746,8 @@ These are candidates for testing, not doctrine.
 1. **Continuity can depend on transformation rather than sameness.**
 2. **History can change a system's transition dynamics, not only its current state.**
 3. **An adaptation can be locally useful and later costly, or coherent at one scale and incoherent at another.**
-4. **Agency concerns effective reachable possibilities, not the nominal count of options.**
-5. **Meta-agency concerns the capacity to shape the conditions of future agency.**
+4. **Agency cannot be inferred from the nominal count of options; embodied affordances, knowledge, substantive feasibility, authorization, support, causal control, and power may differ.**
+5. **Actions can reshape future agency through several distinct mechanisms; name the mechanism rather than treating meta-agency as one faculty.**
 6. **A resilient system may restore, adapt, or transform; resilience is not automatically beneficial.**
 7. **Maximum order, stability, or optimization is not the same as dynamic coherence.**
 8. **Emergent patterns matter partly because they reshape later constraints and possibilities.**
@@ -915,7 +934,7 @@ These sources support pieces of the vocabulary, not the whole synthesis.
 
 ## 22. Next research questions
 
-1. Can “agency envelope” be operationalized without reducing agency to a scalar?
+1. Does “agency envelope” add useful integrative legibility after decomposing it into affordances, capabilities, reachability, authorization, support, control, and power—or should the shorthand be retired?
 2. Which established literatures already capture the distinction between changing state and changing transition dynamics more precisely?
 3. How should dynamic coherence relate to viability theory, control theory, enactivism, ecological resilience, cybernetics, and complex adaptive systems?
 4. When is preserving future flexibility beneficial, and when does it undermine necessary commitment or coordination?
