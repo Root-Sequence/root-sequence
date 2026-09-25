@@ -192,6 +192,56 @@ A system should preserve enough documentation, provenance, naming, history, and 
 
 ---
 
+## Epistemic discoverability
+
+Legibility can fail **before** someone reaches the system.
+
+A person may recognize a pattern, problem, or need while lacking the specialist vocabulary required to find the relevant:
+
+- documentation;
+- field;
+- standard;
+- research community;
+- diagnostic;
+- repair method;
+- source;
+- expert;
+- alternative implementation.
+
+[Epistemic Discoverability and Knowledge Routing](epistemic-discoverability.md) develops this problem directly.
+
+For Legible Systems, the implication is:
+
+> **Do not require people to know the system's preferred vocabulary before the system will help them discover that vocabulary.**
+
+Practical patterns include:
+
+- aliases and ordinary-language entry points;
+- explanations that introduce the canonical term after the concept;
+- visible "related concepts / neighboring fields" routes;
+- searchable error messages that preserve both plain language and technical identifiers;
+- documentation that says what question a page helps answer, not only its internal component name;
+- paths from explanation → specification → source;
+- multiple representations and terminology bridges.
+
+The principle extends progressive legibility outward:
+
+    encounter / question
+          ↓
+    recognizable language
+          ↓
+    system terminology
+          ↓
+    deeper model
+          ↓
+    source / mechanism
+          ↓
+    independent navigation
+
+A system is more legible when participation helps people acquire the vocabulary needed to become **less dependent on the original interface or explainer**.
+
+---
+
 ## Learning should be a property of the system
 
 Legible Systems collapses a common separation between **the thing** and **the course explaining the thing**.
