@@ -4,7 +4,7 @@
 
 <!-- START-HERE-META
 format: 1
-review_sources: README.md, ECOSYSTEM.md, root_map.md, IDEA_TRAILS.md, THOUGHT_ROUTING.md
+review_sources: README.md, ECOSYSTEM.md, root_map.md, IDEA_TRAILS.md, THOUGHT_ROUTING.md, site/README.md, site/approval.json
 review_when: scope, status, structure, routing, or active-frontier changes
 END-START-HERE-META -->
 
@@ -22,7 +22,7 @@ Root Sequence is the public conceptual commons and transdisciplinary research-an
 
 ## Current reality
 
-This is an active, public, evolving body of writing, research, maps, and small tools. Some material is mature; some is exploratory, historical, or explicitly speculative. The canonical research method now formalizes a route–synthesize–test–build workflow for cross-field questions. The revised Public Seed website source reflects that role but remains an unapproved review candidate; the last approved edition is still the September 18 public seed, and release remains blocked. The repository also temporarily hosts an explicitly non-canonical incubation seed for the proposed standalone Commons of Inquiry & Creation project. Root Sequence is not a finished theory, product, institution, or universal explanation.
+This is an active, public, evolving body of writing, research, maps, and small tools. Some material is mature; some is exploratory, historical, or explicitly speculative. The canonical research method formalizes a route–synthesize–test–build workflow for cross-field questions. The September 25 Public Seed website source now has exact-source approval for release; that approval covers the website source and publication transformation, not blanket approval of the underlying research, and live deployment remains a separate status. The repository also temporarily hosts an explicitly non-canonical incubation seed for the proposed standalone Commons of Inquiry & Creation project. Root Sequence is not a finished theory, product, institution, or universal explanation.
 
 ## The smallest useful map
 
@@ -35,7 +35,7 @@ This is an active, public, evolving body of writing, research, maps, and small t
 
 ## Where it fits
 
-Root Sequence asks broad questions. Other repositories transform selected questions: Liberated Intelligence focuses on intelligence and agency; UCF tests one analytical vocabulary; Being Human(e) grounds ordinary experience; Liberation Mass explores embodied practice; Community Infrastructure tests present-day systems; Coherent World designs speculative systems; and the Wiki helps people navigate names and relationships. Commons of Inquiry & Creation is currently a public bootstrap seed here, intended for a standalone repository; hosting the seed does not give Root Sequence governance authority over any future community.
+Root Sequence asks broad questions and routes mechanisms to native fields and methods. Other repositories transform selected questions: Liberated Intelligence focuses on intelligence and agency; UCF tests one analytical vocabulary; Being Human(e) grounds ordinary experience; Liberation Mass explores embodied practice; Community Infrastructure tests present-day systems; Coherent World recombines mechanisms and stress-tests consequences in simulation; *No One Noticed* makes transition lived through narrative; and the Wiki helps people navigate names and relationships. Commons of Inquiry & Creation is currently a public bootstrap seed here, intended for a standalone repository; hosting the seed does not give Root Sequence governance authority over any future community.
 
 ## What to do next
 
