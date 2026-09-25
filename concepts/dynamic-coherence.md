@@ -33,6 +33,55 @@ A working formulation is:
 
 This is intentionally not a definition of health, goodness, consciousness, intelligence, or legitimacy. A harmful system can be adaptive, resilient, stable, or historically persistent. A system can preserve itself by narrowing other people's possibilities. Any normative use must therefore name boundaries, affected parties, power, and costs.
 
+## Concept map
+
+```mermaid
+flowchart TD
+    H["History / path dependence"] --> T["Transition dynamics"]
+    E["Embodiment + environment"] --> T
+    T --> S["Current state"]
+    C["Constraints + affordances"] --> P["Reachable possibility space"]
+    S --> P
+    T --> P
+    P --> A["Agency envelope"]
+    A --> I["Action / intervention"]
+    I --> K["Consequences"]
+    K --> F["Feedback / learning"]
+    F --> T
+    I --> E
+    K --> H
+
+    T --> ID["Continuity / identity"]
+    T --> EM["Emergent patterns"]
+    EM --> C
+    EM --> H
+
+    P --> DC["Dynamic-coherence questions"]
+    F --> DC
+    C --> DC
+    H --> DC
+
+    AI["Artificial systems"] -. "functional analogy does not establish experience" .-> T
+    CS["Consciousness questions"] -. "overlaps but is not identical to identity" .-> ID
+```
+
+The arrows are a routing map, not a causal theory. Different domains implement history, feedback, agency, embodiment, and viability in different ways.
+
+## Quick vocabulary
+
+| Term | Root Sequence working use |
+| --- | --- |
+| **Adaptive continuity** | Persistence through change: preserving or rebuilding enough organization, capability, relationship, or lineage for meaningful continuation. |
+| **Dynamic coherence** | Examining coherence across change, feedback, scale, and time rather than only static consistency. |
+| **Path dependence** | Earlier states or events alter later reachable possibilities or response dynamics. |
+| **Agency envelope** | The meaningful reachable possibilities an actor can perceive, access, influence, refuse, or help create; currently a working concept, not a validated metric. |
+| **Meta-agency** | Capacity to alter the conditions that shape later agency. |
+| **Attractor-like pattern** | A persistent or self-reinforcing regime described by analogy to dynamical systems unless a formal attractor is actually modeled. |
+| **Maladaptation / mismatch** | A response that is ineffective or costly under relevant current conditions, including responses that once fit different conditions. |
+| **Reflexivity** | A model, measurement, prediction, or intervention changes the system being modeled. |
+| **Downward constraint** | A system-level pattern reshapes local possibilities through identifiable channels such as rules, architecture, norms, allocation, or enforcement. |
+| **Viability** | Continued functioning or persistence under an explicitly stated criterion; not automatically a moral good. |
+
 ---
 
 ## 1. The key move: separate state from the way state changes
