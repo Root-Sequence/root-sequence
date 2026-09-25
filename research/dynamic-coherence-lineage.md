@@ -779,7 +779,112 @@ It is:
 
 ---
 
-# 20. Prior use of the phrase “dynamic coherence”
+# 20. Biological individuality: the organism is already a contested systems boundary
+
+The question "what makes this one living individual?" is itself an active topic in biology and philosophy of biology.
+
+The contemporary literature distinguishes multiple notions of biological individuality, including:
+
+- evolutionary individuals;
+- physiological individuals;
+- developmental and other candidate forms.
+
+A physiological individual is often characterized through functional integration, metabolic organization, regulation, and persistence through time.
+
+Source:
+
+- [Stanford Encyclopedia of Philosophy: Biological Individuals](https://plato.stanford.edu/entries/biology-individual/)
+
+## Relation to Root Sequence
+
+This strongly supports one of the project's methodological cautions:
+
+> **Do not assume that organism, cognitive system, conscious subject, legal person, social identity, and autobiographical self have one identical boundary.**
+
+Even biology itself can require several individuality criteria for different explanatory tasks.
+
+That means the original personal-identity rabbit hole should remain plural:
+
+- organismic continuity;
+- physiological continuity;
+- causal/developmental trajectory;
+- autobiographical continuity;
+- social/legal continuity;
+- subjective continuity;
+
+may overlap without being equivalent.
+
+---
+
+# 21. Autopoiesis and organizational closure: identity through self-maintaining organization
+
+Autopoietic and organizational approaches to biology provide serious predecessors for the intuition that living identity concerns **ongoing organization**, not persistence of unchanged material components.
+
+Maturana and Varela's autopoiesis characterizes living systems in terms of networks of processes that produce and maintain the components and organization that constitute the system.
+
+Later organizational approaches develop related accounts through **closure of constraints**.
+
+Montévil and Mossio's formulation distinguishes:
+
+- thermodynamically open processes;
+- constraints that act on those processes while exhibiting relative stability at relevant timescales;
+- organizational closure in which constraints depend on and maintain one another.
+
+Source:
+
+- Maël Montévil & Matteo Mossio, "Biological organisation as closure of constraints," *Journal of Theoretical Biology* 372 (2015), 179–191. DOI: 10.1016/j.jtbi.2015.02.029
+
+Di Paolo's enactive work then argues that autopoiesis alone is insufficient for a richer account of sense-making and introduces **adaptivity** relative to conditions of viability.
+
+Source:
+
+- Ezequiel Di Paolo, "Autopoiesis, Adaptivity, Teleology, Agency," *Phenomenology and the Cognitive Sciences* 4 (2005), 429–452. DOI: 10.1007/s11097-005-9002-y
+
+## Relation to personal identity
+
+These theories do **not** prove:
+
+- that an autobiographical person is identical to one biological organization;
+- that organizational closure is sufficient for consciousness;
+- that a copied organization preserves the same subject;
+- that human personal identity has one necessary biological criterion.
+
+They do give technical substance to the statement:
+
+> **A living system can preserve an organizational identity while continuously exchanging matter and changing internal state.**
+
+That is a much stronger basis for the earlier "you are something your organism does" intuition than the metaphor alone.
+
+---
+
+# 22. Sense-making: environments matter differently to different living systems
+
+Enactive accounts introduce **sense-making** to describe behavior in relation to environmental significance or valence grounded in the organism's autonomy and viability.
+
+A tomato, temperature change, toxin, shelter, social cue, or resource is not merely an abstract state variable; its significance depends on the living system and its organization.
+
+Overview:
+
+- Di Paolo (2005), above.
+- organism–environment discussion: https://pmc.ncbi.nlm.nih.gov/articles/PMC7358536/
+
+## Relation to Root Sequence
+
+This is relevant to the distinction between:
+
+- an objectively present condition;
+- an affordance;
+- a condition perceived as relevant;
+- a valued or threatening condition;
+- the action that becomes salient.
+
+It gives another reason an "agency envelope" cannot be one objective set drawn entirely from outside the actor.
+
+But Root Sequence must not infer a person's subjective significance merely from external system structure.
+
+---
+
+# 23. Prior use of the phrase “dynamic coherence”
 
 The phrase **dynamic coherence** is not original to Root Sequence and is not unambiguous.
 
@@ -820,7 +925,7 @@ No naming decision is made by this note.
 
 ---
 
-# 21. “Adaptive continuity” also has unrelated prior uses
+# 24. “Adaptive continuity” also has unrelated prior uses
 
 The phrase **adaptive continuity** also appears in other domains, including recent engineering and urban-network work.
 
@@ -830,7 +935,7 @@ That does not make the phrase unusable, but it reinforces the same rule:
 
 ---
 
-# 22. What looks genuinely old versus potentially distinctive
+# 25. What looks genuinely old versus potentially distinctive
 
 ## Strong predecessors / not novel as components
 
@@ -851,7 +956,9 @@ That does not make the phrase unusable, but it reinforces the same rule:
 - ecological affordances;
 - capability/conversion-factor accounts of substantive opportunity;
 - niche construction and ecological inheritance;
-- social theories of institutional/structural/productive power.
+- social theories of institutional/structural/productive power;
+- biological-individuality pluralism;
+- autopoiesis, organizational closure, and enactive adaptivity.
 
 ## Candidate Root Sequence synthesis
 
@@ -873,7 +980,7 @@ It is not yet a novelty finding.
 
 ---
 
-# 23. A better working picture
+# 26. A better working picture
 
 Rather than:
 
@@ -907,7 +1014,7 @@ This is a much stronger epistemic posture.
 
 ---
 
-# 24. Next research tasks
+# 27. Next research tasks
 
 1. Read Ashby's parameter/state and requisite-variety passages at source level and record exact scope.
 2. Compare Root Sequence's **meta-agency** concept against double-loop learning, adaptive governance, and institutional-design literature.
@@ -920,7 +1027,8 @@ This is a much stronger epistemic posture.
 9. Examine Stafford Beer's Viable System Model for useful organizational continuity/autonomy distinctions without importing its entire architecture.
 10. Compare agency-envelope language directly with affordance landscapes, capabilities/conversion factors, formal reachability, and empowerment/control.
 11. Compare meta-agency against niche construction, double-loop learning, capacity building, institutional design, and theories of structural/institutional power.
-12. Do not expand the framework further merely to absorb every predecessor; prefer links and scoped translations.
+12. Compare personal-identity claims against biological-individuality, autopoiesis/organizational-closure, and process-ontology work without treating any as a consciousness theory.
+13. Do not expand the framework further merely to absorb every predecessor; prefer links and scoped translations.
 
 ---
 
