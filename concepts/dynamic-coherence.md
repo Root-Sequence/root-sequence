@@ -629,6 +629,62 @@ Do not promote an analogy simply because it is beautiful.
 
 ---
 
+## 16A. Method role: a routing grammar, not a universal analyzer
+
+Two AI-assisted editorial pilots on the same technical incident compared a competent ordinary incident/system review with the frozen dynamic-coherence review prompt.
+
+Both pilots were deliberately weak forms of evidence:
+
+- the same AI-assisted research process prepared the packet, generated both reviews, and coded the findings;
+- no independent reviewers participated;
+- no STPA or other specialist method was applied;
+- no human burden was measured.
+
+Still, both pilots produced the same useful warning.
+
+The ordinary review recovered nearly every decision-relevant finding produced by Dynamic Coherence and surfaced one concrete containment action—request execution bounds—that the dynamic prompt omitted twice.
+
+That result supports a narrower role:
+
+> **Dynamic Coherence should not compete with competent domain methods for mechanism-level analysis. It should route attention across history, transition dynamics, future possibility, scale, feedback, continuity, revision power, and externalized effects—then hand the actual mechanism back to the relevant domain method.**
+
+Examples:
+
+- use reliability engineering for a service failure;
+- use STPA or another safety method where appropriate;
+- use the capability approach for substantive human opportunity;
+- use viability/control methods for formal reachability;
+- use clinical and trauma research for trauma;
+- use neuroscience/philosophy methods for consciousness;
+- use accessibility research for actual access;
+- use ecological resilience theory for ecological resilience.
+
+Dynamic Coherence earns its place only if it helps connect or expose questions that would otherwise remain separated **without pretending those connections replace domain expertise**.
+
+### Current evidence from T-003 editorial pilots
+
+Pilot 001 included source-authored remediation. Pilot 002 withheld that remediation section.
+
+In both:
+
+- Method D had **zero** findings coded simultaneously as evidence-supported, decision-relevant, and substantively absent from Method A;
+- Method A surfaced a concrete request-execution containment action not explicitly surfaced by Method D;
+- Method D's strongest added value was integrative framing, especially the contraction of recovery options and state-versus-transition distinctions.
+
+This is a **near-null result for Dynamic Coherence as a standalone technical review method**.
+
+It is compatible with a useful role as conceptual grammar.
+
+See:
+
+- [T-003 protocol](../research/papers/coherent-systems/notes/t003-added-value-protocol.md)
+- [Pilot 001 comparison](../research/papers/coherent-systems/notes/t003-editorial-pilot-001-comparison.md)
+- [Pilot 002 comparison](../research/papers/coherent-systems/notes/t003-editorial-pilot-002-comparison.md)
+
+The same-case stop rule now applies. Do not tune the framework further against that incident.
+
+---
+
 ## 17. Candidate Root Sequence principles
 
 These are candidates for testing, not doctrine.
