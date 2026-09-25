@@ -390,7 +390,169 @@ Root Sequence's reflexivity work should engage this lineage directly.
 
 ---
 
-# 12. Prior use of the phrase “dynamic coherence”
+# 12. Soft systems and critical systems: boundaries, worldviews, power, legitimacy
+
+The strongest prior-art correction to the **power / boundary / legitimacy** side of Root Sequence comes from Soft Systems Methodology (SSM), Critical Systems Heuristics (CSH), and Critical Systems Thinking (CST).
+
+These traditions already reject the idea that a systems analyst can simply draw a neutral boundary, optimize the enclosed system, and call the result rational.
+
+## Soft Systems Methodology
+
+Checkland's Soft Systems Methodology treats human problem situations as involving multiple legitimate descriptions and worldviews rather than one objectively given problem statement.
+
+Its well-known CATWOE mnemonic asks analysts to make explicit:
+
+- **Customers** — people who benefit or suffer from the transformation;
+- **Actors** — those carrying out the activities;
+- **Transformation** — what change is being described;
+- **Weltanschauung / worldview** — the perspective that makes the transformation meaningful;
+- **Owner** — who has power to stop or alter the system;
+- **Environmental constraints** — conditions treated as outside local control.
+
+That is very close to Root Sequence's repeated insistence that:
+
+- system boundaries are choices;
+- purposes are not neutral;
+- several actors can experience the same intervention differently;
+- authority over the transformation must be named;
+- environmental constraints cannot be wished away.
+
+SSM is therefore an important predecessor whenever Root Sequence asks whose model of the situation is being used.
+
+Sources / entry points:
+
+- Peter Checkland's SSM tradition and CATWOE;
+- overview of CATWOE and perspective-explication: https://www.researchgate.net/publication/225982790_Basic_principles_of_SSM_modeling_An_examination_of_CATWOE_from_a_soft_perspective
+
+## Critical Systems Heuristics
+
+Werner Ulrich's Critical Systems Heuristics makes **boundary critique** explicit.
+
+Its twelve boundary questions are organized around four sources of influence:
+
+- **motivation** — whose interests/purposes define improvement;
+- **control / power** — who can decide and control resources;
+- **knowledge** — whose expertise and experience count;
+- **legitimacy** — how the interests of people affected but not involved are represented.
+
+CSH distinguishes people who are **involved** in a system or intervention from people who are **affected** without controlling it.
+
+This is a very close predecessor to Root Sequence questions such as:
+
+- Who defined the boundary?
+- Who benefits?
+- Who bears costs outside the local objective?
+- Who can revise the arrangement?
+- Whose knowledge is treated as evidence?
+- Who is affected without a decision right?
+- What makes authority legitimate?
+
+Sources:
+
+- Werner Ulrich and Martin Reynolds, "Critical Systems Heuristics" chapter: https://wulrich.com/downloads/ulrich_reynolds_2010_prepub.pdf
+- Werner Ulrich, "Critical Systems Heuristics" overview: https://wulrich.com/downloads/ulrich_2002b.pdf
+
+## Critical Systems Thinking
+
+Critical Systems Thinking developed partly from dissatisfaction with any one systems methodology being treated as universally adequate.
+
+Different formulations identify commitments including:
+
+- critical awareness;
+- social awareness;
+- methodological and theoretical pluralism / complementarism;
+- human emancipation.
+
+Gerald Midgley's compressed formulation emphasizes:
+
+- **critical awareness** — question taken-for-granted assumptions and the conditions producing them;
+- **emancipation** — define improvement locally and temporarily while examining power;
+- **methodological pluralism** — use methods according to their strengths and limits rather than forcing every problem through one framework.
+
+This is especially important after the T-003 editorial pilots.
+
+Those pilots independently pushed Root Sequence toward:
+
+> **use competent domain methods first; use Dynamic Coherence as a routing/synthesis grammar when it connects consequential questions those methods leave separated.**
+
+That methodological humility is not novel.
+
+It strongly resembles the critical-systems commitment to methodological pluralism.
+
+Sources:
+
+- Michael C. Jackson, "The origins and nature of critical systems thinking," *Systemic Practice and Action Research* 4 (1991), 131–149. DOI: 10.1007/BF01068246
+- Michael C. Jackson, "Five Commitments of Critical Systems Thinking" (1991).
+- Gerald Midgley, "What is this thing called CST?" in *Critical Systems Thinking* (1996), DOI: 10.1007/978-0-585-34651-9_1
+
+## Implication for Root Sequence
+
+The power/legitimacy/boundary side of the September 24 synthesis is **not an unexplored territory**.
+
+Root Sequence should explicitly learn from CSH/CST rather than recreating boundary critique under a coherence vocabulary.
+
+A candidate local contribution is not:
+
+> "systems thinking should consider power."
+
+That is old and well-developed.
+
+A more defensible question is:
+
+> **Can Root Sequence make critical boundary/power analysis easy to carry between technical design, AI, embodiment/consciousness research, speculative simulation, community infrastructure, and everyday humane practice without flattening each field's own methods?**
+
+That remains open.
+
+---
+
+# 13. Stafford Beer: viability, autonomy, cohesion, and future-facing adaptation
+
+Stafford Beer's Viable System Model (VSM) is another important organizational-cybernetics predecessor.
+
+The VSM describes recursive organizational functions needed for viability and emphasizes a relationship between **local autonomy and system-level cohesion**.
+
+Its future/environment-facing function, commonly described as System 4, is concerned with environmental change and adaptation; System 5 is associated with identity/policy and balancing present operations against future adaptation.
+
+This makes the VSM relevant to Root Sequence questions about:
+
+- organizational continuity;
+- identity while changing;
+- distributed/local autonomy;
+- environmental sensing;
+- future adaptation;
+- coordination without complete centralization.
+
+A sustainability-oriented review of Beer specifically emphasizes autonomy and cohesion in rapidly changing environments.
+
+Source:
+
+- Espinosa, Harnden, and Walker, "A complexity approach to sustainability – Stafford Beer revisited," *European Journal of Operational Research* 187 (2008), 636–651. DOI: 10.1016/j.ejor.2007.03.023
+
+## Evidence caution
+
+The VSM makes a **strong theory claim** about preconditions for organizational viability.
+
+Later empirical work has attempted to test that theory and reports supportive results, while practical-application literature also identifies difficulties in applying the model.
+
+That is exactly the kind of situation Root Sequence should treat carefully:
+
+- theory;
+- case applications;
+- empirical tests;
+- implementation difficulty;
+
+are different evidence layers.
+
+Sources:
+
+- Schwaninger and Scheef, "A Test of the Viable System Model: Theoretical Claim vs. Empirical Evidence," *Cybernetics and Systems* 47(7) (2016), 544–569. DOI: 10.1080/01969722.2016.1209375
+- practical-application critique: DOI 10.1108/K-02-2017-0069
+
+The VSM should be studied as a serious predecessor, not adopted wholesale as Root Sequence architecture.
+
+---
+
+# 14. Prior use of the phrase “dynamic coherence”
 
 The phrase **dynamic coherence** is not original to Root Sequence and is not unambiguous.
 
@@ -431,7 +593,7 @@ No naming decision is made by this note.
 
 ---
 
-# 13. “Adaptive continuity” also has unrelated prior uses
+# 15. “Adaptive continuity” also has unrelated prior uses
 
 The phrase **adaptive continuity** also appears in other domains, including recent engineering and urban-network work.
 
@@ -441,7 +603,7 @@ That does not make the phrase unusable, but it reinforces the same rule:
 
 ---
 
-# 14. What looks genuinely old versus potentially distinctive
+# 16. What looks genuinely old versus potentially distinctive
 
 ## Strong predecessors / not novel as components
 
@@ -454,11 +616,15 @@ That does not make the phrase unusable, but it reinforces the same rule:
 - sustained adaptability;
 - path dependence;
 - adaptive management;
-- observer/reflexivity problems.
+- observer/reflexivity problems;
+- worldview-explication and soft systems methodology;
+- boundary critique around motivation, power, knowledge, and legitimacy;
+- critical systems methodological pluralism;
+- organizational viability/autonomy/cohesion models.
 
 ## Candidate Root Sequence synthesis
 
-Potentially distinctive—not yet demonstrated as novel—is the insistence on connecting these to:
+Potentially distinctive—not yet demonstrated as novel—is the particular project-level integration and routing of these traditions into:
 
 - **agency:** which meaningful possibilities remain practically reachable;
 - **meta-agency:** who can shape future possibility and decision structure;
@@ -476,7 +642,7 @@ It is not yet a novelty finding.
 
 ---
 
-# 15. A better working picture
+# 17. A better working picture
 
 Rather than:
 
@@ -510,7 +676,7 @@ This is a much stronger epistemic posture.
 
 ---
 
-# 16. Next research tasks
+# 18. Next research tasks
 
 1. Read Ashby's parameter/state and requisite-variety passages at source level and record exact scope.
 2. Compare Root Sequence's **meta-agency** concept against double-loop learning, adaptive governance, and institutional-design literature.
@@ -518,7 +684,10 @@ This is a much stronger epistemic posture.
 4. Compare **agency envelope** against capabilities, viability kernels/reachability, affordance theory, and empowerment/control.
 5. Compare **reflexivity** against second-order cybernetics and performativity/self-fulfilling-model literatures.
 6. Decide whether "Dynamic Coherence" should remain the public concept name after term-collision review.
-7. Do not expand the framework further merely to absorb every predecessor; prefer links and scoped translations.
+7. Compare Root Sequence's boundary/power questions directly against Critical Systems Heuristics before claiming added analytical value.
+8. Compare the cross-domain routing strategy against Critical Systems Thinking's methodological pluralism.
+9. Examine Stafford Beer's Viable System Model for useful organizational continuity/autonomy distinctions without importing its entire architecture.
+10. Do not expand the framework further merely to absorb every predecessor; prefer links and scoped translations.
 
 ---
 
