@@ -90,3 +90,7 @@ For each precedent, document:
 ## Evidence boundary
 
 A famous success story may hide exclusion, unpaid labor, conflict, exploitation, survivorship bias, mythology, or conditions that cannot be reproduced. Precedent research should actively look for criticism and failure, not only celebratory histories.
+
+## Reading Trail learning
+
+The [shared-work, solitude, and participation probe](reading-trail-probe.md) translates a discovery lead into one possible Pilot 0 learning question. It distinguishes introductory source inspection from a proposed local design and includes competing explanations, consent limits, and a return path to the trails. **Proposed; not run.** It does not select an institutional model or alter Pilot 0's scale.
