@@ -1,8 +1,8 @@
 # Claims ledger
 
-**Version:** v0.1-dev · **Updated:** 2026-09-16 · **Review:** author review pending
+**Version:** v0.1-dev · **Updated:** 2026-09-25 · **Review:** author review pending
 
-This ledger records propositions to examine, not points awarded for confidence. No empirical study has been conducted for this draft. A synthetic UCF booking model has been implemented; an editorial case comparison is not independent reviewer validation. Internal project documents provide provenance, not independent corroboration.
+This ledger records propositions to examine, not points awarded for confidence. No empirical study has been conducted for this draft. A synthetic UCF booking model has been implemented; three AI-assisted editorial method comparisons have now been run, but they are not independent reviewer validation. Internal project documents provide provenance, not independent corroboration.
 
 **Types:** DEFINITION; LITERATURE-SUPPORTED ARGUMENT; INFERENCE; HYPOTHESIS; DESIGN PROPOSITION. A proposition can have more than one type. Descriptive observations should be added only with an identified observation and method.
 
@@ -35,7 +35,7 @@ Bibliographic keys resolve in [references.bib](references.bib). Source coverage 
 ## C-003 — Functional performance does not establish coherence or legitimacy
 
 **Type / state:** DEFINITION + INFERENCE / PROVISIONAL.  
-**Proposition:** Distinguish functional performance from coherence and normative legitimacy while examining how purposes, boundaries, power, and decision rights shape all three. A process that executes its target but depends on domination, suppressed feedback, hidden externalized costs, excluded affected people, or control whose stated harm-prevention rationale cannot be examined may exhibit false coherence rather than genuine fit.
+**Proposition:** Distinguish functional performance from coherence and normative legitimacy while examining how purposes, boundaries, power, and decision rights shape all three. Treat coherence as a **specified relational claim** rather than a scalar property of the whole system: state what is claimed to fit with what, for whom, within which boundary and timescale. A process that executes its target but depends on domination, suppressed feedback, hidden externalized costs, excluded affected people, or control whose stated harm-prevention rationale cannot be examined may exhibit false coherence rather than genuine fit.
 
 **Basis:** `gabriel2020alignment` and `selbst2019abstraction` constrain the separation claim; the UCF sources and public `systems/coherence/model.md` provide internal provenance for the proposed vocabulary. See [the definition map](notes/ucf-reconciliation.md) and [external comparison](notes/related-work.md).  
 **Support limit:** This is proposed project vocabulary, not a discovered law or validated scale. “False coherence” has existing provenance in Root Sequence's [manufactured-consensus analysis](../../../analysis/collective-judgment-and-manufactured-consensus.md#coherence-without-conformity) and UCF's [false-coherence](https://github.com/Root-Sequence/universal-coherence-framework/blob/c4d7b236828a59139c0d5204b1faaed13154682a/docs/idea-trails.md#collective-judgment-dissent--false-coherence) and [coherence-hijacking](https://github.com/Root-Sequence/universal-coherence-framework/blob/c4d7b236828a59139c0d5204b1faaed13154682a/docs/domains/language-and-semantics.md#8-misinformation-and-coherence-hijacking) treatments; applying it to coercive systems is a broader author-directed synthesis that still requires testing. Four layers and four state labels are distinct; the paper assumes no universal state taxonomy.
@@ -183,13 +183,13 @@ A hypothetical explanation might read: *This completion target favors shorter ap
 **Evidence needed / revision trigger:** A dependency map and alternatives including failed or stalled transitions; revise pathways that remove an essential service before a credible replacement exists.  
 **Related:** section 11; Q-006–Q-008.
 
-## C-012 — A relational review may add practical value
+## C-012 — Cross-method routing and synthesis may add practical value
 
 **Type / state:** HYPOTHESIS / PROVISIONAL.  
-**Proposition:** The proposed review procedure may reveal consequential omissions not identified by a competent existing review at an acceptable additional burden.
+**Proposition:** A routing-and-synthesis layer may add practical value when a real situation couples mechanisms owned by different competent methods, but it should receive no credit for rediscovering findings those native methods already provide.
 
-**Basis:** an untested synthesis hypothesis. `levesonThomas2018stpa`, `selbst2019abstraction`, and `edelman2025fullstack` now constrain claims of novelty. A source-grounded [comparison design](notes/related-work.md) exists, but neither the constructed example nor the retrospective case reading establishes added value.  
-**Support limit:** Novelty, reliability, usability, and comparative benefit are all unresolved.  
-**Objection / boundary:** It may merely rename existing practice or increase paperwork and surveillance.  
-**Evidence needed / revision trigger:** Compare against a competent ordinary review and a faithful STPA application where suitable, with equivalent evidence and recorded preparation effort. Examine omissions, false alarms, traceability, disagreement, burden, and privacy. Narrow or abandon the added-value claim if unsupported; a useful synthesis need not become a new theory.  
-**Related:** section 12; Q-001 and Q-010; T-003.
+**Basis:** three AI-assisted editorial T-003 comparisons now exist. Cloudflare Pilots 001–002 found near-total overlap between Dynamic Coherence and competent ordinary incident review, including a concrete containment action missed by the dynamic prompt. NDSS Pilot 003 found that service/accessibility analysis, capability-oriented analysis, and simplified Critical Systems Heuristics owned the important native mechanisms; Root Sequence mainly connected findings across them. These same-process pilots are method-debugging evidence only.  
+**Support limit:** No independent reviewer study, inter-rater reliability result, human burden measure, method-fidelity evaluation, or comparative superiority result exists. The pilots support narrowing the role, not validating it.  
+**Objection / boundary:** Cross-method synthesis may merely rename relationships, increase conceptual burden, or encourage analysts to range outside their competence. Established integrative methods may already perform the same function more effectively.  
+**Evidence needed / revision trigger:** Test the router with independent domain reviewers and independent coding on a separately frozen case. Measure whether synthesis changes a consequential question, decision, evidence request, or cross-method relationship at acceptable burden. **Narrow to documentation/routing only, or retire the added-value claim, if repeated independent comparisons show no useful synthesis.**  
+**Related:** section 12; Q-001 and Q-010; T-003; `../../method.md`; `../../method-router.md`.
