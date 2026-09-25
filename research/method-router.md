@@ -18,6 +18,8 @@ Root Sequence's job is then to preserve the relationships among those analyses w
 | "Why does it keep doing what used to work?" | path dependence, lock-in, maladaptation, governing variables | historical institutionalism, organizational learning, double-loop learning, resilience/adaptation literature | calling everything an attractor |
 | "What future states are actually possible under these constraints?" | reachability, viability, control | control theory, viability theory, operations research | treating metaphorical possibility-space as mathematics |
 | "Does this person really have an option?" | capability, affordance, accessibility, conversion factors | capability approach, disability/accessibility research, HCI, ecological psychology | counting menu options as agency |
+| "Can people actually complete this end-to-end service journey?" | discoverability, handoffs, channels, support, privacy, continuity | service design, inclusive service design, accessibility evaluation, digital-inclusion research | abstract agency language replacing journey/operations work |
+| "Whose experience should shape the design, not merely be studied afterward?" | participation, co-design, lived expertise, ownership | participatory design, co-design, participatory action research, disability-led design | treating user research as user power |
 | "What can this body/environment relation enable?" | affordance, skill, body schema | ecological psychology, embodied cognition, disability/access research | assuming physical presence = usable possibility |
 | "Who defined success and the system boundary?" | boundary judgment, purpose, beneficiary, affected parties | Critical Systems Heuristics | treating boundaries as neutral facts |
 | "Are people solving different problems because they see different situations?" | worldview, framing, problem situation | Soft Systems Methodology, participatory design | forcing one ontology |
@@ -70,6 +72,32 @@ For each route:
 - **evidence needed**
 - **related RS project**
 - **confidence / unresolved ambiguity**
+
+## Worked routing example — NDSS editorial pilot
+
+The NDSS case routed into at least four native analyses:
+
+    digital-support service
+          │
+          ├── service/accessibility review
+          │      └── journey, privacy, channel supply, handoffs, capacity
+          │
+          ├── capability analysis
+          │      └── substantive opportunity, conversion factors, supported agency
+          │
+          ├── Critical Systems Heuristics
+          │      └── purpose, control, knowledge, legitimacy, affected boundaries
+          │
+          └── Root Sequence synthesis
+                 └── referral feedback, burden shifting, continuity, path dependence
+
+The RS synthesis produced no clearly unique decision-relevant native mechanism over the three baseline analyses.
+
+Its useful role was connecting them and generating evidence questions spanning their boundaries.
+
+That is an example of the router **succeeding without RS "winning."**
+
+---
 
 ## Anti-totalization rule
 
