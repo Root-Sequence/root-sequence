@@ -2,15 +2,14 @@
 
 This directory is the canonical source for `rootsequence.systems`.
 
-The current [`index.html`](index.html) on this branch is a **review candidate**
-updated on 2026-09-25 to reflect Root Sequence's router-and-synthesis role,
-canonical research method, adaptive-continuity work, epistemic discoverability,
-Legible Systems, and Reading Trails. It is **not yet publication-approved**.
+The current [`index.html`](index.html) is the **approved September 25, 2026
+public seed** reflecting Root Sequence's router-and-synthesis role, canonical
+research method, adaptive-continuity work, epistemic discoverability, Legible
+Systems, and Reading Trails.
 
-The last approved public seed remains the 2026-09-18 edition recorded in
-[`approval.json`](approval.json). That approval intentionally does not match
-this candidate, so `build.py --release` remains blocked until Rae Lovejoy
-reviews and explicitly approves the new source.
+The exact approved source and preview hashes are recorded in
+[`approval.json`](approval.json). `build.py --release` remains gated on that
+exact digest; later changes must be reviewed and approved separately.
 
 The page is one self-contained file with its styles, scripts, favicon, and
 Cascadia Mono wordmark font embedded. It makes no runtime requests for fonts,
