@@ -416,6 +416,45 @@ This tradition is especially important for Root Sequence's emerging methodologic
 
 ---
 
+# 13. Philosophy of science — why unification feels so powerful
+
+**Scientific Explanation (SEP):** https://plato.stanford.edu/archives/spr2017/entries/scientific-explanation/  
+**Mechanisms in Science (SEP):** https://plato.stanford.edu/entries/science-mechanisms/  
+**Unity of Science (SEP):** https://plato.stanford.edu/entries/scientific-unity/  
+**Kitcher, "Explanatory Unification":** https://web.mit.edu/bskow/www/215-S12/kitcher_explanatory-unification.pdf  
+**Type:** philosophy of science / epistemology  
+**Rabbit-hole value:** ★★★★★★★★
+
+This is the place to go when you have the feeling:
+
+> "Holy shit, one pattern suddenly makes a bunch of unrelated things make sense."
+
+Philosophers of science have explicitly debated whether explanation gains power through **unification**: showing how many previously separate phenomena can be understood through a smaller number of reusable patterns.
+
+Kitcher's influential unificationist account is one major version.
+
+But mechanistic traditions push back:
+
+> a pattern can unify descriptions without telling you **what actually produces the phenomenon**.
+
+That tension is almost a perfect epistemic rule for Root Sequence:
+
+    notice recurring pattern
+        ↓
+    gain explanatory compression
+        ↓
+    DO NOT STOP
+        ↓
+    ask what mechanism produces it in each domain
+        ↓
+    restore differences
+        ↓
+    keep only the unification that survives
+
+This is the philosophical version of our anti-research-slop rule.
+
+---
+
 # Suggested rabbit-hole routes
 
 ## "I want to understand why everything is loops"
