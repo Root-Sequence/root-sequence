@@ -20,6 +20,7 @@ It is not the whole organization and does not absorb project-specific implementa
 | --- | --- |
 | What is this repository? | [`README.md`](README.md) |
 | How does Root Sequence research across fields? | [`research/method.md`](research/method.md) and [`research/method-router.md`](research/method-router.md) |
+| Which shared methods support evidence-weighted inquiry and collective judgment? | [`research/methods/README.md`](research/methods/README.md), [`research/methods/epistemic-contrast.md`](research/methods/epistemic-contrast.md), and [`research/methods/deliberative-inquiry.md`](research/methods/deliberative-inquiry.md) |
 | How does the organization connect? | [`ECOSYSTEM.md`](ECOSYSTEM.md) |
 | How is this repository organized? | [`root_map.md`](root_map.md) |
 | Where should a new thought go? | [`THOUGHT_ROUTING.md`](THOUGHT_ROUTING.md) |
@@ -30,16 +31,17 @@ It is not the whole organization and does not absorb project-specific implementa
 
 ## Current reality
 
-The repository contains active and historical writing, sourced research scaffolds, concepts, systems principles, analysis, futures, public artifacts, the Public Seed site source, and small navigation tools. The canonical research method formalizes the project’s route–synthesize–test–build workflow. The September 25 router-role website source has exact-source approval, and GitHub Actions successfully built and deployed the approved commit to GitHub Pages. That approval covers the website source and mechanical publication-state transformation only; it does not approve the underlying research papers or frameworks. GitHub Pages deployment is evidenced, but an independent browser fetch of the custom domain has not yet been recorded. The repository also temporarily hosts the public bootstrap seed for Commons of Inquiry & Creation under `incubator/`; that seed is explicitly non-canonical here, proposes a future standalone repository, and does not establish an operating institution. Maturity and evidence vary by document. Root Sequence is not a finished theory, validated universal model, deployed social system, or single doctrine.
+The repository contains active and historical writing, sourced research scaffolds, concepts, systems principles, analysis, futures, public artifacts, the Public Seed site source, and small navigation tools. The canonical research method formalizes the project’s route–synthesize–test–build workflow. Working, review-pending Epistemic Contrast and Deliberative Inquiry methods make the error-correcting layer explicit: broaden the model before convergence, route claims to stronger evidence and native methods, preserve dissent and uncertainty, and revise after observing consequences. The September 25 router-role website source has exact-source approval, and GitHub Actions successfully built and deployed the approved commit to GitHub Pages. That approval covers the website source and mechanical publication-state transformation only; it does not approve the underlying research papers or frameworks. GitHub Pages deployment is evidenced, but an independent browser fetch of the custom domain has not yet been recorded. The repository also temporarily hosts the public bootstrap seed for Commons of Inquiry & Creation under `incubator/`; that seed is explicitly non-canonical here, proposes a future standalone repository, and does not establish an operating institution. Maturity and evidence vary by document. Root Sequence is not a finished theory, validated universal model, deployed social system, or single doctrine.
 
 ## Repository structure
 
-`research/`, `systems/`, and `concepts/` hold current inquiry; `analysis/`, `ideology/`, and `futures/` apply or extend it; `founding-texts/` preserves origins; `commons/` produces reusable artifacts; `site/` is a reader-facing projection; `cli/` contains experiments; `incubator/` holds temporary, explicitly non-canonical project seeds pending migration or a final home.
+`research/`, including `research/methods/`, `systems/`, and `concepts/` hold current inquiry; `analysis/`, `ideology/`, and `futures/` apply or extend it; `founding-texts/` preserves origins; `commons/` produces reusable artifacts; `site/` is a reader-facing projection; `cli/` contains experiments; `incubator/` holds temporary, explicitly non-canonical project seeds pending migration or a final home.
 
 ## Ecosystem connections
 
 - **Focused inquiries:** Liberated Intelligence and UCF develop narrower questions.
 - **Human grounding:** Being Human(e) supplies lived-scale observations and tensions.
+- **Aesthetic and experiential exploration:** Existential Euphoria explores wonder, contradiction, interdependence, and possibility while leaving “good” and “coherent” open to examination.
 - **Embodied practice:** Liberation Mass explores gathering and shared stewardship.
 - **Present-world testing:** Community Infrastructure tests selected ideas under practical constraints.
 - **Speculative recombination:** Coherent World recombines mechanisms and stress-tests interactions and consequences in simulation; *No One Noticed* makes transition lived through narrative.
@@ -50,7 +52,9 @@ These are typed transformations, not a command hierarchy.
 
 ## Working rules
 
+- Treat relationships—dependencies, interfaces, feedbacks, authority, translations, flows, conditions, and histories—as first-class objects of inquiry.
 - Route mechanisms to the fields and methods that study them, then reconnect findings without erasing domain differences.
+- Use epistemic contrast before convergence and deliberative inquiry before consequential collective judgment; preserve uncertainty, dissent, and revision conditions.
 - Preserve one canonical home and link rather than copying undifferentiated material.
 - Distinguish evidence, interpretation, hypothesis, normative position, and fiction.
 - Treat disagreement and failed connections as information.
