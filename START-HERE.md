@@ -22,11 +22,11 @@ Root Sequence is the public conceptual commons and transdisciplinary research-an
 
 ## Current reality
 
-This is an active, public, evolving body of writing, research, maps, and small tools. Some material is mature; some is exploratory, historical, or explicitly speculative. The canonical research method formalizes a route–synthesize–test–build workflow for cross-field questions. The September 25 Public Seed website source has exact-source approval and a successful GitHub Pages deployment for the approved commit. That approval covers the website source and publication transformation, not blanket approval of the underlying research; an independent browser fetch of the custom domain has not yet been recorded. The repository also temporarily hosts an explicitly non-canonical incubation seed for the proposed standalone Commons of Inquiry & Creation project. Root Sequence is not a finished theory, product, institution, or universal explanation.
+This is an active, public, evolving body of writing, research, maps, and small tools. Some material is mature; some is exploratory, historical, or explicitly speculative. The canonical research method formalizes a route–synthesize–test–build workflow for cross-field questions. Working Epistemic Contrast and Deliberative Inquiry methods add contrast before convergence, evidence-weighted revision, and shared understanding before consequential decisions without replacing domain-native methods. The September 25 Public Seed website source has exact-source approval and a successful GitHub Pages deployment for the approved commit. That approval covers the website source and publication transformation, not blanket approval of the underlying research; an independent browser fetch of the custom domain has not yet been recorded. The repository also temporarily hosts an explicitly non-canonical incubation seed for the proposed standalone Commons of Inquiry & Creation project. Root Sequence is not a finished theory, product, institution, or universal explanation.
 
 ## The smallest useful map
 
-- `research/` — versioned synthesis and source-aware inquiry.
+- `research/` — versioned synthesis and source-aware inquiry; `research/methods/` holds shared error-correcting inquiry practices.
 - `systems/` and `concepts/` — analytical methods and shared ideas.
 - `founding-texts/` — origins, metaphors, manifestos, and historical orientations.
 - `analysis/`, `ideology/`, and `futures/` — diagnosis, frameworks, and alternatives.
@@ -35,12 +35,13 @@ This is an active, public, evolving body of writing, research, maps, and small t
 
 ## Where it fits
 
-Root Sequence asks broad questions and routes mechanisms to native fields and methods. Other repositories transform selected questions: Liberated Intelligence focuses on intelligence and agency; UCF tests one analytical vocabulary; Being Human(e) grounds ordinary experience; Liberation Mass explores embodied practice; Community Infrastructure tests present-day systems; Coherent World recombines mechanisms and stress-tests consequences in simulation; *No One Noticed* makes transition lived through narrative; and the Wiki helps people navigate names and relationships. Commons of Inquiry & Creation is currently a public bootstrap seed here, intended for a standalone repository; hosting the seed does not give Root Sequence governance authority over any future community.
+Root Sequence asks broad questions and routes mechanisms to native fields and methods. Other repositories transform selected questions: Liberated Intelligence focuses on intelligence and agency; UCF tests one analytical vocabulary; Being Human(e) grounds ordinary experience; Existential Euphoria explores wonder, contradiction, interdependence, and possibility; Liberation Mass explores embodied practice; Community Infrastructure tests present-day systems; Coherent World recombines mechanisms and stress-tests consequences in simulation; *No One Noticed* makes transition lived through narrative; and the Wiki helps people navigate names and relationships. Commons of Inquiry & Creation is currently a public bootstrap seed here, intended for a standalone repository; hosting the seed does not give Root Sequence governance authority over any future community.
 
 ## What to do next
 
 - **Just exploring:** read [Why “Root Sequence”?](concepts/root-sequence.md).
 - **Investigating a cross-field question:** use the [Root Sequence Research Method](research/method.md).
+- **Comparing perspectives or preparing a consequential group judgment:** use [Epistemic Contrast](research/methods/epistemic-contrast.md) and [Deliberative Inquiry](research/methods/deliberative-inquiry.md).
 - **Trying to place an idea:** use [Thought Routing](THOUGHT_ROUTING.md).
 - **Trying to understand the project family:** open the [Ecosystem Map](ECOSYSTEM.md).
 - **Following one question across projects:** use [Idea Trails](IDEA_TRAILS.md).
