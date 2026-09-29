@@ -360,6 +360,7 @@ This trail also asks: **What behaviors does this system select for?** Capability
 | **Museum of Ordinary Life** | Preserve ordinary evidence of how people historically made collective decisions: ballots, meeting notes, jury instructions, comment cards, facilitation guides, board packets, consensus hand signals, software interfaces, and records of dissent. |
 
 **Broad systems home:** [`analysis/collective-judgment-and-manufactured-consensus.md`](analysis/collective-judgment-and-manufactured-consensus.md)  
+**Shared methods:** [`research/methods/epistemic-contrast.md`](research/methods/epistemic-contrast.md) · [`research/methods/deliberative-inquiry.md`](research/methods/deliberative-inquiry.md)  
 **Developing human-scale work:** `Root-Sequence/beinghumane-atlas/seeds/humane-collective-decision-architecture.md`  
 **Real-system proving ground:** `Root-Sequence/community-infrastructure/docs/concepts/collective-decision-making.md`  
 **Speculative world treatment:** `Root-Sequence/coherent-world/world/collective-decision-and-dissent.md`
@@ -374,7 +375,7 @@ This trail also asks: **What behaviors does this system select for?** Capability
 
 | Project | Treatment |
 |---|---|
-| **Root Sequence** | Investigate abandoned futures as evidence-bearing systems questions: what existed, what future it implied, why it ended, who held veto power, what harms or exclusions it carried, and what remains recoverable. |
+| **Root Sequence** | Develop the broad systems analysis plus shared methods for epistemic contrast and deliberative inquiry: broaden the model before convergence, preserve dissent and uncertainty, separate learning from authorization, and keep decisions revisable after consequences become observable. |
 | **Being Human(e)** | Ask how historical contingency and lived demonstrations make alternatives emotionally and practically imaginable without presenting them as flawless blueprints. |
 | **Community Infrastructure** | Test bounded mechanisms—commons, mutual aid, community knowledge, federation, low-tech access, shared resources—against current maintenance, governance, safety, and participation constraints. |
 | **Coherent World** | Use the Possibility Atlas to examine how sourced social, technical, ecological, and institutional fragments might coexist in a plural civilizational design. |
