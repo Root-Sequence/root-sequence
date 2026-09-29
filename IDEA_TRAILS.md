@@ -349,7 +349,7 @@ This trail also asks: **What behaviors does this system select for?** Capability
 
 | Project | Treatment |
 |---|---|
-| **Root Sequence** | Analyze how many situated judgments become one institutional action, including conformity, dominance, uncertainty, aggregation, decision thresholds, reversibility, and the difference between genuine convergence and manufactured consensus. |
+| **Root Sequence** | Analyze how many situated judgments become one institutional action and develop shared methods for epistemic contrast and deliberative inquiry: broaden the model before convergence, preserve dissent and uncertainty, separate learning from authorization, and keep decisions revisable after consequences become observable. |
 | **Being Human(e)** | Explore what dissent feels like inside actual humans: peer pressure, conflict avoidance, fatigue, self-doubt, dignity, changing one's mind, being understood before being overridden, and preserving plurality without romanticizing every dissenter. |
 | **UCF** | Distinguish independent agreement, adaptive convergence, unresolved but functional plurality, and false coherence; never infer that majority = coherent and minority = incoherent from vote distribution alone. |
 | **Community Infrastructure** | Test practical protocols such as independent first-pass judgment, anonymous issue mapping, accessible/asynchronous deliberation, protected dissent, private reassessment, consequence-weighted thresholds, reversible trials, and Decision Memory. |
@@ -375,7 +375,7 @@ This trail also asks: **What behaviors does this system select for?** Capability
 
 | Project | Treatment |
 |---|---|
-| **Root Sequence** | Develop the broad systems analysis plus shared methods for epistemic contrast and deliberative inquiry: broaden the model before convergence, preserve dissent and uncertainty, separate learning from authorization, and keep decisions revisable after consequences become observable. |
+| **Root Sequence** | Investigate abandoned futures as evidence-bearing systems questions: what existed, what future it implied, why it ended, who held veto power, what harms or exclusions it carried, and what remains recoverable. |
 | **Being Human(e)** | Ask how historical contingency and lived demonstrations make alternatives emotionally and practically imaginable without presenting them as flawless blueprints. |
 | **Community Infrastructure** | Test bounded mechanisms—commons, mutual aid, community knowledge, federation, low-tech access, shared resources—against current maintenance, governance, safety, and participation constraints. |
 | **Coherent World** | Use the Possibility Atlas to examine how sourced social, technical, ecological, and institutional fragments might coexist in a plural civilizational design. |
