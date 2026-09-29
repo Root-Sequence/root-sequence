@@ -95,6 +95,8 @@ Suggested entry points:
 
 This project explores systems as living, interdependent processes.
 
+[Existential Euphoria](https://github.com/Root-Sequence/existential-euphoria) explores a felt orientation Rae connects to this inquiry: wonder, interdependence, and the possibility of living more humanely, with room for contradiction and ordinary life. The [original reflection and provisional RS connections](https://github.com/Root-Sequence/existential-euphoria/blob/main/ROOT-SEQUENCE.md) keep “good” and “coherent” open to examination; no shared emotional state is required to participate.
+
 It focuses on:
 - pattern recognition across domains  
 - multiple exploratory models and methods

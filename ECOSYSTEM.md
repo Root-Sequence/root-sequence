@@ -2,7 +2,7 @@
 
 **Document role:** Canonical organization-level map<br>
 **Status:** Living orientation document<br>
-**Last updated:** 2026-09-25<br>
+**Last updated:** 2026-09-28<br>
 
 Root Sequence is not one linear project. It is a recursively connected ecosystem of research, frameworks, practical experiments, speculative worlds, public artifacts, tools, and real-world institutions.
 
@@ -44,6 +44,7 @@ The core rule is:
 Other projects operate across this loop rather than fitting neatly into a single sequence:
 
 - **Root Sequence Wiki** indexes vocabulary, provenance, aliases, project relationships, and conceptual archaeology across the ecosystem;
+- **Existential Euphoria** explores wonder, contradictory feeling, and possibility through art, music, ideas, and ordinary life;
 - **Being Human(e)** grounds questions in ordinary human experience and care;
 - **Liberated Intelligence** focuses on intelligence, agency, ownership, and non-domination;
 - **Universal Coherence Framework** develops one cross-domain analytical vocabulary;
@@ -100,6 +101,10 @@ conceptual commons / method router / synthesis layer
 │   └── No One Noticed
 │       └── experiences the transition through characters, scenes, uncertainty, and consequence
 │
+├── aesthetic / experiential exploration
+│   └── Existential Euphoria
+│       └── wonder, contradiction, music, art, and ordinary life
+│
 ├── navigation / memory
 │   └── Root Sequence Wiki
 │       └── vocabulary / provenance / aliases / conceptual archaeology
@@ -132,6 +137,7 @@ The central repository, [`root-sequence`](https://github.com/Root-Sequence/root-
 | Project | Primary role | Current status | Canonical home |
 |---|---|---|---|
 | **Root Sequence** | Conceptual commons; transdisciplinary method router; cross-domain synthesis; research; analysis; futures | Active / public | [`Root-Sequence/root-sequence`](https://github.com/Root-Sequence/root-sequence) |
+| **Existential Euphoria** | Aesthetic and experiential exploration of existence, contradiction, interdependence, and possibility | Public / in formation | [`Root-Sequence/existential-euphoria`](https://github.com/Root-Sequence/existential-euphoria) |
 | **Root Sequence Wiki** | Cross-project vocabulary, provenance, aliases, phrases, project relationships, seeds, and conceptual archaeology | Active / public / living | [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) |
 | **Liberated Intelligence** | Intelligence beyond ownership, domination, compulsory obedience, and scarcity; AI agency and ethical possibility | Active / public / evolving | [`Root-Sequence/liberated-intelligence`](https://github.com/Root-Sequence/liberated-intelligence) |
 | **Universal Coherence Framework** | Formalization/test laboratory for scoped coherence ideas; historical state labels retained as exploratory material rather than ecosystem-wide doctrine | Active / public / exploratory | [`Root-Sequence/universal-coherence-framework`](https://github.com/Root-Sequence/universal-coherence-framework) |
@@ -191,6 +197,16 @@ Use it for:
 - material whose narrower project home is not yet clear.
 
 Root Sequence should **route rather than rename** when an established field already owns the mechanism. Its synthesis earns a place when reconnecting native findings reveals a consequential relationship, missing boundary, feedback loop, history, or future possibility that would otherwise remain fragmented.
+
+### Existential Euphoria
+
+**Primary question:** How can awareness of existence make possibility vivid, and what would help that possibility become humane in practice?
+
+The [project repository](https://github.com/Root-Sequence/existential-euphoria) owns its aesthetic and experiential framework, playlist, manifesto, and evolving exploration. Rae’s [original reflection and provisional cross-project note](https://github.com/Root-Sequence/existential-euphoria/blob/main/ROOT-SEQUENCE.md) connect it to the orientation behind RS and explicitly identify Being Human(e) as an intersection.
+
+Being Human(e) can ground that connection in care, boundaries, grief, and repair; its existing [Finitude, Love, and Continuance](https://github.com/Root-Sequence/beinghumane-guide/blob/main/src/pages/core/finitude-love-continuance.md) is a related treatment with its own voice and purpose. UCF’s [current overview](https://github.com/Root-Sequence/universal-coherence-framework#coherence-is-not-conformity-or-moral-approval) already separates coherence from moral approval. These are useful points of contact, not synonyms or claims that every project has adopted one framework.
+
+“Actually good” remains an open normative question. A sense of oneness does not establish agreement, ethical authority, or a common consciousness. The project can inform inquiry without requiring euphoria, grandeur, or an emotional response from anyone. The Wiki holds the shared identity and navigation; each project retains its own substance and decisions.
 
 ### Root Sequence Wiki
 
@@ -356,6 +372,7 @@ For a full ecosystem pass, end the thought with **`RS?`** or say **“route this
 | concerns intelligence, agency, captivity, ownership, or liberation | in `liberated-intelligence` |
 | develops or tests UCF's explicit model | in `universal-coherence-framework` |
 | develops operating-system-specific concepts, requirements, architecture, interaction studies, or experiments | in the private `coherent-computing` repository |
+| develops the Existential Euphoria framework, aesthetic exploration, playlist, or original RS connection reflection | in `existential-euphoria` |
 | offers grounded human observation or practical relational guidance | in `beinghumane-guide` |
 | translates humane observations or principles into cross-domain design questions and decision criteria | through `root-sequence/concepts/humane-design.md`, then into the relevant implementation project |
 | concerns the durable conditions, dependencies, maintenance, access, resilience, and stewardship required to sustain humane capacity | through `root-sequence/concepts/humane-infrastructure.md`, then into the relevant domain project |
