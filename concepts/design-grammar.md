@@ -20,6 +20,9 @@ This wording is a proposed synthesis, not an approved project slogan. Coherence 
 | Model relationships and conditions | What environment, incentives, dependencies, feedback, and history produce the outcome? | [Systems](../systems/README.md) and [Intelligence Ecology](intelligence-ecology.md) |
 | Route mechanisms to their native methods | Which discipline or established method already studies the mechanism we are invoking? What remains after its distinctions and evidence limits are restored? | [Why Root Sequence?](root-sequence.md#a-routing-and-synthesis-layer-not-a-replacement-discipline) and [Dynamic Coherence lineage](../research/dynamic-coherence-lineage.md) |
 | Make knowledge discoverable before vocabulary is mastered | Can someone begin from the question they actually have and discover the terms, fields, sources, and methods needed to go deeper? | [Epistemic Discoverability and Knowledge Routing](epistemic-discoverability.md) and [Reading Trails](../research/reading-trails/README.md) |
+| Contrast before convergence | Which differently situated accounts, incentives, assumptions, and affected perspectives would make the current model less naive? | [Epistemic Contrast](../research/methods/epistemic-contrast.md) |
+| Deliberate before consequential decisions | Do participants have enough shared understanding, access to evidence, room to revise, and protection for dissent before collective authorization? | [Deliberative Inquiry](../research/methods/deliberative-inquiry.md) and [Collective Judgment](../analysis/collective-judgment-and-manufactured-consensus.md) |
+| Let evidence revise the model | What observation, counterexample, failed prediction, or affected-party evidence would require this model or design to change? | [Research Methods](../research/methods/README.md) |
 | Preserve adaptive continuity | What should remain stable, what must remain changeable, and which meaningful future actions does this decision open or close? | [Dynamic Coherence and Adaptive Continuity](dynamic-coherence.md) and [Adaptation](../systems/adaptation/README.md) |
 | Expand agency through chosen participation and delegation | Which burdens can be removed, and who retains a meaningful say over the result? | [Agency and Automation](agency-and-automation.md) |
 | Keep authority scoped and contestable | Who may act for whom, on what basis, and who else bears the effects? | [Agency and Automation](agency-and-automation.md) and [Idea Trail 9](../IDEA_TRAILS.md#trail-9--intelligence-automation-and-legitimate-authority) |
@@ -32,6 +35,16 @@ This wording is a proposed synthesis, not an approved project slogan. Coherence 
 | Permit repair, modification, migration, and exit | What can people diagnose and alter; what knowledge and control disappear when a vendor or steward leaves? | [Legible Systems](legible-systems.md#progressive-legibility) and [Human(e) Infrastructure](humane-infrastructure.md) |
 | Treat intelligence as situated | What roles, incentives, boundaries, and possible interests arise around an intelligence? Capability alone confers no legitimate authority. | [Intelligence Ecology](intelligence-ecology.md) and [Idea Trail 9](../IDEA_TRAILS.md#trail-9--intelligence-automation-and-legitimate-authority) |
 | Use imagination, research, and simulation in a revisable loop | What alternatives become visible, and what observation or counterexample would change the design? | [Abandoned Futures](../futures/abandoned-futures.md) and [Idea Trail 16](../IDEA_TRAILS.md#trail-16--possibility-historical-contingency-and-abandoned-futures) |
+
+## Epistemic operating pattern
+
+The grammar is not only about what to design; it also describes how Root Sequence should remain corrigible while designing. A useful shared loop is:
+
+```text
+question → contrast → evidence → model → deliberation → action → observation → revision
+```
+
+The shorthand **“reality gets veto power”** means that no conclusion is protected merely because it is elegant, politically congenial, already embedded in Root Sequence, or associated with a respected source. It does not mean evidence is perspective-free or instantly decisive; uncertainty, method quality, and affected perspectives remain part of the model.
 
 These moves can conflict. More detailed records can harm privacy; a common protocol can impose burdens on local variants; automation that frees one person can shift labor to another. Name the tradeoff and the affected people instead of claiming that one principle always wins.
 
