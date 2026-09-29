@@ -13,6 +13,15 @@ A group may reach the same recorded answer because people independently became p
 
 A system that records only the final vote cannot distinguish those pathways.
 
+## Method layer
+
+This analysis focuses on the architecture of group judgment. Two broader Root Sequence methods now sit upstream of it:
+
+- [Epistemic Contrast](../research/methods/epistemic-contrast.md) — broaden the available model by comparing differently situated accounts without treating all claims as equally supported.
+- [Deliberative Inquiry](../research/methods/deliberative-inquiry.md) — build sufficient shared understanding before consequential collective judgment or authorization.
+
+Together they make the intended sequence explicit: **contrast before convergence; deliberate before consequential decisions; preserve uncertainty and dissent; observe consequences; revise.**
+
 ## The underlying systems problem
 
 The question is not merely whether groups should use majority rule, supermajority rule, consensus, or unanimity.

@@ -51,6 +51,7 @@ The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Frui
 
 - [`site/`](site/README.md) — reader-facing Public Seed website source; not a replacement for research or the Wiki
 - [`research/`](research/README.md) — bounded research inquiries and versioned synthesis papers; underlying concepts and evidence retain their canonical homes
+- [`research/methods/`](research/methods/README.md) — shared error-correcting inquiry methods, including epistemic contrast and deliberative inquiry
 - [`founding-texts/`](founding-texts/README.md) — founding texts, early models, manifestos, normative essays, and historical orientations
 - [`systems/`](systems/README.md) — analytical principles, models, and methods for understanding system behavior
 - [`concepts/`](concepts/README.md) — shared definitions, cross-project frameworks, design principles, and methods
@@ -81,6 +82,8 @@ Suggested entry points:
 - [Idea Trail Metadata Convention](IDEA_TRAIL_METADATA.md) — lightweight visible + machine-searchable metadata for participating documents  
 - [`IDEA_TRAIL_GRAPH.yml`](IDEA_TRAIL_GRAPH.yml) — machine-readable document ↔ trail graph used to generate the browser  
 - [Thought Routing (`RS?`)](THOUGHT_ROUTING.md) — capture a thought once, find one canonical home, and add deliberate cross-project links without duplicate substance
+- [Epistemic Contrast](research/methods/epistemic-contrast.md) — compare differently situated accounts to expose assumptions, mechanisms, convergence, disagreement, and missing evidence
+- [Deliberative Inquiry](research/methods/deliberative-inquiry.md) — build sufficient shared understanding before consequential collective judgment or authorization
 - [Design Grammar](concepts/design-grammar.md) — review-pending map of recurring cross-project design questions
 - [Agency and Automation](concepts/agency-and-automation.md) — review-pending treatment of delegation, chosen activity, compulsory labor, and collective authority
 - [Legible Systems](concepts/legible-systems.md) — design systems that can be simple to use without remaining mysterious

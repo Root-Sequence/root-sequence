@@ -1,5 +1,13 @@
 # Research
 
+## Shared methods
+
+- [Research Methods](methods/README.md) — organization-level error-correcting inquiry practices.
+- [Epistemic Contrast](methods/epistemic-contrast.md) — compare differently situated accounts, assumptions, mechanisms, and evidence before convergence.
+- [Deliberative Inquiry](methods/deliberative-inquiry.md) — build sufficient shared understanding before consequential collective judgment or authorization.
+
+These methods route claims toward stronger field-specific methods rather than replacing them.
+
 This directory holds bounded research inquiries and versioned papers that synthesize Root Sequence's existing work. It does not replace the canonical treatments in `concepts/`, `systems/`, `analysis/`, or `futures/`.
 
 ## Method
