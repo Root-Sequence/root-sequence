@@ -37,6 +37,10 @@ That recursion is central to the name. Root Sequence is interested not only in w
 
 ## A routing and synthesis layer, not a replacement discipline
 
+Root Sequence treats **relationships as first-class objects of inquiry**. A dependency, interface, feedback loop, authority relation, translation, flow, constraint, or inherited history may matter as much as the components it connects. Sometimes the useful discovery is not a new thing, but a relationship that was present without being clearly named, modeled, or compared.
+
+That does not mean every relationship shares one mechanism, or that resemblance is evidence of equivalence. **Synthesis is a role, not a claim of mastery.** Root Sequence can notice a connection, route each side toward the people, disciplines, methods, and evidence that understand it best, then bring the resulting distinctions back into a more connected map.
+
 Root Sequence often begins with a cross-domain pattern:
 
 - a technical system and an institution both exhibit lock-in;
