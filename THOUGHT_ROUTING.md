@@ -25,6 +25,21 @@ That means:
 
 Narrower prompts remain narrow. For example, **`BHIG?`** asks for Being Human(e) / Atlas capture and mapping. It should not trigger an organization-wide propagation pass unless the thought clearly needs a wider home or the user also invokes `RS?`.
 
+## Epistemic routing before promotion
+
+When a captured thought becomes a factual claim, model, or consequential proposal, routing should ask more than “where does this belong?” It should also ask **what would make it less naive or prove it wrong**.
+
+Use the shared [Epistemic Contrast](research/methods/epistemic-contrast.md) and [Deliberative Inquiry](research/methods/deliberative-inquiry.md) methods as appropriate:
+
+- seek relevant contrasting roles, assumptions, and affected perspectives;
+- distinguish source role from evidence strength;
+- route factual claims to the strongest native methods and evidence available;
+- preserve uncertainty and counterexamples;
+- for consequential collective decisions, build shared understanding before authorization;
+- feed observed consequences back into the model.
+
+Thought Routing still determines **canonical placement and provenance**. These methods determine how a thought should be **tested, contrasted, deliberated, and revised** before it hardens into a conclusion.
+
 ## The routing pass
 
 ### 1. Capture the source once
