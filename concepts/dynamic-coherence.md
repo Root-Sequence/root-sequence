@@ -221,6 +221,79 @@ A useful design question is therefore:
 
 > **What future actions remain genuinely available to the people or systems affected by this decision?**
 
+### Perceived and socially usable possibility
+
+Meaningful agency has another layer that is easy to miss: an option can be formally permitted, materially reachable, and still fail to function as a **live possibility** for the person or community affected.
+
+A possibility may be difficult to use because:
+
+- the actor does not know it exists or lacks language for it;
+- it is intelligible in the abstract but difficult to imagine as a life they could actually inhabit;
+- choosing it is expected to risk belonging, family ties, status, safety, livelihood, housing, care, or community;
+- familiar arrangements have become fused with morality, identity, duty, patriotism, religion, adulthood, professionalism, gender, respectability, or another source of social recognition;
+- unfamiliarity, uncertainty, or anticipated discomfort makes the alternative feel dangerous before its actual consequences are known;
+- a person has learned through experience that deviation, refusal, or experimentation will be punished;
+- institutions are built around the familiar arrangement, so every surrounding dependency makes departure more costly.
+
+This does **not** mean that people who value inherited roles are mistaken about their own lives. A person can sincerely love a life shaped by a narrow social role, find meaning inside it, and still have had fewer meaningful alternatives than another arrangement could have offered.
+
+> **Reported satisfaction and meaningful attachment are real evidence about a person's experience. They are not, by themselves, evidence that alternatives were equally available.**
+
+For human freedom questions, this connects directly to the capability approach's distinction between nominal resources or rights and substantive opportunity. The accompanying [lineage note](../research/dynamic-coherence-lineage.md#15-capabilities-substantive-opportunity-and-conversion-factors) also notes the literature on adaptive preferences: expectations and expressed preferences can be shaped by constrained circumstances. Root Sequence should use that literature rather than treating this as a newly discovered mechanism.
+
+The social layer also needs more than one explanation. Candidate mechanisms include:
+
+- **path dependence:** earlier arrangements shape infrastructure, expectations, skills, and switching costs;
+- **status-quo bias:** existing arrangements can receive a decision advantage simply by already being the default;
+- **social norm enforcement:** ridicule, stigma, exclusion, moral condemnation, or loss of standing can make nominal permission costly to use;
+- **pluralistic ignorance:** people may privately depart from a perceived norm while mistakenly believing that others accept it;
+- **preference falsification:** people may publicly express the socially safer preference rather than the private one;
+- **learned threat and internalized expectation:** past consequences can change what feels safe, appropriate, or available;
+- **identity and moralization:** questioning an arrangement can be experienced as questioning a person, family, community, tradition, or moral identity tied to it.
+
+These mechanisms should not be collapsed into one theory of conformity, and none should be inferred from the outside merely because a person chooses a conventional life.
+
+A useful layered check is:
+
+1. **Exists:** Is the alternative logically or legally possible?
+2. **Reachable:** Do material and institutional conditions make it practicable?
+3. **Perceivable:** Does the actor know or notice that it exists?
+4. **Imaginable:** Can they understand it as a plausible option for themselves?
+5. **Socially survivable:** Can they use it without prohibitive social punishment or loss of essential relationships and support?
+6. **Materially survivable:** Can they use it without losing necessities in ways that make the choice nominal?
+7. **Revisable:** Can they experiment, pause, return, or change course without catastrophic penalty?
+8. **Shapeable:** Can affected people help change the conditions that define the option set itself?
+
+This is not a ladder and should not become a scalar autonomy score. Different cases can fail at different layers.
+
+### Familiarity can reproduce constraint
+
+One possible reinforcing sequence is:
+
+**inherited arrangement → familiar expectation → institutions organized around it → higher cost of deviation → less experimentation → greater familiarity → apparent naturalness or legitimacy → reproduction**
+
+The reverse is not guaranteed, but a different sequence can sometimes widen possibility:
+
+**exposure to an alternative → intelligibility → low-cost experiment → visible examples / social support → reduced uncertainty → supporting infrastructure → normalization → wider agency envelope**
+
+This helps explain why examples can matter alongside arguments. Seeing another way of living does not prove that it is desirable or transferable, but it can change an option from **unrepresented** to **thinkable**, and from thinkable to testable.
+
+### Autonomy is not isolation
+
+None of this requires treating autonomy as independence from other people.
+
+People act through languages, relationships, care, infrastructure, institutions, tools, ecosystems, and knowledge they did not create alone. Supportive interdependence can widen an agency envelope by providing resources, safety, skills, examples, fallback capacity, and collective power.
+
+The relevant contrast is therefore not:
+
+**dependence ↔ autonomy**
+
+but something closer to:
+
+**relationships and dependencies that expand meaningful participation, refusal, revision, and possibility ↔ relationships and dependencies that make those capacities prohibitively costly or unavailable.**
+
+This makes autonomy a systems question: not only **“Was anyone explicitly forbidden?”** but **“What conditions made this way of living actually available, imaginable, survivable, and revisable?”**
+
 ---
 
 ## 4. Meta-agency: acting on the conditions of future action

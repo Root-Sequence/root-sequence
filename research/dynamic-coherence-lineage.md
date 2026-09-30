@@ -716,8 +716,41 @@ A more disciplined decomposition is:
 | Causal influence | empowerment/control; how much influence can actions exert over later state? |
 | Power over conditions | who can alter the environment, rules, institutions, or capacities structuring others' possibilities? |
 | Value / choice | which possibilities does the actor actually value or choose? |
+| Perceived live possibility | does the actor experience the option as something they can intelligibly imagine, attempt, refuse, or inhabit? |
+| Social usability | what norms, sanctions, stigma, belonging, relationship consequences, or status costs attach to using the option? |
+| Public/private preference gap | do expressed preferences accurately represent private preferences, or might conformity and social pressure be distorting what appears consensual? |
 
-This decomposition is more useful than a scalar.
+### Socially usable possibility and perceived option sets
+
+The capability approach already gives Root Sequence a strong warning against treating formal permission, resources, or reported satisfaction as sufficient evidence of substantive freedom. Its literature on **adaptive preferences** is especially relevant when people adjust expectations to persistent constraints.
+
+Several other established concepts may help decompose the social/perceptual layer without pretending they are one mechanism:
+
+- **status-quo bias:** Samuelson and Zeckhauser's decision research found that existing/default options can receive a systematic advantage in choice;
+- **pluralistic ignorance:** Prentice and Miller documented a case in which individuals misperceived peers' attitudes and experienced themselves as more deviant from the norm than they actually were;
+- **preference falsification:** Timur Kuran's work examines cases in which people publicly express preferences that differ from private ones under perceived social pressure, potentially making a social arrangement appear more consensual than it is.
+
+Sources:
+
+- William Samuelson & Richard Zeckhauser, "Status Quo Bias in Decision Making," *Journal of Risk and Uncertainty* 1 (1988), 7–59. DOI: 10.1007/BF00055564
+- Deborah A. Prentice & Dale T. Miller, "Pluralistic Ignorance and Alcohol Use on Campus: Some Consequences of Misperceiving the Social Norm," *Journal of Personality and Social Psychology* 64(2) (1993), 243–256. DOI: 10.1037/0022-3514.64.2.243
+- Timur Kuran, *Private Truths, Public Lies: The Social Consequences of Preference Falsification* (Harvard University Press, 1995), DOI: 10.2307/j.ctvt1sgqt
+
+These findings and theories operate at different levels and have different evidence bases. A laboratory or field finding about default effects does not explain every attachment to tradition; one campus study does not establish pluralistic ignorance in every community; preference falsification should not be assumed whenever public conformity exists.
+
+The disciplined Root Sequence move is therefore to ask separately:
+
+- Is an option materially available?
+- Is it known and understood?
+- Does the actor experience it as a plausible option for themselves?
+- What social consequences attach to using it?
+- Are public norms accurately representing private preferences?
+- Can people experiment or reverse course without catastrophic cost?
+- Can affected people alter the conditions that define the option set?
+
+A person can sincerely value a conventional or inherited way of life. The existence of social constraint does not invalidate that attachment. Conversely, sincere satisfaction does not establish that alternative lives were equally imaginable, supported, or survivable.
+
+This is another reason the **agency envelope** should remain a layered map rather than a scalar.
 
 The project term **agency envelope** can remain shorthand for visualizing these layers together, but it should not be presented as a discovered unit of agency.
 
