@@ -752,8 +752,6 @@ A person can sincerely value a conventional or inherited way of life. The existe
 
 This is another reason the **agency envelope** should remain a layered map rather than a scalar.
 
-This decomposition is more useful than a scalar.
-
 The project term **agency envelope** can remain shorthand for visualizing these layers together, but it should not be presented as a discovered unit of agency.
 
 ---
