@@ -1,7 +1,7 @@
 # Dynamic Coherence and Adaptive Continuity
 
 **Document role:** Cross-project conceptual framework and synthesis  
-**Status:** AI-assisted draft for author review, 2026-09-24  
+**Status:** AI-assisted draft for author review, revised 2026-10-01  
 **Canonical scope:** Shared Root Sequence language for change, continuity, agency, adaptation, and future possibility. Systems-specific mechanisms belong in the systems layer; project-specific implementations remain local.  
 **Evidence boundary:** This document connects established concepts from several literatures with Root Sequence working language. The synthesis itself is not a validated universal theory. Similar language across organisms, minds, institutions, ecosystems, and artificial systems does not establish a shared mechanism.
 
@@ -812,6 +812,27 @@ Critical Systems Thinking is an important predecessor for this pluralist stance;
 
 ---
 
+## 16A. Anticipation without brittleness
+
+Dynamic coherence has a prospective side: a system can use history, feedback, models, and domain knowledge to prepare for what is reasonably foreseeable. But a system can also become brittle by optimizing too tightly around one expected future.
+
+A practical Root Sequence formulation is:
+
+> **Anticipate what you can. Design for what you can’t.**
+
+This does not require omniscient forecasting. It asks two different questions:
+
+1. **What can reasonably be anticipated?** Downstream consequences, affected-party responses, dependencies, capacity limits, known failure modes, information needs, delayed effects, and assumptions that can be examined before acting.
+2. **What if the model is incomplete or wrong?** Preserve the ability to observe, revise, recover, migrate, appeal, refuse, or adapt where those capacities are appropriate to the domain.
+
+The distinction matters. Foresight without adaptability can produce premature optimization, analysis paralysis, or preemptive constraints around futures that never occur. Adaptability without foresight can repeatedly rediscover preventable failures at other people's expense.
+
+Unexpected outcomes are therefore not merely exceptions to the model. They can be evidence about the model's boundary, missing variables, false assumptions, or changing conditions.
+
+This overlaps established resilience-engineering work on responding, monitoring, learning, anticipating, graceful extensibility, and sustained adaptability. Root Sequence's role is to connect those questions to agency, power, reversibility, affected parties, and future possibility—not to rename the underlying mechanisms.
+
+---
+
 ## 17. Candidate Root Sequence principles
 
 These are candidates for testing, not doctrine.
@@ -828,6 +849,7 @@ These are candidates for testing, not doctrine.
 10. **Cross-domain resemblance is evidence for comparison, not evidence for identity of mechanism.**
 11. **Any coherence claim should name boundary, scale, timescale, affected parties, and externalized costs.**
 12. **Preserving the capacity for future revision can be an important design objective, but it does not override present harm, commitments, safety, or material outcomes.**
+13. **Anticipate foreseeable consequences, but do not make one prediction the system’s single point of failure; preserve ways to detect mismatch and revise.**
 
 ---
 
@@ -887,7 +909,7 @@ Preserving “future possibility” can become an excuse for failing people in t
 
 ### Root Sequence
 
-Use this page as shared language, then route causal work to Systems, empirical questions to Research, and project decisions to their local repositories.
+Use this page as shared language, then route causal work to Systems, empirical questions to Research, and project decisions to their local repositories. Treat anticipation as a design prompt: examine foreseeable downstream effects, then preserve enough optionality and feedback for the model to be corrected.
 
 ### Coherent Systems living paper
 
@@ -899,11 +921,11 @@ Use the framework to generate distinctions among bodily continuity, causal histo
 
 ### Being Human(e)
 
-Translate the framework into grounded questions about fear, learning, disability, identity, recovery, care, and environment without turning people into state machines or diagnosing them from abstract models.
+Translate the framework into grounded questions about fear, learning, disability, identity, recovery, care, and environment without turning people into state machines or diagnosing them from abstract models. Anticipate likely burdens or support needs where evidence permits, but do not substitute predicted reactions for what people actually report and experience.
 
 ### Coherent Computing
 
-Ask whether hardware, software, interfaces, automation, identity, repair, and service architecture preserve future user capability: inspect, understand, alter, migrate, refuse, recover, and continue.
+Ask whether hardware, software, interfaces, automation, identity, repair, and service architecture preserve future user capability: inspect, understand, alter, migrate, refuse, recover, and continue. Design known failure paths deliberately while keeping unexpected states observable, diagnosable, recoverable, and migratable rather than coupling continuity to one expected operating path.
 
 ### Community Infrastructure
 
@@ -915,7 +937,7 @@ Ask what forms of intelligence can learn and transform without having their goal
 
 ### Coherent World
 
-Represent history as changes in agents' and institutions' future dynamics, not merely as a list of past events. Avoid one scalar coherence score. Let interventions change affordances, feedback, dependencies, trust, capacity, and future action-space.
+Represent history as changes in agents' and institutions' future dynamics, not merely as a list of past events. Avoid one scalar coherence score. Let interventions change affordances, feedback, dependencies, trust, capacity, and future action-space. Agents and institutions can anticipate from partial models; those expectations should be capable of failing, producing surprise, and changing later models and behavior.
 
 ### Museum of Ordinary Life
 
@@ -1048,4 +1070,4 @@ It should remain vulnerable to being split, narrowed, corrected, or discarded if
 - [Conscious Systems — Open Questions](../research/conscious-systems/open-questions.md)
 - [Coherent Systems living paper](../research/papers/coherent-systems/README.md)
 
-**Source note:** The framework was prompted by the 2026-09-24 conversation on personality change, embodied identity, trauma, path dependence, agency, emergence, consciousness, AI, and Root Sequence. The structure and wording are AI-assisted synthesis for author review. External sources were used to anchor selected concepts; no systematic literature review was performed.
+**Source note:** The framework was prompted by the 2026-09-24 conversation on personality change, embodied identity, trauma, path dependence, agency, emergence, consciousness, AI, and Root Sequence. A 2026-10-01 discussion added the operational formulation “Anticipate what you can. Design for what you can’t.” as a derivative of the existing adaptive-continuity, resilience, and corrigibility work rather than a separate concept. The structure and wording are AI-assisted synthesis for author review. External sources were used to anchor selected concepts; no systematic literature review was performed.
