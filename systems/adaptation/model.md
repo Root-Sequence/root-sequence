@@ -1,7 +1,7 @@
 # Adaptation — Working Analysis Model
 
 **Document role:** Reusable systems model for describing how a system changes its responses, structure, or environment over time  
-**Status:** AI-assisted draft for author review, 2026-09-24  
+**Status:** AI-assisted draft for author review, revised 2026-10-01  
 **Scope:** Cross-domain systems analysis; not a validated universal scientific model and not a clinical model of human behavior  
 **Conceptual parent:** [Dynamic Coherence and Adaptive Continuity](../../concepts/dynamic-coherence.md)
 
@@ -504,6 +504,36 @@ Interventions can themselves become new path dependencies.
 
 ---
 
+## 16A. Anticipation and surprise
+
+Adaptation should not require waiting for every avoidable failure to occur. If evidence, prior incidents, domain knowledge, or the current model make a downstream consequence reasonably foreseeable, include it in the design.
+
+A compact operational rule is:
+
+> **Anticipate what you can. Design for what you can’t.**
+
+Anticipation here does **not** mean treating a forecast as authority or trying to enumerate every possible future. It means asking, before action:
+
+- Which downstream consequences, dependencies, capacity limits, and failure modes are reasonably foreseeable?
+- How might affected people or other system components respond?
+- Which assumptions are carrying the prediction?
+- What information will be needed to tell whether the prediction was wrong?
+- What becomes hard to reverse if the model is mistaken?
+
+Where uncertainty remains, preserve the ability to notice and respond. Depending on the domain, that may mean observability, staged rollout, reversibility, fallback paths, redundancy, repairability, migration, appeal, human review, or enough spare capacity to adapt outside the expected operating envelope.
+
+Unexpected outcomes should become information for model revision rather than evidence that the system was unknowable all along.
+
+There is also a failure mode in the other direction: **over-anticipation** can become analysis paralysis, premature abstraction, preemptive restriction, or brittle optimization around one imagined future.
+
+A useful test is:
+
+> **Did anticipation preserve options and improve preparedness, or did it narrow the system around a prediction that has not happened?**
+
+This overlaps established resilience-engineering work on responding, monitoring, learning, anticipating, graceful extensibility, and sustained adaptability. Root Sequence uses the formulation above as a cross-project design prompt, not as a claim to a new underlying mechanism.
+
+---
+
 ## 17. Evidence and claim status
 
 Label claims explicitly:
@@ -598,6 +628,10 @@ Possible result:
 
     LONG-TERM EFFECT:
 
+    FORESEEABLE DOWNSTREAM EFFECTS / FAILURE MODES:
+
+    IF THE MODEL IS WRONG, WHAT REMAINS OBSERVABLE / REVERSIBLE / RECOVERABLE:
+
     RECOVERY / TRANSFORMATION RELATION:
 
     REVERSIBILITY / EXIT:
@@ -611,6 +645,12 @@ Possible result:
 ---
 
 ## 20. Root Sequence principle
+
+> **Anticipate what you can. Design for what you can’t.**
+
+Use available evidence to prepare for foreseeable consequences without pretending the future is fully knowable. Preserve enough observability, reversibility, recovery capacity, and room for revision that surprise does not automatically become catastrophe or lock-in.
+
+Applied to adaptation:
 
 > **Adaptation is not evidence of improvement. Ask what changed, what future responses became more likely, which possibilities opened or closed, who shaped the change, and whether the system can still revise itself when conditions change again.**
 
