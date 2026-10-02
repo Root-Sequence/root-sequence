@@ -1,7 +1,7 @@
 # Root Sequence Design Grammar
 
 **Document role:** Working synthesis of recurring cross-project design principles<br>
-**Status:** AI-assisted draft for author review, revised 2026-09-28<br>
+**Status:** AI-assisted draft for author review, revised 2026-10-01<br>
 **Canonical scope:** Shared questions and commitments at Root Sequence level; each project owns its own design decisions, tests, governance, and canon.<br>
 **Evidence boundary:** Normative synthesis from a conversation, not a validated universal theory or evidence that every project already implements every item.
 
@@ -25,6 +25,7 @@ This wording is a proposed synthesis, not an approved project slogan. Coherence 
 | Deliberate before consequential decisions | Do participants have enough shared understanding, access to evidence, room to revise, and protection for dissent before collective authorization? | [Deliberative Inquiry](../research/methods/deliberative-inquiry.md) and [Collective Judgment](../analysis/collective-judgment-and-manufactured-consensus.md) |
 | Let evidence revise the model | What observation, counterexample, failed prediction, or affected-party evidence would require this model or design to change? | [Research Methods](../research/methods/README.md) |
 | Preserve adaptive continuity | What should remain stable, what must remain changeable, and which meaningful future actions does this decision open or close? | [Dynamic Coherence and Adaptive Continuity](dynamic-coherence.md) and [Adaptation](../systems/adaptation/README.md) |
+| Anticipate what you can; design for what you can’t | Which downstream effects, responses, dependencies, and failure modes are reasonably foreseeable? If the model is wrong, what stays observable, reversible where appropriate, recoverable, and adaptable? | [Adaptation model](../systems/adaptation/model.md#16a-anticipation-and-surprise), [Dynamic Coherence](dynamic-coherence.md), and [Resilience](../systems/resilience-and-graceful-degradation.md) |
 | Expand agency through chosen participation and delegation | Which burdens can be removed, and who retains a meaningful say over the result? | [Agency and Automation](agency-and-automation.md) |
 | Keep authority scoped and contestable | Who may act for whom, on what basis, and who else bears the effects? | [Agency and Automation](agency-and-automation.md) and [Idea Trail 9](../IDEA_TRAILS.md#trail-9--intelligence-automation-and-legitimate-authority) |
 | Prefer interoperable paths where they preserve autonomy | Can people change implementations, exchange information, and leave without losing the underlying capability? What coordination costs arise? | [Legible Systems](legible-systems.md#design-principles) |
@@ -42,8 +43,10 @@ This wording is a proposed synthesis, not an approved project slogan. Coherence 
 The grammar is not only about what to design; it also describes how Root Sequence should remain corrigible while designing. A useful shared loop is:
 
 ```text
-question → contrast → evidence → model → deliberation → action → observation → revision
+question → contrast → evidence → model → anticipation → deliberation → action → observation → revision
 ```
+
+**Anticipation is a prompt, not authority.** Use the current model to look for foreseeable consequences and prepare for plausible stress, then ask what remains possible if the model is incomplete or wrong. The point is to improve preparedness without turning one imagined future into a brittle plan.
 
 The shorthand **“reality gets veto power”** means that no conclusion is protected merely because it is elegant, politically congenial, already embedded in Root Sequence, or associated with a respected source. It does not mean evidence is perspective-free or instantly decisive; uncertainty, method quality, and affected perspectives remain part of the model.
 
@@ -53,10 +56,10 @@ These moves can conflict. More detailed records can harm privacy; a common proto
 
 A project should link to the relevant shared page, then say what the idea means under its own constraints. For example:
 
-- **Coherent Computing:** compare ways to participate, delegate, inspect, pause, recover, repair, migrate, and preserve future capability across devices and activities. Its own requirements and scenarios remain authoritative.
+- **Coherent Computing:** compare ways to participate, delegate, inspect, pause, recover, repair, migrate, and preserve future capability across devices and activities. Anticipate foreseeable failure paths without making survival depend on one forecast; keep unexpected states diagnosable and recoverable. Its own requirements and scenarios remain authoritative.
 - **Community Infrastructure:** ask who authorizes a Community Assistant's work, who inherits administration or care labor, and what happens without the assistant. Communities retain their own governance.
-- **Coherent World and its simulation:** explore whether interventions alter not only present outcomes but later affordances, dependencies, feedback, and agency. Avoid a single coherence score; history-dependent simulation output is a question, not canon or evidence about the real world.
-- **Being Human(e):** examine how help, dependence, fatigue, refusal, and dignity feel in ordinary contexts; human-scale conclusions belong in its own editorial process.
+- **Coherent World and its simulation:** explore whether interventions alter not only present outcomes but later affordances, dependencies, feedback, and agency. Let agents and institutions anticipate from partial models, let those expectations fail, and make surprise capable of changing later behavior. Avoid a single coherence score; history-dependent simulation output is a question, not canon or evidence about the real world.
+- **Being Human(e):** examine how help, dependence, fatigue, refusal, and dignity feel in ordinary contexts. Anticipate likely burdens, misunderstandings, and support needs without scripting people into predicted reactions; actual experience remains evidence. Human-scale conclusions belong in its own editorial process.
 
 See [Idea Trails](../IDEA_TRAILS.md) for broader routes. These examples are **proposed translations**, not claims that each project has adopted this page.
 
@@ -64,4 +67,4 @@ See [Idea Trails](../IDEA_TRAILS.md) for broader routes. These examples are **pr
 
 Use [Thought Routing](../THOUGHT_ROUTING.md) to capture the source once, compare existing treatments, and choose a canonical home. A useful path may be **capture → investigate → synthesize → make a project-specific decision → test or observe → revise**. It is not a required promotion ladder: an idea can stay a question, split, be contested, or be retired. Research can challenge a principle; a principle does not certify a research finding.
 
-**Source note:** This synthesis was prompted by the 2026-09-24 discussion of recurring project patterns, agency/automation, and the later dynamic-coherence/adaptive-continuity discussion. A 2026-09-28 synthesis/connection discussion sharpened the treatment of relationships as first-class objects and synthesis as distinct from replacement expertise. A 2026-09-29 Existential Euphoria / Root Sequence comparison added the provisional Membrane Test: a boundary-and-interface prompt for relationship without erasure. The conversation text was available during drafting, but no durable conversation URL was supplied. The table and wording are AI-assisted proposals for author review.
+**Source note:** This synthesis was prompted by the 2026-09-24 discussion of recurring project patterns, agency/automation, and the later dynamic-coherence/adaptive-continuity discussion. A 2026-09-28 synthesis/connection discussion sharpened the treatment of relationships as first-class objects and synthesis as distinct from replacement expertise. A 2026-09-29 Existential Euphoria / Root Sequence comparison added the provisional Membrane Test: a boundary-and-interface prompt for relationship without erasure. A 2026-10-01 discussion added the operational anticipation rule—“Anticipate what you can. Design for what you can’t.”—as a derivative of adaptive continuity, resilience, and corrigibility rather than a separate theory. The conversation text was available during drafting, but no durable conversation URL was supplied. The table and wording are AI-assisted proposals for author review.
