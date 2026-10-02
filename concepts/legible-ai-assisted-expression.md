@@ -24,6 +24,10 @@ The goal is not to keep AI at the edge of substantive work. The goal is to make 
 
 For some people, writing is a primary way of discovering what they think. For others, much of the thinking happens through association, images, conversation, experience, or a large network of connected ideas before prose begins. Writing then becomes a difficult serialization task: turning something nonlinear into a sequence of words another person can encounter.
 
+This can be a **representational-legibility problem rather than an understanding problem**. A person's internal model may contain relationships they understand deeply while their first linear explanation leaves out the context another person needs to reconstruct those relationships. [Legible Systems](legible-systems.md#representational-legibility) treats the broader problem as a distinction among structural coherence, representational legibility, and translational fidelity.
+
+The authoring goal is therefore not to flatten the model until it sounds simple. It is to build a usable entry point that preserves the relationships relevant to the audience and leaves a path back to deeper structure.
+
 AI can be especially useful in that second situation. It can lower working-memory, language, motor, organizational, or formatting burdens without taking over the underlying conceptual direction. It can also support thinking-through-writing by offering questions, counterexamples, and alternative structures.
 
 Neither pattern should become a universal theory of authorship. Assistance should adapt to the actual relationship between the person, the thought, and the artifact.
