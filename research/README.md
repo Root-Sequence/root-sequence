@@ -22,6 +22,7 @@ This directory holds bounded research inquiries and versioned papers that synthe
 
 ## Cross-cutting related work
 
+- [Agency under stress](agency-under-stress.md) — **bounded cross-domain synthesis; not clinical guidance or an interrogation manual**. Connects controllability, coercion, decentering, psychosocial support, recovery, and human-facing system design while preserving evidence limits.
 - [Adaptive continuity / dynamic coherence — intellectual lineage and prior art](dynamic-coherence-lineage.md) — **targeted related-work note; not a novelty finding or systematic review**. Traces state/parameter change, ultrastability, requisite variety, double-loop learning, resilience engineering, sustained adaptability, adaptive management/governance, path dependence, and second-order cybernetics; also records prior uses of the phrase “dynamic coherence.”
 - [Reading Trails](reading-trails/README.md) — **curated brain-food maps**, separate from claim-level bibliographies: archives, societies, courses, old magazines, reading lists, practitioner hubs, and other places worth wandering. The first trail covers [systems, cybernetics, complexity, and adaptive systems](reading-trails/systems-cybernetics-complexity.md).
 
