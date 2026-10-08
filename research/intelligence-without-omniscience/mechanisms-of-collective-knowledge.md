@@ -216,6 +216,12 @@ Relevant conceptual homes are preserved:
 - [Epistemic Trust and Collective Verification](epistemic-trust-and-collective-verification.md) — evidence independence, warranted reliance, expert assessment.
 - [Epistemic Contrast](../methods/epistemic-contrast.md), [Deliberative Inquiry](../methods/deliberative-inquiry.md), and the [Research Method](../method.md) remain the **methods**; do not replace them with a new compulsory checklist.
 
+### A third separation: accurate knowledge that still cannot yield action
+
+The private Coherent World [Mechanism Probe 003](https://github.com/Root-Sequence/coherent-world/blob/research/intelligence-without-omniscience-2026-10/simulation/scenarios/distributed-intelligence/MECHANISM-PROBE-003.md) holds one fictional, correct observation fixed while changing *reception*, *institutional uptake*, *available means*, *authority/consent*, and *whether goals can be challenged*. No empirical simulation was run. It illustrates why better information cannot automatically solve institutional or material constraints.
+
+It is motivated by [Longino's norms of scientific uptake](https://plato.stanford.edu/entries/scientific-knowledge-social/), the [capability approach's resource-to-opportunity conversion factors](https://plato.stanford.edu/archives/fall2025/entries/capability-approach/), and a [2024 critique distinguishing goal-level from within-goal criticism](https://doi.org/10.1016/j.shpsa.2024.02.005). The philosophical analogy does not assign scientific epistemic communities automatic political authority over citizens or communities.
+
 ## 8. What to investigate next
 
 **Next mechanism (M04/M09):** source-lineage confusion and false corroboration. It offers a strong contrast between *more references* and *more independent evidence*, can be tested without a general AI model, and bears directly on our own AI-assisted research workflow.
