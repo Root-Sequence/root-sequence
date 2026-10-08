@@ -368,9 +368,9 @@ This trail also asks: **What behaviors does this system select for?** Capability
 **Real-system proving ground:** `Root-Sequence/community-infrastructure/docs/concepts/collective-decision-making.md`  
 **Speculative world treatment:** `Root-Sequence/coherent-world/world/collective-decision-and-dissent.md`
 
----
-
 **Related knowledge-recognition case:** [Epistemic injustice and knowledge recognition](research/intelligence-without-omniscience/epistemic-injustice-and-knowledge-recognition.md).
+
+---
 
 # Trail 16 — Possibility, Historical Contingency, and Abandoned Futures
 
