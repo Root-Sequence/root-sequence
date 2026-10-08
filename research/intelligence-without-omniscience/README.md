@@ -184,6 +184,8 @@ Key design distinctions:
 
 A serious commons needs stewardship, resources, incentives, privacy boundaries, contributor rights, dispute procedures, protection against capture, repair, maintenance, and sustainable alternatives—not only downloads or an attractive declaration.
 
+For a more explicit governance treatment, including the crucial distinction between public knowledge and consent-sensitive knowledge, see [Intelligence commons](intelligence-commons.md). This is a research/design proposal, not a charter or a new organization.
+
 ## 11. UNESCO and the AI-industry tension
 
 The [UNESCO Recommendation on Open Science](https://www.unesco.org/en/legal-affairs/recommendation-open-science), adopted 23 November 2021, addresses open scientific knowledge, infrastructures, engagement beyond professional science, inclusion, training, and capacity-building. It also refers directly to collective intelligence through citizen/community engagement. It is an international recommendation and implementation framework for member states, **not a legal command requiring every AI company to release all model weights or proprietary data**. [UNESCO implementation](https://www.unesco.org/en/open-science/implementation).
