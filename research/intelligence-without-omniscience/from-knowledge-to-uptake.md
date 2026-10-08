@@ -185,6 +185,31 @@ This is not automatically a beneficial reinforcing loop. Greater capacity can al
 
 [Root Sequence Intelligence Ecology](../../concepts/intelligence-ecology.md) already asks what behaviors an environment rewards; this inquiry adds the *different* question of what conditions make particular cognitive capabilities usable. What is incentivized, what is accessible, what is legitimate, and what is good must remain separate axes.
 
+## 10A. When external knowledge feels like personal understanding
+
+An important counterweight to "intelligence as infrastructure" is the **illusion of explanatory depth**. [Rozenblit & Keil (2002)](https://doi.org/10.1207/s15516709cog2605_1) demonstrated that people can overestimate the depth of their own mechanistic understanding until asked to explain a process in detail. [Fisher, Goddu & Keil (2015)](https://doi.org/10.1037/xge0000070) experimentally found that Internet searches for explanatory knowledge can increase estimates of *internal* knowledge—blurring what a person knows and what they can retrieve externally.
+
+These studies do not establish that AI always impairs thinking, that participants are personally deficient, or that every task warrants memorization. Rather they highlight a **calibration problem**.
+
+Distinguish at least four states:
+- *I understand the mechanism sufficiently to explain and interrogate it.*
+- *I know where the appropriate account or expert is, and can access it reliably.*
+- *I can follow the explanation with help but cannot independently reconstruct it.*
+- *I am merely confident because fluent explanations or external tools are nearby.*
+
+All four can have practical value in appropriate circumstances, but they are not interchangeable. Offloading unnecessary memorization can be sensible; falsely claiming understanding is hazardous when taking consequential actions.
+
+For human–AI collaboration, a possible lightweight method is to ask:
+1. What do I actually understand?
+2. What am I relying on a source, expert, or model to supply?
+3. Which assumptions or evidence would I need to check before acting?
+4. If the tool disappeared or disagreed with another source, what would remain usable?
+5. Is a handoff to an actual specialist more appropriate than further summarization?
+
+These prompts should be *optional and proportionate*, not an examination imposed on all users. Independence is not a moral requirement and accommodations are not intellectual failures.
+
+**Proposed test:** Compare source retrieval, AI summary, and source-backed explanation for a bounded task. Separately measure task performance, confidence calibration, ability to identify unsupported claims, willingness to seek expertise, retained explanation when relevant, and the ability to choose not to explain. Do not mistake a better score on a memory recall test for a complete evaluation of cognitive augmentation.
+
 ## 11. Paired Coherent World tests with invalidation conditions
 
 **Test A — information routing:** identical actors, task, information, and group size; vary whether the group has an accurate, stale, or unavailable expertise map. Measure whether critical knowledge is actually obtained, and at what cost.
