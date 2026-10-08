@@ -835,3 +835,21 @@ documents:
       - adaptive-continuity-agency
       - intelligence-authority
 
+  - repo: Root-Sequence/root-sequence
+    path: research/intelligence-without-omniscience/README.md
+    role: research
+    trails:
+      - intelligence-authority
+      - accessibility-participation
+      - commons-shared-capacity
+      - collective-judgment-dissent
+      - memory-provenance
+      - adaptive-continuity-agency
+
+  - repo: Root-Sequence/root-sequence
+    path: research/intelligence-without-omniscience/epistemic-injustice-and-knowledge-recognition.md
+    role: research
+    trails:
+      - collective-judgment-dissent
+      - accessibility-participation
+      - intelligence-authority
