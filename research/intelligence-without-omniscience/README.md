@@ -16,6 +16,21 @@
 
 This question is the *starting point*, not the answer. It synthesizes distinctions from cognitive science, psychometrics, social epistemology, information science, the capability approach, organizational psychology, collective intelligence, evolutionary theory, open science, and AI studies. The prose is exploratory; labels below distinguish domain evidence from hypotheses and normative proposals.
 
+## Reader map: follow the mechanism that interests you
+
+This is the **one broad research home**; the companion pages are distinct source-aware inquiries, not new independent theories.
+
+| Start here if you're asking… | Read |
+| --- | --- |
+| What is general intelligence, and can individuals or systems be generally capable without knowing everything? | This overview |
+| What keeps distributed knowledge from reaching a group decision? | [Mechanisms of Collective Knowledge](mechanisms-of-collective-knowledge.md), including the analytic fact-coverage probe and its confounds |
+| Who gets heard or recognized as a knower? | [Epistemic Injustice and Knowledge Recognition](epistemic-injustice-and-knowledge-recognition.md) |
+| What makes criticism and new evidence actually change a shared model? | [From Knowledge to Uptake](from-knowledge-to-uptake.md) |
+| When should one trust information or expert advice one cannot rederive? | [Epistemic Trust and Collective Verification](epistemic-trust-and-collective-verification.md) |
+| How could shared knowledge capabilities be built without compulsory data extraction or one central authority? | [Intelligence Commons](intelligence-commons.md) |
+
+**Current work:** Research synthesis and two completed *analytic paper probes*, with no real-person or LLM experiment performed. Local test protocols remain review-pending; Coherent World's Neighborhood v0.2 remains its active game-development frontier.
+
 ## 1. A short orientation
 
 - **Intelligence is not omniscience.** An agent may learn and adapt across unfamiliar problems without already possessing all relevant answers.
