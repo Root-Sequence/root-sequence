@@ -224,6 +224,8 @@ Practical test: when assistance improves an immediate task, does the person also
 
 A capable AI may improve the conditions of human judgment, but capability does not itself confer legitimate authority.
 
+For a source-aware decomposition into **which mechanisms fail** (not merely whether a group fails), and the first computed analytic counterexample where an apparently better protocol does worse, see [Mechanisms of collective knowledge](mechanisms-of-collective-knowledge.md). The Coherent World extension consists of bounded **paper probes**, not validated experiments or implemented scenario rules.
+
 ## 14. Collective intelligence: where claims can fail
 
 A collection of specialists may achieve broader task coverage through coordination without becoming a single AGI. The relevant question is about **system-level functional capability**, not whether group members merged into one mind.
