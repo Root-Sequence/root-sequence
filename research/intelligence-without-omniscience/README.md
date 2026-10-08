@@ -389,6 +389,25 @@ These are preservation cues for future research and prose review; they are **not
 6. Examine actual open-science and open-AI governance mechanisms, costs, and risks rather than assuming the word "commons" solves them.
 7. Invite reviewers from cognitive science, information science, disability/capability studies, human–AI interaction, organizational research, and directly affected communities. Different disciplines have authority over different claims, not automatic authority over everyone's decisions.
 
+## 22. Current frontier: warranted reliance across imperfect knowers
+
+This inquiry has reached a natural **pause-and-test frontier**, not the end of the research. Our next step is **not** a new master theory or automatic propagation to every Root Sequence project. It is a set of discriminating questions:
+
+- When an individual cannot personally verify a specialized claim, what combination of evidence, expert trust, independent review, and correction makes reliance reasonable for that particular task?
+- How can a source-routing system distinguish genuine independent corroboration from multiple derivatives of one unverified report?
+- Does structured multi-agent discussion improve *unique information elicitation* under controlled budgets, or merely add words, time, and compute?
+- When is an AI explanation actually **verifiable**, as opposed to fluent, plausible, and reassuring?
+- Can an accessible collective knowledge system preserve uncertainty, dissent, source provenance, consent, and the right to challenge its own questions?
+- Who has the power to redesign the epistemic infrastructure when its categories, incentives, ranking, or authority allocation stop serving its participants?
+- When do verification processes themselves impose disproportionate labor, exclusion, surveillance, or latency?
+- What would a competent native-field baseline discover without this interdisciplinary synthesis, and what non-obvious correction would the synthesis add?
+
+**Provisional priority:** compare one bounded hidden-profile/source-dependence case against an established information-sharing protocol and competent ordinary review. Predeclare assumptions and failure criteria before examining outcomes; separate model behavior from real-world empirical evidence. The [2026 HiddenBench study](https://proceedings.mlr.press/v306/li26ej.html) offers a relevant prior benchmark, not a source of universal constants.
+
+**Current homes:** the core question, research sources, and original conceptual path remain under this research directory; complementary mechanisms stay in their existing conceptual homes. The private [Coherent World paper experiment proposal](https://github.com/Root-Sequence/coherent-world/pull/22) can stress-test bounded fictional translations **only after** the established Neighborhood v0.2 briefing frontier. Appropriate local applications to Community Infrastructure, Coherent Computing, Being Human(e), Liberated Intelligence, and other projects are prospective, not automatically authorized or already implemented.
+
+**Preservation discipline:** keep the generative question, counterarguments, and revision history available; do not copy the whole body of work into every repo, or treat document count as intellectual progress. A useful partial answer may remain open without becoming another compulsory maintenance surface. No new project, product, governance policy, world canon, or declared scientific breakthrough is implied by this research map.
+
 ## Selected primary and reference sources
 
 - Legg & Hutter (2007), [Universal Intelligence](https://arxiv.org/abs/0712.3329). Formal proposal, not a historical stage of ASI.
