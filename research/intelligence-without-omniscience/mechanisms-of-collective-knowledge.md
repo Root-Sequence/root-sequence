@@ -16,7 +16,7 @@
 
 A *heuristic, non-universal* chain of constraints:
 
-\`\`\`text
+```text
 world / problem / affected actors
           ↓
 observation, information creation, documentation
@@ -37,7 +37,7 @@ legitimate authorization, resources, and implementation
           ↓
 consequences, maintenance, feedback, change in future conditions
           ↺
-\`\`\`
+```
 
 The real processes are non-linear. Actors can act without all knowledge; a sound objection may be rejected for legitimate reasons; private or community-governed knowledge may never be disclosed. The stages are diagnostic *distinctions* that can be reordered or bypassed, not a compulsory participation pipeline.
 
@@ -112,24 +112,24 @@ These empirical studies do not guarantee any intervention will work outside thei
 ### Predeclared toy assumptions
 
 - A bounded problem has **two separate critical facts** known to distinct participants. Getting both into the shared record is *necessary* (not sufficient) for a defensible decision.
-- **Ordinary discussion:** each of four independent information turns is spent repeating shared facts with probability \`s\`. Otherwise the turn attempts one of the two critical facts with equal chance; it is disclosed with probability \`d\`.
-- **Targeted protocol:** within the same overall four-turn allowance, two turns explicitly ask the presumed holders of the critical facts. Each route is correct with probability \`r\`; if routed correctly, the fact is disclosed with probability \`d\`. The other two turns remain for checking or assessment, but their usefulness is **not modeled**.
+- **Ordinary discussion:** each of four independent information turns is spent repeating shared facts with probability `s`. Otherwise the turn attempts one of the two critical facts with equal chance; it is disclosed with probability `d`.
+- **Targeted protocol:** within the same overall four-turn allowance, two turns explicitly ask the presumed holders of the critical facts. Each route is correct with probability `r`; if routed correctly, the fact is disclosed with probability `d`. The other two turns remain for checking or assessment, but their usefulness is **not modeled**.
 - These probabilities are **invented sensitivity parameters**, not estimates inferred from the psychological or AI studies. The model ignores message content, source validity, learning, strategic adaptation, unequal costs, and legitimate authorization.
 - The outcome is narrowly defined as **both facts surfaced**. It is not group intelligence, correct inference, wellbeing, or legitimate action.
 
-Let \`q = (1-s)d/2\` be the probability that any ordinary turn yields a particular critical fact. Assuming independent turns, inclusion–exclusion gives:
+Let `q = (1-s)d/2` be the probability that any ordinary turn yields a particular critical fact. Assuming independent turns, inclusion–exclusion gives:
 
-\`\`\`text
+```text
 P(both critical facts surfaced in n ordinary turns)
   = 1 - 2(1-q)^n + (1-2q)^n
 
 P(both surfaced after two accurately routed, independent requests)
   = (r*d)^2
-\`\`\`
+```
 
-For the fixed baseline \`n=4\`, the illustrative sensitivity cases are:
+For the fixed baseline `n=4`, the illustrative sensitivity cases are:
 
-| Condition | Shared-fact repetition \`s\` | Disclosure \`d\` | Routing \`r\` | Ordinary | Targeted |
+| Condition | Shared-fact repetition `s` | Disclosure `d` | Routing `r` | Ordinary | Targeted |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | A: high repetition, accurate routing | 0.80 | 0.90 | 1.00 | **8.06%** | **81.00%** |
 | B: less repetition, poor routing | 0.50 | 0.90 | 0.60 | **37.00%** | **29.16%** |
@@ -154,7 +154,7 @@ The model also ignores source validity, use of information after transmission, a
 ### What it cannot establish
 
 - No study of humans or LLMs was executed.
-- It does **not** prove that real groups repeat shared information with \`s=0.8\`, disclose with \`d=0.9\`, or route with \`r=0.6\`.
+- It does **not** prove that real groups repeat shared information with `s=0.8`, disclose with `d=0.9`, or route with `r=0.6`.
 - A two-fact toy is not general intelligence, political deliberation, or a whole social system.
 - The protocols do not have proven equal cognitive/verification costs, even if their *message allowances* match.
 - Real sources can be correlated or misleading, and facts can be disputed, private, or irrelevant.
