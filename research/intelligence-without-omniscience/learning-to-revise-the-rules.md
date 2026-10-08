@@ -149,7 +149,7 @@ So **learning ability** and **feedback quality** have to be examined separately.
 
 ## 9. Root Sequence and applied project placement
 
-**Canonical substantive home:** this bounded research analysis under \`Root-Sequence/root-sequence/research/intelligence-without-omniscience/\`.
+**Canonical substantive home:** this bounded research analysis under `Root-Sequence/root-sequence/research/intelligence-without-omniscience/`.
 
 Existing related treatments, not replaced:
 - [Intelligence Ecology](../../concepts/intelligence-ecology.md): incentives selecting which behaviors persist.
