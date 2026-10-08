@@ -30,7 +30,7 @@ This is the **one broad research home**; the companion pages are distinct source
 | How could shared knowledge capabilities be built without compulsory data extraction or one central authority? | [Intelligence Commons](intelligence-commons.md) |
 | When can institutions revise their operative goals rather than only their tactics, and who has authority? | [Learning to Revise the Rules](learning-to-revise-the-rules.md) |
 
-**Current work:** Research synthesis and two completed *analytic paper probes*, with no real-person or LLM experiment performed. Local test protocols remain review-pending; Coherent World's Neighborhood v0.2 remains its active game-development frontier.
+**Current work:** Research synthesis, several bounded analytical/paper probes, and a separate research-only scripted information-elicitation model. The [Learning to Revise the Rules](learning-to-revise-the-rules.md#8a-the-feedback-can-be-accurate-and-still-describe-the-wrong-success) companion now distinguishes **measurement validity**, truthful but limited indicators, adversarial proxy manipulation, valid feedback, institutional goal revision, resources, and legitimate implementation. Toy arithmetic and logic checks do **not** constitute real-person, AI-agent, organizational, or social-science experiments. Review protocols remain pending, and Coherent World's Neighborhood v0.2 remains its active game-development frontier.
 
 ## 1. A short orientation
 
