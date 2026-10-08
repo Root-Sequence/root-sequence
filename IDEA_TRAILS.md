@@ -368,7 +368,7 @@ This trail also asks: **What behaviors does this system select for?** Capability
 **Real-system proving ground:** `Root-Sequence/community-infrastructure/docs/concepts/collective-decision-making.md`  
 **Speculative world treatment:** `Root-Sequence/coherent-world/world/collective-decision-and-dissent.md`
 
-**Related knowledge-recognition case:** [Epistemic injustice and knowledge recognition](research/intelligence-without-omniscience/epistemic-injustice-and-knowledge-recognition.md).
+**Related knowledge-recognition cases:** [Epistemic injustice and knowledge recognition](research/intelligence-without-omniscience/epistemic-injustice-and-knowledge-recognition.md) and [From knowledge to uptake](research/intelligence-without-omniscience/from-knowledge-to-uptake.md) distinguish participation, information integration, credibility, uptake of criticism, boundary objects, and the right to contest the framing of a problem; neither document replaces native methods or the authority of affected participants.
 
 ---
 
