@@ -1,5 +1,5 @@
 version: 0.4
-updated: 2026-09-24
+updated: 2026-10-07
 canonical_trails: IDEA_TRAILS.md
 metadata_convention: IDEA_TRAIL_METADATA.md
 
@@ -861,4 +861,13 @@ documents:
       - intelligence-authority
       - collective-judgment-dissent
       - accessibility-participation
+      - commons-shared-capacity
+
+  - repo: Root-Sequence/root-sequence
+    path: research/intelligence-without-omniscience/epistemic-trust-and-collective-verification.md
+    role: research
+    trails:
+      - intelligence-authority
+      - collective-judgment-dissent
+      - memory-provenance
       - commons-shared-capacity
