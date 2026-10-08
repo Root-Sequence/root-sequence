@@ -170,7 +170,7 @@ The point is **appropriate transformation**, not symmetry.
 
 **Canonical real-system work:** Community Infrastructure `resource-commons.md`.
 
-**Related research (not a new governance authority):** [Intelligence Without Omniscience](research/intelligence-without-omniscience/README.md) investigates what it would mean for knowledge, learning, tools, and coordination to function as an *intelligence commons*, including privacy, contributor consent, enclosure, maintenance, and AI dependence.
+**Related research (not a new governance authority):** [Intelligence Without Omniscience](research/intelligence-without-omniscience/README.md) and the [Intelligence Commons inquiry](research/intelligence-without-omniscience/intelligence-commons.md) investigate knowledge, learning, tools, and coordination as shared capacities, including privacy, contributor consent, enclosure, maintenance, and AI dependence.
 
 ---
 
