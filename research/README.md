@@ -21,6 +21,8 @@ This directory holds bounded research inquiries and versioned papers that synthe
 - [Intelligence Without Omniscience](intelligence-without-omniscience/README.md) — **AI-assisted, review-pending cross-disciplinary inquiry** into generality, situated capabilities, distributed knowledge, accessibility, agency, and the conditions for trustworthy cooperation. It is a research map, not a validated theory.
   - Companion inquiries: [Knowledge recognition and epistemic injustice](intelligence-without-omniscience/epistemic-injustice-and-knowledge-recognition.md) · [From knowledge to uptake](intelligence-without-omniscience/from-knowledge-to-uptake.md) · [Epistemic trust and collective verification](intelligence-without-omniscience/epistemic-trust-and-collective-verification.md) · [Intelligence commons](intelligence-without-omniscience/intelligence-commons.md).
 
+- [Mechanisms of collective knowledge](intelligence-without-omniscience/mechanisms-of-collective-knowledge.md) — **first bounded mechanism investigation** of shared-information sampling, expertise routing, disclosure, evidence assessment, institutional uptake, and limits on action, with a falsifiable paper calculation and links to native disciplines. It does not measure AGI or validate collective intelligence.
+
 - [Conscious Systems](conscious-systems/README.md) — **exploratory, AI-assisted seed; author review pending**. Starts with [what can change about a mind while preserving consciousness](conscious-systems/what-can-we-change-about-a-mind.md), separating experience from report, capability, and authority.
 
 ## Cross-cutting related work
