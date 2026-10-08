@@ -54,6 +54,21 @@ Artificial general intelligence (AGI) concerns broad adaptive intellectual capab
 
 Working question: is generality better measured by a repertory of solved tasks, by speed and transfer of learning, by ability to find and combine resources, or by some multidimensional combination? Avoid prematurely converting these into a single scalar.
 
+### General intelligence is also a measurement-validity question
+
+The same problem appears in the evaluation of artificial intelligence: **what does a benchmark score actually warrant saying about generality?**
+
+- [Morris et al., *Levels of AGI* (ICML 2024)](https://proceedings.mlr.press/v235/morris24b.html) explicitly separates **depth/performance** from **breadth/generality** and discusses difficult requirements for ecologically valid, meaningful evaluations.
+- [Chollet (2019)](https://arxiv.org/abs/1911.01547) argues that demonstrated skill at trained tasks alone is an insufficient measure of learning/generalization, due in part to the roles of priors and experience.
+- [NIST AI 800-3 (February 2026)](https://www.nist.gov/news-events/news/2026/02/new-report-expanding-ai-evaluation-toolbox-statistical-models) further separates **accuracy on fixed benchmark items** from **generalized accuracy across a specified broader population of similar questions**, with different assumptions and uncertainty estimation. Even NIST's broader construct does not imply generality across *every* conceivable task family.
+- [Jacobs & Wallach (2021)](https://doi.org/10.1145/3442188.3445901) show why disagreements over latent constructs and their operationalized indicators matter in computational measurement. Their fairness argument is a relevant *methodological bridge*, not an established universal measure of AGI.
+
+A high benchmark score may be correct and informative for a specified task population while being inadequate evidence of unfamiliar-task transfer, novel learning, embodied participation, institutional legitimacy, or consciousness. A claim of AGI must specify the **construct, task population, prior access/training conditions, evaluation method, and validity limits**. Statistical generalization within one benchmark family is not the same as cognitive generality across domains.
+
+This is **not** a new AGI metric. It is a route toward existing intelligence-measurement and evaluation literature—and away from the misleading assumption that collecting impressive scores or enormous bodies of knowledge is itself a definition of general intelligence.
+
+
+
 ## 3. Intelligence as capacity, process, and situated accomplishment
 
 Distinguish:
@@ -205,6 +220,23 @@ Key design distinctions:
 A serious commons needs stewardship, resources, incentives, privacy boundaries, contributor rights, dispute procedures, protection against capture, repair, maintenance, and sustainable alternatives—not only downloads or an attractive declaration.
 
 For a more explicit governance treatment, including the crucial distinction between public knowledge and consent-sensitive knowledge, see [Intelligence commons](intelligence-commons.md). This is a research/design proposal, not a charter or a new organization.
+
+### The intelligence commons must not confuse *volume* with *capability*
+
+A large archive, many open repositories, or thousands of AI-generated explanations may coexist with poor discoverability, weak verification, inaccessible formats, consent problems, and inadequate ways to question what knowledge gets represented.
+
+This also applies reflexively to **this research**. The number of documents or completed PRs is not a useful measure of whether the knowledge has become usable. A better, separately tested inquiry asks whether someone unfamiliar with its vocabulary can:
+- begin from an ordinary-language question;
+- discover appropriate native literature and competing interpretations;
+- distinguish source evidence from AI synthesis and false corroboration;
+- find a bounded test or method appropriate to the question;
+- understand uncertainty and stop with a useful partial answer;
+- challenge a framing or request a correction without excessive burden;
+- continue independently without being compelled to use one proprietary gatekeeper.
+
+Those are **proposed reader-accessibility and epistemic-routing tasks**, not already validated outcomes. A competent information-science/HCI evaluation may be entirely sufficient; RS need not invent a new dashboard or scoring trait.
+
+A companion [five-world measurement-validity paper probe](https://github.com/Root-Sequence/coherent-world/blob/research/intelligence-without-omniscience-2026-10/simulation/scenarios/distributed-intelligence/MECHANISM-PROBE-006.md) deliberately found no demonstrated new diagnostic capability beyond established measurement and critical-systems baselines. That **null/overlap finding** is valuable: a transdisciplinary research project can succeed by helping questions find the right methods, without claiming to supersede them.
 
 ## 11. UNESCO and the AI-industry tension
 
