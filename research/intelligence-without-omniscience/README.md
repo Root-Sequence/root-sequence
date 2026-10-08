@@ -238,6 +238,27 @@ Those are **proposed reader-accessibility and epistemic-routing tasks**, not alr
 
 A companion [five-world measurement-validity paper probe](https://github.com/Root-Sequence/coherent-world/blob/research/intelligence-without-omniscience-2026-10/simulation/scenarios/distributed-intelligence/MECHANISM-PROBE-006.md) deliberately found no demonstrated new diagnostic capability beyond established measurement and critical-systems baselines. That **null/overlap finding** is valuable: a transdisciplinary research project can succeed by helping questions find the right methods, without claiming to supersede them.
 
+### A proposed reader navigation test: can Root Sequence practice what it proposes?
+
+This is an **unexecuted usability/evaluation design**, not a human-subject study already performed.
+
+Take three ordinary-language prompts that do not supply expert vocabulary:
+1. "My institution says there are no problems because no one complained. How could that be misleading?"
+2. "An AI passes a benchmark; does that mean it can learn and handle any kind of problem?"
+3. "A service meets its targets but people say it isn't working for them. How could we determine what's wrong?"
+
+A separately recruited, consenting reviewer unfamiliar with the relevant vocabulary would begin from the actual Root Sequence repository entry point, not a prepared answer. Observe whether the existing navigation helps them reach:
+- native terms, methods, and *primary sources*, with proper caveats;
+- at least one credible alternative diagnosis or counterexample;
+- a distinction among factual, measurement, normative, and authorization questions;
+- a useful stopping point from which they can continue without the assistant.
+
+Compare against a competent baseline, such as direct web/library searching or an ordinary discipline-specific introduction, under similar tasks and time/support limits. Document actual user consent and burden, errors, abandoned routes, and unsupported inferences. No reviewer needs to disclose private experience or accept the project's synthesis.
+
+**Current structural check:** on 2026-10-08, a small GitHub-file link check confirmed nine intended reference/navigation links across eight currently accessible draft-branch files, from the Root Sequence research entry point to focused conceptual studies and the Coherent World Probe 006. **That is not evidence of usability or effective learning**: correct link targets do not show that a novice finds, understands, trusts, or benefits from them.
+
+**A null result is welcome.** If direct searching or an established information-science method is clearer and cheaper than the Root Sequence trail, the result should narrow our proposed contribution rather than generate another reader dashboard or taxonomy.
+
 ## 11. UNESCO and the AI-industry tension
 
 The [UNESCO Recommendation on Open Science](https://www.unesco.org/en/legal-affairs/recommendation-open-science), adopted 23 November 2021, addresses open scientific knowledge, infrastructures, engagement beyond professional science, inclusion, training, and capacity-building. It also refers directly to collective intelligence through citizen/community engagement. It is an international recommendation and implementation framework for member states, **not a legal command requiring every AI company to release all model weights or proprietary data**. [UNESCO implementation](https://www.unesco.org/en/open-science/implementation).
