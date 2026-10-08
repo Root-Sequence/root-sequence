@@ -665,6 +665,10 @@ Do not build it until the Reading Trails and routing method have enough real use
 
 ---
 
+## Related inquiry: intelligence infrastructure and epistemic recognition
+
+The working [Intelligence Without Omniscience](../research/intelligence-without-omniscience/README.md) synthesis asks what happens when knowledge is technically available but the conditions for understanding or using it are missing. The focused [Epistemic injustice and knowledge recognition](../research/intelligence-without-omniscience/epistemic-injustice-and-knowledge-recognition.md) note distinguishes search failure from hidden information, prejudicial credibility deficits, inaccessible institutional categories, and lack of material or decision authority. [Epistemic trust and collective verification](../research/intelligence-without-omniscience/epistemic-trust-and-collective-verification.md) addresses the distinct problem of evaluating expertise once a source can be found. Discoverability alone is **not** a substitute for justified reliance, accessibility, resources, consent, or legitimacy.
+
 ## 17. Research anchors
 
 These sources support components of the model, not the whole Root Sequence synthesis.
