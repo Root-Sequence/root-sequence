@@ -34,6 +34,8 @@ The earlier `what-is-*` series mixed short definitions, poetry, political analys
 ---
 
 ## Relationship to systems and founding texts
+The developing cross-disciplinary research inquiry [Intelligence Without Omniscience](../research/intelligence-without-omniscience/README.md) connects several existing concepts, especially Intelligence Ecology, Epistemic Discoverability, Legible Systems, and Agency and Automation. It lives under **research**, not as an additional governing conceptual framework; the existing pages remain the local sources for their own mechanisms.
+
 
 - [`../systems/`](../systems/README.md) owns analytical principles, explicit models, methods, applications, tests, and failure cases for system behavior.
 - [`../systems/principles/`](../systems/principles/README.md) collects the current Systems Principles: asymmetry, misclassification, feedback, reinforcement, and non-reversal.
