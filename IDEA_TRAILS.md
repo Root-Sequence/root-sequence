@@ -170,6 +170,8 @@ The point is **appropriate transformation**, not symmetry.
 
 **Canonical real-system work:** Community Infrastructure `resource-commons.md`.
 
+**Related research (not a new governance authority):** [Intelligence Without Omniscience](research/intelligence-without-omniscience/README.md) investigates what it would mean for knowledge, learning, tools, and coordination to function as an *intelligence commons*, including privacy, contributor consent, enclosure, maintenance, and AI dependence.
+
 ---
 
 # Trail 7 — Federation, Autonomy, and Networks of Networks
@@ -235,6 +237,7 @@ This trail also asks: **What behaviors does this system select for?** Capability
 | **Museum of Ordinary Life** | Preserve ordinary pre-transition AI interfaces, prompts, automated decisions, help systems, errors, consent notices, and the human labor hidden behind “automation.” |
 
 - **Canonical broad systems concept:** [`concepts/intelligence-ecology.md`](concepts/intelligence-ecology.md).
+- **Related cross-disciplinary research (review-pending):** [Intelligence Without Omniscience](research/intelligence-without-omniscience/README.md) distinguishes generality, transactive memory, cognitive offloading, individual capacities, infrastructure-enabled capability, and legitimate authority without asserting a universal intelligence theory.
 - **Shared working design principle:** [`concepts/agency-and-automation.md`](concepts/agency-and-automation.md) asks when delegation expands agency, how burdens move, and what governance must accompany automation.
 - **Related research question:** [`research/conscious-systems/`](research/conscious-systems/README.md) asks which conditions might support experience; it does not infer consciousness or authority from capability.
 - **Canonical focused research:** Liberated Intelligence.
@@ -366,6 +369,8 @@ This trail also asks: **What behaviors does this system select for?** Capability
 **Speculative world treatment:** `Root-Sequence/coherent-world/world/collective-decision-and-dissent.md`
 
 ---
+
+**Related knowledge-recognition case:** [Epistemic injustice and knowledge recognition](research/intelligence-without-omniscience/epistemic-injustice-and-knowledge-recognition.md).
 
 # Trail 16 — Possibility, Historical Contingency, and Abandoned Futures
 
