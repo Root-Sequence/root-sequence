@@ -224,10 +224,16 @@ It is motivated by [Longino's norms of scientific uptake](https://plato.stanford
 
 ## 8. What to investigate next
 
-**Next mechanism (M04/M09):** source-lineage confusion and false corroboration. It offers a strong contrast between *more references* and *more independent evidence*, can be tested without a general AI model, and bears directly on our own AI-assisted research workflow.
+**Already examined analytically, not empirically:**
 
-**Following (M06/M07):** accurate objection with no institutional uptake or capability to act. That is where knowledge, epistemic justice, governance, and resource conversion must be analytically disentangled.
+- **Probe 001 (M01/M02/M03):** exact fact-coverage probabilities given *invented* sampling, disclosure and routing assumptions. The targeted protocol has an important missingness-map advantage that must be controlled before claiming causality.
+- **Probe 002 (M04/M09):** an invented evidence-lineage trace distinguishes multiple citations from independent support without presuming which source is correct.
+- **Probe 003 (M06/M07):** a counterfactual separates reception, uptake, means, authority, consent, and who can change a goal, without claiming empirical validity.
 
-**Later:** source disclosure under competing incentives (M03), and whether changes in these mechanisms produce transfer across different task domains rather than one stylized scenario.
+**Next useful work:** a frozen, **fairly controlled** comparison where the experimental and baseline groups have exactly the same task, neutral specialty map, information budget, and materials; the only initial manipulation is whether unshared relevant facts are actively solicited. Include an irrelevant-unique-information negative control and a false but confidently stated unique item. Compare both groups against competent ordinary expert review, record labor and disclosure rights, and accept a null outcome.
 
-Do not operationalize private resident histories or override the current Coherent World Neighborhood v0.2 briefing. All new fictional values must be separately approved before incorporation into the game.
+**Second priority:** an origin-aware evidence assessment pilot that distinguishes source lineage, independent checking, and perceived repetition without presuming source counts establish credibility.
+
+**Then:** analyze incentives and safe disclosure (M03) and investigate whether learning transfers across an unrelated task family rather than overfitting a single contrived scenario. Real participant studies require independent design, consent, and appropriate ethical review.
+
+Do not operationalize private resident histories or override Coherent World's Neighborhood v0.2 briefing and first human playtest. All new fictional neighborhood values must be separately approved before incorporation into the game.
