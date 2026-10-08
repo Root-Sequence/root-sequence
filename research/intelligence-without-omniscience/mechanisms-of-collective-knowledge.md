@@ -95,6 +95,16 @@ A [hidden-profile experiment with organizational board members, published 2021](
 
 This is an especially relevant empirical benchmark but does not authorize copying its scores into a fictional society model. Its mechanism remains bounded to the evaluated configurations, prompts, tasks, and versions.
 
+### Expertise maps, motives, and what happens *after* information is shared
+
+[Van Ginkel & Van Knippenberg (2009)](https://doi.org/10.1016/j.obhdp.2008.10.003) experimentally examined knowledge of distributed expertise, group task representations, reflection, and information elaboration (N=125 decision-making groups, as reported in the article abstract). Their results distinguish awareness of **who knows what** from how the group frames and uses that knowledge. This constrains a simple "make an expertise directory" proposal: the directory may be useful through changing task interpretation, not just through direct retrieval.
+
+[Toma, Vasiljevic, Oberlé & Butera (2013)](https://pubmed.ncbi.nlm.nih.gov/22577834/) examined expertise assignment combined with cooperative versus competitive goals in hidden-profile groups. Assigning experts supported information pooling with cooperative goals but **reduced it under competitive goals**. A system must examine whether expertise labels change status competition and willingness to contribute.
+
+[Xiao, Zhang & Basadur (2016)](https://doi.org/10.1016/j.jbusres.2015.05.014) investigate the gap between information sharing and its actual use in new product development decisions. Their findings caution against making *fact coverage* stand in for adequate information integration, especially with unequally distributed information.
+
+These empirical studies do not guarantee any intervention will work outside their investigated tasks. They also show why the attractive claim "just ask the right person" is not sufficiently specified.
+
 ## 4. First mechanistic probe: hidden information under a fixed message budget
 
 **Location:** the private [Coherent World mechanism probe 001](https://github.com/Root-Sequence/coherent-world/blob/research/intelligence-without-omniscience-2026-10/simulation/scenarios/distributed-intelligence/MECHANISM-PROBE-001.md). This is a *paper calculation*, not a new world simulator, study of real participants, or independent validation.
@@ -134,6 +144,12 @@ Calculations were checked against exhaustive enumeration of the three multinomia
 2. If the expertise map is sufficiently unreliable, targeted routing may perform worse than ordinary exploration (case B). Structured processes are not guaranteed improvements.
 3. If no disclosure is possible, neither protocol surfaces the facts (case C). Silence might be due to privacy, coercion, lack of safe channels, or simply missing knowledge; the model does **not** diagnose which.
 4. Even perfect exposure does not establish reliability, integration into the working model, authorization, or downstream benefit.
+
+### The toy's especially consequential confound
+
+The targeted-query condition already knows, by design, that **two** critical facts exist and which putative knowledge-holders to ask. The ordinary condition is not given an equivalent task-specific missing-fact map. Thus the comparison can isolate neither generic discussion structure nor independent intelligence: it partly reflects **privileged knowledge of what to seek**. A fair next study must give both conditions the same specialist roster and neutral topic list, while varying only whether a structured solicitation step occurs. How accurately participants know the distribution of unique information should be a **separate randomized factor**. Include a case with **no decisive unique fact**, so solicitation may add overhead without benefit.
+
+The model also ignores source validity, use of information after transmission, and incentives. It is an *analytic sensitivity illustration*, not a positive experimental result about groups.
 
 ### What it cannot establish
 
