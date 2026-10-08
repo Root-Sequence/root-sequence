@@ -79,7 +79,7 @@ The point is **appropriate transformation**, not symmetry.
 |---|---|
 | **Root Sequence** | Analyze hierarchy, institutional power, delegation, accountability, capture, concentrated veto power, and the difference between responsibility and domination. |
 | **Being Human(e)** | Explore care with boundaries, responsibility, accountability, conflict, repair, and how good intentions interact with unequal power. |
-| **Liberation Mass** | Practice rotating roles and the principle “roles share work, not power.” Observe where facilitation, safety, expertise, and continuity still produce informal authority. |
+| **Liberation Mass** | Practice rotating roles with limited, explicit, reviewable powers. Observe where facilitation, safety, expertise, and continuity still produce informal authority. |
 | **Community Infrastructure** | Encode scoped steward roles, delegation, revocation, moderation boundaries, technical-admin separation, auditability, and explicit capability bundles instead of universal admin rank. |
 | **Liberated Intelligence** | Ask how highly capable intelligence can assist without silently acquiring legitimate authority over people or communities. |
 | **Coherent World** | Design infrastructure stewardship across settlements, networks, institutions, and shared systems without assuming that removing ownership eliminates power. |

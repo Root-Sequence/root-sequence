@@ -287,7 +287,7 @@ Use it for:
 - facilitation and participant roles;
 - safety, accessibility, and conduct;
 - music, reflection, testimony, ritual, and shared presence;
-- experiments in rotating stewardship and “roles share work, not power.”
+- experiments in rotating stewardship with limited, explicit, reviewable powers.
 
 Liberation Mass may also provide a real social context in which selected Community Infrastructure ideas—event discovery, access notes, rotating roles, mutual aid, working groups, resource sharing, or community memory—can eventually be tested. Neither project is a dependency of the other.
 
