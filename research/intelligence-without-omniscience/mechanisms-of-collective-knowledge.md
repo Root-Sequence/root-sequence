@@ -214,6 +214,7 @@ Relevant conceptual homes are preserved:
 - [Epistemic Injustice and Knowledge Recognition](epistemic-injustice-and-knowledge-recognition.md) — testimonial/hermeneutical injustice, silencing, and interpretation.
 - [Intelligence Commons](intelligence-commons.md) — access, governance, consent, and distribution of useful capabilities.
 - [Epistemic Trust and Collective Verification](epistemic-trust-and-collective-verification.md) — evidence independence, warranted reliance, expert assessment.
+- [Learning to Revise the Rules](learning-to-revise-the-rules.md) — double-loop organizational learning, actual governing variable changes, problem boundary critique, and legitimate authorization, distinctly from better information routing.
 - [Epistemic Contrast](../methods/epistemic-contrast.md), [Deliberative Inquiry](../methods/deliberative-inquiry.md), and the [Research Method](../method.md) remain the **methods**; do not replace them with a new compulsory checklist.
 
 ### A third separation: accurate knowledge that still cannot yield action
