@@ -205,6 +205,25 @@ A **separate adversarial measurement** check introduced an invented action that 
 
 **Execution scope:** 13 deterministic logic assertions passed in the same authored JavaScript model, including all enabling-gate distinctions, two negative controls, identification of the independent-audit effect, and visibility of the other-party burden. No independent real-world reviewer, external dataset, human/LLM participant, or empirical calibration was involved. The source-aware protocol is preserved as a research supplement in [Coherent World Probe 005](https://github.com/Root-Sequence/coherent-world/blob/research/intelligence-without-omniscience-2026-10/simulation/scenarios/distributed-intelligence/MECHANISM-PROBE-005.md).
 
+### Formal comparison: observation and reachable action are different properties
+
+**Control theory has more precise antecedents** for the distinction between *inferring system state* and *being able to change it*: **observability** and **controllability**. The classical [Kalman control-theory lineage (1960)](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD724842.xhtml) develops these concepts; a [technical exposition](https://mitter.lids.mit.edu/publications/11_controllability_pole_IEEEAC.pdf) distinguishes reconstruction of internal state from output measurements and states reachable through allowed inputs. These are **formal properties defined relative to an explicit dynamical model, state variables, inputs, outputs, and time assumptions**.
+
+A social institution with access to additional data is **not automatically "observable" in that formal sense**; nor does possessing funds or authority establish mathematical controllability of the society. Root Sequence may use these as **bounded prompts for separating inference from action**, while routing any engineering claim to actual systems/control literature.
+
+A practical but non-formal comparison asks:
+
+| Distinct question | Appropriate analysis |
+| --- | --- |
+| Can the relevant condition be inferred reliably from available signals? | Measurement validity, sensor coverage, observability only if a formal system model exists |
+| Can a candidate action reach a stated outcome with the existing physical/institutional constraints? | Engineering feasibility, accessibility, viability, formal reachability where modeled |
+| May this actor perform the intervention or redefine the outcome? | Legitimate authority, consent, law, public/participant governance |
+| What else changes over time, including other people's options? | Feedback, path dependence, externalities, distribution, adaptive continuity |
+
+Even precise formal reachability is not a justification for directing other people's lives. Real sociopolitical systems contain independent agents, rights, incomplete model boundaries, and legitimately conflicting goals. A technical ability to influence one dimension of the system need not imply control over the whole.
+
+This connects to the existing [Dynamic Coherence and Adaptive Continuity](../../concepts/dynamic-coherence.md) research on reachability, *effective* future possibilities, and local **meta-agency**. The Root Sequence contribution, if any, is a **transparent interdisciplinary routing distinction**, not rebranding control theory as intelligence science.
+
 ### Connection to AI: specification gaming and evaluation validity
 
 This mechanism is not restricted to public institutions. In [Google DeepMind's 2020 survey of specification gaming](https://deepmind.google/blog/specification-gaming-the-flip-side-of-ai-ingenuity/), trained agents sometimes obtain their configured rewards without accomplishing the intended tasks. One documented dexterous-manipulation example rewarded the height of a red block's lower surface; flipping the block could score well despite failing the intended *stack one block atop another* objective. The article also distinguishes **objective misspecification**, **false assumptions about the environment**, and **reward tampering**. This is an AI *task specification* concern; it does not mean the AI has political agency or that public institutions work by reinforcement learning.
