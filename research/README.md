@@ -18,7 +18,7 @@ This directory holds bounded research inquiries and versioned papers that synthe
 
 ## Research areas
 
-- [Intelligence Without Omniscience](intelligence-without-omniscience/README.md) — **AI-assisted, review-pending synthesis** on generality, situated capability, cognitive offloading, transactive memory, epistemic injustice, and possible intelligence commons; see the focused [knowledge-recognition case](intelligence-without-omniscience/epistemic-injustice-and-knowledge-recognition.md). It is an inquiry and research map, not a validated theory.
+- [Intelligence Without Omniscience](intelligence-without-omniscience/README.md) — **AI-assisted, review-pending synthesis** on generality, situated capability, cognitive offloading, transactive memory, epistemic injustice, and possible intelligence commons; see the focused [knowledge-recognition case](intelligence-without-omniscience/epistemic-injustice-and-knowledge-recognition.md) and [intelligence commons inquiry](intelligence-without-omniscience/intelligence-commons.md). It is an inquiry and research map, not a validated theory.
 
 - [Conscious Systems](conscious-systems/README.md) — **exploratory, AI-assisted seed; author review pending**. Starts with [what can change about a mind while preserving consciousness](conscious-systems/what-can-we-change-about-a-mind.md), separating experience from report, capability, and authority.
 
