@@ -871,3 +871,12 @@ documents:
       - collective-judgment-dissent
       - memory-provenance
       - commons-shared-capacity
+
+  - repo: Root-Sequence/root-sequence
+    path: research/intelligence-without-omniscience/mechanisms-of-collective-knowledge.md
+    role: research
+    trails:
+      - intelligence-authority
+      - collective-judgment-dissent
+      - commons-shared-capacity
+      - accessibility-participation
