@@ -880,3 +880,12 @@ documents:
       - collective-judgment-dissent
       - commons-shared-capacity
       - accessibility-participation
+
+  - repo: Root-Sequence/root-sequence
+    path: research/intelligence-without-omniscience/learning-to-revise-the-rules.md
+    role: research
+    trails:
+      - intelligence-authority
+      - collective-judgment-dissent
+      - adaptive-continuity-agency
+      - stewardship-authority
