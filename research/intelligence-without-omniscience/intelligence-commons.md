@@ -140,6 +140,7 @@ A true trial requires defined participants and tasks, ethical/legal review where
 - **Cross-project review prompts:** [Design Grammar](../../concepts/design-grammar.md).
 - **Authority and delegation:** [Agency and Automation](../../concepts/agency-and-automation.md).
 - **Research dialogue:** [Epistemic Contrast](../methods/epistemic-contrast.md) and [Deliberative Inquiry](../methods/deliberative-inquiry.md).
+- **Epistemic reliability:** [Epistemic trust and collective verification](epistemic-trust-and-collective-verification.md) distinguishes accountable, independently checkable evidence from citation volume and fluent AI explanations; a commons must support warranted reliance without creating one gatekeeper.
 - **Community Infrastructure / Commons of Inquiry & Creation:** autonomous applied/community spaces; conceptual research here must **not** establish their permissions, membership, charter, or priorities by implication.
 - **Museum of Ordinary Life:** autonomous archive with its own permissions; an "intelligence commons" does not override them.
 - **Coherent World:** future fictional consequence experiment, not a validated organization model.
