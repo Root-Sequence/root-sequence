@@ -5,6 +5,10 @@
 **Status:** WORKING / AI-assisted / author review pending, 2026-10-07.  
 **Claim type:** Interdisciplinary synthesis and experimental questions. Established terms and their distinct literatures must not be assimilated into one new theory.  
 **Privacy:** Public-safe conceptual material; do not reproduce private project records, personal history, or community testimony without separate permission.
+**Idea Trails:** [Intelligence and Authority](../../IDEA_TRAILS.md#trail-9--intelligence-automation-and-legitimate-authority) · [Collective Judgment and Dissent](../../IDEA_TRAILS.md#trail-15--collective-judgment-dissent-and-manufactured-consensus) · [Accessibility and Participation](../../IDEA_TRAILS.md#trail-5--accessibility-dependence-and-participation) · [Commons and Shared Capacity](../../IDEA_TRAILS.md#trail-6--commons-ownership-and-shared-capacity).  
+**Trail role:** research  
+<!-- idea-trails: intelligence-authority, collective-judgment-dissent, accessibility-participation, commons-shared-capacity -->
+<!-- trail-role: research -->
 
 > A system can contain knowledge relevant to correcting itself while lacking the means, incentives, categories, or legitimate authority to act on that knowledge.
 
