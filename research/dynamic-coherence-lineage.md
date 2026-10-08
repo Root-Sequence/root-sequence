@@ -193,6 +193,8 @@ For organizations and institutions, **double-loop learning may be a more establi
 
 Root Sequence's contribution should be to route to this literature when organizational governing assumptions are the actual mechanism.
 
+**Applied comparison (October 2026, unvalidated):** the private Coherent World [Mechanism Probe 005](https://github.com/Root-Sequence/coherent-world/blob/research/intelligence-without-omniscience-2026-10/simulation/scenarios/distributed-intelligence/MECHANISM-PROBE-005.md) distinguishes action adjustment under a fixed rule from an *authorized* rule revision, resources, implementation permission, and distributional effects. Seven toy cases and nine logic checks were executed under **invented** assumptions, not actual organizations. A [2023 review of 128 studies](https://doi.org/10.1111/emre.12615) underscores implementation/measurement difficulties; [2012](https://doi.org/10.1177/1350507611426239) and [2026](https://doi.org/10.1108/TLO-01-2024-0030) reviews caution against treating vague 'triple-loop learning' as automatically more sophisticated. This is a scoped link, not a new organizational-learning theory.
+
 ---
 
 # 6. Resilience engineering: respond, monitor, learn, anticipate
