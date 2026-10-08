@@ -108,6 +108,8 @@ Compare at least four protocols: unstructured discussion; explicit unique-inform
 
 But this must not become a demand for universal transparency or a license to extract knowledge from everyone. Protection against epistemic injustice also means respecting privacy, culturally governed knowledge, safety, disability access, dissent, and the right not to participate.
 
+The companion [From knowledge to uptake](from-knowledge-to-uptake.md) distinguishes recognition from *uptake*, connects Longino's critical community norms, and examines boundary objects, exploitation of epistemic labor, and the right to contest the framing of a problem. These are related but not interchangeable forms of institutional failure.
+
 ## Next sources and related homes
 
 - [Epistemic Contrast](../methods/epistemic-contrast.md): differently situated accounts and evidence roles.
