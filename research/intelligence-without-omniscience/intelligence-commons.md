@@ -144,6 +144,8 @@ A true trial requires defined participants and tasks, ethical/legal review where
 - **Museum of Ordinary Life:** autonomous archive with its own permissions; an "intelligence commons" does not override them.
 - **Coherent World:** future fictional consequence experiment, not a validated organization model.
 
+A companion analysis, [From knowledge to uptake](from-knowledge-to-uptake.md), examines what happens when a resource is visible but unheard, criticized but unchanged, or interpreted through categories contributors cannot contest. It also asks how to avoid making excluded participants repeatedly supply uncompensated epistemic labor. Making data 'open' does not resolve those institutional problems.
+
 ## The enduring question
 
 > What conditions make knowledge and intelligence-related capability meaningfully available—without requiring omniscient individuals, compulsory transparency, exclusive gatekeepers, or concentrated authority?
