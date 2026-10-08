@@ -97,7 +97,7 @@ This is an especially relevant empirical benchmark but does not authorize copyin
 
 ### Expertise maps, motives, and what happens *after* information is shared
 
-[Van Ginkel & Van Knippenberg (2009)](https://doi.org/10.1016/j.obhdp.2008.10.003) experimentally examined knowledge of distributed expertise, group task representations, reflection, and information elaboration (N=125 decision-making groups, as reported in the article abstract). Their results distinguish awareness of **who knows what** from how the group frames and uses that knowledge. This constrains a simple "make an expertise directory" proposal: the directory may be useful through changing task interpretation, not just through direct retrieval.
+[Van Ginkel & Van Knippenberg (2009)](https://doi.org/10.1016/j.obhdp.2008.10.003) experimentally examined knowledge of distributed expertise, group task representations, reflection, and information elaboration (reported N=125; the abstract does not clarify the unit of the sample size). Their results distinguish awareness of **who knows what** from how the group frames and uses that knowledge. This constrains a simple "make an expertise directory" proposal: the directory may be useful through changing task interpretation, not just through direct retrieval.
 
 [Toma, Vasiljevic, Oberlé & Butera (2013)](https://pubmed.ncbi.nlm.nih.gov/22577834/) examined expertise assignment combined with cooperative versus competitive goals in hidden-profile groups. Assigning experts supported information pooling with cooperative goals but **reduced it under competitive goals**. A system must examine whether expertise labels change status competition and willingness to contribute.
 
@@ -175,6 +175,9 @@ A next protocol should manipulate **one mechanism at a time**:
 Compare against existing best-practice review; report null/negative effects and all extra work imposed on participants.
 
 ## 5. Evidence integrity: what if six citations come from one source?
+
+This is developed as an explicit synthetic trace in the private Coherent World [Mechanism Probe 002](https://github.com/Root-Sequence/coherent-world/blob/research/intelligence-without-omniscience-2026-10/simulation/scenarios/distributed-intelligence/MECHANISM-PROBE-002.md). It is an authored paper exercise, not a set of real documents or an AI test.
+
 
 An institution sees three apparently independent reports supporting a proposal. All three copied one original inference. A fourth source raises an independent objection.
 
