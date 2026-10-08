@@ -147,6 +147,83 @@ Important caution: this need not arise from bad intentions. It can arise from me
 
 So **learning ability** and **feedback quality** have to be examined separately.
 
+## 8A. The feedback can be accurate and still describe the wrong success
+
+This adds another important distinction to the preceding organizational-learning inquiry: *information availability, measurement validity, measurement integrity, and the institutional ability to respond are different mechanisms*.
+
+**Measurement validity** concerns whether the observations and indicators adequately represent the concept being investigated. Robert Adcock and David Collier's [2001 account](https://doi.org/10.1017/S0003055401003100) emphasizes distinguishing disagreement about **what concept means** from disagreement about **whether its operational measurement captures it**. A vehicle-on-time metric can reliably measure *scheduled vehicle punctuality* while failing to capture whether people can actually reach destinations at required times. That is not automatically a fraudulent measurement or a Goodhart effect; it may simply be too narrow for a broader accessibility question.
+
+**Proxy pressure / Goodhart mechanisms** are related but distinct. [Manheim and Garrabrant (2018)](https://arxiv.org/abs/1803.04585) separate regressional, extremal, causal, and adversarial pathways through which optimizing a proxy ceases to serve an underlying goal. These mechanisms require case-specific evidence. In particular, an actor *manipulating what gets reported* differs from a perfectly honest indicator that excludes a relevant part of the world.
+
+**Feedback delays and dynamic misperception** are separate again. In simulated dynamic decision-making experiments, [Sterman (1989)](https://doi.org/10.1287/mnsc.35.3.321) found systematic feedback errors despite substantial available information. His [1994 review](https://doi.org/10.1002/sdr.4260100214) describes poor outcome feedback, dynamic complexity, delayed effects, inadequate mental models, and organizational difficulties as different constraints on learning.
+
+**Recognition versus uptake versus implementation**: even where a source and objection are fairly evaluated, a manager or institution might endorse an idea without enacting it. [He and colleagues (2020)](https://doi.org/10.1177/0018726719882999) explicitly distinguish managerial endorsement of employee voice from implementation of endorsed ideas. Their model does not establish legitimacy of any particular implementation, but does justify separating these organizational mechanisms.
+
+### Mechanism audit table
+
+| Observed pattern | Competing underlying explanations | Stronger question |
+| --- | --- | --- |
+| Official target rises; residents' needs remain unmet | Valid narrow indicator; wrong target; omitted population; or other causes | What exactly is the measure supposed to stand for? |
+| More reports confirm success | Genuinely independent findings; repeated derivatives of one source; shared measurement error | Are evidence sources and methods independent? |
+| Feedback is present but decisions do not change | Goal fixed; no authorization; resource/implementation constraint; warranted disagreement | Is the fact rejected, the goal fixed, or the action unavailable? |
+| Positive proxy trend but negative actual outcome | Target/goal divergence, extremal conditions, selection effects, gaming, time lag | Which mechanism predicts the observed divergence? |
+| New policy language is published | Only espoused reform, or actual adopted change | What rules, resource flows, practices, and affected outcomes changed? |
+| An affected person raises a concern | Legitimate evidence, mistaken claim, value disagreement, coercive demand to disclose | How is it evaluated fairly without compelled agreement or disclosure? |
+
+Use competent existing measurement, source-criticism, participatory/accessibility, and organizational-learning methods before naming a new Root Sequence framework.
+
+### Worked counterfactual: feedback × goal revision × resources × authorization
+
+A small **deterministic JavaScript toy** was evaluated on 2026-10-07. It is **not** an actual institution, an AI-agent experiment, or the Coherent World Neighborhood simulator. Every score and rule is **invented** to illustrate separate enabling conditions; no probabilities of real-world success are being estimated.
+
+Four fictional options:
+
+| Action | Reported on-time units | Independently verified on-time units | Access units | Resource units | Needs special implementation approval? | Separate other-party burden |
+| --- | ---: | ---: | ---: | ---: | --- | ---: |
+| Unchanged | 90 | 90 | 0 | 0 | No | 0 |
+| Metric upgrade | 98 | 98 | 0 | 1 | No | 0 |
+| Limited shift | 96 | 96 | 1 | 1 | No | 0 |
+| Access pilot | 94 | 94 | 3 | 2 | Yes | 2 |
+
+The initial action rule selects the feasible intervention with the **highest independently verified on-time score**, while the unobserved affected-party need in the main case is **access >= 3**. No single unit combines the two outcomes; a policy legitimately requiring a different criterion would need separate review.
+
+The "revised-goal" branch becomes operative *only when* the access need is observed with adequate evidence **and** a review authority permits goal revision. Even then, an access pilot requires two resource units and separate implementation authorization. If no eligible action meets the revised goal, the decision rule falls back to the best permitted metric option and reports the access goal as **unmet** (not solved).
+
+The four independent gate conditions were varied as a logical **2×2×2×2 = 16-scenario truth table** (observed access signal, permitted rule revision, adequate resources, implementation approval). By construction, only **one logical combination** made the access pilot available. That **is not** a 1/16 estimated probability of institutional success or a statistically meaningful frequency; the rules were authored to distinguish barriers.
+
+| Illustrative case | Decision result under authored rules | What it separates |
+| --- | --- | --- |
+| Better feedback, same governing goal | Metric upgrade (98); access 0 | More accurate information does not force goal revision |
+| Permission to revisit goals, but access problem not visible | Metric upgrade (98); access 0 | A revisable goal does not guarantee a discovered need |
+| Revised goal, insufficient resources | Metric upgrade; access goal marked unmet | Correct objective does not create tools or labor |
+| Revised goal, no pilot authorization | Metric upgrade; access goal marked unmet | Decision authority and execution permission differ |
+| All four enabling conditions available | Access pilot; access 3; on-time 94; **other-party burden 2** | Meeting an access threshold does not erase another group's burden |
+| No real unmet access need (negative control) | Original goal retained | Rule revision is not automatically necessary |
+| Unsupported access-observation claim (negative control) | No goal revision | Evidence-based non-revision can be appropriate |
+
+A **separate adversarial measurement** check introduced an invented action that reports on-time 100 but is independently verified at 88. With no independent audit, the proxy-maximizing rule selects that action; with independent audit, it selects the ordinary 98 unit improvement. This models *report manipulation*, **not** the narrow-but-honest-metric failure above. It doesn't show that any real entity manipulated information.
+
+**Execution scope:** 13 deterministic logic assertions passed in the same authored JavaScript model, including all enabling-gate distinctions, two negative controls, identification of the independent-audit effect, and visibility of the other-party burden. No independent real-world reviewer, external dataset, human/LLM participant, or empirical calibration was involved. The source-aware protocol is preserved as a research supplement in [Coherent World Probe 005](https://github.com/Root-Sequence/coherent-world/blob/research/intelligence-without-omniscience-2026-10/simulation/scenarios/distributed-intelligence/MECHANISM-PROBE-005.md).
+
+### How this can actually be tested—and how it could fail
+
+A stronger real study would require:
+1. A independently specified **target construct** (e.g., ability to arrive at essential destinations, with relevant accessibility and timing dimensions), not retrofitted after seeing results.
+2. A **measurement audit** distinguishing reliable measurement of a narrow construct from inaccurate representation of the intended broader construct.
+3. Legitimately controlled **decision rules, resources, authorizations, and implementation**; otherwise observed behavior cannot isolate cognitive/organizational learning.
+4. Comparison of simple competent methods (accessibility audit, ordinary operational dashboard, source review, existing participatory methods) with a proposed multi-layer investigation.
+5. Tracking of both aggregate outcomes and impacts on differently situated actors, plus the time/consent costs of new data gathering.
+6. Explicit negative cases: the original metric is sufficient; a claimed problem is false; a new criterion worsens outcomes; the process produces no material improvement; or feedback changes only rhetoric.
+7. Later evaluation of whether the revised *actual practice* persists rather than just the policy document.
+
+We should distinguish a system's **ability to measure**, **ability to learn**, **ability to act**, and **legitimate right to decide**. Increasing any one of them need not increase all the others.
+
+### Connection to intelligence, without overstating it
+
+The relation to the larger Root Sequence inquiry is not that a society with more metrics becomes "more intelligent." It is that **an apparently well-informed, highly adaptive system can pursue an incomplete operational definition of success**. A possible design requirement is to keep its source/measurement assumptions, excluded perspectives, governing decision criteria, and revision routes inspectable and contestable.
+
+The insight is compatible with [Epistemic Discoverability](../../concepts/epistemic-discoverability.md), [Intelligence Ecology](../../concepts/intelligence-ecology.md), [the Research Method](../method.md), and the existing [Adaptive Continuity/Meta-agency](../../concepts/dynamic-coherence.md) treatment. It is **not** another intelligence taxonomy, new validated "loop," or a normative declaration that every institution ought to revise every target.
+
 ## 9. Root Sequence and applied project placement
 
 **Canonical substantive home:** this bounded research analysis under `Root-Sequence/root-sequence/research/intelligence-without-omniscience/`.
