@@ -28,6 +28,7 @@ This is the **one broad research home**; the companion pages are distinct source
 | What makes criticism and new evidence actually change a shared model? | [From Knowledge to Uptake](from-knowledge-to-uptake.md) |
 | When should one trust information or expert advice one cannot rederive? | [Epistemic Trust and Collective Verification](epistemic-trust-and-collective-verification.md) |
 | How could shared knowledge capabilities be built without compulsory data extraction or one central authority? | [Intelligence Commons](intelligence-commons.md) |
+| When can institutions revise their operative goals rather than only their tactics, and who has authority? | [Learning to Revise the Rules](learning-to-revise-the-rules.md) |
 
 **Current work:** Research synthesis and two completed *analytic paper probes*, with no real-person or LLM experiment performed. Local test protocols remain review-pending; Coherent World's Neighborhood v0.2 remains its active game-development frontier.
 
