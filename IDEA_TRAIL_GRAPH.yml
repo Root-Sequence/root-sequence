@@ -853,3 +853,12 @@ documents:
       - collective-judgment-dissent
       - accessibility-participation
       - intelligence-authority
+
+  - repo: Root-Sequence/root-sequence
+    path: research/intelligence-without-omniscience/from-knowledge-to-uptake.md
+    role: research
+    trails:
+      - intelligence-authority
+      - collective-judgment-dissent
+      - accessibility-participation
+      - commons-shared-capacity
