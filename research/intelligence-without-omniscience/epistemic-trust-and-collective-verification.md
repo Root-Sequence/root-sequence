@@ -200,6 +200,8 @@ Three reasons a claim might reasonably remain unresolved:
 
 The system should permit "unknown," "contested," and "not mine to decide," instead of inventing certainty.
 
+The companion [Mechanisms of collective knowledge](mechanisms-of-collective-knowledge.md) distinguishes source-independent verification from fact elicitation, disclosure and institutional uptake, and links to bounded Coherent World paper probes. A probability calculated for fact coverage is not a probability of correct trust or justified action.
+
 ## 13. Candidate Coherent World comparisons
 
 **A. Incomplete collective knowledge:** compare unstructured exchange, source-aware information elicitation, and a structured evidence map. Hold informational and resource differences explicit; borrow from HiddenBench only the bounded design principle, not the claimed 2026 performance numbers.
