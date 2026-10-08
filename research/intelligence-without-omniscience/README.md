@@ -111,6 +111,8 @@ This is **epistemic navigation**, not a new psychometric factor. It can be usefu
 
 A crucial revision to the original dialogue: **"Nobody understands the whole problem" is not itself necessarily the pathology.** In sufficiently complex systems, no individual may be able to. What matters is whether relevant partial knowledge can be brought into warranted relationship without requiring one omniscient central authority.
 
+For a focused treatment of how knowledge moves (or fails to move) from **expertise routing** through **critical uptake** and **decision authority**, see [From knowledge to uptake](from-knowledge-to-uptake.md). It also develops boundary objects, epistemic labor, and problem-discovery tests without introducing a new universal construct.
+
 ## 7. Hidden profiles: when the group already knows enough and fails anyway
 
 Classic **hidden-profile** research examined groups whose members held different pieces of relevant information. Stasser and Titus (1985) found that unstructured discussions disproportionately sampled shared information and could preserve a collective error rather than expose private evidence. [Stasser & Titus 1985](https://doi.org/10.1037/0022-3514.48.6.1467).
