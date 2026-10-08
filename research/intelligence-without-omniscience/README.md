@@ -264,6 +264,10 @@ Compare against competent single-agent and simpler coordination baselines, not a
 
 **R10 — Institutional legitimacy:** Who decides aims, acceptable harms, distribution of benefits, refusal, and revision—even when an AI predicts outcomes unusually well?
 
+**R11 — Epistemic trust:** How can non-specialists use distributed expert knowledge without demanding impossible universal self-verification or surrendering the ability to challenge claims?
+
+**R12 — Collective verification:** Under what conditions do provenance, independently produced evidence, appropriate replication, and cross-domain review actually improve warranted reliance instead of merely multiplying citations and confident summaries?
+
 ## 16. Proposal: two bounded Coherent World experiments
 
 Coherent World already provides the appropriate fictional recombination and consequence laboratory, **not** a validated real-world social model. Its current Neighborhood text toy has scripted roles and authored rules, **not independently reasoning autonomous agents**. The immediate frontier remains the Neighborhood v0.2 briefing, and new scenarios must not displace it.
