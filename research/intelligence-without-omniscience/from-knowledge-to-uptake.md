@@ -210,6 +210,8 @@ These prompts should be *optional and proportionate*, not an examination imposed
 
 **Proposed test:** Compare source retrieval, AI summary, and source-backed explanation for a bounded task. Separately measure task performance, confidence calibration, ability to identify unsupported claims, willingness to seek expertise, retained explanation when relevant, and the ability to choose not to explain. Do not mistake a better score on a memory recall test for a complete evaluation of cognitive augmentation.
 
+[Mechanisms of collective knowledge](mechanisms-of-collective-knowledge.md) supplies a separate source-aware causal investigation. Its analytic fact-coverage probe explicitly stops at whether relevant facts enter the shared record; it does **not** represent uptake, justification, power, or consequences. This document retains those distinct questions.
+
 ## 11. Paired Coherent World tests with invalidation conditions
 
 **Test A — information routing:** identical actors, task, information, and group size; vary whether the group has an accurate, stale, or unavailable expertise map. Measure whether critical knowledge is actually obtained, and at what cost.
