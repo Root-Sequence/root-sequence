@@ -102,6 +102,52 @@ Compare at least four protocols: unstructured discussion; explicit unique-inform
 - If more information had been recognized, would the decision have changed, and why?
 - Did the new process consume unreasonable amounts of time, care, or unpaid labor?
 
+## Missing knowledge isn't automatically nonexistent knowledge
+
+A connected but **distinct** investigation concerns the meaning of a missing record, a non-response, or the absence of a formal complaint.
+
+### Formal information systems: open versus closed world
+
+[Raymond Reiter's 1977/1978 closed-world database work](https://www.cs.ubc.ca/tr/1977/tr-77-16) establishes an important logical distinction: under declared closed-world assumptions, absence of a provable fact can support a negative conclusion within the specified database domain; under open-world assumptions it need not. The [W3C's OWL 2 Primer](https://www.w3.org/TR/owl-primer/) gives an accessible example: an assertion not present in an ontology may be unknown rather than false.
+
+**Boundary:** this is a formal knowledge-representation distinction. It is not a social-science causal theory, a blanket rule that every missing record hides a harm, or a justification for universal collection. A closed world can be appropriate for a genuinely complete, defined operational register.
+
+### Statistical nonresponse: how did observations become missing?
+
+[Donald Rubin (1976), *Inference and Missing Data*](https://doi.org/10.1093/biomet/63.3.581), and [Roderick Little's 2021 review](https://doi.org/10.1146/annurev-statistics-040720-031104) examine missing-data mechanisms and when a statistical analysis may safely ignore the process causing non-observation. This is different from open-world **logical semantics**. Missingness related to observed and unobserved conditions can distort prevalence estimates; formal MCAR/MAR/MNAR assumptions require an explicit statistical setup and cannot be casually diagnosed from one anecdote.
+
+**Sensible design question:** Is the dataset actually complete for the precise predicate, population and period being queried? If not, what could make its omissions systematically unequal?
+
+### Real-world example: worker violations and complaints
+
+A [March 2026 *ILR Review* study by David Weil, Gonçalo Costa and Daniel Schneider](https://www.hks.harvard.edu/publications/labor-standards-compliance-and-worker-complaints-new-data-and-insights) examined sampled retail/food service workers. The authors reported that 38% experienced labor-standards violations, yet only **26.5% of affected workers complained at all**, predominantly to management, while **1.4% reported to state or federal agencies**. They linked the complaint gap to fears of retaliation and reported an **association**, not a randomized causal estimate, between unionization and much more frequent government reporting.
+
+The result applies to the researchers' surveyed population, not to every industry or period. It is evidence that **official complaint incidence need not approximate underlying violation prevalence**. An institution might see relatively few complaints because the reporting conditions themselves discourage reporting—not because the underlying violations are absent.
+
+Counterintuitively, a rise in complaints after a change in reporting protection *could* indicate improved safety to report rather than more underlying wrongdoing. That is a **hypothesis requiring before/after evidence**, not a conclusion from this cross-sectional study.
+
+### Epistemic justice, but preserve the difference
+
+Different phenomena can produce no record:
+- The problem or event did not occur, and the register is complete for that scope.
+- The event occurred but the observer lacked knowledge or vocabulary to describe it.
+- A person knew something but declined to disclose, for entirely legitimate privacy reasons.
+- A person withheld testimony due to fear, exclusion, coercion, or an unsafe audience.
+- A person reported, but the complaint was lost, recategorized or excluded by the institution.
+- A person reported a mistaken belief that was properly investigated and rejected.
+
+Not every missing complaint constitutes **testimonial injustice** (which involves prejudicial credibility deficits) or **hermeneutical injustice** (which involves unfair structural constraints in interpretive resources). Investigate the relevant mechanisms rather than making the label a catch-all.
+
+Potential ethical interventions include optional private reporting channels, meaningful protection from retaliation, participant-chosen representation, independent evidence gathering, accessible forms, and independent appeals. Each intervention needs an actual governance/consent basis and real maintenance support; "more reporting" is not automatically an end in itself.
+
+### Coherent World translation, not a new population claim
+
+A [five-world identical-dashboard probe](https://github.com/Root-Sequence/coherent-world/blob/research/intelligence-without-omniscience-2026-10/simulation/scenarios/distributed-intelligence/MECHANISM-PROBE-006.md) already demonstrates the *logical* inability to distinguish hidden situations from an identical aggregate. A **future unexecuted extension** could hold the recorded complaint count fixed while varying actual harms, availability of safe channels, and reasons for silence. The lesson would be a sensitivity test of **information generation and missingness**, not a license to simulate marginalized people's private testimony, or proof about any real institution.
+
+Working question:
+
+> **What must be true about who can observe, record, and safely disclose a problem before an intelligent system can treat silence as evidence that the problem is absent?**
+
 ## Synthesis boundary
 
 **A useful group must be able to recognize and evaluate relevant knowledge, not merely collect more of it.**
