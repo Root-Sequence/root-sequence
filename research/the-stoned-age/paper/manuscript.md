@@ -2,7 +2,7 @@
 
 ## Altered States, Human Curiosity, and the Long History of Making Meaning
 
-Living research paper · v0.1 · 13 October 2026 · AI-assisted narrative synthesis · author and disciplinary review pending
+Living research paper · v0.1.1 · 14 October 2026 · AI-assisted narrative synthesis · author and disciplinary review pending
 
 Companion provocation: **How Drugs Explain the Universe**. The title names a temptation this project investigates; it is not its scientific conclusion.
 
@@ -22,7 +22,7 @@ The working thesis is therefore deliberately conditional: altered states may con
 
 ## 2. Scope, method and definitions
 
-This first edition is a targeted narrative synthesis. Searches on 13 October 2026 sought primary archaeological reports, experimental studies, cultural research, a relevant community position and primary AI research. Queries covered Arad cannabis, Pamir residues, Menorca hair, the South American ritual bundle, psychedelic creativity, mystical-type reports, REBUS, psychedelic evolution, cultural spiritual experience, collective innovation and language-model sycophancy. Sources were included for a specific claim or methodological contrast. Neither comprehensive database coverage nor a reproducible systematic-review screening process was performed. No experiments, statistical synthesis or independent peer review were conducted.
+This first edition is a targeted narrative synthesis. Searches on 14 October 2026 sought primary archaeological reports, experimental studies, cultural research, a relevant community position and primary AI research. Queries covered Arad cannabis, Pamir residues, Menorca hair, the South American ritual bundle, psychedelic creativity, mystical-type reports, REBUS, psychedelic evolution, cultural spiritual experience, collective innovation and language-model sycophancy. Sources were included for a specific claim or methodological contrast. Neither comprehensive database coverage nor a reproducible systematic-review screening process was performed. No experiments, statistical synthesis or independent peer review were conducted.
 
 “Altered state” is a comparative description, not a single natural kind. We use it for substantial changes in experience relative to a person's ordinary waking condition. Sleep, absorption, illness and drug effects should not be collapsed into one mechanism. Even “ordinary” needs context: whose baseline, measured when, with which language and expectations?
 
@@ -68,7 +68,7 @@ A narrower historical question is more tractable: once particular communities ha
 
 ## 6. Curiosity, creativity and the feeling of discovery
 
-Mason and colleagues' placebo-controlled study of 60 healthy participants found a useful dissociation: acute reports of creative insight increased while deliberate task-based creativity decreased; one divergent-thinking measure improved later. The result is time- and task-specific, not a general cognitive upgrade.[^S07]
+Mason and colleagues' placebo-controlled study of 60 healthy participants found a useful dissociation: acute reports of creative insight increased while deliberate task-based creativity decreased; at seven days, participants reported more ideas new to themselves, while convergent-thinking performance remained reduced. This self-rated novelty is not independently established originality. The result is time- and task-specific, not a general cognitive upgrade.[^S07]
 
 This contrast matters because a person may feel that an idea is important before being able to evaluate it. That observation supplies a research question rather than a verdict against inspiration. How well does confidence track accuracy? Which ideas survive later testing? Are useful questions produced even when immediate answers are wrong? Are outcomes different when people have time, trusted critics and a safe opportunity to revise?
 
@@ -78,7 +78,7 @@ An accessible non-drug first step is a literature audit: extract how each study 
 
 ## 7. Experience, mechanism and truth
 
-Griffiths and colleagues studied 18 screened healthy adults in supported sessions and found persistent reports of personal and spiritual significance. These are consequential reports about experience. They do not verify the cosmological content of that experience, and the sample and setting limit generalization.[^S06]
+Griffiths and colleagues studied 18 screened healthy adults in supported sessions and found persistent reports of personal and spiritual significance. Acute extreme anxiety or fear also occurred in this supported study. These are consequential reports about experience. They do not verify the cosmological content of that experience, and the sample and setting limit generalization.[^S06]
 
 REBUS offers a mechanistic proposal involving relaxed precision of high-level prior beliefs under psychedelics. It is one theoretical account of altered cognition, not proof that the brain has uncovered an ordinarily hidden universal reality.[^S08]
 
@@ -96,7 +96,7 @@ Our proposed analytical sequence is: experience; report; interpretation; circula
 
 A memorable narrative may spread because it is useful, emotionally compelling, institutionally supported, or difficult to contradict safely. Those are alternative hypotheses, not a conclusion that all religion is manipulation. Religious life also includes practices, relationships, obligations and disagreement that a focus on visionary events could obscure. This edition does not offer a comprehensive theory of religion.
 
-Naturalistic research links recent psychedelic use with reported transformative experience and social connectedness. Because participants were not randomly assigned to those life situations, statistical mediation is not sufficient to establish the causal story.[^S12] Moreover, connectedness is not the same outcome as reliable group judgment. A group may feel closer while becoming less willing to hear a dissenter. The possibility should be tested rather than assumed in either direction.
+Naturalistic research links recent psychedelic use with reported transformative experience and social connectedness. Its structural-equation analysis was explicitly exploratory and nonpreregistered. Because participants were not randomly assigned to those life situations, statistical mediation is not sufficient to establish the causal story.[^S12] Moreover, connectedness is not the same outcome as reliable group judgment. A group may feel closer while becoming less willing to hear a dissenter. The possibility should be tested rather than assumed in either direction.
 
 ## 9. Who is allowed to interpret?
 
@@ -144,13 +144,15 @@ The defensible project is bigger than a single origin story because it can survi
 
 The universe has not supplied a foreword. We can still do the research.
 
+The [source appraisal](../research/appraisal.md) records sample, control, interpretation and access limitations, including corrections carried into this revision.
+
 ## References
 
 [^S01]: Arie, E.; Rosen, B.; Namdar, D. (2020). [Cannabis and Frankincense at the Judahite Shrine of Arad](https://cris.biu.ac.il/en/publications/cannabis-and-frankincense-at-the-judahite-shrine-of-arad/). Tel Aviv 47(1), 5–28.
 
 [^S02]: Ren, M., et al. (2019). [The origins of cannabis smoking: Chemical residue evidence from the first millennium BCE in the Pamirs](https://pure.mpg.de/rest/items/item_3080701/component/file_3080703/content). Science Advances 5, eaaw1391.
 
-[^S03]: Miller, M. J.; Albarracin-Jordan, J.; Moore, C.; Capriles, J. M. (2019). [Chemical evidence for the use of multiple psychotropic plants in a 1,000-year-old ritual bundle from South America](https://pubmed.ncbi.nlm.nih.gov/31061128/). PNAS 116(23), 11207–11212.
+[^S03]: Miller, M. J.; Albarracin-Jordan, J.; Moore, C.; Capriles, J. M. (2019). [Chemical evidence for the use of multiple psychotropic plants in a 1,000-year-old ritual bundle from South America](https://pmc.ncbi.nlm.nih.gov/articles/PMC6561276/). PNAS 116(23), 11207–11212.
 
 [^S04]: Guerra-Doce, E., et al. (2023). [Direct evidence of the use of multiple drugs in Bronze Age Menorca (Western Mediterranean) from human hair analysis](https://www.nature.com/articles/s41598-023-31064-2). Scientific Reports 13, 4782.
 
@@ -166,13 +168,13 @@ The universe has not supplied a foreword. We can still do the research.
 
 [^S10]: Luhrmann, T. M., et al. (2021). [Sensing the presence of gods and spirits across cultures and faiths](https://pmc.ncbi.nlm.nih.gov/articles/PMC7865123/). PNAS 118(5), e2016649118.
 
-[^S11]: Muthukrishna, M.; Henrich, J. (2016). [Innovation in the collective brain](https://pmc.ncbi.nlm.nih.gov/articles/PMC4780534/). Philosophical Transactions of the Royal Society B 371, 20150192.
+[^S11]: Muthukrishna, M.; Henrich, J. (2016). [Innovation in the collective brain](https://www.michael.muthukrishna.com/wp-content/uploads/2016/08/muthukrishna_henrich_2016.pdf). Philosophical Transactions of the Royal Society B 371, 20150192.
 
-[^S12]: Forstmann, M., et al. (2020). [Transformative experience and social connectedness mediate the mood-enhancing effects of psychedelic use in naturalistic settings](https://pmc.ncbi.nlm.nih.gov/articles/PMC7007572/). PNAS 117, 2338–2346.
+[^S12]: Forstmann, M., et al. (2020). [Transformative experience and social connectedness mediate the mood-enhancing effects of psychedelic use in naturalistic settings](https://www.crockettlab.org/s/psychadelic-paper-PNAS-rcat.pdf). PNAS 117, 2338–2346.
 
 [^S13]: Carbonaro, T. M., et al. (2016). [Survey study of challenging experiences after ingesting psilocybin mushrooms: Acute and enduring positive and negative consequences](https://pmc.ncbi.nlm.nih.gov/articles/PMC5551678/). Journal of Psychopharmacology 30, 1268–1278.
 
-[^S14]: Indigenous Peyote Conservation Initiative (undated; accessed 2026-10-13). [Political and Social Issues](https://www.ipci.life/politicalandsocialissues). Community organization statement.
+[^S14]: Indigenous Peyote Conservation Initiative (undated; accessed 2026-10-14). [Political and Social Issues](https://www.ipci.life/politicalandsocialissues). Community organization statement.
 
 [^S15]: Sharma, M., et al. (2023). [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548). arXiv:2310.13548; primary research preprint (2023 version).
 

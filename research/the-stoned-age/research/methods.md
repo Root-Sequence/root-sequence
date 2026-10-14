@@ -1,6 +1,6 @@
 # Method, limits and next evidence pass
 
-Status: v0.1, AI-assisted targeted narrative synthesis, 2026-10-13. No original empirical research or systematic review. All source IDs resolve in [sources.md](sources.md); claims and revision triggers live in [claims.csv](claims.csv).
+Status: v0.1.1, AI-assisted targeted narrative synthesis, 2026-10-14. No original empirical research or systematic review. All source IDs resolve in [sources.md](sources.md); claims and revision triggers live in [claims.csv](claims.csv).
 
 ## Search record
 
@@ -45,3 +45,7 @@ For AI, first define the outcome: agreement, factual accuracy, confidence change
 Use one source register and one claims ledger. Edit Markdown/JSON sources, rebuild reader editions, and note which claims changed. Recheck evidence when a consequential update appears or before a new release; no automatic monitoring is scheduled. Retain stable source IDs even when records are corrected. Record retired claims rather than silently deleting their history.
 
 A reviewer should be able to answer: what changed, what supports it, what could defeat it, and which editions now reflect it?
+
+## Follow-up appraisal, 14 October 2026
+
+See [appraisal.md](appraisal.md) for the claim-focused review of all 16 sources, including main-text extraction, source-specific unresolved checks and editorial decisions. Europe PMC XML and author/lab repositories expanded access. Crossref returned 13 of 14 DOI records in the new pass; S02 was rate-limited. The earlier nine-record count above describes the initial pass. No comprehensive correction/retraction clearance is claimed.

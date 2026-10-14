@@ -1,0 +1,175 @@
+{
+  "checked": "2026-10-14",
+  "scope": "Crossref records only, not comprehensive notice clearance",
+  "records": [
+    {
+      "id": "S01",
+      "url": "https://api.crossref.org/works/10.1080/03344355.2020.1732046",
+      "title": [
+        "Cannabis and Frankincense at the Judahite Shrine of Arad"
+      ],
+      "doi": "10.1080/03344355.2020.1732046",
+      "type": "journal-article",
+      "update_to": [],
+      "relation": {},
+      "status": "metadata retrieved; absence of relations does not prove absence of corrections"
+    },
+    {
+      "id": "S02",
+      "url": "https://api.crossref.org/works/10.1126/sciadv.aaw1391",
+      "status": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "id": "S03",
+      "url": "https://api.crossref.org/works/10.1073/pnas.1902174116",
+      "title": [
+        "Chemical evidence for the use of multiple psychotropic plants in a 1,000-year-old ritual bundle from South America"
+      ],
+      "doi": "10.1073/pnas.1902174116",
+      "type": "journal-article",
+      "update_to": [],
+      "relation": {},
+      "status": "metadata retrieved; absence of relations does not prove absence of corrections"
+    },
+    {
+      "id": "S04",
+      "url": "https://api.crossref.org/works/10.1038/s41598-023-31064-2",
+      "title": [
+        "Direct evidence of the use of multiple drugs in Bronze Age Menorca (Western Mediterranean) from human hair analysis"
+      ],
+      "doi": "10.1038/s41598-023-31064-2",
+      "type": "journal-article",
+      "update_to": [],
+      "relation": {},
+      "status": "metadata retrieved; absence of relations does not prove absence of corrections"
+    },
+    {
+      "id": "S05",
+      "url": "https://api.crossref.org/works/10.1124/pr.115.011478",
+      "title": [
+        "Psychedelics"
+      ],
+      "doi": "10.1124/pr.115.011478",
+      "type": "journal-article",
+      "update_to": [],
+      "relation": {},
+      "status": "metadata retrieved; absence of relations does not prove absence of corrections"
+    },
+    {
+      "id": "S06",
+      "url": "https://api.crossref.org/works/10.1007/s00213-011-2358-5",
+      "title": [
+        "Psilocybin occasioned mystical-type experiences: immediate and persisting dose-related effects"
+      ],
+      "doi": "10.1007/s00213-011-2358-5",
+      "type": "journal-article",
+      "update_to": [],
+      "relation": {},
+      "status": "metadata retrieved; absence of relations does not prove absence of corrections"
+    },
+    {
+      "id": "S07",
+      "url": "https://api.crossref.org/works/10.1038/s41398-021-01335-5",
+      "title": [
+        "Spontaneous and deliberate creative cognition during and after psilocybin exposure"
+      ],
+      "doi": "10.1038/s41398-021-01335-5",
+      "type": "journal-article",
+      "update_to": [],
+      "relation": {},
+      "status": "metadata retrieved; absence of relations does not prove absence of corrections"
+    },
+    {
+      "id": "S08",
+      "url": "https://api.crossref.org/works/10.1124/pr.118.017160",
+      "title": [
+        "REBUS and the Anarchic Brain: Toward a Unified Model of the Brain Action of Psychedelics"
+      ],
+      "doi": "10.1124/pr.118.017160",
+      "type": "journal-article",
+      "update_to": [],
+      "relation": {},
+      "status": "metadata retrieved; absence of relations does not prove absence of corrections"
+    },
+    {
+      "id": "S09",
+      "url": "https://api.crossref.org/works/10.3389/fpsyg.2021.729425",
+      "title": [
+        "Psychedelics, Sociality, and Human Evolution"
+      ],
+      "doi": "10.3389/fpsyg.2021.729425",
+      "type": "journal-article",
+      "update_to": [],
+      "relation": {},
+      "status": "metadata retrieved; absence of relations does not prove absence of corrections"
+    },
+    {
+      "id": "S10",
+      "url": "https://api.crossref.org/works/10.1073/pnas.2016649118",
+      "title": [
+        "Sensing the presence of gods and spirits across cultures and faiths"
+      ],
+      "doi": "10.1073/pnas.2016649118",
+      "type": "journal-article",
+      "update_to": [],
+      "relation": {},
+      "status": "metadata retrieved; absence of relations does not prove absence of corrections"
+    },
+    {
+      "id": "S11",
+      "url": "https://api.crossref.org/works/10.1098/rstb.2015.0192",
+      "title": [
+        "Innovation in the collective brain"
+      ],
+      "doi": "10.1098/rstb.2015.0192",
+      "type": "journal-article",
+      "update_to": [],
+      "relation": {},
+      "status": "metadata retrieved; absence of relations does not prove absence of corrections"
+    },
+    {
+      "id": "S12",
+      "url": "https://api.crossref.org/works/10.1073/pnas.1918477117",
+      "title": [
+        "Transformative experience and social connectedness mediate the mood-enhancing effects of psychedelic use in naturalistic settings"
+      ],
+      "doi": "10.1073/pnas.1918477117",
+      "type": "journal-article",
+      "update_to": [],
+      "relation": {},
+      "status": "metadata retrieved; absence of relations does not prove absence of corrections"
+    },
+    {
+      "id": "S13",
+      "url": "https://api.crossref.org/works/10.1177/0269881116662634",
+      "title": [
+        "Survey study of challenging experiences after ingesting psilocybin mushrooms: Acute and enduring positive and negative consequences"
+      ],
+      "doi": "10.1177/0269881116662634",
+      "type": "journal-article",
+      "update_to": [],
+      "relation": {},
+      "status": "metadata retrieved; absence of relations does not prove absence of corrections"
+    },
+    {
+      "id": "S14",
+      "status": "no DOI recorded in this register; not queried"
+    },
+    {
+      "id": "S15",
+      "status": "no DOI recorded in this register; not queried"
+    },
+    {
+      "id": "S16",
+      "url": "https://api.crossref.org/works/10.1007/s00213-022-06221-6",
+      "title": [
+        "Expectancy in placebo-controlled trials of psychedelics: if so, so what?"
+      ],
+      "doi": "10.1007/s00213-022-06221-6",
+      "type": "journal-article",
+      "update_to": [],
+      "relation": {},
+      "status": "metadata retrieved; absence of relations does not prove absence of corrections"
+    }
+  ]
+}

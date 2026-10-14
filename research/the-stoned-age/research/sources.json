@@ -8,7 +8,9 @@
     "doi": "10.1080/03344355.2020.1732046",
     "url": "https://cris.biu.ac.il/en/publications/cannabis-and-frankincense-at-the-judahite-shrine-of-arad/",
     "inspection": "University bibliographic record and abstract",
-    "limit": "Residues and inferred burning at a particular shrine; no general origin claim."
+    "limit": "Residues and inferred burning at a particular shrine; no general origin claim.",
+    "appraisal": "appraisal.md",
+    "checked": "2026-10-14"
   },
   {
     "id": "S02",
@@ -18,8 +20,10 @@
     "venue": "Science Advances 5, eaaw1391",
     "doi": "10.1126/sciadv.aaw1391",
     "url": "https://pure.mpg.de/rest/items/item_3080701/component/file_3080703/content",
-    "inspection": "Primary paper excerpts, institutional repository",
-    "limit": "Chemical residue evidence; concentrations in the original material and subjective experiences are reconstructed, not observed."
+    "inspection": "Full main text via Europe PMC XML; results, controls and methods inspected; supplements pending",
+    "limit": "Chemical residue evidence; concentrations in the original material and subjective experiences are reconstructed, not observed.",
+    "appraisal": "appraisal.md",
+    "checked": "2026-10-14"
   },
   {
     "id": "S03",
@@ -28,9 +32,11 @@
     "title": "Chemical evidence for the use of multiple psychotropic plants in a 1,000-year-old ritual bundle from South America",
     "venue": "PNAS 116(23), 11207–11212",
     "doi": "10.1073/pnas.1902174116",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/31061128/",
-    "inspection": "Indexed abstract and bibliographic record; direct page retrieval limited",
-    "limit": "Bundle contents do not establish a specific combined preparation or a participant experience."
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6561276/",
+    "inspection": "Public main-text methods and results inspected; supplementary analytical audit pending",
+    "limit": "Bundle contents do not establish a specific combined preparation or a participant experience.",
+    "appraisal": "appraisal.md",
+    "checked": "2026-10-14"
   },
   {
     "id": "S04",
@@ -40,8 +46,10 @@
     "venue": "Scientific Reports 13, 4782",
     "doi": "10.1038/s41598-023-31064-2",
     "url": "https://www.nature.com/articles/s41598-023-31064-2",
-    "inspection": "Full article accessible; abstract, context and methods inspected",
-    "limit": "Human hair supports exposure; specific social roles and meanings remain interpretive."
+    "inspection": "Full main text via Europe PMC XML; dating and analytical methods inspected",
+    "limit": "Human hair supports exposure; specific social roles and meanings remain interpretive.",
+    "appraisal": "appraisal.md",
+    "checked": "2026-10-14"
   },
   {
     "id": "S05",
@@ -52,7 +60,9 @@
     "doi": "10.1124/pr.115.011478",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4813425/",
     "inspection": "Review excerpts; receptor-mechanism discussion",
-    "limit": "Pharmacological classification, not equivalence among all psychoactive substances."
+    "limit": "Pharmacological classification, not equivalence among all psychoactive substances.",
+    "appraisal": "appraisal.md",
+    "checked": "2026-10-14"
   },
   {
     "id": "S06",
@@ -62,8 +72,10 @@
     "venue": "Psychopharmacology 218, 649–665",
     "doi": "10.1007/s00213-011-2358-5",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3308357/",
-    "inspection": "Methods and results excerpts",
-    "limit": "Small, screened sample and supported setting; self-report is not metaphysical verification."
+    "inspection": "Main-text selection, session design and outcomes inspected; full follow-up audit pending",
+    "limit": "Small, screened sample and supported setting; self-report is not metaphysical verification.",
+    "appraisal": "appraisal.md",
+    "checked": "2026-10-14"
   },
   {
     "id": "S07",
@@ -73,8 +85,10 @@
     "venue": "Translational Psychiatry 11, 209",
     "doi": "10.1038/s41398-021-01335-5",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8032715/",
-    "inspection": "Indexed methods and results; direct full-page access challenged",
-    "limit": "Task and time-specific results; no general intelligence or evolutionary conclusion."
+    "inspection": "Full main text via Europe PMC XML; task-specific samples and outcomes inspected; supplement access failed",
+    "limit": "Later self-rated novelty is not independent originality; convergent thinking remained lower at day seven. Task-specific samples and blinding limit generalization.",
+    "appraisal": "appraisal.md",
+    "checked": "2026-10-14"
   },
   {
     "id": "S08",
@@ -84,8 +98,10 @@
     "venue": "Pharmacological Reviews 71, 316–344",
     "doi": "10.1124/pr.118.017160",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6588209/",
-    "inspection": "Abstract and theoretical formulation",
-    "limit": "Mechanistic model; not a settled account or proof that experiences reveal hidden reality."
+    "inspection": "Full main text available via Europe PMC XML; model and supporting discussion inspected",
+    "limit": "Mechanistic model; not a settled account or proof that experiences reveal hidden reality.",
+    "appraisal": "appraisal.md",
+    "checked": "2026-10-14"
   },
   {
     "id": "S09",
@@ -95,8 +111,10 @@
     "venue": "Frontiers in Psychology 12, 729425",
     "doi": "10.3389/fpsyg.2021.729425",
     "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.729425/full",
-    "inspection": "Full article available; hypothesis framing and evidence limitations inspected",
-    "limit": "Explicit hypothesis-and-theory article, not direct evidence of ancestral psychedelic selection."
+    "inspection": "Full main text via Europe PMC XML; mechanisms and proposed tests inspected",
+    "limit": "Explicit hypothesis-and-theory article, not direct evidence of ancestral psychedelic selection.",
+    "appraisal": "appraisal.md",
+    "checked": "2026-10-14"
   },
   {
     "id": "S10",
@@ -106,8 +124,10 @@
     "venue": "PNAS 118(5), e2016649118",
     "doi": "10.1073/pnas.2016649118",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7865123/",
-    "inspection": "Indexed abstract, methods and discussion; direct page challenged",
-    "limit": "Cross-cultural associations in reports; neither drug-origin proof nor metaphysical adjudication."
+    "inspection": "Full main text via Europe PMC XML; studies and measures inspected; registration comparison pending",
+    "limit": "Cross-cultural associations in reports; neither drug-origin proof nor metaphysical adjudication.",
+    "appraisal": "appraisal.md",
+    "checked": "2026-10-14"
   },
   {
     "id": "S11",
@@ -116,9 +136,11 @@
     "title": "Innovation in the collective brain",
     "venue": "Philosophical Transactions of the Royal Society B 371, 20150192",
     "doi": "10.1098/rstb.2015.0192",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4780534/",
-    "inspection": "Article excerpts and author bibliographic record",
-    "limit": "Cultural-evolution account; not evidence of a psychedelic cause."
+    "url": "https://www.michael.muthukrishna.com/wp-content/uploads/2016/08/muthukrishna_henrich_2016.pdf",
+    "inspection": "Author-hosted full paper; framework and network trade-offs inspected",
+    "limit": "Cultural-evolution account; not evidence of a psychedelic cause.",
+    "appraisal": "appraisal.md",
+    "checked": "2026-10-14"
   },
   {
     "id": "S12",
@@ -127,9 +149,11 @@
     "title": "Transformative experience and social connectedness mediate the mood-enhancing effects of psychedelic use in naturalistic settings",
     "venue": "PNAS 117, 2338–2346",
     "doi": "10.1073/pnas.1918477117",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7007572/",
-    "inspection": "Article results and limitations excerpts",
-    "limit": "Observational association; mediation analysis does not establish experimental causation."
+    "url": "https://www.crockettlab.org/s/psychadelic-paper-PNAS-rcat.pdf",
+    "inspection": "Author-lab full paper; design, exclusions, results and limitations inspected",
+    "limit": "Observational association; mediation analysis does not establish experimental causation.",
+    "appraisal": "appraisal.md",
+    "checked": "2026-10-14"
   },
   {
     "id": "S13",
@@ -139,19 +163,23 @@
     "venue": "Journal of Psychopharmacology 30, 1268–1278",
     "doi": "10.1177/0269881116662634",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5551678/",
-    "inspection": "Article abstract and results excerpts",
-    "limit": "Selected retrospective reports cannot estimate population incidence."
+    "inspection": "Public main article; recruitment, exclusions and limitations inspected",
+    "limit": "Selected retrospective reports cannot estimate population incidence.",
+    "appraisal": "appraisal.md",
+    "checked": "2026-10-14"
   },
   {
     "id": "S14",
     "authors": "Indigenous Peyote Conservation Initiative",
-    "year": "undated; accessed 2026-10-13",
+    "year": "undated; accessed 2026-10-14",
     "title": "Political and Social Issues",
     "venue": "Community organization statement",
     "doi": "",
     "url": "https://www.ipci.life/politicalandsocialissues",
-    "inspection": "Organization page inspected",
-    "limit": "Authoritative account of this organization’s position, not a voice for every Indigenous community."
+    "inspection": "Organization policy page inspected 2026-10-14",
+    "limit": "Authoritative account of this organization’s position, not a voice for every Indigenous community.",
+    "appraisal": "appraisal.md",
+    "checked": "2026-10-14"
   },
   {
     "id": "S15",
@@ -161,8 +189,10 @@
     "venue": "arXiv:2310.13548; primary research preprint (2023 version)",
     "doi": "",
     "url": "https://arxiv.org/abs/2310.13548",
-    "inspection": "Primary abstract and institutional research summary inspected",
-    "limit": "Evidence about tested models and tasks, not every present-day AI interaction."
+    "inspection": "Version 1 full HTML; task definitions, models and preference analyses inspected",
+    "limit": "Evidence about tested models and tasks, not every present-day AI interaction.",
+    "appraisal": "appraisal.md",
+    "checked": "2026-10-14"
   },
   {
     "id": "S16",
@@ -172,7 +202,9 @@
     "venue": "Psychopharmacology",
     "doi": "10.1007/s00213-022-06221-6",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9481484/",
-    "inspection": "Article excerpts and full page available; Crossref author/title/year metadata checked",
-    "limit": "Methodological discussion; unblinding complicates attribution without making every finding worthless."
+    "inspection": "Full main text via Europe PMC XML; argument and disclosures inspected",
+    "limit": "Methodological discussion; unblinding complicates attribution without making every finding worthless.",
+    "appraisal": "appraisal.md",
+    "checked": "2026-10-14"
   }
 ]

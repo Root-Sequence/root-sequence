@@ -10,7 +10,7 @@ A small book about large experiences—and what happens after someone says, “I
 
 Companion provocation: How Drugs Explain the Universe.
 
-Root Sequence · illustrated reader edition · v0.1 · 13 October 2026
+Root Sequence · illustrated reader edition · v0.1.1 · 14 October 2026
 
 AI-assisted draft. Author, scholarly and cultural review pending. The illustrations are original conceptual diagrams, not historical reconstructions.
 
@@ -102,7 +102,7 @@ Our question survives the grand story failing: how might particular altered-stat
 
 ![Conceptual illustration: split](../assets/split.svg)
 
-In one controlled study, acute feelings of creative insight increased while deliberate creativity-task performance decreased; a later measure improved. The timing and the measure mattered. [S07]
+In one controlled study, acute feelings of creative insight increased while deliberate creativity-task performance decreased; at seven days, self-rated novelty increased but convergent thinking remained lower. “New to me” is not independently verified originality. [S07]
 
 Imagine two notebooks. One holds ideas as they arrive. The other records what happened when they were checked. Neither notebook should swallow the other.
 
@@ -118,7 +118,7 @@ If we demand that every new thought arrive fully proved, we will lose good quest
 
 ![Conceptual illustration: orbit](../assets/orbit.svg)
 
-Supported psilocybin research has documented enduring reports of personal and spiritual significance. Such reports do not verify the metaphysical content of an experience. [S06]
+Supported psilocybin research has documented enduring reports of personal and spiritual significance. Acute fear also occurred in this small, screened sample. Such reports do not verify the metaphysical content of an experience. [S06]
 
 A moment may change what someone values. That is already substantial. It does not need to settle the structure of the cosmos to deserve attention.
 
@@ -194,4 +194,4 @@ Keep the joke. Keep the question. Let the answer remain answerable.
 
 ## References
 
-Source IDs refer to the [shared bibliography](../research/sources.md). The PDF includes a compact bibliography. Read the [living paper](../paper/manuscript.md) for the argument and qualifications.
+See the [shared source register](../research/sources.md) and [appraisal](../research/appraisal.md).

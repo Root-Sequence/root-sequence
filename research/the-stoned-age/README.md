@@ -4,7 +4,7 @@
 
 Companion provocation: **How Drugs Explain the Universe**.
 
-**Status:** v0.1 local review suite · 13 October 2026 · AI-assisted · author, scholarly and cultural review pending. This is substantial first-edition production, not a completed scholarly monograph or reviewed release.
+**Status:** v0.1.1 public draft suite · 14 October 2026 · AI-assisted · author, scholarly and cultural review pending. This is substantial first-edition production, not a completed scholarly monograph or reviewed release.
 
 Open [the project](index.html), then choose:
 
@@ -20,13 +20,13 @@ Repository: **Root-Sequence/root-sequence**. Directory: **research/the-stoned-ag
 
 Rationale: the live root README, PROJECT-CONTEXT, research index, research method, root map and ecosystem map identify this repository as the umbrella inquiry and research coordinator. Existing focused inquiries demonstrate that a bounded research area can live here without claiming a separate institution or novel expertise. No existing Stoned Age/psychedelic/altered-state treatment was found in the inspected main tree or the targeted issue search.
 
-Audit base: main commit `5ba3593f9d1b335e9fbe29ee85eeb77e3a9d1b42`, cloned clean on 2026-10-13. Only a fresh local checkout was edited. Connected repository listing was partial, so it is not treated as an exhaustive organizational census; the canonical live ECOSYSTEM map supplied the broader ownership map. Open PRs #40–44 were inspected at summary level. #42 and #44 also touch research navigation; rebase/reconcile that index before applying this patch remotely.
+Audit base: main commit `5ba3593f9d1b335e9fbe29ee85eeb77e3a9d1b42`, cloned clean on 2026-10-13. The draft was prepared in a fresh local checkout. Connected repository listing was partial, so it is not treated as an exhaustive organizational census; the canonical live ECOSYSTEM map supplied the broader ownership map. Open PRs #40–44 were inspected at summary level. #42 and #44 also touch research navigation; reconcile that index before merging.
 
 The proposed nearest-index addition is in the accompanying repository patch. The suite creates no new top-level architecture or cross-project ownership. No changes are needed to the public homepage, private projects or fictional canon. A later Wiki entry should be a pointer, if requested, not a duplicated substantive home.
 
 ## Publication boundary
 
-Nothing has been pushed, merged or deployed. The repository's `research/README.md` states: “Website presentation is separate and requires an explicit publication pass.” A public branch or draft PR is itself public. The package is ready for review before approving those external actions. Existing homepage approval does not apply to this essay.
+Public draft [PR #45](https://github.com/Root-Sequence/root-sequence/pull/45) is open. Merge and deployment remain pending. The research index requires a separate explicit website publication pass; this PR does not authorize deployment.
 
 ## Provenance and contribution
 
@@ -42,13 +42,17 @@ All illustrations are original editable SVG conceptual diagrams, generated from 
 
 The HTML and SVG outputs work offline without JavaScript, external fonts, accounts or analytics. Open `index.html` locally. Semantic headings, keyboard links, visible focus, a skip link, responsive widths and reduced-motion handling are included. HTML is the accessible reading edition; PDFs are not claimed to be fully tagged or PDF/UA conformant.
 
-Rebuild from this directory with `python3 tools/build.py`. HTML/SVG generation uses the Python standard library. PDF generation additionally needs `reportlab`; without it the script generates HTML/SVG and reports the missing PDF dependency. The small renderer supports the formats used here, not arbitrary Markdown. JSON is the authoritative booklet/slide content; Markdown is the paper/essay source. The booklet Markdown is an editorial companion; keep it aligned when changing JSON content.
+Rebuild from this directory with `python3 tools/build.py`. HTML/SVG generation uses the Python standard library. PDF generation additionally needs `reportlab`; without it the script generates HTML/SVG and reports the missing PDF dependency. The small renderer supports the formats used here, not arbitrary Markdown. JSON is the authoritative booklet/slide content; Markdown is the paper/essay source. The build regenerates the booklet Markdown and talk outline from JSON.
 
 ## Release phases
 
 1. **Delivered: v0.1 review suite.** Four reader formats, shared citations, claims ledger, original diagrams and additive patch.
-2. **Next: evidence depth.** Full study extraction and expert critique before stronger historical, clinical or evolutionary claims; prioritized details in the method record.
+2. **In progress: evidence depth.** Full study extraction and expert critique before stronger historical, clinical or evolutionary claims; prioritized details in the method record.
 3. **Then: cultural chapters and revised editions.** Appropriately situated authorship and review, with clear consent and reuse terms.
-4. **Publication pass.** Approve a public draft PR and, separately, a deployment destination. No new repository or hosting account is necessary for this low-maintenance static suite.
+4. **Publication pass.** Review the open public draft PR and approve a deployment destination separately. No new repository or hosting account is necessary for this low-maintenance static suite.
 
 A phase is complete when its evidence or review work is complete, not merely when more pages exist.
+
+## Evidence revision
+
+The [source-by-source appraisal](research/appraisal.md) covers all 16 records, distinguishes inspected material from remaining gaps, and records the creativity correction carried through all four editions. Crossref returned 13 of 14 DOI records in this pass; one was rate-limited. Full scholarly appraisal remains incomplete, particularly S01 access and supplements/registrations.

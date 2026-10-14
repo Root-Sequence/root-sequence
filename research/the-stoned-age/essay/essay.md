@@ -4,7 +4,7 @@
 
 Altered States, Human Curiosity, and the Long History of Making Meaning
 
-An illustrated essay · 13 October 2026 · v0.1 · AI-assisted draft; review pending
+An illustrated essay · 14 October 2026 · v0.1.1 · AI-assisted draft; review pending
 
 **How Drugs Explain the Universe** is the provocation. How humans turn changed experience into meaning is the inquiry.
 
@@ -38,11 +38,11 @@ Nor is “drugs” one mechanism. Classic psychedelics, cannabis and other psych
 
 ## 4. A brilliant feeling needs a return visit
 
-A controlled creativity study found that subjective insight and performance could move in different directions. [S07] That makes a useful distinction vivid: the experience of discovery and the evaluation of what was discovered are separate tasks.
+A controlled creativity study found that subjective insight and performance could move in different directions. [S07] The later positive result concerned ideas rated new by participants themselves; convergent thinking remained lower at seven days. That makes a useful distinction vivid: the experience of discovery and the evaluation of what was discovered are separate tasks.
 
 Try this as a reading practice, without taking anything: put an exciting idea in one column and the evidence that would change your mind in another. The second column need not humiliate the first. It gives the idea somewhere to go.
 
-Research can record enduring spiritual significance without confirming cosmic truth. [S06] A person may learn something important about what they value. There is no requirement that they also solve metaphysics.
+Research can record enduring spiritual significance alongside acute fear, without confirming cosmic truth. [S06] A person may learn something important about what they value. There is no requirement that they also solve metaphysics.
 
 ![Two notebooks: ideas arriving and ideas being checked](../assets/split.svg)
 
