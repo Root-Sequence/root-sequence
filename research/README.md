@@ -18,6 +18,8 @@ This directory holds bounded research inquiries and versioned papers that synthe
 
 ## Research areas
 
+- [The Stoned Age](the-stoned-age/README.md) — **v0.1, AI-assisted review draft**. Altered states, curiosity, religion, cognitive evolution, shared meaning and AI; living paper, illustrated reader editions, talk and shared evidence records.
+
 - [Conscious Systems](conscious-systems/README.md) — **exploratory, AI-assisted seed; author review pending**. Starts with [what can change about a mind while preserving consciousness](conscious-systems/what-can-we-change-about-a-mind.md), separating experience from report, capability, and authority.
 
 ## Cross-cutting related work
