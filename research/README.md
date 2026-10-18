@@ -2,6 +2,14 @@
 
 Root Sequence is an independent interdisciplinary research initiative. This index separates research questions, working methods, developing arguments, and reading resources so a reader can choose one useful starting point.
 
+## Research approach
+
+Root Sequence starts with questions that cross fields. We break them into smaller questions, identify the research and methods that can address each one, and examine how the findings connect.
+
+Differences between fields, competing explanations, and unanswered questions stay visible. Evidence and criticism can change the argument or show that a proposed connection does not hold.
+
+The [research method](method.md) and [method router](method-router.md) contain the full workflow and field-specific routes.
+
 ## Selected work and its current evidence
 
 | Start with | What is available | Evidence and review limits |

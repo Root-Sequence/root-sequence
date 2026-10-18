@@ -2,14 +2,14 @@
 
 ## Unapproved professional refresh: October 17, 2026
 
-**Status: mission and accessibility/contribution passages approved by Rae; the complete source remains a draft awaiting separate publication approval. No merge or deployment is recorded.**
+**Status: mission, accessibility/contribution, and research-method passages approved by Rae; the complete source remains a draft awaiting separate publication approval. No merge or deployment is recorded.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, palette, wordmark, reading controls, overlays, and URLs are preserved.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `7d20e45636c10205eb0d614d2b89fd844cf8935687f8821c474af46b005e3e61`.
-Candidate preview HTML SHA-256: `6d25417d3364ed2129c8224f4c876e3b9c196409bef9a88fc44601bb9cbcf4f8`.
+Candidate source digest: `6280b22a106cec67c8c4b7ecd362975ec04ef330a46faa4933dfbe3149a8209f`.
+Candidate preview HTML SHA-256: `cd131b3089f76d8b5be56b92f368d7594b342567105b8ff36ea4652f602bacf1`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
@@ -22,6 +22,12 @@ Rae requested adaptation of the earlier accessibility explanation and asked to s
 This is passage-level approval and authorization to implement it in the draft PRs. It is not approval of the exact final website source for publication. `approval.json` remains unchanged, and the release gate must continue to reject the candidate. No diagnosis or new personal history is added.
 
 Earlier October 17 candidate: source `0218501c8df772635a27520bf49e8b93c72e6f279b0eb9e580df57102142f60c`; HTML `3498ac695d20987aa04f88bde5a0f711c4d27fb7653511b3d1194f2e44469b2d`.
+
+## Research-method passage approval: October 17, 2026
+
+Rae approved the two-paragraph approach shown in writing block `19546` and requested that it be applied before reviewing the evidence wording. The exact text is applied to the existing site disclosure panel, research README, and organization profile. The detailed canonical method and the separate evidence passage are unchanged. This records prose approval and draft implementation, not validation of the method, research-result approval, or exact-source website publication approval.
+
+Previous accessibility-copy candidate: source `7d20e45636c10205eb0d614d2b89fd844cf8935687f8821c474af46b005e3e61`; HTML `6d25417d3364ed2129c8224f4c876e3b9c196409bef9a88fc44601bb9cbcf4f8`.
 
 ## Earlier review and approval history
 

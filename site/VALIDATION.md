@@ -184,3 +184,9 @@ Applied the exact approved short site copy and fuller README copy. The existing 
 - Reader-document check remains at the same 15 pre-existing failures. No new errors were introduced, and whitespace checks pass.
 
 This records selected browser/structural checks and passage-level approval. Full-source publication approval, independent research evaluation, and complete accessibility testing remain separate.
+
+## Approved research-method introduction: 2026-10-17
+
+Applied the two approved paragraphs verbatim to the existing site disclosure, research README, and organization profile. The detailed research-method source and unapproved evidence wording are unchanged.
+
+All 11 site checks pass, including the release-approval gate and script hashes. Exact wording was checked across HTML, translation data, and README/profile text. Desktop and 390 × 844 browser inspection confirmed readable wrapping, native disclosure keyboard activation, and no measured horizontal overflow; viewport overrides were reset. Reader-document failures remain the same 15 pre-existing issues. Whitespace checks pass. This is selected structural/browser verification, not method validation or publication approval.
