@@ -8,8 +8,8 @@ This candidate extends the existing `site/index.html` rather than introducing a 
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `375967af67dbf3c1a5ef80af46685d39e620a6ad15876034ac8cd11bda0d77ec`.
-Candidate preview HTML SHA-256: `6ccdfa3dc1bc0ca8bf26ff4882ea076fdb73f410495036eefce8ca2b775254dd`.
+Candidate source digest: `500725de2893d737ecf533558768183948aacda57ac1e0676c9ded9da7d097d5`.
+Candidate preview HTML SHA-256: `dd5ea0ba616c0d27eaed346b2b9527a70c3c7eb7052c3beb7dc73dcbcc816f62`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
@@ -36,6 +36,22 @@ Rae approved the revised writing block `47208` and requested its implementation 
 This is passage-level approval. It does not validate a claim or authorize release of the exact website source. `approval.json` remains unchanged.
 
 Previous method-copy candidate: source `6280b22a106cec67c8c4b7ecd362975ec04ef330a46faa4933dfbe3149a8209f`; HTML `cd131b3089f76d8b5be56b92f368d7594b342567105b8ff36ea4652f602bacf1`.
+
+## Homepage research-method entry approval: October 17, 2026
+
+Rae approved writing block `92184` and asked for its application to the site draft before reviewing the working-paper entry. The title, description, and status sentence are applied verbatim to the existing research-method entry and its English translation data. The link destination remains `research/method.md`. One of the six homepage research entries has completed this passage review. The working-paper description remains unchanged pending review.
+
+The approved copy is:
+
+> **How Root Sequence approaches a question**
+>
+> An idea often begins with a connection between things. This guide helps us work out which fields already study each part and whether their findings support the connection. The idea can change as we learn more, or be set aside if it doesn’t hold up.
+>
+> This workflow is still developing. Its usefulness across different kinds of research hasn’t been established.
+
+This is approval of a public description, not validation of the method or exact-source website publication approval. The historical `approval.json` record remains unchanged.
+
+Previous evidence-copy candidate: source `375967af67dbf3c1a5ef80af46685d39e620a6ad15876034ac8cd11bda0d77ec`; HTML `6ccdfa3dc1bc0ca8bf26ff4882ea076fdb73f410495036eefce8ca2b775254dd`.
 
 ## Earlier review and approval history
 

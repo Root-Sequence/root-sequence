@@ -183,7 +183,7 @@ class PublicationTests(unittest.TestCase):
             "Methods, evidence, and AI use",
             "AI output is not evidence",
             'id="research-practice"',
-            "How Root Sequence researches",
+            "How Root Sequence approaches a question",
             "Adaptive continuity and dynamic coherence",
             "Epistemic discoverability and knowledge routing",
             "Legible Systems",

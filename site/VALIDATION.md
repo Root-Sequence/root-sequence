@@ -198,3 +198,11 @@ Applied the two approved evidence paragraphs verbatim to the existing site discl
 All 11 site checks pass, and the Idea Trail index remains current. HTML and English translation data match the approved evidence wording. Desktop and 390 × 844 browser inspection showed readable wrapping and no measured horizontal overflow. The native disclosure opens and closes with Enter; viewport overrides were reset. The preview matches source HTML exactly, and the current source still fails the historical release-approval gate as intended. Reader-document checking reports the same 15 pre-existing errors. Whitespace checks pass in both repositories.
 
 These checks cover the changed presentation and source structure. They do not establish scientific validity, a complete accessibility audit, or publication approval. The exact-source approval record and Pages workflow remain unchanged.
+
+## Approved homepage research-method entry: 2026-10-17
+
+Applied the approved title, description, and development-status sentence from writing block `92184` verbatim to the existing method entry and English translation data. Updated the existing required-copy assertion to expect the approved heading. The destination remains the canonical `research/method.md`.
+
+All 11 site checks pass after that assertion update. Exact wording and translation parity were checked, and the preview matches source HTML byte for byte. The entry was inspected at desktop width and 390 × 844 CSS pixels with no measured horizontal overflow; viewport overrides were reset. The publication approval record and Pages workflow are unchanged, and the current candidate still fails the exact-source release gate as intended.
+
+This pass changes one homepage entry and its review records. It does not alter the detailed research method, the paper, or other research descriptions. Browser inspection is limited to the changed entry; no new whole-repository documentation or scientific-validation result is claimed.
