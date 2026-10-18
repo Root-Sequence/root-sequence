@@ -1,6 +1,6 @@
 # Public Seed placement
 
-**Current source status — 2026-10-17**
+**Current source status — 2026-10-18**
 
 `site/index.html` is the canonical reader-facing Root Sequence website source.
 The current professional-refresh source is an unapproved review candidate.

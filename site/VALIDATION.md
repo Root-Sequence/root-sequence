@@ -405,3 +405,14 @@ Source digest: `db6cb6144c77b252276f75024a93a0ca3adf573b7b5dcfd1c5fee5f91c9822ee
 Preview HTML SHA-256: `a7a3b51fb2c7f21b9488049244044c971156cfa19be1725551e2c49cb1e78f07`.
 
 These are selected copy and interaction checks, not completed page or accessibility review. No broader repository check was rerun; the last recorded reader-document result remains 15 pre-existing errors. The candidate remains a draft without website release approval.
+
+## Sources and page history: 2026-10-18 (Pacific)
+
+Applied writing block `92508` verbatim as four paragraphs with inline links, in visible HTML and English translation data. The rendered prose matches all four approved paragraphs after excluding existing screen-reader-only link instructions. All three source destinations and their panel behavior remain. The builder maps the new preview sentence to a proposed hosted AI-assistance sentence; the existing release test now checks that unpublished wording is removed while AI disclosure remains. The source revision and sitemap dates are October 18. All 11 tests pass, including exact-source release rejection against unchanged historical approval, source/preview parity, fragments, and CSP. The executable page script is unchanged.
+
+At 1575 pixels and 390 × 844, the disclosure opens by keyboard and wraps without horizontal document overflow. The earlier-review link opens its existing panel with the same PR #6 destination and incomplete-review status. Escape closes it and restores focus. No external continuation was activated. Normal desktop dimensions were restored. Current Reading controls and the reduced-motion rule were inspected for the next wording proposal; WCAG 2.2 and W3C cognitive guidance were read from their official URLs. Accessibility wording is unchanged pending review. This is not a full conformance, screen-reader, or real-device audit.
+
+Source digest: `a3fb7f8133227f2dd6f092c4f8d6d0a441fc2b33ae6ef7e065dfaa83160e894a`.
+Preview HTML SHA-256: `09cbbec8a46045ef392cf910a58103e4ab9d26f635108e99599625dff5114440`.
+
+P1-08 remains in progress; 1/4 footer passages are applied. No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, or research-review change is included.

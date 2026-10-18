@@ -1,19 +1,39 @@
 # Website copy review
 
-## Unapproved professional refresh: October 17, 2026
+## Unapproved professional refresh: October 18, 2026
 
-**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as is the Take part wording. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
+**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as are Take part and Sources and page history. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `db6cb6144c77b252276f75024a93a0ca3adf573b7b5dcfd1c5fee5f91c9822ee`.
-Candidate preview HTML SHA-256: `a7a3b51fb2c7f21b9488049244044c971156cfa19be1725551e2c49cb1e78f07`.
+Candidate source digest: `a3fb7f8133227f2dd6f092c4f8d6d0a441fc2b33ae6ef7e065dfaa83160e894a`.
+Candidate preview HTML SHA-256: `09cbbec8a46045ef392cf910a58103e4ab9d26f635108e99599625dff5114440`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Accepted Sources and page history: October 18, 2026 (Pacific)
+
+Rae approved writing block `92508` and explicitly requested its application before reviewing Accessibility and reading choices. Applied as four paragraphs with inline source links:
+
+> The repairable-phone example is hypothetical. It draws on questions developed in the [method and concept router](https://github.com/Root-Sequence/root-sequence/blob/main/research/method-router.md).
+
+> The working paper is still a draft. Its [earlier review discussion](https://github.com/Root-Sequence/root-sequence/pull/6) records author input and unfinished work. Previous versions remain in the repository history.
+
+> The [project map](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md) explains how the wider ecosystem fits together.
+
+> This page is an AI-assisted draft being reviewed before publication. The linked work keeps its own evidence notes and review status.
+
+The old numbered list and separate link rows are replaced by the approved paragraph layout. The three source destinations, native disclosure, and source-link panels remain. Visible wording and English translation data agree. The misleading fixed-revision claim is removed; the linked PR #6 is an earlier, closed, unmerged draft discussion, not research approval.
+
+The new preview sentence requires an updated publication-state substitution in `build.py`. Its proposed eventual hosted wording is “This page was developed with AI assistance.” The following evidence/review-status sentence remains. This release wording is part of the candidate for later exact-source review; no release is authorized. The existing release test checks that the unpublished draft sentence is removed and the AI disclosure retained. The footer revision label and sitemap date are updated to October 18. `approval.json` and the executable page script are unchanged.
+
+Footer passage review is 1/4 complete under P1-08. Accessibility wording is next and remains unapplied. Source approval, full-page review, and website publication remain distinct.
+
+Previous candidate: source `db6cb6144c77b252276f75024a93a0ca3adf573b7b5dcfd1c5fee5f91c9822ee`; HTML `a7a3b51fb2c7f21b9488049244044c971156cfa19be1725551e2c49cb1e78f07`.
 
 ## Accepted Take part wording: October 17, 2026 (Pacific)
 
