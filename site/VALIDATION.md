@@ -206,3 +206,11 @@ Applied the approved title, description, and development-status sentence from wr
 All 11 site checks pass after that assertion update. Exact wording and translation parity were checked, and the preview matches source HTML byte for byte. The entry was inspected at desktop width and 390 × 844 CSS pixels with no measured horizontal overflow; viewport overrides were reset. The publication approval record and Pages workflow are unchanged, and the current candidate still fails the exact-source release gate as intended.
 
 This pass changes one homepage entry and its review records. It does not alter the detailed research method, the paper, or other research descriptions. Browser inspection is limited to the changed entry; no new whole-repository documentation or scientific-validation result is claimed.
+
+## Approved homepage working-paper entry: 2026-10-17
+
+Applied the description and review-status sentence from writing block `68425` verbatim in the existing paper entry and English translation data. Its title and source destination remain unchanged; the existing source-details panel uses the same translated text.
+
+All 11 site checks pass. Exact text and translation parity were checked, and preview HTML matches source byte for byte. Desktop and 390 × 844 browser inspection found readable wrapping and no measured horizontal overflow; viewport overrides were reset. The manuscript, paper-level review records, historical publication approval, and Pages workflow are unchanged. The current candidate still fails the exact-source release gate as intended.
+
+These are presentation and structural checks for the changed entry, not scientific validation, a new whole-repository documentation audit, or publication approval.

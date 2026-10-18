@@ -8,8 +8,8 @@ This candidate extends the existing `site/index.html` rather than introducing a 
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `500725de2893d737ecf533558768183948aacda57ac1e0676c9ded9da7d097d5`.
-Candidate preview HTML SHA-256: `dd5ea0ba616c0d27eaed346b2b9527a70c3c7eb7052c3beb7dc73dcbcc816f62`.
+Candidate source digest: `7593baf06d6f028f89181691b1bd82442103679843fe5aa36776b501d83ff818`.
+Candidate preview HTML SHA-256: `73dc264a553498b8284b4352bc9212d56bd394886308405d168c711aee4a0b2e`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
@@ -52,6 +52,22 @@ The approved copy is:
 This is approval of a public description, not validation of the method or exact-source website publication approval. The historical `approval.json` record remains unchanged.
 
 Previous evidence-copy candidate: source `375967af67dbf3c1a5ef80af46685d39e620a6ad15876034ac8cd11bda0d77ec`; HTML `6ccdfa3dc1bc0ca8bf26ff4882ea076fdb73f410495036eefce8ca2b775254dd`.
+
+## Homepage working-paper entry approval: October 17, 2026
+
+Rae approved writing block `68425` and requested its application to the draft before reviewing adaptive continuity and dynamic coherence. The description and review-status sentence are applied verbatim in HTML and English translation data. The title and source link remain unchanged. Two of the six homepage research entries have completed passage review.
+
+The approved copy is:
+
+> **Coherence Is a Systems Property**
+>
+> An intelligent system can meet its operator’s goal while creating problems for the people affected by it. This working paper asks what we need to examine beyond that goal, including how the institutions around a system shape what it does.
+>
+> AI-assisted working draft. Author review is incomplete; it has not been peer reviewed.
+
+This approves the public description. It does not approve the paper’s claims or exact website source for publication. The canonical manuscript, paper-level review records, and `approval.json` remain unchanged.
+
+Previous research-method-entry candidate: source `500725de2893d737ecf533558768183948aacda57ac1e0676c9ded9da7d097d5`; HTML `dd5ea0ba616c0d27eaed346b2b9527a70c3c7eb7052c3beb7dc73dcbcc816f62`.
 
 ## Earlier review and approval history
 
