@@ -172,3 +172,15 @@ Remote repository verification should compare the committed blobs with the teste
 - Changed public GitHub file destinations and local Markdown links were checked. No private-project source URLs or content were added to the site.
 
 This is selected browser and structural inspection, not a full WCAG audit, screen-reader assessment, real-device test, independent research review, or live-deployment verification. The preview is a local review artifact. Progress and remaining decisions live in [ROADMAP.md](../ROADMAP.md).
+
+## Approved accessibility and contribution copy: 2026-10-17
+
+Applied the exact approved short site copy and fuller README copy. The existing method, evidence, and working-paper limits remain alongside them; the organization profile uses the same approved short paragraphs. The main README routes to the fuller explanation in the research README.
+
+- All 11 site tests and the Idea Trail graph/index check pass.
+- HTML, English translation data, and organization-profile paragraphs match the approved site wording exactly. The research README contains the approved full paragraphs exactly.
+- The native disclosure opens with Enter. Updated text was inspected at desktop width and 390 × 844 CSS pixels; no horizontal overflow was measured. Viewport overrides were reset after inspection.
+- Preview output remains identical to canonical HTML, and a direct release build is rejected against unchanged `approval.json`. The Pages workflow is unchanged.
+- Reader-document check remains at the same 15 pre-existing failures. No new errors were introduced, and whitespace checks pass.
+
+This records selected browser/structural checks and passage-level approval. Full-source publication approval, independent research evaluation, and complete accessibility testing remain separate.

@@ -24,11 +24,17 @@ The [repository map's labels](../root_map.md#labels-describe-different-things) d
 
 Record source inspection separately: metadata found, abstract read, selected passages checked, full text appraised, analysis reproduced, or independently replicated. None implies the next. Record uncertainty, disagreements, and what would change the conclusion. The [canonical method](method.md) owns the full workflow.
 
-## AI assistance and accountable review
+## Accessibility, AI assistance, and contributions
 
-AI assistance in this body of work includes organizing material, literature discovery, substantive drafting, critique, and some code and repository work. It has gone beyond copyediting. Rae supplies questions, direction, examples, constraints, objections, and revision decisions. A request to develop a draft does not mean every resulting statement has been endorsed.
+Rae Lovejoy uses AI both as an accessibility aid and as a tool for developing Root Sequence. Ideas often emerge through questions, fragments, observations, and conversations across connected subjects. AI helps gather that material, organize it, explore relationships, compare ideas with existing research, and develop drafts that can be reviewed in manageable pieces.
 
-AI output is not evidence. Sources, code behavior, author decisions, and independent review need their own records. Agreement among AI responses is not peer review. Human source review, manuscript approval, and independent evaluation remain incomplete for the working paper; its [detailed assistance record](papers/coherent-systems/AI-ASSISTANCE.md) gives the actual scope and supported review process. Do not infer full human source verification from polished prose, repository presence, or a passing test.
+Rae contributes the motivating questions, conceptual direction, ideas and connections, examples, constraints, objections, and decisions that shape the work. AI contributes substantive synthesis, drafting, critique, literature discovery, and some code and repository work. It also proposes additional ideas, connections, and interpretations that Rae may adopt, revise, or reject. Some ideas develop through this ongoing exchange, so their origins cannot always be cleanly separated.
+
+This assistance supports Rae’s participation throughout development and review. AI output is not evidence, and generated drafts do not automatically represent Rae’s endorsement. Source checking, author review, independent evaluation, and publication approval are recorded separately. The working paper remains a draft with author review incomplete.
+
+### Source and review records
+
+The working paper's [detailed assistance record](papers/coherent-systems/AI-ASSISTANCE.md) preserves the earlier accessibility explanation, actual assistance, and supported review process. Agreement among AI responses is not peer review.
 
 For new work, record the date, tool and model when available, affected artifact, substantive assistance, source locators and inspection scope, and human corrections or approvals. Unrecorded model settings remain unknown. Respect each project's privacy, consent, and publication boundaries.
 

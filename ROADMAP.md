@@ -25,7 +25,7 @@ This is the single checklist for this refresh. Project-specific backlogs remain 
 
 | Check | ID | Status | Decision / next action |
 | --- | --- | --- | --- |
-| [ ] | P1-01 | in progress | Mission sentence approved by Rae on 2026-10-17 (Pacific). Review the evidence/AI-use wording next, in small passages. Approval of the mission does not approve the research corpus or website release. |
+| [ ] | P1-01 | in progress | Mission sentence and the site/README accessibility and contribution passages approved by Rae on 2026-10-17 (Pacific). Review the remaining methods/evidence wording next, in small passages. These passage approvals do not approve the research corpus or website release. |
 | [ ] | P1-02 | to do | Decide whether draft-only research should later appear on the homepage; Phase 1 keeps it in a clearly labelled repository review queue. |
 | [ ] | P1-03 | to do | Reconcile overlapping README/index/profile edits with existing PRs before merge. Do not close or supersede substantive research PRs automatically. |
 | [ ] | P1-04 | to do | Review the proposed organization bio and any repository-description/pin changes. Live settings are outside these source PRs. |
@@ -51,7 +51,13 @@ Rae approved this exact sentence in chat on **2026-10-17 (Pacific)**, responding
 
 > Root Sequence is an independent interdisciplinary research initiative started by Rae Lovejoy, exploring how intelligence, technology, and social systems shape one another.
 
-This records approval of the mission sentence. Methods/evidence/AI-use wording, work-sample endorsement, merging, and exact-source website publication remain separate pending decisions.
+This records approval of the mission sentence. The accessibility and AI-contribution wording was subsequently approved as recorded below. Remaining methods/evidence wording, work-sample endorsement, merging, and exact-source website publication remain separate pending decisions.
+
+## Approved accessibility and contribution wording
+
+On **2026-10-17 (Pacific)**, Rae approved the proposed site and README wording by responding “love” after requesting a draft before implementation. The approved versions are writing blocks `76142` (site) and `58317` (fuller README) in the project chat. They adapt the existing [accessibility explanation](research/papers/coherent-systems/AI-ASSISTANCE.md#why-i-use-ai-accessibility-and-developing-the-work).
+
+The approved site text is applied to the existing disclosure panel and the organization profile. The full approved README text is applied to [research/README.md](research/README.md#accessibility-ai-assistance-and-contributions), with a concise route from the main README. This records approval of these passages and their implementation in draft PRs. It does not approve every research claim, the work sample, or the exact website source for release.
 
 ## Review package and update log
 
@@ -63,6 +69,6 @@ This records approval of the mission sentence. Methods/evidence/AI-use wording, 
 - [Root repository, site, plan, and sample: draft PR #46](https://github.com/Root-Sequence/root-sequence/pull/46). Initial implementation commit: `4070fc8b396fc84148ecbe525c1156360d0cec2c`.
 - [Organization profile: draft PR #10](https://github.com/Root-Sequence/.github/pull/10). Implementation commit: `c50bd82f623038e3f7e0b58d6157205dfa29fcdf`.
 - Review the canonical repository first, then the profile. Existing research and commons drafts remain open; reconcile overlapping navigation/profile text before any merge.
-- **Next supported review:** the first AI-use disclosure paragraph. The mission sentence is approved; the rest of P1-01 remains in progress.
+- **Next supported review:** the remaining methods and evidence-status explanation. Mission and accessibility/contribution passages are approved; P1-01 remains in progress for the rest.
 
-Current status after mission approval: **13 done, 7 to do, 1 in progress, 1 blocked** across 22 tasks. The blocked item is publication pending a separate exact-source decision. This is a source-review milestone, not a published refresh.
+Current status after mission and accessibility/contribution approval: **13 done, 7 to do, 1 in progress, 1 blocked** across 22 tasks. The blocked item is publication pending a separate exact-source decision. This is a source-review milestone, not a published refresh.

@@ -10,6 +10,8 @@ It brings together systems research, philosophy, technical design, and explorato
 
 Current outputs include public research notes, an AI-assisted working paper awaiting author review, concepts, maps, and small tools. Their development and evidence vary; there is no claim of a finished theory or a validated universal framework.
 
+Rae uses AI both as an accessibility aid and as a tool for developing the work. Read about [accessibility, contributions, and review](research/README.md#accessibility-ai-assistance-and-contributions).
+
 **Read next:** [selected research, methods, evidence, and AI use](research/README.md) · [professional-refresh checklist](ROADMAP.md) · [short orientation](START-HERE.md).
 
 **Ecosystem role:** umbrella inquiry / conceptual commons  
