@@ -337,3 +337,14 @@ Source digest: `05d97621178f3cb83d98f306387c5853f7466fcc9ea0888bed39af9e9e759166
 Preview HTML SHA-256: `ec4be517e22eac8d1672e59ca6aaed327596db2cc6ef390510e9edcf117ce0e8`.
 
 These checks concern the selected copy and interactions, not full accessibility, scientific validation, or release approval. The candidate remains a draft.
+
+## Accepted revised Coherent Computing passage: 2026-10-17 (Pacific)
+
+Applied the revised writing block `46179` verbatim to HTML and English translation data. All 11 site checks pass without test changes, including fragment/CSP checks, preview/source byte parity, and the deliberately blocked release gate. The executable script, builder, historical approval, other project descriptions, status labels, and existing panel limits are unchanged.
+
+Desktop (1575 pixels) and 390 × 844 browser inspection found readable wrapping without horizontal overflow. The existing Coherent Computing details panel opens by keyboard and displays the same revised description; Escape closes it and returns focus. Normal desktop viewport settings were restored and confirmed. The Community Infrastructure context and README were read for the next proposed passage; neither private repository is edited or its implementation material exported. No broader repository check was rerun for this copy-only update; the last recorded reader-document result remains 15 pre-existing errors.
+
+Source digest: `e87e85303a7b725b9f131cd6121179a1f073ace69f62ade329de1bdc291ad8c0`.
+Preview HTML SHA-256: `e5b783fa1a85c73ecc7391cf34b774d33146831b0a3a028de43fc8ec10aa391f`.
+
+These are selected copy and interaction checks, not a complete accessibility audit, implementation evidence, research validation, or website release approval. The candidate remains a draft.

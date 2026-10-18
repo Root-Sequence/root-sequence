@@ -2,18 +2,28 @@
 
 ## Unapproved professional refresh: October 17, 2026
 
-**Status: mission, accessibility/contribution, research-method, evidence, all six homepage research descriptions, the revised About explanation and invitation, contextual name introduction, Coherent World description, and No One Noticed description accepted by Rae; the complete source remains a draft awaiting full-page review and separate publication approval. No merge or deployment is recorded.**
+**Status: mission, accessibility/contribution, research-method, evidence, all six homepage research descriptions, the revised About explanation and invitation, contextual name introduction, Coherent World, No One Noticed, and revised Coherent Computing descriptions accepted by Rae; the complete source remains a draft awaiting full-page review and separate publication approval. No merge or deployment is recorded.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `05d97621178f3cb83d98f306387c5853f7466fcc9ea0888bed39af9e9e759166`.
-Candidate preview HTML SHA-256: `ec4be517e22eac8d1672e59ca6aaed327596db2cc6ef390510e9edcf117ce0e8`.
+Candidate source digest: `e87e85303a7b725b9f131cd6121179a1f073ace69f62ade329de1bdc291ad8c0`.
+Candidate preview HTML SHA-256: `e5b783fa1a85c73ecc7391cf34b774d33146831b0a3a028de43fc8ec10aa391f`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Accepted revised Coherent Computing description: October 17, 2026 (Pacific)
+
+Rae questioned whether an OS-only introduction captured the project’s expanded scope. After checking its current charter, conceptual model, lifecycle study, decision record, and outstanding draft scope, the revised writing block `46179` connected operating-system design with the broader conditions needed to keep technology useful. Rae accepted that revision and explicitly requested its application to the draft:
+
+> Coherent Computing explores how computing systems could work around people’s needs and remain understandable and under their control. The work connects operating-system design with what it takes to keep technology useful as people’s circumstances change and devices age.
+
+The exact revised passage is applied to HTML and English translation data, including the shared project-panel summary. The earlier OS-only proposal was not applied. The “Computing research · No public release” label and existing panel limits remain. No private implementation or study detail is exported, and the project’s paused implementation remains untouched. Related-project description review is now **3/7 complete**; Community Infrastructure is next and remains unchanged pending its own passage review.
+
+This records passage approval and draft implementation, not a change to the computing project’s charter or exact-source website publication approval. Previous candidate: source `05d97621178f3cb83d98f306387c5853f7466fcc9ea0888bed39af9e9e759166`; HTML `ec4be517e22eac8d1672e59ca6aaed327596db2cc6ef390510e9edcf117ce0e8`.
 
 ## Accepted No One Noticed description: October 17, 2026 (Pacific)
 
