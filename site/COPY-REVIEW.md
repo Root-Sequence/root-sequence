@@ -2,18 +2,28 @@
 
 ## Unapproved professional refresh: October 17, 2026
 
-**Status: mission, accessibility/contribution, research-method, evidence, all six homepage research descriptions, the revised About explanation and invitation, contextual name introduction, and Coherent World description accepted by Rae; the complete source remains a draft awaiting full-page review and separate publication approval. No merge or deployment is recorded.**
+**Status: mission, accessibility/contribution, research-method, evidence, all six homepage research descriptions, the revised About explanation and invitation, contextual name introduction, Coherent World description, and No One Noticed description accepted by Rae; the complete source remains a draft awaiting full-page review and separate publication approval. No merge or deployment is recorded.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `dfb4b828ca7857d764c3b4a71ce286029f62a26fc561dc56ae2d070101aa67bd`.
-Candidate preview HTML SHA-256: `503a7fa2094f05a73975f9c799f517197db778b187c4255500c0cc12987ae29b`.
+Candidate source digest: `05d97621178f3cb83d98f306387c5853f7466fcc9ea0888bed39af9e9e759166`.
+Candidate preview HTML SHA-256: `ec4be517e22eac8d1672e59ca6aaed327596db2cc6ef390510e9edcf117ce0e8`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Accepted No One Noticed description: October 17, 2026 (Pacific)
+
+Rae approved writing block `83520` and explicitly requested its application to the draft. The exact passage is applied to the visible HTML and English translation data, which also supplies the project context panel:
+
+> A science-fiction novel about an advanced AI changing the world while much of everyday life still looks familiar. The story follows people living through that transition, often before they understand what is happening.
+
+The existing “Novel in progress · Public site not available yet” label and context-panel publication limits remain. The description follows the public [ecosystem map](../ECOSYSTEM.md#no-one-noticed). It introduces the premise without exporting manuscript material or adopting a scene as story canon. Coherent World and the AI/accessibility introduction retain their approved wording. Related-project description review is now **2/7 complete**; Coherent Computing is next and remains unchanged pending its own passage review.
+
+This records passage approval and draft implementation, not exact-source publication approval. Previous candidate: source `dfb4b828ca7857d764c3b4a71ce286029f62a26fc561dc56ae2d070101aa67bd`; HTML `503a7fa2094f05a73975f9c799f517197db778b187c4255500c0cc12987ae29b`.
 
 ## Accepted name context and Coherent World description: October 17, 2026 (Pacific)
 

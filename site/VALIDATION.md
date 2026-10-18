@@ -326,3 +326,14 @@ Source digest: `dfb4b828ca7857d764c3b4a71ce286029f62a26fc561dc56ae2d070101aa67bd
 Preview HTML SHA-256: `503a7fa2094f05a73975f9c799f517197db778b187c4255500c0cc12987ae29b`.
 
 These are selected copy/presentation checks, not a complete accessibility audit or research validation. No new whole-repository check is claimed by this entry. The source remains draft-only; historical approval and publication settings are unchanged.
+
+## Accepted No One Noticed passage: 2026-10-17 (Pacific)
+
+Applied writing block `83520` verbatim to HTML and English translation data. All 11 site checks pass without test changes, including fragment/CSP checks, source/preview parity, and the deliberately blocked release gate. The executable script, builder, historical approval, and other project descriptions are unchanged.
+
+Browser inspection at desktop width (1575 pixels) and 390 × 844 found readable wrapping and no horizontal overflow. The novel’s existing details panel opens by keyboard and shows the same new description; Escape closes it and returns focus to its trigger. The normal desktop viewport was restored. The private Coherent Computing context was read to check current status for the next proposed passage; no private project is edited or creative/implementation material exported. No broader repository check was rerun for this copy-only update; the last recorded reader-document result remains 15 pre-existing errors.
+
+Source digest: `05d97621178f3cb83d98f306387c5853f7466fcc9ea0888bed39af9e9e759166`.
+Preview HTML SHA-256: `ec4be517e22eac8d1672e59ca6aaed327596db2cc6ef390510e9edcf117ce0e8`.
+
+These checks concern the selected copy and interactions, not full accessibility, scientific validation, or release approval. The candidate remains a draft.
