@@ -188,13 +188,23 @@ The root calculations used refresh head `d735d657fb3bd917c84e70ddea36e09414fc078
 
 **Profile resolution proposed for the next review:** retain #10's independent-research introduction and current project boundaries. Keep the commons proposal clearly labelled and linked to root #43 while it remains a draft, and fold #9's short profile-level invitation into that existing paragraph rather than appending a second overview. Preserve #9's substantive contribution/stewardship documents in their own review. Its links to the future `main` commons anchor require root #43 to land first, or a temporary route to that PR; neither dependency is resolved by this refresh.
 
-No older PR is closed, rebased, or overwritten here. Before any eventual merge, rerun the checks on the actual then-current heads, resolve the profile text in a review branch, and check the research queue for duplicate or newly merged routes. This is compatibility analysis, not publication approval.
+The check itself did not close, rebase, or overwrite an older PR. The remaining profile conflict was resolved in the subsequent draft update below. Before any eventual merge, rerun compatibility checks on the then-current heads and check the research queue for duplicate or newly merged routes. Compatibility does not approve publication.
+
+### Organization profile overlap resolved: 2026-10-17
+
+The professional-refresh profile in organization #10 now contains one concise collaboration summary. It retains the independent-research mission and existing project boundaries, routes to the review-pending commons proposal, and keeps maintenance responsibility and decision powers provisional. Previously approved mission, research-method, evidence, and AI/accessibility passages are preserved verbatim. The new collaboration summary is prepared for PR review; it is not recorded as a separately approved passage.
+
+The redundant profile-only paragraph has been removed from organization #9’s diff by restoring that file to its existing base version. Its four substantive guidance files (`README.md`, `CONTRIBUTING.md`, `PROJECT_STEWARDSHIP.md`, and `PULL_REQUEST_TEMPLATE.md`) remain byte-for-byte identical to #9’s original head. This preserves their separate review instead of including governance proposals in the professional refresh. The earlier profile wording remains recoverable in Git history.
+
+Updated draft heads: #9 `36527befd9f1f5576966940e9b57ef7aa194167f`; #10 `71753723acc549d6014bd6170ed9d6ffe514cf43`. A fresh tree-only merge of those heads completes without a conflict. It preserves #10’s profile, both README additions, and all three other contribution/stewardship files. Neither branch is merged to `main`, force-updated, or closed. This does not adopt either proposal as operating governance.
+
+The original #9 guidance still links to a proposed canonical commons anchor. Root #43 must be reviewed and accepted before those `main`-anchor links can resolve. That dependency remains explicit in #9’s description; resolving the profile conflict does not bypass it. Root research drafts #42, #44, and #45 also remain separately reviewable. Their substantive material has not been copied into the refresh.
 
 ### Proposed short organization bio
 
-> Independent interdisciplinary research exploring how intelligence, technology, and social systems shape one another. Research, design, and exploratory writing.
+> Independent interdisciplinary research exploring how intelligence, technology, and social systems shape one another.
 
-This is proposed copy for a later settings decision. It does not assert an incorporated institute, funded team, academic affiliation, AIAF connection, completed study, or deployed product.
+This single-sentence version is proposed for Rae’s wording review. It reuses the agreed mission and removes the second list-style sentence. Wording approval and a later live-settings change remain separate. It does not assert an incorporated institute, funded team, academic affiliation, AIAF connection, completed study, or deployed product.
 
 ### Review boundary
 
