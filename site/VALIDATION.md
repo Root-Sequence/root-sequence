@@ -315,3 +315,14 @@ Source digest: `663a06b04b26b6899a7ac1a76491fc95259991e7e8a918d50519ffe40941e75c
 Preview HTML SHA-256: `c6fbb506a90047d1e8b8e48e8882cfd8ee6651a18c466fb5ad5a6760e503e9ac`.
 
 These are selected presentation and interaction checks, not a full accessibility audit. The replacement layout awaits review under ROADMAP P1-08; no publication approval is inferred.
+
+## Contextual name and Coherent World passages: 2026-10-17 (Pacific)
+
+Applied the approved passages from writing blocks `30857` and `69418` to HTML and English translation data. Only the first AI/accessibility paragraph and the Coherent World description change in the site source. The existing novel context link, private/speculative status, founder credit, six research entries, executable script, builder, and historical publication approval remain unchanged. No One Noticed copy remains pending review.
+
+All 11 site checks pass without test changes, including fragment/CSP checks, source/preview byte parity, and the blocked exact-source release gate. Desktop (1575 pixels) and 390 × 844 browser inspection found readable wrapping without horizontal overflow. The novel link inside the revised Coherent World paragraph opens its existing dialog by keyboard; Escape closes it and returns focus to that link. The revised AI paragraph was inspected at both widths, and the native methods disclosure opened by keyboard. Temporary viewport settings were reset and normal desktop dimensions confirmed.
+
+Source digest: `dfb4b828ca7857d764c3b4a71ce286029f62a26fc561dc56ae2d070101aa67bd`.
+Preview HTML SHA-256: `503a7fa2094f05a73975f9c799f517197db778b187c4255500c0cc12987ae29b`.
+
+These are selected copy/presentation checks, not a complete accessibility audit or research validation. No new whole-repository check is claimed by this entry. The source remains draft-only; historical approval and publication settings are unchanged.

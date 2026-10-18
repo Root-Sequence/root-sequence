@@ -2,18 +2,32 @@
 
 ## Unapproved professional refresh: October 17, 2026
 
-**Status: mission, accessibility/contribution, research-method, evidence, all six homepage research descriptions, and the revised About explanation and invitation accepted by Rae; the complete source remains a draft awaiting full-page review and separate publication approval. No merge or deployment is recorded.**
+**Status: mission, accessibility/contribution, research-method, evidence, all six homepage research descriptions, the revised About explanation and invitation, contextual name introduction, and Coherent World description accepted by Rae; the complete source remains a draft awaiting full-page review and separate publication approval. No merge or deployment is recorded.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `663a06b04b26b6899a7ac1a76491fc95259991e7e8a918d50519ffe40941e75c`.
-Candidate preview HTML SHA-256: `c6fbb506a90047d1e8b8e48e8882cfd8ee6651a18c466fb5ad5a6760e503e9ac`.
+Candidate source digest: `dfb4b828ca7857d764c3b4a71ce286029f62a26fc561dc56ae2d070101aa67bd`.
+Candidate preview HTML SHA-256: `503a7fa2094f05a73975f9c799f517197db778b187c4255500c0cc12987ae29b`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Accepted name context and Coherent World description: October 17, 2026 (Pacific)
+
+Rae approved writing blocks `30857` and `69418` and explicitly requested that both be applied to the draft. The AI/accessibility paragraph now introduces Rae as “Rae Lovejoy, who started Root Sequence,” before describing the use of AI. The rest of that paragraph and the two following contribution/review paragraphs are unchanged. The founder credit and existing GitHub profile link remain in Credits and reuse; no diagnosis or new biographical claim is added.
+
+The Coherent World entry now reads:
+
+> Coherent World brings research and design ideas into a possible future to explore how they might affect one another and everyday life. It provides the setting for No One Noticed, while leaving room to explore possibilities beyond the novel.
+
+Both accepted passages are applied to the HTML and English translation data. The existing No One Noticed context link and “Speculative design · Private development” label remain. The description follows the public [ecosystem map](../ECOSYSTEM.md#coherent-world); no private creative material is exported or adopted as story canon. This is the first of seven related-project descriptions accepted in the current review. No One Noticed is next and remains unchanged pending its own passage review.
+
+Rae’s “Much better” feedback supports moving on from the balanced About/common-disclosure revision. Broader page review remains open under ROADMAP P1-08. These are passage and draft-edit decisions, not approval of the exact website source for release.
+
+Previous candidate: source `663a06b04b26b6899a7ac1a76491fc95259991e7e8a918d50519ffe40941e75c`; HTML `c6fbb506a90047d1e8b8e48e8882cfd8ee6651a18c466fb5ad5a6760e503e9ac`.
 
 ## About context and consistent disclosures: October 17, 2026
 
