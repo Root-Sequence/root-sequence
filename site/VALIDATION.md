@@ -222,3 +222,11 @@ Applied the description and status sentence from writing block `32716` verbatim 
 All 11 site checks pass. Exact text, translation parity, and byte-identical preview output were verified. Desktop and 390 × 844 browser inspection showed readable wrapping and no measured horizontal overflow; viewport overrides were reset. The underlying concept and lineage note, other research descriptions, publication approval, and Pages workflow are unchanged. The candidate still fails the exact-source release gate as intended.
 
 These checks concern the changed presentation and structure. They do not establish scientific validity, complete accessibility, a new whole-repository audit, or publication approval.
+
+## Approved homepage knowledge-routing entry: 2026-10-17
+
+Applied the description and status sentence from writing block `74863` verbatim in HTML and English translation data. The title and canonical source destination remain unchanged.
+
+All 11 site checks pass. Exact wording, translation parity, and byte-identical preview output were verified. Desktop and 390 × 844 browser inspection found readable wrapping and no measured horizontal overflow; viewport overrides were reset. The underlying concept, other research entries, historical publication approval, and Pages workflow remain unchanged. The current candidate still fails the exact-source release gate as intended.
+
+These are checks of the changed presentation and structure, not a measured discovery result, complete accessibility audit, or publication approval.

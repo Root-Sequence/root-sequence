@@ -8,8 +8,8 @@ This candidate extends the existing `site/index.html` rather than introducing a 
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `69745d9daafd23a4d8ce0c9c7391196de621f8c90a57ca90a9a8c0184f511d11`.
-Candidate preview HTML SHA-256: `f341386eb9e31e40ff1ba09cd0e9933e0dcb341a1509d26514ac9458de13094b`.
+Candidate source digest: `155ac679bcd093d3ad45276200800de537becd32d32501d4a2ea1a447e0a90ee`.
+Candidate preview HTML SHA-256: `3a830d424d1de8970f9b02dce7459359ba7b541b6ec1c9923f57083704fe160f`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
@@ -84,6 +84,22 @@ The approved copy is:
 This approves the public description, not the framework’s claims or exact-source website publication. The canonical concept, lineage note, historical `approval.json`, and other research descriptions remain unchanged.
 
 Previous working-paper-entry candidate: source `7593baf06d6f028f89181691b1bd82442103679843fe5aa36776b501d83ff818`; HTML `73dc264a553498b8284b4352bc9212d56bd394886308405d168c711aee4a0b2e`.
+
+## Homepage knowledge-routing entry approval: October 17, 2026
+
+Rae approved writing block `74863` and requested its application before reviewing Legible Systems. The description and review-status sentence are applied verbatim in HTML and English translation data. The title and source link remain unchanged. Four of the six homepage research entries have completed passage review.
+
+The approved copy is:
+
+> **Epistemic discoverability and knowledge routing**
+>
+> Knowledge can be available and still be hard to find when you don’t know what to call it. This design concept explores how to start with your own words and find research relevant to your question. Suggested routes should explain why they might help, so you can decide where to go next.
+>
+> AI-assisted design proposal; author review is incomplete. Its usefulness for finding research hasn’t been established.
+
+This approves the public description, not the underlying design proposal or exact-source website publication. The canonical concept, historical `approval.json`, and other research descriptions remain unchanged.
+
+Previous adaptive-continuity-entry candidate: source `69745d9daafd23a4d8ce0c9c7391196de621f8c90a57ca90a9a8c0184f511d11`; HTML `f341386eb9e31e40ff1ba09cd0e9933e0dcb341a1509d26514ac9458de13094b`.
 
 ## Earlier review and approval history
 
