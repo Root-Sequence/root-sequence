@@ -372,3 +372,14 @@ Source digest: `24544528259af9ee733fef47974387d50538bf96f177b830cf0a810051ab7241
 Preview HTML SHA-256: `189905adf3af70bac8f33409eeb148e587247dd33b0bc546e4a04d0b18801d9e`.
 
 These are selected copy and interaction checks, not full accessibility or research validation. The candidate remains a draft with no release authorization.
+
+## Accepted Museum of Ordinary Life passage: 2026-10-17 (Pacific)
+
+Applied writing block `60427` verbatim to HTML and English translation data. The independent-archive label and existing panel explanation of separate fictional-reuse permissions remain. All 11 site tests pass without test changes, including fragment/CSP checks, preview/source byte parity, and the intentionally blocked release gate. Other descriptions, executable script, builder, and historical publication approval are unchanged.
+
+Desktop (1575 pixels) and 390 × 844 inspection found no horizontal document or panel overflow. The Museum panel opens by keyboard and shows the same revised summary plus the existing permission explanation. Escape closes it and returns focus; normal desktop dimensions were restored. The Wiki’s public README and context were read for its next proposed description; the Wiki entry remains unchanged. No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No Museum, Wiki, private-project, or story-canon edit is included.
+
+Source digest: `d708b584356587c6e45b55637f7c3ab69d1bad1767148e6b6d0fca8c49f2738f`.
+Preview HTML SHA-256: `279e6dd5a959f94395d976297307f0cced9292d598cc506f1b31fbf34c822060`.
+
+These are selected copy and interaction checks, not independent archival validation, complete accessibility, or website publication approval.

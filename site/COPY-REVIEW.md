@@ -2,18 +2,30 @@
 
 ## Unapproved professional refresh: October 17, 2026
 
-**Status: mission, accessibility/contribution, research-method, evidence, all six homepage research descriptions, the revised About explanation and invitation, contextual name introduction, five related-project descriptions accepted for the draft, including Being Human(e) with its provisional status and the requested concise openings; the complete source remains a draft awaiting full-page review and separate publication approval. No merge or deployment is recorded.**
+**Status: mission, accessibility/contribution, research-method, evidence, all six homepage research descriptions, the revised About explanation and invitation, contextual name introduction, six related-project descriptions accepted for the draft, including Museum of Ordinary Life; Being Human(e)’s provisional status and concise project openings remain; the complete source remains a draft awaiting full-page review and separate publication approval. No merge or deployment is recorded.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `24544528259af9ee733fef47974387d50538bf96f177b830cf0a810051ab7241`.
-Candidate preview HTML SHA-256: `189905adf3af70bac8f33409eeb148e587247dd33b0bc546e4a04d0b18801d9e`.
+Candidate source digest: `d708b584356587c6e45b55637f7c3ab69d1bad1767148e6b6d0fca8c49f2738f`.
+Candidate preview HTML SHA-256: `279e6dd5a959f94395d976297307f0cced9292d598cc506f1b31fbf34c822060`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Accepted Museum of Ordinary Life description: October 17, 2026 (Pacific)
+
+Rae approved writing block `60427` and explicitly requested its application to the draft. The exact passage is applied to visible HTML and English translation data, including the shared project-panel summary:
+
+> Documents everyday life while the people living it can still explain its details. The archive keeps records of ordinary things alongside the context that could help someone understand them years from now.
+
+The “Independent archive · Public website” label remains. The existing details panel still explains that the real archive and its fictional counterpart have different purposes and that sharing material with the real Museum does not automatically permit its use in the novel. That permission reminder remains available in the panel rather than the introductory description. The Museum’s own source, autonomy, collection permissions, and fictional canon are unchanged. The description was checked against its current [public introduction](https://museumofordinarylife.org/) in the preceding review. It describes the archive’s purpose, not independently verified preservation performance.
+
+Related-project passage review is now **6/7 complete**; Root Sequence Wiki is next and remains unchanged pending its own passage review. This records passage approval and draft implementation, not authority over the Museum or exact-source website publication approval.
+
+Previous candidate: source `24544528259af9ee733fef47974387d50538bf96f177b830cf0a810051ab7241`; HTML `189905adf3af70bac8f33409eeb148e587247dd33b0bc546e4a04d0b18801d9e`.
 
 ## Being Human(e) passage and provisional status: October 17, 2026 (Pacific)
 
