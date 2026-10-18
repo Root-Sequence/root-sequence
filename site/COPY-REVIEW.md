@@ -2,18 +2,36 @@
 
 ## Unapproved professional refresh: October 18, 2026
 
-**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as are Take part, Sources and page history, and Accessibility and reading choices. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
+**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as are Take part and the Sources, Accessibility, and Privacy footer passages. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `9a267217f70e73814323bf234cea420f08e9812dbf07c49e4eda37fbda024ccd`.
-Candidate preview HTML SHA-256: `d87cb1189c47070c6cf44afa6dcb82662bd7f57a204fb07c93eb25dbf0fb7b03`.
+Candidate source digest: `1212848460f42f7e241f3c639a1e94e9cbd882f4b4f5ed6d783abb0d34261c8f`.
+Candidate preview HTML SHA-256: `81dac7ee1250c776a4aeb80dd455f37ae7f2e13e0db0f59a16c880e9dc14dded`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Accepted Privacy and this preview: October 18, 2026 (Pacific)
+
+Rae accepted writing block `70629` by responding “good, next.” Continuing the established passage-review sequence, the exact four paragraphs are applied to visible HTML and English translation data:
+
+> The page doesn’t use analytics or send its text to a translation service. Everything needed to display it is included in the file. You choose when to open an external website by following a link.
+
+> The page saves your reading choices in this browser when storage is available. You can reset them from **Reading**; no account is needed.
+
+> This is a local preview for reviewing the site before publication.
+
+> If the site is published, its hosting provider may keep request logs. The provider’s logging and retention policies haven’t been checked for this preview.
+
+The native disclosure remains. The old manuscript-scenes sentence is omitted as drafted; no manuscript content is added or changed. The page script and historical approval are unchanged. The existing builder’s publication-state substitutions now map the preview-status sentence to “This is the public seed edition of the Root Sequence site.” The proposed hosted logging note is “This site’s hosting provider may keep request logs. Its logging and retention policies haven’t been checked as part of this review.” These release variants remain part of the unapproved candidate for separate exact-source review. The existing release test checks removal of unpublished status and retention of the unverified-policy qualification.
+
+Credits and reuse is next and remains unchanged. Footer passage review is 3/4 complete under P1-08. This records prose acceptance and draft implementation, not approval to publish or a hosting-policy audit.
+
+Previous candidate: source `9a267217f70e73814323bf234cea420f08e9812dbf07c49e4eda37fbda024ccd`; HTML `d87cb1189c47070c6cf44afa6dcb82662bd7f57a204fb07c93eb25dbf0fb7b03`.
 
 ## Accepted Accessibility and reading choices: October 18, 2026 (Pacific)
 

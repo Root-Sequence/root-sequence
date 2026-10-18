@@ -119,11 +119,13 @@ class PublicationTests(unittest.TestCase):
         self.assertEqual(self.parse(output / "index.html").meta["robots"], "index,follow")
         for phrase in (
             "local review copy", "Not a published site", "Privacy and this preview",
+            "This is a local preview for reviewing the site before publication.",
             "This page is an AI-assisted draft being reviewed before publication.",
         ):
             self.assertNotIn(phrase, text)
         self.assertIn("Public seed · Professional refresh", text)
         self.assertIn("This is the public seed edition", text)
+        self.assertIn("Its logging and retention policies haven’t been checked as part of this review.", text)
         self.assertIn("This page was developed with AI assistance.", text)
 
     def test_page_structure_and_fragments(self):

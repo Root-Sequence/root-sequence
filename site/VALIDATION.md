@@ -429,3 +429,14 @@ Source digest: `9a267217f70e73814323bf234cea420f08e9812dbf07c49e4eda37fbda024ccd
 Preview HTML SHA-256: `d87cb1189c47070c6cf44afa6dcb82662bd7f57a204fb07c93eb25dbf0fb7b03`.
 
 P1-08 remains in progress (2/4 footer passages applied). No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, or research-review change is included.
+
+## Privacy and this preview: 2026-10-18 (Pacific)
+
+Applied writing block `70629` verbatim to visible HTML and English data, retaining Reading emphasis. The rendered four paragraphs match the approved text. The builder’s two publication-state substitutions were updated for the revised preview status and hosting-policy note. The existing release test additionally checks that the local-preview sentence is removed and the unverified-policy qualification retained. All 11 tests pass, including self-contained resources, CSP, source/preview parity, and release rejection against unchanged historical approval. The executable page script is unchanged.
+
+At 1575 pixels and 390 × 844, the native Privacy disclosure opens by keyboard and wraps without horizontal document overflow. Normal desktop dimensions were restored. No page preferences, external destinations, hosting settings, or privacy settings were changed. These are selected presentation checks, not a provider-policy or browser-service audit. The public repository’s actual CC0 file and Microsoft’s font license were inspected to prepare the next Credits proposal; Credits source remains unchanged.
+
+Source digest: `1212848460f42f7e241f3c639a1e94e9cbd882f4b4f5ed6d783abb0d34261c8f`.
+Preview HTML SHA-256: `81dac7ee1250c776a4aeb80dd455f37ae7f2e13e0db0f59a16c880e9dc14dded`.
+
+P1-08 remains in progress (3/4 footer passages applied). No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, or research-review change is included.
