@@ -462,3 +462,14 @@ Source digest: `7c80ad37d0122cae3908683d890240dd8978c47bbc9d90bf2933d5f332ec6a3c
 Preview HTML SHA-256: `67feb900db54cb5f81a9bcc5f461a8353865f174c5ef793d11554369ec8d770b`.
 
 P1-08 remains in progress; No One Noticed panel wording is next. No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, or project-status change is included.
+
+## No One Noticed panel refinement: 2026-10-18 (Pacific)
+
+Applied writing block `97625` verbatim, removed the repeated extra paragraph, and retained the approved science-fiction summary and type. Source comparison confirms only the novel extra/status entries changed in translation data and only the novel extra field was removed from executable configuration. Its CSP hash was refreshed. The obsolete novel publication marker was removed from the builder. All 11 site checks pass without test changes, including source/preview parity, CSP, fragments, and release rejection against unchanged historical approval.
+
+At 1575 pixels and 390 × 844, the novel panel opens by keyboard with exactly two paragraphs, no empty row, and no horizontal panel overflow. Escape closes it and returns focus to the novel title trigger. The initial broad novel selector matched both its title and World’s inline reference; it was narrowed to the title container. Normal desktop dimensions were restored. The Computing panel was read for its next wording proposal; its source is unchanged. No external destination or manuscript material was opened or added. These are selected rendering and interaction checks, not complete accessibility review.
+
+Source digest: `44135e3ec8c79d901ce805db580eb5a15f4cbc16e28dce0352dab4be237d6ef9`.
+Preview HTML SHA-256: `15d3d2c5c4ddf78936350bbbf1647a5fc75ebc471718077da2dc79df2e60777c`.
+
+P1-08 remains in progress; Coherent Computing panel wording is next. No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, manuscript change, or project-status change is included.
