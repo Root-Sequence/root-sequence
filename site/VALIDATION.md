@@ -289,3 +289,16 @@ Source digest: `61272a6b01d96cd3f1dc10c4610dcbd9b4ea35c33262c7e903e955a81be68e7c
 Preview HTML SHA-256: `d084ad7f4255c30f8943690b163f264f6df774d264c09c8c2a9b45334fbb3248`.
 
 The explanation and invitation have passage approval. Broader layout review (ROADMAP P1-08) and exact-source publication approval remain separate.
+
+## Shorter About layout proposal: 2026-10-17
+
+The accepted About lead and invitation remain verbatim. Repeated topic/example/method framing is removed from this section. The existing name explanation and project background now sit in two native expandable sections. A route to the research and methods replaces About’s repeated process explanation; the full repair example still follows About. No canonical research document is changed.
+
+All 11 site checks pass without changing the tests. The complete research section and executable script match the preceding source. CSP hashes, fragments, generated support files, and the blocked release gate pass; preview output matches source byte for byte. Active translation keys were checked against the English table.
+
+Both About sections were exercised by keyboard. A Coherent World link inside the second section opens its existing context dialog; Escape closes it and returns focus to the trigger. With page scripts disabled, the name section still opens by keyboard. Script execution was restored afterward. Desktop and 390 × 844 inspection found no horizontal overflow, and the temporary viewport override was reset.
+
+Source digest: `7465a292deee576b9d4f86495f3207d986acafeb6a1a94e3387cbed2dc3247e9`.
+Preview HTML SHA-256: `f93c1620b93b06d2e8cb2569b5a7889eeccb5cfa0c930b82c909c9867c2b76cf`.
+
+This is selected layout and interaction validation, not a complete accessibility audit or approval of the proposed grouping. The source remains in draft; historical publication approval is unchanged.

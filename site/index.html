@@ -127,6 +127,13 @@ html{scrollbar-gutter:stable}html[data-overlay-open]{overflow:hidden;overscroll-
 #research .reading-list>li:first-child{border-block-start:0;padding-block-start:0}
 #research .reading-list+div{margin-block-start:1.25rem}
 @media print{.research-practice{background:#fff;color:#000;border-color:#777}}
+
+/* Optional background follows the short About introduction. */
+.about-background{margin:1.8rem 0 1rem}
+.about-background .inline-about{margin:0;border:0;border-block-start:1px solid var(--line)}
+.about-background .inline-about:last-child{border-block-end:1px solid var(--line)}
+.about-background .inside h3{margin-block-start:1.5rem}
+@media print{.about-background .inline-about{border-color:#777}}
 </style>
 </head>
 <body>
@@ -316,28 +323,32 @@ html{scrollbar-gutter:stable}html[data-overlay-open]{overflow:hidden;overscroll-
 
 <p class="lede" data-i18n="about.lede">Root Sequence explores how the systems we build shape what becomes possible next. It looks beyond whether a design achieves its immediate goal to ask how it changes the conditions people depend on.</p>
 <p data-i18n="about.invitation">You can follow work already underway or bring a question of your own.</p>
-<p data-i18n="about.intelligence">Topics include human and machine intelligence, institutions, infrastructure, embodiment, community, power, and the conditions that make some actions possible while closing off others.</p>
-<p data-i18n="about.p1">A service can meet its targets and still be unusable. A repairable device can still be impossible to repair. A person can have a formal option that is not a real one. Problems like these often belong to several fields at once.</p>
-<div class="about-text">
-<h3 data-i18n="about.nameTitle">Why “Root Sequence”?</h3>
+<div class="about-background">
+<details class="inline-about">
+<summary data-i18n="about.nameTitle">Why “Root Sequence”?</summary>
+<div class="inside">
 <p data-i18n="about.nameMeaning">A root is an underlying condition or relationship from which an outcome grows. A sequence is what happens as conditions interact through time, feedback, choice, and consequence.</p>
 <p data-i18n="about.nameQuestion">Together, the name asks: What conditions made this possible, and what does it make possible next? What happens next can become part of the starting conditions for whatever follows.</p>
 <a class="source-link" href="https://github.com/Root-Sequence/root-sequence/blob/main/concepts/root-sequence.md" rel="noopener noreferrer" target="_blank">
 <span data-i18n="about.nameLink">Read why the project is called Root Sequence</span> <span aria-hidden="true" class="arrow">↗</span>
 <span class="sr-only" data-i18n="overlay.newTab">Opens in a new tab</span>
 </a>
-<h3 data-i18n="about.scopeTitle">How the research works</h3>
-<p data-i18n="about.scope">We start with messy questions that don’t fit neatly within one field. We trace the connections, find the disciplines and methods that already study each part, then reconnect what they reveal without pretending the parts are the same.</p>
-<h3 data-i18n="about.workTitle">From research to projects</h3>
-<p data-i18n="about.work1">The work keeps sources, assumptions, disagreements, and null results visible so ideas can be narrowed or retired when the evidence pushes back. Some connections become research notes; others become tests, simulations, tools, or design requirements.</p>
+</div>
+</details>
+<details class="inline-about">
+<summary data-i18n="about.workTitle">How the work connects</summary>
+<div class="inside">
 <p data-rich-i18n="about.work2">Some questions lead to community tools or computing designs; others inform <a class="project-trigger" data-project="world" href="#project-world-title">
 <bdi lang="en">Coherent World</bdi>
 </a> and <a class="project-trigger" data-project="novel" href="#project-novel-title">
 <bdi lang="en">No One Noticed</bdi>
 </a>. Findings and problems from those projects can feed back into the research. An imagined result in a story is kept separate from evidence that something works.</p>
-<h3 data-i18n="about.sharedTitle">Open work, separate responsibilities</h3>
+<h3 data-i18n="about.sharedTitle">Contributions</h3>
 <p data-i18n="about.shared">Root Sequence is intended to grow through contributions instead of depending on one person. How decisions and long-term responsibility can be shared is still being developed.</p>
 <p class="fine" data-i18n="about.terms">Each project keeps its own permissions and boundaries. Contributing to one does not require agreement with, or responsibility for, the others.</p>
+<a class="source-link" href="#research-title"><span data-i18n="about.researchLink">See the research and methods</span> <span aria-hidden="true" class="arrow">↓</span></a>
+</div>
+</details>
 </div>
 <a class="next" href="#example-title">
 <span data-i18n="about.next">See an everyday example</span>
@@ -904,13 +915,11 @@ html{scrollbar-gutter:stable}html[data-overlay-open]{overflow:hidden;overscroll-
     "projects.next": "Ways to take part",
     "about.title": "About this project.",
     "about.lede": "Root Sequence explores how the systems we build shape what becomes possible next. It looks beyond whether a design achieves its immediate goal to ask how it changes the conditions people depend on.",
-    "about.intelligence": "Topics include human and machine intelligence, institutions, infrastructure, embodiment, community, power, and the conditions that make some actions possible while closing off others.",
-    "about.p1": "A service can meet its targets and still be unusable. A repairable device can still be impossible to repair. A person can have a formal option that is not a real one. Problems like these often belong to several fields at once.",
     "about.nameTitle": "Why “Root Sequence”?",
     "about.nameMeaning": "A root is an underlying condition or relationship from which an outcome grows. A sequence is what happens as conditions interact through time, feedback, choice, and consequence.",
     "about.nameQuestion": "Together, the name asks: What conditions made this possible, and what does it make possible next? What happens next can become part of the starting conditions for whatever follows.",
     "about.nameLink": "Read why the project is called Root Sequence",
-    "about.sharedTitle": "Open work, separate responsibilities",
+    "about.sharedTitle": "Contributions",
     "about.shared": "Root Sequence is intended to grow through contributions instead of depending on one person. How decisions and long-term responsibility can be shared is still being developed.",
     "about.contribution": "Corrections, sources, translations, alternative explanations, and tests of ideas are welcome. Contributing to one project does not require agreement with everything in the others.",
     "about.terms": "Each project keeps its own permissions and boundaries. Contributing to one does not require agreement with, or responsibility for, the others.",
@@ -954,10 +963,7 @@ html{scrollbar-gutter:stable}html[data-overlay-open]{overflow:hidden;overscroll-
     "details.siteLicense": "CC0 license",
     "details.fontCredit": "The embedded Cascadia Mono wordmark font is provided by Microsoft under the SIL Open Font License 1.1.",
     "details.fontLicense": "Cascadia Mono license",
-    "about.scopeTitle": "How the research works",
-    "about.scope": "We start with messy questions that don’t fit neatly within one field. We trace the connections, find the disciplines and methods that already study each part, then reconnect what they reveal without pretending the parts are the same.",
-    "about.workTitle": "From research to projects",
-    "about.work1": "The work keeps sources, assumptions, disagreements, and null results visible so ideas can be narrowed or retired when the evidence pushes back. Some connections become research notes; others become tests, simulations, tools, or design requirements.",
+    "about.workTitle": "How the work connects",
     "about.work2": "Some questions lead to community tools or computing designs; others inform Coherent World and No One Noticed. Findings and problems from those projects can feed back into the research. An imagined result in a story is kept separate from evidence that something works.",
     "overlay.close": "Close",
     "overlay.project": "About this project",
@@ -1007,7 +1013,8 @@ html{scrollbar-gutter:stable}html[data-overlay-open]{overflow:hidden;overscroll-
     "intro.routesLabel": "Where to begin",
     "research.label": "Research",
     "about.invitation": "You can follow work already underway or bring a question of your own.",
-    "details.founderLead": "Root Sequence was started by"
+    "details.founderLead": "Root Sequence was started by",
+    "about.researchLink": "See the research and methods"
   }
 }
 </script>

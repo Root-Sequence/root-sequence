@@ -8,12 +8,22 @@ This candidate extends the existing `site/index.html` rather than introducing a 
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `61272a6b01d96cd3f1dc10c4610dcbd9b4ea35c33262c7e903e955a81be68e7c`.
-Candidate preview HTML SHA-256: `d084ad7f4255c30f8943690b163f264f6df774d264c09c8c2a9b45334fbb3248`.
+Candidate source digest: `7465a292deee576b9d4f86495f3207d986acafeb6a1a94e3387cbed2dc3247e9`.
+Candidate preview HTML SHA-256: `f93c1620b93b06d2e8cb2569b5a7889eeccb5cfa0c930b82c909c9867c2b76cf`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Shorter About layout proposal: October 17, 2026
+
+Rae asked to try tightening the remaining About section after accepting its introduction and invitation. This proposal keeps both accepted passages visible and verbatim. Two native expandable sections follow: “Why ‘Root Sequence’?” retains the existing name explanation and canonical source link; “How the work connects” retains the project relationships and contribution boundaries. The latter links onward to the research and methods. The next visible reading route remains the everyday repair example.
+
+The long topic inventory and three mini-examples are removed from About. The hero already identifies the main subject areas, and the following section gives the full repair example. About’s repeated methods and general process paragraphs are also removed; the approved explanation remains available in the existing research disclosure. No canonical research document or detailed method is edited.
+
+The name explanation, project-relationship paragraph, collaboration-development status, and separate project permissions remain unchanged inside the expandable sections. Their new summary/heading labels and grouping are presentation proposals awaiting Rae’s review. Project links retain the existing context panels and no-script anchor fallback. The complete research section, executable script, and publication approval are unchanged.
+
+Previous accepted-About candidate: source `61272a6b01d96cd3f1dc10c4610dcbd9b4ea35c33262c7e903e955a81be68e7c`; HTML `d084ad7f4255c30f8943690b163f264f6df774d264c09c8c2a9b45334fbb3248`.
 
 ## Accepted About explanation and invitation: October 17, 2026
 
