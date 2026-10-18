@@ -8,8 +8,8 @@ This candidate extends the existing `site/index.html` rather than introducing a 
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `6e2097673fbe7ba84c3786a2b7804bcd83cbb5ca1f7942fd81c42780500fb698`.
-Candidate preview HTML SHA-256: `643c5e6e9f9815571b5a8c4df4400eb342e25c9f77351d0d39d4267293acc60e`.
+Candidate source digest: `1afcfd5f362532ef50c3aa0e12497e620cc647a4d954d5de8bdaf2074561694c`.
+Candidate preview HTML SHA-256: `3b6d69e88c4a7e63a083f8b3b739c0d6f116f0dc862605d1ed116e1a24273706`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
@@ -116,6 +116,22 @@ The approved copy is:
 This approves the public description, not measured usability effects or exact-source website publication. The canonical design principle, historical `approval.json`, and other research descriptions remain unchanged.
 
 Previous knowledge-routing-entry candidate: source `155ac679bcd093d3ad45276200800de537becd32d32501d4a2ea1a447e0a90ee`; HTML `3a830d424d1de8970f9b02dce7459359ba7b541b6ec1c9923f57083704fe160f`.
+
+## Homepage Reading Trails entry approval: October 17, 2026
+
+Rae approved writing block `50297` and explicitly requested its application. The description and status sentence are applied verbatim in HTML and English translation data. The title and source link remain unchanged. All six homepage research entries have now completed passage review.
+
+The approved copy is:
+
+> **Reading Trails**
+>
+> Reading Trails keeps track of places worth exploring that turn up during research. The notes explain why a resource might be useful and suggest somewhere to begin. You can follow a question or wander into something you didn’t know to look for.
+>
+> Developing collection, including AI-assisted starter trails awaiting author review. A resource’s inclusion doesn’t establish support for a claim.
+
+This approves the public description, not the linked resources’ claims or exact-source website publication. The underlying trails, historical `approval.json`, and previously approved descriptions remain unchanged.
+
+Previous Legible Systems-entry candidate: source `6e2097673fbe7ba84c3786a2b7804bcd83cbb5ca1f7942fd81c42780500fb698`; HTML `643c5e6e9f9815571b5a8c4df4400eb342e25c9f77351d0d39d4267293acc60e`.
 
 ## Earlier review and approval history
 

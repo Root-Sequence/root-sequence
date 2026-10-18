@@ -238,3 +238,13 @@ Applied the description and status sentence from writing block `96184` verbatim 
 All 11 site checks pass. Exact wording, translation parity, and byte-identical preview output were verified. Desktop and 390 × 844 browser inspection found readable wrapping and no measured horizontal overflow; viewport overrides were reset. The underlying design principle, other research entries, historical publication approval, and Pages workflow are unchanged. The candidate still fails the exact-source release gate as intended.
 
 These are presentation and structural checks, not usability evaluation, a complete accessibility audit, or publication approval.
+
+## Completed homepage-description review: 2026-10-17
+
+Applied the Reading Trails description and status sentence from writing block `50297` verbatim in HTML and English translation data. All six entries now match their individually approved wording. Titles and canonical source destinations are preserved except for the separately approved research-method title.
+
+All 11 site checks and the Idea Trail index check pass. Exact wording, translation parity, and byte-identical preview output were checked. Reading Trails was inspected at desktop width and 390 × 844 CSS pixels with no measured horizontal overflow; viewport overrides were reset. The broader reader-document check still reports the same 15 pre-existing errors.
+
+Tree-only compatibility checks against current PR heads found no textual conflict between the root refresh and each of #42–#45 individually. Organization #9 and #10 conflict in `profile/README.md`; the proposed resolution is recorded in the [audit](../AUDIT.md#refresh-compatibility-review-2026-10-17). No older PR was modified and no branch was merged by those calculations.
+
+The historical publication approval and Pages workflow remain unchanged. The current candidate still fails the exact-source release gate. These results do not establish scientific validity, complete accessibility, or publication approval.

@@ -170,6 +170,26 @@ Research drafts keep one substantive home. New material in `research/work-sample
 - Live organization bio reads “A systems-oriented lab exploring root structures and unfolding sequences shaping systems, intelligence, technology, and reality.” A replacement is proposed below; live settings have not been changed.
 - Current site links and research entry points already provide a useful baseline. Improve identity, claim-status visibility, and disclosure within that structure.
 
+### Refresh compatibility review: 2026-10-17
+
+After the six homepage descriptions completed passage review, the live heads and shared-file patches were checked again. All named PRs remain open, draft, and unmerged. `main` still points to the public base commits recorded above.
+
+Local compatibility checks used Git's tree-only merge calculation. They created temporary Git objects and local review refs; they did not merge a branch, change either working tree, or update any existing research/commons PR. Each calculation compared the refresh with one older draft independently; this does not establish compatibility among all older drafts combined or approve their substance.
+
+| Draft compared with refresh | Inspected head | Shared work | Result / retained intent |
+| --- | --- | --- | --- |
+| root #42 | `6329bfea8b9d25a3bf5845046f3313f17d063b57` | Research index | No textual conflict. Preserve its bounded agency-under-stress entry when that research is reviewed; keep the current labelled PR route while it remains unmerged. |
+| root #43 | `6097553039e985d94a6460ea57fe105d38045f94` | Root README | No textual conflict. Its commons-proposal paragraph is an addition, not a replacement for the independent-research mission. |
+| root #44 | `00f14ffd8fb8bffc0c551e1bab88b64c1f5c58b2` | Research index | No textual conflict. Preserve the research-area route and companion inquiries if that draft is later approved. |
+| root #45 | `30748ee8db9bfde29fc0312a41b8f04edd98340d` | Research index | No textual conflict. Preserve its source/claim package in its existing home; a merged index route would replace its entry in the draft-only queue. |
+| organization #9 versus #10 | #9 `e95fda37278b0b1f4d5a03be219f0bcf078d556c`; #10 `8989e7f156f6b2e9e9923eafe3c3d67d9c30abe9` | Organization README and profile | The README additions coexist. `profile/README.md` has a textual conflict between the rewritten introduction and the older commons paragraph. |
+
+The root calculations used refresh head `d735d657fb3bd917c84e70ddea36e09414fc0782`, immediately before the Reading Trails wording update. That update changes only the last site's research description and its records, outside the older drafts' files.
+
+**Profile resolution proposed for the next review:** retain #10's independent-research introduction and current project boundaries. Keep the commons proposal clearly labelled and linked to root #43 while it remains a draft, and fold #9's short profile-level invitation into that existing paragraph rather than appending a second overview. Preserve #9's substantive contribution/stewardship documents in their own review. Its links to the future `main` commons anchor require root #43 to land first, or a temporary route to that PR; neither dependency is resolved by this refresh.
+
+No older PR is closed, rebased, or overwritten here. Before any eventual merge, rerun the checks on the actual then-current heads, resolve the profile text in a review branch, and check the research queue for duplicate or newly merged routes. This is compatibility analysis, not publication approval.
+
 ### Proposed short organization bio
 
 > Independent interdisciplinary research exploring how intelligence, technology, and social systems shape one another. Research, design, and exploratory writing.
