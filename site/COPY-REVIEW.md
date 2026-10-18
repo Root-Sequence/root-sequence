@@ -8,8 +8,8 @@ This candidate extends the existing `site/index.html` rather than introducing a 
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `155ac679bcd093d3ad45276200800de537becd32d32501d4a2ea1a447e0a90ee`.
-Candidate preview HTML SHA-256: `3a830d424d1de8970f9b02dce7459359ba7b541b6ec1c9923f57083704fe160f`.
+Candidate source digest: `6e2097673fbe7ba84c3786a2b7804bcd83cbb5ca1f7942fd81c42780500fb698`.
+Candidate preview HTML SHA-256: `643c5e6e9f9815571b5a8c4df4400eb342e25c9f77351d0d39d4267293acc60e`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
@@ -100,6 +100,22 @@ The approved copy is:
 This approves the public description, not the underlying design proposal or exact-source website publication. The canonical concept, historical `approval.json`, and other research descriptions remain unchanged.
 
 Previous adaptive-continuity-entry candidate: source `69745d9daafd23a4d8ce0c9c7391196de621f8c90a57ca90a9a8c0184f511d11`; HTML `f341386eb9e31e40ff1ba09cd0e9933e0dcb341a1509d26514ac9458de13094b`.
+
+## Homepage Legible Systems entry approval: October 17, 2026
+
+Rae approved writing block `96184` by responding “perfect.” The description and status sentence are applied verbatim in HTML and English translation data. The title and source link remain unchanged. Five of the six homepage research entries have completed passage review.
+
+The approved copy is:
+
+> **Legible Systems**
+>
+> A system should be straightforward to use, with deeper explanations available when you need them. This design principle explores how that understanding can help you repair a fault or question a decision that affects you, without requiring you to learn the whole system first.
+>
+> Developing design guidance. Its effects on usability still need evaluation.
+
+This approves the public description, not measured usability effects or exact-source website publication. The canonical design principle, historical `approval.json`, and other research descriptions remain unchanged.
+
+Previous knowledge-routing-entry candidate: source `155ac679bcd093d3ad45276200800de537becd32d32501d4a2ea1a447e0a90ee`; HTML `3a830d424d1de8970f9b02dce7459359ba7b541b6ec1c9923f57083704fe160f`.
 
 ## Earlier review and approval history
 
