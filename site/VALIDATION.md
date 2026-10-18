@@ -248,3 +248,16 @@ All 11 site checks and the Idea Trail index check pass. Exact wording, translati
 Tree-only compatibility checks against current PR heads found no textual conflict between the root refresh and each of #42–#45 individually. Organization #9 and #10 conflict in `profile/README.md`; the proposed resolution is recorded in the [audit](../AUDIT.md#refresh-compatibility-review-2026-10-17). No older PR was modified and no branch was merged by those calculations.
 
 The historical publication approval and Pages workflow remain unchanged. The current candidate still fails the exact-source release gate. These results do not establish scientific validity, complete accessibility, or publication approval.
+
+## Proposed opening layout: 2026-10-17
+
+Rae requested clearer separation of the founder credit from reading instructions and a less text-heavy opening. The proposed revision moves the credit into About and the former opening explanation under “How the research works,” replacing overlapping prose. A ruled strip links to the everyday example and selected research. It uses two columns on wide screens and stacked rows below 35rem.
+
+All 11 site checks pass on this source, including fragments, self-contained assets, unchanged executable-script CSP hashes, and the deliberately blocked publication gate. The preview matches source byte for byte. The full research section and both executable scripts match the preceding candidate exactly; previously approved research descriptions and disclosure text are preserved.
+
+The opening and relocated About credit were inspected in the browser at desktop width and 390 × 844 CSS pixels. No horizontal overflow was measured. Both new reading routes were activated by keyboard and moved focus to their destination headings (`example-title` and `research-title`). The temporary viewport override was reset. These are selected presentation and interaction checks, not a full accessibility audit. No new whole-repository documentation check or research-validation result is claimed.
+
+Source digest: `6e9ee3e687fdfe00cdbec648c5d7fefdbaf9cdcd45ebdba867eaadd92b7fa1df`.
+Preview HTML SHA-256: `232d492ec94b0b4f8c9954e8a4137037354952ac73082a49c26fb275d8827231`.
+
+The proposed layout awaits Rae’s review (ROADMAP P1-08). `approval.json` and the Pages workflow are unchanged. No merge, deployment, or live-settings change is included.

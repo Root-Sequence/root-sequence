@@ -8,12 +8,22 @@ This candidate extends the existing `site/index.html` rather than introducing a 
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `1afcfd5f362532ef50c3aa0e12497e620cc647a4d954d5de8bdaf2074561694c`.
-Candidate preview HTML SHA-256: `3b6d69e88c4a7e63a083f8b3b739c0d6f116f0dc862605d1ed116e1a24273706`.
+Candidate source digest: `6e9ee3e687fdfe00cdbec648c5d7fefdbaf9cdcd45ebdba867eaadd92b7fa1df`.
+Candidate preview HTML SHA-256: `232d492ec94b0b4f8c9954e8a4137037354952ac73082a49c26fb275d8827231`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Opening layout review: October 17, 2026
+
+Rae identified that the founder credit and reading instructions did not belong in one paragraph, and that the opening contained too much continuous text. This revision is a proposed response in the draft source, awaiting Rae’s review.
+
+The opening now contains the existing headline and mission, followed by a ruled navigation strip: “Start with an example” and “Explore the research.” The routes appear side by side on wide screens and stack on narrow screens. The founder credit appears on its own under “About this project.” The first two sentences of the former opening explanation replace the overlapping “How the research works” paragraph; its final sentence is omitted because the following “From research to projects” section already covers that transition. The prose sentence listing reading options is replaced by the navigation itself.
+
+The research section, including all six approved entries and the complete methods/evidence/AI-use disclosure, is unchanged. The English translation table follows the relocated text and new labels. No executable JavaScript, destination anchor, publication approval, or deployment workflow is changed. Existing source remains authoritative; this is not a parallel redesign.
+
+Previous complete-description candidate: source `1afcfd5f362532ef50c3aa0e12497e620cc647a4d954d5de8bdaf2074561694c`; HTML `3b6d69e88c4a7e63a083f8b3b739c0d6f116f0dc862605d1ed116e1a24273706`.
 
 ## Accessibility and contribution copy approval: October 17, 2026
 

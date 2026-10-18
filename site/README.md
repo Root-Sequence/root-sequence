@@ -4,6 +4,8 @@ This directory is the canonical source for `rootsequence.systems`.
 
 The current [`index.html`](index.html) is the **unapproved October 17, 2026 professional-refresh candidate**, extending the existing single-page public seed. It adds an independent interdisciplinary mission, a visible methods/evidence/AI-use disclosure, and clearer research status labels. The headline, green palette, wordmark, reading controls, section order, and existing URLs remain in place.
 
+The opening-layout revision separates the mission from reading routes and moves the founder credit into About. It is a proposal awaiting reader review; see the [copy record](COPY-REVIEW.md#opening-layout-review-october-17-2026).
+
 [`approval.json`](approval.json) records the earlier September 25 edition. It is unchanged and does not approve this candidate. `build.py --release` must reject the current digest until Rae separately approves the final source. See [`COPY-REVIEW.md`](COPY-REVIEW.md) and the canonical [refresh checklist](../ROADMAP.md).
 
 The page is one self-contained file with its styles, scripts, favicon, and

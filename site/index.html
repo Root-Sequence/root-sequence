@@ -101,6 +101,21 @@ html{scrollbar-gutter:stable}html[data-overlay-open]{overflow:hidden;overscroll-
  .possibility-steps li:first-child{border-block-start:0;padding-block-start:0}
 }
 @media print{.possibility-method{break-inside:avoid}}
+
+/* Keep the opening brief; separate reading routes from the introduction. */
+.intro-routes{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));border-block:1px solid var(--line);margin:2.4rem 0 0}
+.intro-routes a{min-width:0;display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:1.15rem 1.35rem;text-decoration:none;font:1.05rem/1.5 var(--sans)}
+.intro-routes a:first-child{padding-inline-start:0;border-inline-end:1px solid var(--line)}
+.intro-routes a:last-child{padding-inline-end:0}
+.intro-routes a:hover span:first-child{text-decoration:underline;text-underline-offset:.22em}
+.intro-routes a:focus-visible{outline-offset:5px}
+.project-origin{font:1rem/1.6 var(--sans);color:var(--sub);padding-inline-start:1rem;border-inline-start:2px solid var(--line);margin:0 0 1.8rem}
+@media(max-width:35rem){
+ .intro-routes{grid-template-columns:minmax(0,1fr);margin-block-start:1.8rem}
+ .intro-routes a,.intro-routes a:first-child,.intro-routes a:last-child{padding:1rem 0;border-inline-end:0}
+ .intro-routes a+a{border-block-start:1px solid var(--line)}
+}
+@media print{.intro-routes{display:none}.project-origin{color:#333;border-color:#777}}
 </style>
 </head>
 <body>
@@ -285,16 +300,16 @@ html{scrollbar-gutter:stable}html[data-overlay-open]{overflow:hidden;overscroll-
 <span data-i18n="intro.title1">Research for a</span> <em data-i18n="intro.title2">more coherent world</em>
 </h1>
 <p class="lede" data-i18n="intro.lede">Root Sequence is an independent interdisciplinary research initiative exploring how intelligence, technology, and social systems shape one another.</p>
-<p data-i18n="intro.p1">We start with messy questions that don’t fit neatly within one field. We trace the connections, find the disciplines and methods that already study each part, then reconnect what they reveal without pretending the parts are the same. Some of that work becomes experiments, tools, designs, or imagined futures.</p>
-<p class="fine"><span data-i18n="intro.bylineLead">Root Sequence was started by</span> <a href="https://github.com/raelovejoy" rel="noopener noreferrer" target="_blank"><bdi lang="en">Rae Lovejoy</bdi></a>. <span data-i18n="intro.bylineTail">Begin with the everyday example, read the current research, or explore selected related projects.</span></p>
-<div class="hero-actions">
-<a class="button-link" href="#research-title">
+<nav aria-label="Where to begin" class="intro-routes" data-i18n-aria="intro.routesLabel">
+<a href="#example-title">
+<span data-i18n="intro.example">Start with an example</span>
+<span aria-hidden="true" class="arrow">↘</span>
+</a>
+<a href="#research-title">
 <span data-i18n="intro.research">Explore the research</span>
+<span aria-hidden="true" class="arrow">↓</span>
 </a>
-<a class="inline-action" href="#about-title">
-<span data-i18n="intro.about">About Root Sequence</span>
-</a>
-</div>
+</nav>
 </div>
 </section>
 <section aria-labelledby="about-title" class="chapter about" id="about">
@@ -304,6 +319,7 @@ html{scrollbar-gutter:stable}html[data-overlay-open]{overflow:hidden;overscroll-
 <span data-i18n="nav.about">About Root Sequence</span>
 </p>
 <h2 class="literary" data-i18n="about.title" id="about-title" tabindex="-1">About this project.</h2>
+<p class="project-origin"><span data-i18n="about.bylineLead">Root Sequence was started by</span> <a href="https://github.com/raelovejoy" rel="noopener noreferrer" target="_blank"><bdi lang="en">Rae Lovejoy</bdi></a>.</p>
 <p class="lede" data-i18n="about.lede">Root Sequence is a place for questions that cross fields, and for figuring out what kind of question you are actually asking.</p>
 <p data-i18n="about.intelligence">Topics include human and machine intelligence, institutions, infrastructure, embodiment, community, power, and the conditions that make some actions possible while closing off others.</p>
 <p data-i18n="about.p1">A service can meet its targets and still be unusable. A repairable device can still be impossible to repair. A person can have a formal option that is not a real one. Problems like these often belong to several fields at once.</p>
@@ -316,7 +332,7 @@ html{scrollbar-gutter:stable}html[data-overlay-open]{overflow:hidden;overscroll-
 <span class="sr-only" data-i18n="overlay.newTab">Opens in a new tab</span>
 </a>
 <h3 data-i18n="about.scopeTitle">How the research works</h3>
-<p data-i18n="about.scope">Root Sequence starts by tracing the whole problem, then breaks it apart again. A technical failure might need reliability engineering; a question about real opportunity might need capability or accessibility research; a boundary or power question might need critical systems methods. The point is not to replace those fields with one theory, but to route each mechanism to strong native methods and reconnect what they show.</p>
+<p data-i18n="about.scope">We start with messy questions that don’t fit neatly within one field. We trace the connections, find the disciplines and methods that already study each part, then reconnect what they reveal without pretending the parts are the same.</p>
 <h3 data-i18n="about.workTitle">From research to projects</h3>
 <p data-i18n="about.work1">The work keeps sources, assumptions, disagreements, and null results visible so ideas can be narrowed or retired when the evidence pushes back. Some connections become research notes; others become tests, simulations, tools, or design requirements.</p>
 <p data-rich-i18n="about.work2">Some questions lead to community tools or computing designs; others inform <a class="project-trigger" data-project="world" href="#project-world-title">
@@ -817,9 +833,6 @@ html{scrollbar-gutter:stable}html[data-overlay-open]{overflow:hidden;overscroll-
     "intro.title1": "Research for a",
     "intro.title2": "more coherent world",
     "intro.lede": "Root Sequence is an independent interdisciplinary research initiative exploring how intelligence, technology, and social systems shape one another.",
-    "intro.p1": "We start with messy questions that don’t fit neatly within one field. We trace the connections, find the disciplines and methods that already study each part, then reconnect what they reveal without pretending the parts are the same. Some of that work becomes experiments, tools, designs, or imagined futures.",
-    "intro.bylineLead": "Root Sequence was started by",
-    "intro.bylineTail": "Begin with the everyday example, read the current research, or explore selected related projects.",
     "intro.research": "Explore the research",
     "example.title": "A repairable device needs more than screws",
     "example.p1": "Imagine a phone designed so its battery and screen can be replaced. The parts are removable, but replacements are not sold to the public. Repair instructions are restricted, and the software rejects components installed outside an authorized shop.",
@@ -949,11 +962,10 @@ html{scrollbar-gutter:stable}html[data-overlay-open]{overflow:hidden;overscroll-
     "details.fontCredit": "The embedded Cascadia Mono wordmark font is provided by Microsoft under the SIL Open Font License 1.1.",
     "details.fontLicense": "Cascadia Mono license",
     "about.scopeTitle": "How the research works",
-    "about.scope": "Root Sequence starts by tracing the whole problem, then breaks it apart again. A technical failure might need reliability engineering; a question about real opportunity might need capability or accessibility research; a boundary or power question might need critical systems methods. The point is not to replace those fields with one theory, but to route each mechanism to strong native methods and reconnect what they show.",
+    "about.scope": "We start with messy questions that don’t fit neatly within one field. We trace the connections, find the disciplines and methods that already study each part, then reconnect what they reveal without pretending the parts are the same.",
     "about.workTitle": "From research to projects",
     "about.work1": "The work keeps sources, assumptions, disagreements, and null results visible so ideas can be narrowed or retired when the evidence pushes back. Some connections become research notes; others become tests, simulations, tools, or design requirements.",
     "about.work2": "Some questions lead to community tools or computing designs; others inform Coherent World and No One Noticed. Findings and problems from those projects can feed back into the research. An imagined result in a story is kept separate from evidence that something works.",
-    "intro.about": "About Root Sequence",
     "overlay.close": "Close",
     "overlay.project": "About this project",
     "overlay.source": "Source details",
@@ -997,7 +1009,10 @@ html{scrollbar-gutter:stable}html[data-overlay-open]{overflow:hidden;overscroll-
     "research.trailsStatus": "Developing collection, including AI-assisted starter trails awaiting author review. A resource’s inclusion doesn’t establish support for a claim.",
     "research.practiceAccessibility": "Rae Lovejoy uses AI both as an accessibility aid and as a tool for developing Root Sequence. It helps gather connected ideas, organize material, and develop drafts Rae can review in manageable pieces.",
     "research.practiceContributionReview": "AI output is not evidence. Sources and reasoning need checking, and a draft does not automatically represent Rae’s endorsement. Review status is recorded alongside the work.",
-    "research.practiceMethodRevision": "Differences between fields, competing explanations, and unanswered questions stay visible. Evidence and criticism can change the argument or show that a proposed connection does not hold."
+    "research.practiceMethodRevision": "Differences between fields, competing explanations, and unanswered questions stay visible. Evidence and criticism can change the argument or show that a proposed connection does not hold.",
+    "about.bylineLead": "Root Sequence was started by",
+    "intro.example": "Start with an example",
+    "intro.routesLabel": "Where to begin"
   }
 }
 </script>
