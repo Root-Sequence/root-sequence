@@ -6,7 +6,7 @@ The current [`index.html`](index.html) is the **unapproved October 17, 2026 prof
 
 The opening separates the mission from reading routes. Rae accepted the About explanation of the initiative’s focus and requested the invitation that follows it. The founder credit is in Credits and reuse. The research header groups its introduction with one methods disclosure, and the wider repository link follows the selected entries. Broader presentation review remains open; see the [copy record](COPY-REVIEW.md#accepted-about-explanation-and-invitation-october-17-2026).
 
-The latest [About layout proposal](COPY-REVIEW.md#shorter-about-layout-proposal-october-17-2026) keeps the accepted introduction visible and puts background in two native expandable sections. The following repair example and the research section’s methods disclosure supply the detail previously repeated in About.
+The current [About proposal](COPY-REVIEW.md#about-context-and-consistent-disclosures-october-17-2026) keeps the research-to-projects connection visible alongside the accepted introduction and invitation. The name and contribution background are optional. About, research, and page notes share one native expandable-section style; navigation menus keep their separate controls. The full repair example and detailed methods disclosure retain their existing sections.
 
 The candidate uses one dark palette, including without JavaScript. The theme selector and its startup script are removed. Larger text, one background color, reduced motion, and in-page navigation settings remain available. System high-contrast styles and black-on-white print output are retained. Saved theme choices from an earlier candidate are ignored; other reading choices keep their existing storage key.
 

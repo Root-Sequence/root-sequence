@@ -8,12 +8,22 @@ This candidate extends the existing `site/index.html` rather than introducing a 
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `7465a292deee576b9d4f86495f3207d986acafeb6a1a94e3387cbed2dc3247e9`.
-Candidate preview HTML SHA-256: `f93c1620b93b06d2e8cb2569b5a7889eeccb5cfa0c930b82c909c9867c2b76cf`.
+Candidate source digest: `663a06b04b26b6899a7ac1a76491fc95259991e7e8a918d50519ffe40941e75c`.
+Candidate preview HTML SHA-256: `c6fbb506a90047d1e8b8e48e8882cfd8ee6651a18c466fb5ad5a6760e503e9ac`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## About context and consistent disclosures: October 17, 2026
+
+Rae identified inconsistent expandable-section styles in screenshots and found the condensed About version too empty and close to the opening’s role. This revision restores the existing research-to-projects paragraph to the visible About flow, under “From research to projects.” It explains how practical and speculative projects relate to the inquiry, including the distinction between fiction and evidence. Its wording and project links are unchanged. The accepted lead and invitation also remain verbatim.
+
+The optional sections now cover the name and contribution boundaries. They use the same native component as the research disclosure and the four page-note sections. Competing CSS variants are removed. All seven text disclosures share ruled borders, summary padding, body text styling, and plus/minus indicators. The indicators are decorative and hidden from assistive technology. Navigation menus keep their distinct function and styling.
+
+No new research or maturity claim is introduced. The six research entries, complete methods/evidence/AI-use disclosure body, executable script, publication approval, and canonical research sources are unchanged. This layout remains a proposal; Rae’s feedback is not recorded as approval of the replacement design or publication.
+
+Previous condensed-About candidate: source `7465a292deee576b9d4f86495f3207d986acafeb6a1a94e3387cbed2dc3247e9`; HTML `f93c1620b93b06d2e8cb2569b5a7889eeccb5cfa0c930b82c909c9867c2b76cf`.
 
 ## Shorter About layout proposal: October 17, 2026
 

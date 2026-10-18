@@ -302,3 +302,16 @@ Source digest: `7465a292deee576b9d4f86495f3207d986acafeb6a1a94e3387cbed2dc3247e9
 Preview HTML SHA-256: `f93c1620b93b06d2e8cb2569b5a7889eeccb5cfa0c930b82c909c9867c2b76cf`.
 
 This is selected layout and interaction validation, not a complete accessibility audit or approval of the proposed grouping. The source remains in draft; historical publication approval is unchanged.
+
+## About context and shared disclosures: 2026-10-17
+
+The existing research-to-projects paragraph is visible again, adding context beyond the opening’s mission. Accepted About wording is unchanged. One native `content-disclosure` component now serves both optional About sections, the research disclosure, and four page-note sections. Competing style rules are removed; summary labels remain translated text, with decorative indicators hidden from assistive technology.
+
+All 11 site checks pass without test changes. Approved About passages, the research entry list, methods/evidence/AI-use disclosure body, and executable script were compared with the previous source and are unchanged. Active translation keys, fragments, and preview/source byte parity pass. The historical approval and builder are unchanged; the release gate remains blocked.
+
+Keyboard expansion was checked in About, research, and Credits and reuse; indicators switch to minus when open. Research and footer summaries have matching padding, and the research box background is removed. The visible Coherent World link opens its existing dialog. With scripts disabled, the name explanation still opens by keyboard. Script execution was restored. Desktop and 390 × 844 inspection, including larger text on the narrow view, found no horizontal overflow. Reading preferences and viewport overrides were reset.
+
+Source digest: `663a06b04b26b6899a7ac1a76491fc95259991e7e8a918d50519ffe40941e75c`.
+Preview HTML SHA-256: `c6fbb506a90047d1e8b8e48e8882cfd8ee6651a18c466fb5ad5a6760e503e9ac`.
+
+These are selected presentation and interaction checks, not a full accessibility audit. The replacement layout awaits review under ROADMAP P1-08; no publication approval is inferred.
