@@ -2,18 +2,42 @@
 
 ## Unapproved professional refresh: October 17, 2026
 
-**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
+**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as is the Take part wording. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `eef5e1a6d9b17556a25e6532a75e19b8fec45fa547800ad50d80182d924604ef`.
-Candidate preview HTML SHA-256: `cf10382a73f28b78e0ea5a929604df8a62337da33c768b1f391c6b3ba655667e`.
+Candidate source digest: `db6cb6144c77b252276f75024a93a0ca3adf573b7b5dcfd1c5fee5f91c9822ee`.
+Candidate preview HTML SHA-256: `a7a3b51fb2c7f21b9488049244044c971156cfa19be1725551e2c49cb1e78f07`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Accepted Take part wording: October 17, 2026 (Pacific)
+
+Rae approved writing block `36791` and explicitly requested its application before reviewing the footer. The approved wording is applied verbatim to visible HTML and English translation data:
+
+> Start with something you’d like to explore or help make. There’s room to question the work as well as develop it.
+
+> **Discuss an idea**
+>
+> Use Root Sequence Discussions to talk through a question or ask where a possible contribution might fit.
+>
+> Open project discussions
+
+> **Suggest a correction**
+>
+> If something seems wrong or is difficult to use, open an issue and tell us where you found it. A short description is enough to start.
+>
+> Open the issue board
+
+> Both routes are public and require a GitHub account to post. Keep private or sensitive information out of public posts.
+
+The title, contribution-guide label, existing destination URLs, explanatory panels, and nothing-is-submitted note remain. Panels display the revised route descriptions and public-posting note. No account action, post, new contact method, or private material is included. Footer wording is prepared for review, not applied in this pass. P1-08 remains in progress; passage approval is separate from exact-source publication approval.
+
+Previous candidate: source `eef5e1a6d9b17556a25e6532a75e19b8fec45fa547800ad50d80182d924604ef`; HTML `cf10382a73f28b78e0ea5a929604df8a62337da33c768b1f391c6b3ba655667e`.
 
 ## Accepted Wiki description and next review: October 17, 2026 (Pacific)
 

@@ -394,3 +394,14 @@ Source digest: `eef5e1a6d9b17556a25e6532a75e19b8fec45fa547800ad50d80182d924604ef
 Preview HTML SHA-256: `cf10382a73f28b78e0ea5a929604df8a62337da33c768b1f391c6b3ba655667e`.
 
 All seven related-project descriptions have completed passage review. These are selected presentation checks, not a complete accessibility audit, completed page review, Wiki-content validation, or website publication approval.
+
+## Accepted Take part wording: 2026-10-17 (Pacific)
+
+Applied writing block `36791` verbatim to HTML and English translation data. All 11 site tests pass without test changes, including fragments, CSP hashes, preview/source byte parity, and rejection of the unapproved candidate by the release gate. The executable script, builder, and historical approval are unchanged. Existing contribution routes and the nothing-is-submitted note remain.
+
+Desktop (1575 pixels) and 390 × 844 browser inspection found readable wrapping without horizontal document overflow. Both Discussions and issue panels open by keyboard and show their revised description, public-posting note, and unchanged destination. Escape closes each panel and returns focus. The issue panel also fits the narrow viewport without horizontal overflow. Normal desktop dimensions were restored. No external continuation link was activated and no post was submitted. The footer’s working-paper link was compared with its source/history claim: it points to `main`, not a fixed revision; a correction is proposed for footer review. PR #6 was read as an earlier, closed, unmerged draft review record, not a current approval. Footer copy is unchanged in this pass.
+
+Source digest: `db6cb6144c77b252276f75024a93a0ca3adf573b7b5dcfd1c5fee5f91c9822ee`.
+Preview HTML SHA-256: `a7a3b51fb2c7f21b9488049244044c971156cfa19be1725551e2c49cb1e78f07`.
+
+These are selected copy and interaction checks, not completed page or accessibility review. No broader repository check was rerun; the last recorded reader-document result remains 15 pre-existing errors. The candidate remains a draft without website release approval.
