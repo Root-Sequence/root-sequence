@@ -1,6 +1,6 @@
 # Research
 
-Root Sequence is an independent interdisciplinary research initiative. This index separates research questions, working methods, developing arguments, and reading resources so a reader can choose one useful starting point.
+Root Sequence is an independent interdisciplinary research initiative. This index offers starting points in the research and explains how to read the work’s current evidence and review status.
 
 ## Research approach
 
@@ -22,6 +22,10 @@ The [research method](method.md) and [method router](method-router.md) contain t
 
 ## How to read evidence and status
 
+The source notes should let readers follow a claim back to the work supporting it. They should explain how closely we examined the source and where we have gone beyond it to offer an interpretation.
+
+A test we propose is still an idea until it has been run. When reporting results, we describe how they were obtained, including whether anyone else has independently repeated the work. Unresolved questions remain visible after publication.
+
 The [repository map's labels](../root_map.md#labels-describe-different-things) distinguish document role, maturity, evidence, and canonical scope. A developed document can still contain an unsupported claim.
 
 - **Empirical or formal result:** name the originating study or proof, its scope, and what was actually inspected. A cited result is not a Root Sequence replication.
@@ -30,7 +34,7 @@ The [repository map's labels](../root_map.md#labels-describe-different-things) d
 - **Normative commitment or design principle:** a position about what should matter, with its reasons and tradeoffs.
 - **Speculation, metaphor, or fiction:** an exploratory form, not evidence that the imagined mechanism works.
 
-Record source inspection separately: metadata found, abstract read, selected passages checked, full text appraised, analysis reproduced, or independently replicated. None implies the next. Record uncertainty, disagreements, and what would change the conclusion. The [canonical method](method.md) owns the full workflow.
+Source records distinguish finding a reference from examining it. Reading an abstract or checking selected passages does not amount to appraising the full text. Reproducing an analysis and independently repeating a study also need their own records. Explain what remains uncertain and what could change the conclusion. The [canonical method](method.md) contains the full workflow.
 
 ## Accessibility, AI assistance, and contributions
 

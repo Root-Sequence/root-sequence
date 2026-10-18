@@ -190,3 +190,11 @@ This records selected browser/structural checks and passage-level approval. Full
 Applied the two approved paragraphs verbatim to the existing site disclosure, research README, and organization profile. The detailed research-method source and unapproved evidence wording are unchanged.
 
 All 11 site checks pass, including the release-approval gate and script hashes. Exact wording was checked across HTML, translation data, and README/profile text. Desktop and 390 × 844 browser inspection confirmed readable wrapping, native disclosure keyboard activation, and no measured horizontal overflow; viewport overrides were reset. Reader-document failures remain the same 15 pre-existing issues. Whitespace checks pass. This is selected structural/browser verification, not method validation or publication approval.
+
+## Approved evidence wording: 2026-10-17
+
+Applied the two approved evidence paragraphs verbatim to the existing site disclosure, research README, and organization profile. Nearby README introductions now use less repetitive prose. The previously approved mission, method, and accessibility/contribution passages remain verbatim.
+
+All 11 site checks pass, and the Idea Trail index remains current. HTML and English translation data match the approved evidence wording. Desktop and 390 × 844 browser inspection showed readable wrapping and no measured horizontal overflow. The native disclosure opens and closes with Enter; viewport overrides were reset. The preview matches source HTML exactly, and the current source still fails the historical release-approval gate as intended. Reader-document checking reports the same 15 pre-existing errors. Whitespace checks pass in both repositories.
+
+These checks cover the changed presentation and source structure. They do not establish scientific validity, a complete accessibility audit, or publication approval. The exact-source approval record and Pages workflow remain unchanged.

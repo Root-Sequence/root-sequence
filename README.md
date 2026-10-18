@@ -6,9 +6,9 @@
 
 Root Sequence is an independent interdisciplinary research initiative started by Rae Lovejoy, exploring how intelligence, technology, and social systems shape one another.
 
-It brings together systems research, philosophy, technical design, and exploratory writing. Questions are traced to the fields that study them, compared with existing work, and developed into revisable arguments, design studies, or bounded experiments. Speculative worlds and fiction explore consequences without standing in for evidence.
+The work starts with questions that cross fields and follows them into the research and methods suited to each part. Technical design sits alongside philosophical inquiry. Speculative worlds and fiction offer room to explore consequences without establishing that an imagined mechanism works.
 
-Current outputs include public research notes, an AI-assisted working paper awaiting author review, concepts, maps, and small tools. Their development and evidence vary; there is no claim of a finished theory or a validated universal framework.
+Current public work ranges from research notes to small tools. The AI-assisted working paper still awaits author review. Evidence varies across the project; the material does not establish a finished theory or a validated universal framework.
 
 Rae uses AI both as an accessibility aid and as a tool for developing the work. Read about [accessibility, contributions, and review](research/README.md#accessibility-ai-assistance-and-contributions).
 
@@ -101,15 +101,7 @@ This project explores systems as living, interdependent processes.
 
 [Existential Euphoria](https://github.com/Root-Sequence/existential-euphoria) explores a felt orientation Rae connects to this inquiry: wonder, interdependence, and the possibility of living more humanely, with room for contradiction and ordinary life. The [original reflection and provisional RS connections](https://github.com/Root-Sequence/existential-euphoria/blob/main/ROOT-SEQUENCE.md) keep “good” and “coherent” open to examination; no shared emotional state is required to participate.
 
-It focuses on:
-- pattern recognition across domains  
-- multiple exploratory models and methods
-- connections between technical, social, and philosophical systems  
-
-It is:
-- recursive, not rigid  
-- open, not closed  
-- evolving, not complete  
+Ideas move between technical work and questions about how people live together. A pattern noticed in one field may suggest a question elsewhere, but the connection needs examination. The models remain provisional and can change as the work develops.
 
 ---
 

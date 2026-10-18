@@ -25,7 +25,7 @@ This is the single checklist for this refresh. Project-specific backlogs remain 
 
 | Check | ID | Status | Decision / next action |
 | --- | --- | --- | --- |
-| [ ] | P1-01 | in progress | Mission sentence and the site/README accessibility and contribution passages approved by Rae on 2026-10-17 (Pacific). The research-method passage was also approved on 2026-10-17 (Pacific); review the evidence wording next, in small passages. These passage approvals do not approve the research corpus or website release. |
+| [x] | P1-01 | done | Rae approved the mission, site/README accessibility and contribution passages, research-method introduction, and revised evidence wording on 2026-10-17 (Pacific). All are applied to the review drafts. These passage approvals do not approve the research corpus or website release. |
 | [ ] | P1-02 | to do | Decide whether draft-only research should later appear on the homepage; Phase 1 keeps it in a clearly labelled repository review queue. |
 | [ ] | P1-03 | to do | Reconcile overlapping README/index/profile edits with existing PRs before merge. Do not close or supersede substantive research PRs automatically. |
 | [ ] | P1-04 | to do | Review the proposed organization bio and any repository-description/pin changes. Live settings are outside these source PRs. |
@@ -51,7 +51,7 @@ Rae approved this exact sentence in chat on **2026-10-17 (Pacific)**, responding
 
 > Root Sequence is an independent interdisciplinary research initiative started by Rae Lovejoy, exploring how intelligence, technology, and social systems shape one another.
 
-This records approval of the mission sentence. The accessibility and AI-contribution wording was subsequently approved as recorded below. The research-method wording was subsequently approved as recorded below. Evidence wording, work-sample endorsement, merging, and exact-source website publication remain separate pending decisions.
+This records approval of the mission sentence. The accessibility and AI-contribution wording, research-method introduction, and evidence wording were subsequently approved as recorded below. Work-sample endorsement, merging, and exact-source website publication remain separate pending decisions.
 
 ## Approved accessibility and contribution wording
 
@@ -63,6 +63,12 @@ The approved site text is applied to the existing disclosure panel and the organ
 
 On **2026-10-17 (Pacific)**, Rae approved the two-paragraph research approach in writing block `19546` and explicitly requested its implementation before moving to evidence wording. The exact passage is applied to the site's existing disclosure panel, the research README, and the organization-profile draft. The canonical detailed research method remains in `research/method.md`; this is its public introduction, not a claim of a validated method or approval of individual research results.
 
+## Approved evidence wording
+
+On **2026-10-17 (Pacific)**, Rae approved the revised two-paragraph evidence passage in writing block `47208` and explicitly requested its application to the drafts. The exact wording is applied to the site disclosure, research README, and organization profile. It explains source inspection and interpretation, then distinguishes proposed tests from reported results. It does not establish that any particular source has been appraised or any study replicated.
+
+Rae also requested more natural prose throughout the drafts, without repeated list rhythms. Nearby introductions were edited for that preference. Previously approved mission, method, and accessibility/contribution wording remains verbatim. Reference tables and genuine reference lists remain where they help readers find material.
+
 ## Review package and update log
 
 - 2026-10-17: checklist created after live audit. Public source work is on `docs/professional-refresh-phase-1-2026-10-17`; private project material remains in its existing repositories.
@@ -73,6 +79,6 @@ On **2026-10-17 (Pacific)**, Rae approved the two-paragraph research approach in
 - [Root repository, site, plan, and sample: draft PR #46](https://github.com/Root-Sequence/root-sequence/pull/46). Initial implementation commit: `4070fc8b396fc84148ecbe525c1156360d0cec2c`.
 - [Organization profile: draft PR #10](https://github.com/Root-Sequence/.github/pull/10). Implementation commit: `c50bd82f623038e3f7e0b58d6157205dfa29fcdf`.
 - Review the canonical repository first, then the profile. Existing research and commons drafts remain open; reconcile overlapping navigation/profile text before any merge.
-- **Next supported review:** the evidence wording. Mission, accessibility/contribution, and research-method passages are approved; P1-01 remains in progress for the evidence passage.
+- **Next supported review:** which research visitors should encounter first, including whether draft-only research belongs on the homepage (P1-02). The mission, accessibility/contribution, method, and evidence passages are approved; P1-01 is done.
 
-Current status after mission, accessibility/contribution, and method approval: **13 done, 7 to do, 1 in progress, 1 blocked** across 22 tasks. The blocked item is publication pending a separate exact-source decision. This is a source-review milestone, not a published refresh.
+Current status after mission, accessibility/contribution, method, and evidence approval: **14 done, 7 to do, 1 blocked** across 22 tasks. The blocked item is publication pending a separate exact-source decision. This is a source-review milestone, not a published refresh.
