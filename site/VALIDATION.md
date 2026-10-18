@@ -473,3 +473,14 @@ Source digest: `44135e3ec8c79d901ce805db580eb5a15f4cbc16e28dce0352dab4be237d6ef9
 Preview HTML SHA-256: `15d3d2c5c4ddf78936350bbbf1647a5fc75ebc471718077da2dc79df2e60777c`.
 
 P1-08 remains in progress; Coherent Computing panel wording is next. No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, manuscript change, or project-status change is included.
+
+## Coherent Computing panel refinement: 2026-10-18 (Pacific)
+
+Applied writing block `85306` verbatim, replacing the extra paragraph with a development note while retaining the approved broader description and type. Source comparison confirms only Computing’s extra-to-note configuration changes in executable code; its CSP hash is refreshed. The corresponding English entry is the only translation-data change. Builder, tests, and historical approval are unchanged. All 11 checks pass, including source/preview parity, CSP, fragments, and release rejection against historical approval.
+
+At 1575 pixels and 390 × 844, the panel shows exactly two paragraphs with no empty row or horizontal overflow. The second paragraph uses the existing context-source-note style. Keyboard opening and Escape closure return focus to the Computing title trigger. Normal desktop dimensions were restored. Community Infrastructure’s unchanged panel was read for its next proposal. No external destination, private project source, or implementation material was opened or added. These are selected rendering and interaction checks, not complete accessibility or implementation validation.
+
+Source digest: `db8c1eab425a31497d815897360b4c71cc5f1c4049c83e01c1cca510190c6b39`.
+Preview HTML SHA-256: `49dcd47ae54cf7c1050a66a5020b6b3e249df238dfe2787347da18495a698600`.
+
+P1-08 remains in progress; Community Infrastructure panel wording is next. No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, or project-status change is included.

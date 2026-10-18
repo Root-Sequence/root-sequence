@@ -2,18 +2,32 @@
 
 ## Unapproved professional refresh: October 18, 2026
 
-**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as are Take part, all four footer passages, and the shorter World and No One Noticed panels. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
+**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as are Take part, all four footer passages, and the shorter World, No One Noticed, and Coherent Computing panels. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `44135e3ec8c79d901ce805db580eb5a15f4cbc16e28dce0352dab4be237d6ef9`.
-Candidate preview HTML SHA-256: `15d3d2c5c4ddf78936350bbbf1647a5fc75ebc471718077da2dc79df2e60777c`.
+Candidate source digest: `db8c1eab425a31497d815897360b4c71cc5f1c4049c83e01c1cca510190c6b39`.
+Candidate preview HTML SHA-256: `49dcd47ae54cf7c1050a66a5020b6b3e249df238dfe2787347da18495a698600`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Accepted Coherent Computing panel: October 18, 2026 (Pacific)
+
+Rae approved writing block `85306` and explicitly requested its application before reviewing Community Infrastructure:
+
+> This is research and design work. There’s no public release to try yet.
+
+The approved summary retains the wider computing-system and lifecycle scope; the existing “Computing research · No public release” type remains. The new note replaces the extra paragraph, including its OS-specific contrast and repeated connection to Root Sequence. It uses the shared development-note style after the summary.
+
+Only Computing’s extra field changes to a note field in the executable project configuration. The corresponding obsolete extra translation is replaced by the approved note, and the CSP hash is refreshed. The builder, tests, and historical exact-source approval are unchanged. No project implementation, private source, or research status changes.
+
+Community Infrastructure’s extra/development wording is next and remains unchanged. Footer wording stays 4/4 complete; P1-08 remains in progress for remaining panels and full-page review.
+
+Previous candidate: source `44135e3ec8c79d901ce805db580eb5a15f4cbc16e28dce0352dab4be237d6ef9`; HTML `15d3d2c5c4ddf78936350bbbf1647a5fc75ebc471718077da2dc79df2e60777c`.
 
 ## Accepted No One Noticed panel: October 18, 2026 (Pacific)
 
