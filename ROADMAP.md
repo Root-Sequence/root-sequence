@@ -26,7 +26,8 @@ This is the single checklist for this refresh. Project-specific backlogs remain 
 | Check | ID | Status | Decision / next action |
 | --- | --- | --- | --- |
 | [x] | P1-01 | done | Rae approved the mission, site/README accessibility and contribution passages, research-method introduction, and revised evidence wording on 2026-10-17 (Pacific). All are applied to the review drafts. These passage approvals do not approve the research corpus or website release. |
-| [ ] | P1-02 | to do | Decide whether draft-only research should later appear on the homepage; Phase 1 keeps it in a clearly labelled repository review queue. |
+| [x] | P1-02 | done | Rae confirmed on 2026-10-17 (Pacific) that draft-only research stays in the clearly labelled repository review queue for Phase 1. The homepage keeps its existing six entry points to material already on `main`; being merged does not establish research validity or complete author review. |
+| [ ] | P1-07 | in progress | Review the homepage's six existing research descriptions against their canonical sources, one passage at a time, in the approved natural style. The research-method entry is first; a proposed rewrite is presented in chat for review. 0/6 revised entries approved. No description changes are applied yet. |
 | [ ] | P1-03 | to do | Reconcile overlapping README/index/profile edits with existing PRs before merge. Do not close or supersede substantive research PRs automatically. |
 | [ ] | P1-04 | to do | Review the proposed organization bio and any repository-description/pin changes. Live settings are outside these source PRs. |
 | [ ] | P1-05 | blocked | Publication requires Rae's separate approval of the exact final website source. Preserve `site/approval.json`; the release build must reject the candidate until then. Merge alone would trigger the existing Pages workflow, so do not merge this source refresh before resolving that gate. |
@@ -72,6 +73,7 @@ Rae also requested more natural prose throughout the drafts, without repeated li
 ## Review package and update log
 
 - 2026-10-17: checklist created after live audit. Public source work is on `docs/professional-refresh-phase-1-2026-10-17`; private project material remains in its existing repositories.
+- 2026-10-17 (Pacific): Rae confirmed the repository-only placement of draft-only research (P1-02 complete) and requested review of the homepage research descriptions. P1-07 now tracks that review. The first proposed passage introduces the research method; the website source remains unchanged pending passage review.
 - Source/copy preparation and selected browser checks completed. The 11 site tests and Idea Trail graph/index pass; reader-check failures match the 15-error base. See [site validation](site/VALIDATION.md). Both draft PRs are open, unmerged, and mergeable at verification.
 
 ### Review links
@@ -79,6 +81,6 @@ Rae also requested more natural prose throughout the drafts, without repeated li
 - [Root repository, site, plan, and sample: draft PR #46](https://github.com/Root-Sequence/root-sequence/pull/46). Initial implementation commit: `4070fc8b396fc84148ecbe525c1156360d0cec2c`.
 - [Organization profile: draft PR #10](https://github.com/Root-Sequence/.github/pull/10). Implementation commit: `c50bd82f623038e3f7e0b58d6157205dfa29fcdf`.
 - Review the canonical repository first, then the profile. Existing research and commons drafts remain open; reconcile overlapping navigation/profile text before any merge.
-- **Next supported review:** which research visitors should encounter first, including whether draft-only research belongs on the homepage (P1-02). The mission, accessibility/contribution, method, and evidence passages are approved; P1-01 is done.
+- **Next supported review:** the homepage research-method entry, first of six description reviews (P1-07). Draft-only research stays in the repository queue. The mission, accessibility/contribution, method introduction, and evidence passages are approved; P1-01 and P1-02 are done.
 
-Current status after mission, accessibility/contribution, method, and evidence approval: **14 done, 7 to do, 1 blocked** across 22 tasks. The blocked item is publication pending a separate exact-source decision. This is a source-review milestone, not a published refresh.
+Current status after the research-placement decision: **15 done, 6 to do, 1 in progress, 1 blocked** across 23 tasks. P1-07 was added to track the requested homepage-description review. The blocked item is publication pending a separate exact-source decision. This is a source-review milestone, not a published refresh.
