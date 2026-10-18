@@ -7,7 +7,7 @@
 <meta content="dark" name="color-scheme"/>
 <meta content="noindex,nofollow" name="robots"/>
 <meta content="no-referrer" name="referrer"/>
-<meta content="default-src 'none'; script-src 'sha256-vZMzTze4bW08EuNDUClGY2PJ/ZD13ZYMZ6qyiAKco9w='; style-src 'unsafe-inline'; font-src data:; img-src data:; connect-src 'none'; base-uri 'none'; form-action 'none'; object-src 'none'" http-equiv="Content-Security-Policy"/>
+<meta content="default-src 'none'; script-src 'sha256-77fM2p/hNOvNgzmZlOZ2AgXI/DzgI8iYwJbX5J/kXdY='; style-src 'unsafe-inline'; font-src data:; img-src data:; connect-src 'none'; base-uri 'none'; form-action 'none'; object-src 'none'" http-equiv="Content-Security-Policy"/>
 <title>Root Sequence · Research for a more coherent world</title>
 <meta content="Root Sequence is an independent interdisciplinary research initiative exploring how intelligence, technology, and social systems shape one another." name="description"/>
 <link href="https://rootsequence.systems/" rel="canonical"/>
@@ -949,8 +949,7 @@ html{scrollbar-gutter:stable}html[data-overlay-open]{overflow:hidden;overscroll-
     "overlay.sourceNote": "This panel summarizes the link using information already on this page. It does not load or display the external website.",
     "overlay.destination": "Destination",
     "overlay.fallback": "Link details",
-    "overlay.worldExtra": "Coherent World considers how transport, care, technology, and other parts of everyday life could work together. Its questions extend beyond any one story or imagined future.",
-    "overlay.worldStatus": "The work is still in development. This preview has no separate public website to link to for Coherent World.",
+    "overlay.worldStatus": "The project is being developed privately. There’s no separate public website linked here.",
     "overlay.novelExtra": "The novel explores one possible future and the people living through it; it does not present that future as a research finding.",
     "overlay.novelStatus": "The manuscript is in development. Its public website is not available yet, so this preview does not link to it.",
     "overlay.computingExtra": "This is research and design work, rather than an operating system ready to install. Its questions about tools and their users connect back to Root Sequence.",
@@ -1074,7 +1073,7 @@ const contextCopy=document.getElementById('context-copy');
 const contextActions=document.getElementById('context-actions');
 let openedBy=null,readingPosition=null,closeTarget=null,backdropStart=false;
 const projectInfo={
-world:{name:'Coherent World',type:'worldType',summary:'world',extra:'worldExtra',note:'worldStatus'},
+world:{name:'Coherent World',type:'worldType',summary:'world',note:'worldStatus'},
 novel:{name:'No One Noticed',type:'novelType',summary:'novel',extra:'novelExtra',note:'novelStatus'},
 computing:{name:'Coherent Computing',type:'computingType',summary:'computing',extra:'computingExtra'},
 community:{name:'Community Infrastructure',type:'communityType',summary:'community',extra:'communityExtra'},
@@ -1148,7 +1147,8 @@ function showProject(slug,trigger){
 const p=projectInfo[slug];if(!p)return;
 const switching=contextDialog.open;
 clearContext('overlay.project',p.name,t('projects.'+p.type));contextTitle.lang='en';contextTitle.dir='ltr';
-if(slug==='world')projectParagraph(t('projects.'+p.summary),'novel');else paragraph(t('projects.'+p.summary));paragraph(t('overlay.'+p.extra));
+if(slug==='world')projectParagraph(t('projects.'+p.summary),'novel');else paragraph(t('projects.'+p.summary));
+if(p.extra)paragraph(t('overlay.'+p.extra));
 if(p.note)paragraph(t('overlay.'+p.note),'context-source-note');
 if(!trigger.closest('#projects')){
  const jump=document.createElement('a');jump.href='#project-'+slug+'-title';jump.className='source-link';jump.textContent=t('overlay.jump');

@@ -30,8 +30,6 @@ RELEASE_REPLACEMENTS = (
      'This site’s hosting provider may keep request logs. Its logging and retention policies haven’t been checked as part of this review.', 2),
     ('Review candidate · Updated 18 October 2026 · Not a published site',
      'Public seed · Professional refresh', 2),
-    ('This preview has no separate public website to link to for Coherent World.',
-     'This site has no separate public website to link to for Coherent World.', 1),
     ('so this preview does not link to it.', 'so this site does not link to it.', 1),
 )
 

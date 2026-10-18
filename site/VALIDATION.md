@@ -451,3 +451,14 @@ Source digest: `c81f4c16c583b53c096e1008ff5f61c0e39991f62caa903090dd03725766c1c0
 Preview HTML SHA-256: `9be169975b902968ffa87930659866a7a79c6bcc192bd3eba341dbbd94a74ca9`.
 
 Footer passage review is 4/4 complete. P1-08 remains in progress for panels and full-page review; no complete accessibility or research validation is implied. No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, license change, or permission change is included.
+
+## Coherent World panel refinement: 2026-10-18 (Pacific)
+
+Applied writing block `64930` verbatim to the English panel data, removed World’s extra paragraph, and retained its approved summary and type. The shared renderer now guards the optional extra field; its CSP hash was refreshed. A source comparison confirms these are the only executable-script changes, and only the World extra/status entries changed in translation data. The obsolete World preview/publication marker was removed from the builder. All 11 site tests pass without test changes, including CSP, fragments, source/preview parity, and release rejection against unchanged historical approval.
+
+Desktop (1575 pixels) and 390 × 844 checks show exactly two World paragraphs with no empty row or horizontal panel overflow. The retained No One Noticed link switches to the novel panel, which still shows its unchanged summary, extra paragraph, and availability note. Escape closes the panel and returns focus to the original World trigger. Both panels fit the phone width. Normal desktop dimensions were restored. No external destination or private material was opened or added. These are scoped rendering and interaction checks, not complete accessibility or project-content validation.
+
+Source digest: `7c80ad37d0122cae3908683d890240dd8978c47bbc9d90bf2933d5f332ec6a3c`.
+Preview HTML SHA-256: `67feb900db54cb5f81a9bcc5f461a8353865f174c5ef793d11554369ec8d770b`.
+
+P1-08 remains in progress; No One Noticed panel wording is next. No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, or project-status change is included.

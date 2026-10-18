@@ -2,18 +2,32 @@
 
 ## Unapproved professional refresh: October 18, 2026
 
-**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as are Take part and all four footer passages. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
+**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as are Take part, all four footer passages, and the shorter Coherent World panel. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `c81f4c16c583b53c096e1008ff5f61c0e39991f62caa903090dd03725766c1c0`.
-Candidate preview HTML SHA-256: `9be169975b902968ffa87930659866a7a79c6bcc192bd3eba341dbbd94a74ca9`.
+Candidate source digest: `7c80ad37d0122cae3908683d890240dd8978c47bbc9d90bf2933d5f332ec6a3c`.
+Candidate preview HTML SHA-256: `67feb900db54cb5f81a9bcc5f461a8353865f174c5ef793d11554369ec8d770b`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Accepted Coherent World panel: October 18, 2026 (Pacific)
+
+Rae approved writing block `64930` and explicitly requested its application before No One Noticed panel review:
+
+> The project is being developed privately. There’s no separate public website linked here.
+
+The approved project description and private-development label remain unchanged. Removed the extra paragraph that repeated the project’s breadth beyond the novel; replaced its old preview-specific availability paragraph with the approved bounded note. The summary’s No One Noticed link remains. No project-source or private working material is added.
+
+The shared renderer now omits an extra paragraph when the project has none; World’s extra field and obsolete translation are removed. Other projects retain their existing extra text. The executable script’s CSP hash is refreshed, and the old World-specific preview/publication substitution is removed from the builder. The new note is truthful in either edition. Historical exact-source approval remains unchanged and does not approve this candidate.
+
+The next proposal is the No One Noticed panel’s extra and availability wording. Its approved science-fiction description and current source text remain unchanged in this pass. Footer wording remains 4/4 complete; P1-08 stays in progress for panels and full-page review.
+
+Previous candidate: source `c81f4c16c583b53c096e1008ff5f61c0e39991f62caa903090dd03725766c1c0`; HTML `9be169975b902968ffa87930659866a7a79c6bcc192bd3eba341dbbd94a74ca9`.
 
 ## Accepted Credits and reuse: October 18, 2026 (Pacific)
 
