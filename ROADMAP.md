@@ -1,0 +1,51 @@
+# Root Sequence professional refresh
+
+**Canonical progress checklist · started 2026-10-17 · Phase 1 in progress**
+
+This plan improves the public introduction to Root Sequence as an independent interdisciplinary research initiative started by Rae Lovejoy. Its exploratory writing, technical questions, social inquiry, and speculative work remain part of the project. The [research method](research/method.md), [repository map](root_map.md), and [ecosystem map](ECOSYSTEM.md) retain their existing authority.
+
+This is the single checklist for this refresh. Project-specific backlogs remain local. `done` means the stated artifact or check is complete on the review branch, not approved, merged, published, or scientifically validated. Allowed statuses: **to do / in progress / done / blocked**. Update the row and evidence when the work changes.
+
+## P0: establish the public baseline
+
+| Check | ID | Status | Deliverable and evidence |
+| --- | --- | --- | --- |
+| [x] | P0-01 | done | Audit all 15 accessible organization repositories, public registry, target repository trees/context, relevant branches, and all 28 open PR summaries. See the [dated audit](AUDIT.md#professional-refresh-audit-2026-10-17). |
+| [x] | P0-02 | done | Inspect changed files for the 14 open PRs in the four target repositories; preserve draft research and existing canonical homes. |
+| [x] | P0-03 | done | Record a version-controlled, prioritized plan here; link it from the README, short introduction, and context map. |
+| [x] | P0-04 | done | Prepare consistent mission and positioning in the repository, existing `site/index.html`, and organization profile. Preserve the headline, visual design, and seven-section structure. |
+| [x] | P0-05 | done | Explain methods, claim/evidence labels, AI assistance, actual inspection, and unfinished review in the [research index](research/README.md) and site. |
+| [x] | P0-06 | done | Curate public research entry points with status/limits; route draft-only work to its existing PR instead of inventing `main` links or copying it. |
+| [x] | P0-07 | done | Prepare organization profile consistency in `Root-Sequence/.github/profile/README.md`; record a proposed short bio for later approval. |
+| [x] | P0-08 | done | Validate site, preview, script hashes, navigation, and changed links. Compare repository documentation failures against the untouched base. |
+| [x] | P0-09 | done | Inspect wide and narrow browser layouts, keyboard navigation, disclosures, and project panels. Record remaining accessibility limits. |
+| [ ] | P0-10 | in progress | Open and verify linked draft PRs. Do not merge, deploy, change live organization settings, or update exact-source approval. |
+
+## P1: supported review and publication decisions
+
+| Check | ID | Status | Decision / next action |
+| --- | --- | --- | --- |
+| [ ] | P1-01 | to do | Rae reviews the mission sentence and evidence/AI-use wording in small passages. Approval of one passage does not approve the research corpus. |
+| [ ] | P1-02 | to do | Decide whether draft-only research should later appear on the homepage; Phase 1 keeps it in a clearly labelled repository review queue. |
+| [ ] | P1-03 | to do | Reconcile overlapping README/index/profile edits with existing PRs before merge. Do not close or supersede substantive research PRs automatically. |
+| [ ] | P1-04 | to do | Review the proposed organization bio and any repository-description/pin changes. Live settings are outside these source PRs. |
+| [ ] | P1-05 | blocked | Publication requires Rae's separate approval of the exact final website source. Preserve `site/approval.json`; the release build must reject the candidate until then. Merge alone would trigger the existing Pages workflow, so do not merge this source refresh before resolving that gate. |
+| [ ] | P1-06 | to do | Broader documentation repair: the untouched base has 15 reader-check errors in living-paper notes. Repair in its own scoped pass, following that directory's instructions. |
+
+## P2: small applicant work-samples track
+
+The public baseline has priority. This track demonstrates source handling and proposal development; it does not redefine Root Sequence around an employer or claim an AIAF affiliation.
+
+| Check | ID | Status | Deliverable and evidence |
+| --- | --- | --- | --- |
+| [x] | P2-01 | done | Check the [employer's Technical Grant Writer description](https://job-boards.greenhouse.io/aiaf/jobs/6205780004), 2026-10-17: proposal structure, technical comprehension, uncertainty, and AI-assisted writing with accountable quality. |
+| [x] | P2-02 | done | Create a compact [work-samples route](research/work-samples/README.md) reusing existing public source maps, claims ledgers, research drafts, and revision history. |
+| [x] | P2-03 | done | Prepare one source-traceable proposal-development note with a question, proposed method, milestones, alternative explanations, and limits. Label it an unexecuted exercise, not a funded project or research result. |
+| [ ] | P2-04 | to do | Rae reviews the sample and confirms retained claims and contribution wording with source passages available. |
+| [ ] | P2-05 | to do | Add a technical AI/ML paper brief after selected-section reading and domain review. The first conceptual note alone does not establish technical ML proficiency. |
+| [ ] | P2-06 | to do | Tailor selected samples, CV, fit statement, and availability to the current application. No application submission, employer contact, or credential claim is included here. |
+
+## Review package and update log
+
+- 2026-10-17: checklist created after live audit. Public source work is on `docs/professional-refresh-phase-1-2026-10-17`; private project material remains in its existing repositories.
+- Source/copy preparation and selected browser checks completed. The 11 site tests and Idea Trail graph/index pass; reader-check failures match the 15-error base. See [site validation](site/VALIDATION.md). Draft PR links will be added after creation.

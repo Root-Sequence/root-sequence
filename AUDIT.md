@@ -111,3 +111,71 @@ The final branch was checked for:
 - changed-file scope, whitespace integrity, valid JSON, and a full diff review.
 
 See the draft pull request for the exact command results, limitations, and any unresolved external-link behavior.
+
+
+## Professional refresh audit: 2026-10-17
+
+**Scope:** current GitHub organization, public registry, canonical site source, target repository structures/context, outstanding work, and publication boundaries. This is a documentation and positioning audit, not scientific validation or a security review. Progress lives only in [ROADMAP.md](ROADMAP.md).
+
+### Inventory and source authority
+
+The live organization listing returned 15 repositories, all with `main` as default. Visibility was checked live. Public-safe role descriptions below come from the existing [organization registry](https://github.com/Root-Sequence/.github/blob/main/PROJECT_REGISTRY.yml) and public source. Private contents were inspected for boundaries but are not reproduced here.
+
+| Repository | Visibility | Existing role / treatment in this refresh |
+| --- | --- | --- |
+| `root-sequence` | public | Conceptual commons and research coordination; owns this checklist and the canonical `site/` source. |
+| `.github` | public | Organization profile, registry, contribution and stewardship defaults. |
+| `liberated-intelligence` | public | Focused intelligence, agency, ownership, and non-domination inquiry. |
+| `universal-coherence-framework` | public | Optional analytical framework; no universal validation claim. |
+| `beinghumane-guide` | public | Public field-guide writing; separate from its private workbench. |
+| `liberation-mass` | public | Embodied gathering and shared practice. |
+| `existential-euphoria` | public | In-formation experiential/aesthetic work; no scope change or hold release. |
+| `root-sequence-discussions` | public | Cross-project conversation and routing. |
+| `wiki` | public | Names, provenance, relationships, and routes; not a duplicate research home. |
+| `coherent-world` | private | Speculative systems, simulation, and narrative; retain project-local authority. |
+| `coherent-computing` | private | Concept-first operating-system inquiry; retain project-local plan and gates. |
+| `community-infrastructure` | private | Community-controlled systems research/design. |
+| `beinghumane-atlas` | private | Editorial/research workbench; no automatic public export. |
+| `wiki-private` | private | Private routing overlay. |
+| `good-chaos-music` | private | Fictional music work; separate release decisions. |
+
+Verified public base commits: `root-sequence` **5ba3593f9d1b335e9fbe29ee85eeb77e3a9d1b42**; `.github` **1f53db3ce3da497c402e5b076502ccffb089d71c**. The private target trees, READMEs, short introductions, and project context were checked through the connected GitHub service. Public projections use already-public descriptions, not private research details or evidence records.
+
+`site/index.html` is the authoritative one-file page, with an exact-source publication gate in `site/build.py` and `site/approval.json`. Its approved September 25 edition supplies the structure, green palette, headline, wordmark, controls, selected research, and project panels for this refresh. A README contained contradictory approval/candidate statements; this refresh reconciles them around the unapproved new candidate.
+
+### Outstanding work and reuse
+
+There were **28 open PRs** organization-wide at audit time. All titles and descriptions were inspected for relevance. Changed-file lists were inspected for all **14 open PRs across the four target repositories**; deeper research review is not claimed. Branch listings were checked for those same four repositories. Closed historical branches were not treated as new work.
+
+| Existing public work | Treatment / overlap |
+| --- | --- |
+| [root-sequence #40](https://github.com/Root-Sequence/root-sequence/pull/40), anticipation/surprise | Preserve current draft; no changes to its systems/concept files. |
+| [#41](https://github.com/Root-Sequence/root-sequence/pull/41), representational legibility | Preserve canonical Legible Systems work; link current `main`, do not copy pending arguments. |
+| [#42](https://github.com/Root-Sequence/root-sequence/pull/42), agency under stress | Reuse through a labelled draft route. Shares `research/README.md`; reconcile index additions before merge. |
+| [#43](https://github.com/Root-Sequence/root-sequence/pull/43), commons collaboration | Preserve substantive `commons/README.md`. Shares root README; reconcile its commons navigation with the mission edit. |
+| [#44](https://github.com/Root-Sequence/root-sequence/pull/44), intelligence without omniscience | Reuse through its existing draft PR; preserve notes, claims, graph, and lineage work. Shares research index. |
+| [#45](https://github.com/Root-Sequence/root-sequence/pull/45), The Stoned Age | Reuse source/appraisal/claims package through its draft PR. Do not duplicate its paper, booklet, essay, or talk. Shares research index. |
+| [.github #9](https://github.com/Root-Sequence/.github/pull/9), commons contribution/stewardship | Shares `profile/README.md`; preserve its canonical commons routing and reconcile profile text during review. It has a different substantive scope and is not silently replaced. |
+| [.github #5](https://github.com/Root-Sequence/.github/pull/5), Commons of Inquiry registry seed | Registry-only; no registry or institutional-status change in Phase 1. |
+
+The named `site-accessibility-editorial-review` branch adds a separate five-file review generator tied to an older multi-page candidate. It is not the current authoritative site and is not adopted as a second publishing system. The earlier `docs/clarify-org-profile-2026-09-18` and site README context-fix branches add no outstanding diff against current `main`. The earlier repository-coherence audit branch also adds no outstanding diff against current `main`.
+
+Research drafts keep one substantive home. New material in `research/work-samples/` is explicitly a transformed proposal-development exercise, with links to existing sources and actual assistance/review limits.
+
+### Baseline checks and practical findings
+
+- Untouched base: **11/11 site checks passed**.
+- Untouched base: reader-document checker reports **15 errors**, comprising one broken relative link and fourteen missing inbound links in living-paper notes. These are pre-existing, not introduced by this refresh. Fixing that paper requires its scoped instructions and a separate pass.
+- Default and bundled Python lack PyYAML; the existing isolated validation environment supplies it for the generated Idea Trail index check. No project dependency change is needed.
+- Live organization bio reads “A systems-oriented lab exploring root structures and unfolding sequences shaping systems, intelligence, technology, and reality.” A replacement is proposed below; live settings have not been changed.
+- Current site links and research entry points already provide a useful baseline. Improve identity, claim-status visibility, and disclosure within that structure.
+
+### Proposed short organization bio
+
+> Independent interdisciplinary research exploring how intelligence, technology, and social systems shape one another. Research, design, and exploratory writing.
+
+This is proposed copy for a later settings decision. It does not assert an incorporated institute, funded team, academic affiliation, AIAF connection, completed study, or deployed product.
+
+### Review boundary
+
+Prepare two linked draft source PRs: the canonical repository/site/plan and the organization profile. Private projects remain in their own repositories. Do not merge, deploy, update live settings, release a held project, or overwrite `site/approval.json`. The existing Pages workflow runs on a merge to `main`; the candidate's release digest remains deliberately unapproved. Check [ROADMAP.md](ROADMAP.md) for final validation and review links.

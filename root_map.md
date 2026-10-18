@@ -169,3 +169,7 @@ It may later be transformed by:
 Prefer one canonical home plus links over copied documents that silently diverge.
 
 > This map is compost too. Update it when the repository's actual structure or conceptual relationships change—not merely because one new note appears.
+
+## Professional refresh planning
+
+[`ROADMAP.md`](ROADMAP.md) is the canonical prioritized checklist for the public professional refresh and small applicant work-samples track. [`research/work-samples/`](research/work-samples/README.md) holds transformed proposal-development exercises and routes to existing public research; it does not replace source papers, claim ledgers, or project backlogs.

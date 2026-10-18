@@ -1,4 +1,22 @@
-# Website copy review: September 16, 2026
+# Website copy review
+
+## Unapproved professional refresh: October 17, 2026
+
+**Status: draft for Rae's review. No approval, merge, or deployment is recorded.**
+
+This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, palette, wordmark, reading controls, overlays, and URLs are preserved.
+
+The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
+
+Candidate source digest: `0218501c8df772635a27520bf49e8b93c72e6f279b0eb9e580df57102142f60c`.
+Candidate preview HTML SHA-256: `3498ac695d20987aa04f88bde5a0f711c4d27fb7653511b3d1194f2e44469b2d`.
+
+`approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
+
+Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Earlier review and approval history
+
 
 ## Approval update: Root Sequence router role — September 25, 2026
 

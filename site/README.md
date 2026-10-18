@@ -2,14 +2,9 @@
 
 This directory is the canonical source for `rootsequence.systems`.
 
-The current [`index.html`](index.html) is the **approved September 25, 2026
-public seed** reflecting Root Sequence's router-and-synthesis role, canonical
-research method, adaptive-continuity work, epistemic discoverability, Legible
-Systems, and Reading Trails.
+The current [`index.html`](index.html) is the **unapproved October 17, 2026 professional-refresh candidate**, extending the existing single-page public seed. It adds an independent interdisciplinary mission, a visible methods/evidence/AI-use disclosure, and clearer research status labels. The headline, green palette, wordmark, reading controls, section order, and existing URLs remain in place.
 
-The exact approved source and preview hashes are recorded in
-[`approval.json`](approval.json). `build.py --release` remains gated on that
-exact digest; later changes must be reviewed and approved separately.
+[`approval.json`](approval.json) records the earlier September 25 edition. It is unchanged and does not approve this candidate. `build.py --release` must reject the current digest until Rae separately approves the final source. See [`COPY-REVIEW.md`](COPY-REVIEW.md) and the canonical [refresh checklist](../ROADMAP.md).
 
 The page is one self-contained file with its styles, scripts, favicon, and
 Cascadia Mono wordmark font embedded. It makes no runtime requests for fonts,
@@ -51,7 +46,7 @@ The preview page is byte-for-byte identical to `site/index.html` and remains
 `noindex`. Choose a fresh empty output directory; the builder will not delete or
 replace an earlier build.
 
-Build the approved publication artifact with:
+After separate exact-source approval, build the publication artifact with:
 
 ```sh
 python site/build.py --release --output /tmp/root-sequence-release
@@ -69,5 +64,4 @@ reviewed and recorded.
 can deploy to GitHub Pages. Deploy only that generated directory, never the
 repository or the historical source directory.
 
-Fastmail still serves the live website until the DNS cutover is deliberately
-completed. Its mail records must remain unchanged. See [DEPLOYMENT.md](DEPLOYMENT.md).
+This review does not change hosting, DNS, or mail. Historical migration steps are recorded in [DEPLOYMENT.md](DEPLOYMENT.md); current DNS and provider behavior must be checked before a future publication change.

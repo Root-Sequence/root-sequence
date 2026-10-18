@@ -4,11 +4,13 @@
 
 <img src="assets/root-sequence.png" alt="Root Sequence logo" width="100" align="right" />
 
-The Root Sequence is a living, open-source inquiry into how intelligence, systems, and meaning evolve together.
+Root Sequence is an independent interdisciplinary research initiative started by Rae Lovejoy, exploring how intelligence, technology, and social systems shape one another.
 
-It combines philosophy, systems thinking, and technical exploration into a modular body of work designed to grow, adapt, and be remixed.
+It brings together systems research, philosophy, technical design, and exploratory writing. Questions are traced to the fields that study them, compared with existing work, and developed into revisable arguments, design studies, or bounded experiments. Speculative worlds and fiction explore consequences without standing in for evidence.
 
-It's a process, not a blueprint.
+Current outputs include public research notes, an AI-assisted working paper awaiting author review, concepts, maps, and small tools. Their development and evidence vary; there is no claim of a finished theory or a validated universal framework.
+
+**Read next:** [selected research, methods, evidence, and AI use](research/README.md) · [professional-refresh checklist](ROADMAP.md) · [short orientation](START-HERE.md).
 
 **Ecosystem role:** umbrella inquiry / conceptual commons  
 **Canonical scope:** broad systems research, concepts, analysis, shared patterns, futures, and organization-level orientation  
@@ -30,7 +32,7 @@ Read the maintained explanation in [Why “Root Sequence”?](concepts/root-sequ
 
 ## Public Seed v0.1
 
-The reader-facing website source lives in [`site/`](site/README.md). Its approved single-page public seed introduces the project and routes readers into the research, related projects, and participation paths without replacing their canonical homes. The website directory also records approval, validation, and deployment boundaries.
+The reader-facing website source lives in [`site/`](site/README.md). Its single-page public seed introduces the project and routes readers into the research, related projects, and participation paths without replacing their canonical homes. The website directory also records approval, validation, and deployment boundaries.
 
 ---
 

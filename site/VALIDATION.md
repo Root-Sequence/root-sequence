@@ -159,3 +159,16 @@ checks. Automated address scanning is a limited guard, not a complete
 content-privacy review.
 
 Remote repository verification should compare the committed blobs with the tested source, not assume that a successful write means byte parity. Keep this receipt paired with the source version being reviewed.
+
+
+## Professional-refresh candidate: 2026-10-17
+
+- All 11 offline site checks pass, including page fragments, duplicate IDs, self-contained resources, inline-script CSP hashes, English source edition, controls, exact preview output, and refusal to overwrite a nonempty output directory.
+- Historical `approval.json` is unchanged. A direct release build is rejected for the current digest; test-only approval fixtures do not approve real source.
+- Browser inspection covered the introduction and research disclosure at a wide desktop viewport and at 390 × 844 CSS pixels. No horizontal overflow was measured at either width. Existing green palette, embedded wordmark, and section order remain.
+- The new native disclosure opens with Enter and can be closed from the keyboard. Section navigation reaches the intended heading. The existing Coherent Computing project panel retains its no-release wording; Escape closes it and returns focus to its trigger.
+- The Idea Trail graph/index check passes using the existing isolated validation environment's PyYAML package. No repository dependency or graph changes were needed.
+- Reader-document check reports the same 15 pre-existing errors as untouched `main`: one broken relative link and fourteen notes without inbound navigation. No new errors from the refresh. This is not a clean whole-repository result.
+- Changed public GitHub file destinations and local Markdown links were checked. No private-project source URLs or content were added to the site.
+
+This is selected browser and structural inspection, not a full WCAG audit, screen-reader assessment, real-device test, independent research review, or live-deployment verification. The preview is a local review artifact. Progress and remaining decisions live in [ROADMAP.md](../ROADMAP.md).

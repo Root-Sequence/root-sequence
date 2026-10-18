@@ -1,4 +1,4 @@
-"""Offline checks for the approved Root Sequence public seed."""
+"""Offline checks for the Root Sequence review candidate and publication gate."""
 from __future__ import annotations
 
 import base64
@@ -87,9 +87,12 @@ class PublicationTests(unittest.TestCase):
         parser.feed(path.read_text(encoding="utf-8"))
         return parser
 
-    def test_canonical_source_is_the_approved_preview(self):
+    def test_candidate_does_not_inherit_historical_approval(self):
         actual = hashlib.sha256((HERE / "index.html").read_bytes()).hexdigest()
-        self.assertEqual(actual, APPROVED_PREVIEW_SHA256)
+        self.assertNotEqual(actual, APPROVED_PREVIEW_SHA256)
+        approval = json.loads((HERE / "approval.json").read_text())
+        self.assertEqual(approval["approved_preview_sha256"], APPROVED_PREVIEW_SHA256)
+        self.assertNotEqual(builder.source_digest(HERE), approval["source_sha256"])
 
     def test_preview_build_preserves_the_approved_html_exactly(self):
         output, manifest = self.build()
@@ -116,7 +119,7 @@ class PublicationTests(unittest.TestCase):
         self.assertEqual(self.parse(output / "index.html").meta["robots"], "index,follow")
         for phrase in ("local review copy", "Not a published site", "Privacy and this preview"):
             self.assertNotIn(phrase, text)
-        self.assertIn("Public seed · Published 25 September 2026", text)
+        self.assertIn("Public seed · Professional refresh", text)
         self.assertIn("This is the public seed edition", text)
 
     def test_page_structure_and_fragments(self):
@@ -169,14 +172,17 @@ class PublicationTests(unittest.TestCase):
         for phrase in (
             "Research for a",
             "more coherent world",
-            "Root Sequence is an open transdisciplinary research and design project",
+            "Root Sequence is an independent interdisciplinary research initiative",
             "Root Sequence is a place for questions that cross fields",
-            "Root Sequence is an independent project started by",
+            "Root Sequence was started by",
             "https://github.com/raelovejoy",
             "Why “Root Sequence”?",
             "What conditions made this possible, and what does it make possible next?",
             "https://github.com/Root-Sequence/root-sequence/blob/main/concepts/root-sequence.md",
             "Selected research and writing",
+            "Methods, evidence, and AI use",
+            "AI output is not evidence",
+            'id="research-practice"',
             "How Root Sequence researches",
             "Adaptive continuity and dynamic coherence",
             "Epistemic discoverability and knowledge routing",
