@@ -440,3 +440,14 @@ Source digest: `1212848460f42f7e241f3c639a1e94e9cbd882f4b4f5ed6d783abb0d34261c8f
 Preview HTML SHA-256: `81dac7ee1250c776a4aeb80dd455f37ae7f2e13e0db0f59a16c880e9dc14dded`.
 
 P1-08 remains in progress (3/4 footer passages applied). No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, or research-review change is included.
+
+## Credits and reuse: 2026-10-18 (Pacific)
+
+Applied writing block `58216` verbatim to visible HTML and English data, with inline links and the founder credit retained. The rendered three paragraphs match the approved wording after excluding screen-reader-only instructions. All four destinations remain. The first test run found one stale required label, “Cascadia Mono license”; the existing expectation now checks the approved “SIL Open Font License 1.1” label. No assertion was removed or new test added. All 11 site tests then passed, including source/preview parity, CSP, embedded resources, fragments, and release rejection against unchanged historical approval. The executable script and builder are unchanged.
+
+At 1575 pixels and 390 × 844, Credits opens by keyboard and wraps without horizontal document overflow. The font-license link opens its existing source panel with the same destination and new label; Escape closes it and returns focus. No external continuation or profile link was activated. Normal desktop dimensions were restored. The World panel was read to prepare its next copy proposal; its summary, extra paragraph, and availability note remain unchanged.
+
+Source digest: `c81f4c16c583b53c096e1008ff5f61c0e39991f62caa903090dd03725766c1c0`.
+Preview HTML SHA-256: `9be169975b902968ffa87930659866a7a79c6bcc192bd3eba341dbbd94a74ca9`.
+
+Footer passage review is 4/4 complete. P1-08 remains in progress for panels and full-page review; no complete accessibility or research validation is implied. No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, license change, or permission change is included.

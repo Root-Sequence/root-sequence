@@ -198,7 +198,7 @@ class PublicationTests(unittest.TestCase):
             'id="project-humane"',
             "Its observations are provisional and open to disagreement and revision.",
             "Take part in",
-            "Cascadia Mono license",
+            "SIL Open Font License 1.1",
         ):
             self.assertIn(phrase, text)
         for control in ("menu-sections", "menu-display", "menu-language", "context-dialog"):

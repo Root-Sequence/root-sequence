@@ -2,18 +2,34 @@
 
 ## Unapproved professional refresh: October 18, 2026
 
-**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as are Take part and the Sources, Accessibility, and Privacy footer passages. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
+**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as are Take part and all four footer passages. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `1212848460f42f7e241f3c639a1e94e9cbd882f4b4f5ed6d783abb0d34261c8f`.
-Candidate preview HTML SHA-256: `81dac7ee1250c776a4aeb80dd455f37ae7f2e13e0db0f59a16c880e9dc14dded`.
+Candidate source digest: `c81f4c16c583b53c096e1008ff5f61c0e39991f62caa903090dd03725766c1c0`.
+Candidate preview HTML SHA-256: `9be169975b902968ffa87930659866a7a79c6bcc192bd3eba341dbbd94a74ca9`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Accepted Credits and reuse: October 18, 2026 (Pacific)
+
+Rae accepted writing block `58216` by responding “Nice, next.” Continuing the established passage-review sequence, the exact three paragraphs are applied to visible HTML and English translation data:
+
+> Root Sequence was started by [Rae Lovejoy](https://github.com/raelovejoy).
+
+> The [Root Sequence research repository](https://github.com/Root-Sequence/root-sequence) uses [CC0](https://github.com/Root-Sequence/root-sequence/blob/main/license) for its own material. Related projects may use different terms. Check the original source for permissions before reusing unpublished writing or contributed archive material.
+
+> The wordmark uses Microsoft’s Cascadia Mono font, included under the [SIL Open Font License 1.1](https://github.com/microsoft/cascadia-code/blob/main/LICENSE).
+
+The founder credit and all four existing destinations remain. Source/license links are placed within the prose as drafted; the native disclosure and source-link panels remain. This describes the existing licenses and permissions boundary; no license or contributed-material permission changes.
+
+All four footer passages have completed wording review under P1-08. The next pass concerns remaining project-panel context and access notes, starting with Coherent World. Approved project summaries and useful status/reuse qualifications remain. A shorter World access note and removal of its repetitive extra paragraph are proposed in chat, not applied. Full-page and exact-source publication review remain separate. The executable script, builder, and historical approval are unchanged.
+
+Previous candidate: source `1212848460f42f7e241f3c639a1e94e9cbd882f4b4f5ed6d783abb0d34261c8f`; HTML `81dac7ee1250c776a4aeb80dd455f37ae7f2e13e0db0f59a16c880e9dc14dded`.
 
 ## Accepted Privacy and this preview: October 18, 2026 (Pacific)
 
