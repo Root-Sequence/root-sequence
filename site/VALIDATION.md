@@ -416,3 +416,16 @@ Source digest: `a3fb7f8133227f2dd6f092c4f8d6d0a441fc2b33ae6ef7e065dfaa83160e894a
 Preview HTML SHA-256: `09cbbec8a46045ef392cf910a58103e4ab9d26f635108e99599625dff5114440`.
 
 P1-08 remains in progress; 1/4 footer passages are applied. No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, or research-review change is included.
+
+## Accessibility and reading choices: 2026-10-18 (Pacific)
+
+Applied writing block `43872` verbatim to visible HTML and English translation data, with inline W3C references and emphasis on Reading. The rendered paragraphs match the approved wording after excluding screen-reader-only link instructions. All 11 site tests pass without changes to tests, the builder, or executable script. Source/preview byte parity and CSP checks pass; the candidate still fails release approval against unchanged `approval.json`. A previously occupied preview destination was left intact and a fresh output directory used.
+
+At 1575 pixels and 390 × 844, the native disclosure opens by keyboard and wraps without horizontal document overflow. The reporting link opens the existing issues panel, showing its destination and public-posting note. Escape closes it and returns focus. No external continuation was activated. Normal desktop dimensions were restored. These selected checks do not complete screen-reader, real-device, or WCAG conformance review. The earlier no-JavaScript baseline remains recorded; it was not repeated for this copy-only change.
+
+For the next Privacy proposal, source inspection confirmed browser-local reading preferences with a reset control. Existing self-contained-resource and CSP tests pass. No hosting-provider retention policy, external browser translation service, or live deployment was audited; no such claim is inferred from local page behavior. Privacy source remains unchanged pending prose review.
+
+Source digest: `9a267217f70e73814323bf234cea420f08e9812dbf07c49e4eda37fbda024ccd`.
+Preview HTML SHA-256: `d87cb1189c47070c6cf44afa6dcb82662bd7f57a204fb07c93eb25dbf0fb7b03`.
+
+P1-08 remains in progress (2/4 footer passages applied). No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, or research-review change is included.

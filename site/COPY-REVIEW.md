@@ -2,18 +2,36 @@
 
 ## Unapproved professional refresh: October 18, 2026
 
-**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as are Take part and Sources and page history. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
+**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as are Take part, Sources and page history, and Accessibility and reading choices. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `a3fb7f8133227f2dd6f092c4f8d6d0a441fc2b33ae6ef7e065dfaa83160e894a`.
-Candidate preview HTML SHA-256: `09cbbec8a46045ef392cf910a58103e4ab9d26f635108e99599625dff5114440`.
+Candidate source digest: `9a267217f70e73814323bf234cea420f08e9812dbf07c49e4eda37fbda024ccd`.
+Candidate preview HTML SHA-256: `d87cb1189c47070c6cf44afa6dcb82662bd7f57a204fb07c93eb25dbf0fb7b03`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Accepted Accessibility and reading choices: October 18, 2026 (Pacific)
+
+Rae approved writing block `43872` and explicitly requested its application before Privacy review. The following exact wording is applied to visible HTML and English translation data:
+
+> Use **Reading** to make the text larger, reduce motion, choose one background color, or keep navigation in the page. Your device’s reduced-motion preference is also respected.
+
+> You can read the page without JavaScript, including opening these expandable sections. English is the source version; your browser’s translation tools can help you read it in another language.
+
+> The design aims for [WCAG 2.2 Level AA](https://www.w3.org/TR/WCAG22/), with [W3C’s cognitive accessibility guidance](https://www.w3.org/TR/coga-usable/) informing the layout. A full accessibility review is still needed, including testing with screen readers and on real devices.
+
+> [Report a reading or accessibility problem](https://github.com/Root-Sequence/root-sequence/issues)
+
+The references are inline as drafted, and Reading retains its emphasis. The three destinations, native disclosure, and reporting panel remain. The control description reflects the existing four Reading options, and the wording explicitly retains the incomplete accessibility-review qualification. It does not establish conformance or independent evaluation.
+
+Privacy wording is prepared for chat review and remains unchanged in source. Footer passage review is 2/4 complete under P1-08. The executable script, builder, tests, and historical publication approval are unchanged; separate exact-source publication approval remains pending.
+
+Previous candidate: source `a3fb7f8133227f2dd6f092c4f8d6d0a441fc2b33ae6ef7e065dfaa83160e894a`; HTML `09cbbec8a46045ef392cf910a58103e4ab9d26f635108e99599625dff5114440`.
 
 ## Accepted Sources and page history: October 18, 2026 (Pacific)
 
