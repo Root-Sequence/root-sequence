@@ -173,7 +173,7 @@ class PublicationTests(unittest.TestCase):
             "Research for a",
             "more coherent world",
             "Root Sequence is an independent interdisciplinary research initiative",
-            "Root Sequence is where",
+            "Root Sequence explores how the systems we build shape what becomes possible next.",
             "https://github.com/raelovejoy",
             "Why “Root Sequence”?",
             "What conditions made this possible, and what does it make possible next?",

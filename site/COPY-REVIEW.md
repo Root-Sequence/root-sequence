@@ -2,18 +2,32 @@
 
 ## Unapproved professional refresh: October 17, 2026
 
-**Status: mission, accessibility/contribution, research-method, evidence, and all six homepage research descriptions approved by Rae; the complete source remains a draft awaiting full-page review and separate publication approval. No merge or deployment is recorded.**
+**Status: mission, accessibility/contribution, research-method, evidence, all six homepage research descriptions, and the revised About explanation and invitation accepted by Rae; the complete source remains a draft awaiting full-page review and separate publication approval. No merge or deployment is recorded.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `1a0a5712569036d90c30dc3197fa2d5a8ba07340b00c2bb259c6b1134cdcfabd`.
-Candidate preview HTML SHA-256: `4403bb72e5975b137bf64260a50f1f071caa823d486ea642d2d831b92e507378`.
+Candidate source digest: `61272a6b01d96cd3f1dc10c4610dcbd9b4ea35c33262c7e903e955a81be68e7c`.
+Candidate preview HTML SHA-256: `d084ad7f4255c30f8943690b163f264f6df774d264c09c8c2a9b45334fbb3248`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Accepted About explanation and invitation: October 17, 2026
+
+Rae found the person-centered introduction too exclusive and the next proposal too generic. Rae then accepted writing block `86204` by replying “better” and requested the earlier participation invitation. The accepted explanation is applied verbatim as the About lead:
+
+> Root Sequence explores how the systems we build shape what becomes possible next. It looks beyond whether a design achieves its immediate goal to ask how it changes the conditions people depend on.
+
+It is followed by its own paragraph:
+
+> You can follow work already underway or bring a question of your own.
+
+The invitation sits before the topic examples, connecting the focus of the work with an open route into it. The founder credit and Rae’s GitHub link are in the existing Credits and reuse disclosure. The outdated no-JavaScript notice now accurately describes the dark palette. Research entries, methods/evidence/AI-use wording, scripts, and publication approval are unchanged. This records acceptance of these passages, not the complete layout or release source.
+
+Previous appearance-refinement candidate: source `1a0a5712569036d90c30dc3197fa2d5a8ba07340b00c2bb259c6b1134cdcfabd`; HTML `4403bb72e5975b137bf64260a50f1f071caa823d486ea642d2d831b92e507378`.
 
 ## About, research, and dark appearance review: October 17, 2026
 

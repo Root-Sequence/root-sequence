@@ -4,7 +4,7 @@ This directory is the canonical source for `rootsequence.systems`.
 
 The current [`index.html`](index.html) is the **unapproved October 17, 2026 professional-refresh candidate**, extending the existing single-page public seed. It adds an independent interdisciplinary mission, a visible methods/evidence/AI-use disclosure, and clearer research status labels. The headline, green palette, wordmark, reading controls, section order, and existing URLs remain in place.
 
-The opening separates the mission from reading routes. The About introduction incorporates Rae’s name into its explanation of the project. The research header groups its introduction with one methods disclosure, and the wider repository link follows the selected entries. These presentation revisions await reader review; see the [copy record](COPY-REVIEW.md#about-research-and-dark-appearance-review-october-17-2026).
+The opening separates the mission from reading routes. Rae accepted the About explanation of the initiative’s focus and requested the invitation that follows it. The founder credit is in Credits and reuse. The research header groups its introduction with one methods disclosure, and the wider repository link follows the selected entries. Broader presentation review remains open; see the [copy record](COPY-REVIEW.md#accepted-about-explanation-and-invitation-october-17-2026).
 
 The candidate uses one dark palette, including without JavaScript. The theme selector and its startup script are removed. Larger text, one background color, reduced motion, and in-page navigation settings remain available. System high-contrast styles and black-on-white print output are retained. Saved theme choices from an earlier candidate are ignored; other reading choices keep their existing storage key.
 

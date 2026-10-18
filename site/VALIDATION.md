@@ -276,3 +276,16 @@ Source digest: `1a0a5712569036d90c30dc3197fa2d5a8ba07340b00c2bb259c6b1134cdcfabd
 Preview HTML SHA-256: `4403bb72e5975b137bf64260a50f1f071caa823d486ea642d2d831b92e507378`.
 
 These are selected presentation and behavior checks. The revised wording and appearance await Rae’s review under ROADMAP P1-08; they are not publication approval or research validation.
+
+## Accepted About wording and invitation: 2026-10-17
+
+Applied the accepted two-sentence explanation from writing block `86204` verbatim, with the requested invitation in a separate paragraph immediately afterward. The founder credit and existing GitHub link now sit in Credits and reuse. Corrected the no-JavaScript notice’s outdated claim that colors follow the device; it now describes the dark palette accurately.
+
+All 11 site checks pass. The existing required-copy assertion follows the accepted About lead. The entire research section and executable script were compared with the preceding source and are unchanged; CSP and fragments pass. Preview output matches source byte for byte. The historical approval record and builder are unchanged; the candidate remains blocked from release as intended.
+
+Desktop and 390 × 844 browser inspection found readable wrapping with no horizontal overflow. The founder credit and link were checked in the native Credits and reuse disclosure. The temporary viewport override was reset. No new whole-repository audit, complete accessibility result, or research-validation result is claimed.
+
+Source digest: `61272a6b01d96cd3f1dc10c4610dcbd9b4ea35c33262c7e903e955a81be68e7c`.
+Preview HTML SHA-256: `d084ad7f4255c30f8943690b163f264f6df774d264c09c8c2a9b45334fbb3248`.
+
+The explanation and invitation have passage approval. Broader layout review (ROADMAP P1-08) and exact-source publication approval remain separate.
