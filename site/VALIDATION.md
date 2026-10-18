@@ -214,3 +214,11 @@ Applied the description and review-status sentence from writing block `68425` ve
 All 11 site checks pass. Exact text and translation parity were checked, and preview HTML matches source byte for byte. Desktop and 390 × 844 browser inspection found readable wrapping and no measured horizontal overflow; viewport overrides were reset. The manuscript, paper-level review records, historical publication approval, and Pages workflow are unchanged. The current candidate still fails the exact-source release gate as intended.
 
 These are presentation and structural checks for the changed entry, not scientific validation, a new whole-repository documentation audit, or publication approval.
+
+## Approved homepage adaptive-continuity entry: 2026-10-17
+
+Applied the description and status sentence from writing block `32716` verbatim in HTML and English translation data. The title and canonical source destination remain unchanged.
+
+All 11 site checks pass. Exact text, translation parity, and byte-identical preview output were verified. Desktop and 390 × 844 browser inspection showed readable wrapping and no measured horizontal overflow; viewport overrides were reset. The underlying concept and lineage note, other research descriptions, publication approval, and Pages workflow are unchanged. The candidate still fails the exact-source release gate as intended.
+
+These checks concern the changed presentation and structure. They do not establish scientific validity, complete accessibility, a new whole-repository audit, or publication approval.

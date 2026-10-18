@@ -27,7 +27,7 @@ This is the single checklist for this refresh. Project-specific backlogs remain 
 | --- | --- | --- | --- |
 | [x] | P1-01 | done | Rae approved the mission, site/README accessibility and contribution passages, research-method introduction, and revised evidence wording on 2026-10-17 (Pacific). All are applied to the review drafts. These passage approvals do not approve the research corpus or website release. |
 | [x] | P1-02 | done | Rae confirmed on 2026-10-17 (Pacific) that draft-only research stays in the clearly labelled repository review queue for Phase 1. The homepage keeps its existing six entry points to material already on `main`; being merged does not establish research validity or complete author review. |
-| [ ] | P1-07 | in progress | Review the homepage's six existing research descriptions against their canonical sources, one passage at a time, in the approved natural style. Rae approved the research-method title, description, and status wording in writing block `92184` on 2026-10-17 (Pacific); it is applied verbatim to the site draft. Rae also approved the working-paper entry in writing block `68425`; its description and status are applied verbatim. 2/6 revised entries approved and applied. The adaptive-continuity / dynamic-coherence entry is next for review. |
+| [ ] | P1-07 | in progress | Review the homepage's six research descriptions against their canonical sources, one passage at a time, in the approved natural style. **3/6 revised entries approved and applied.** See the passage approvals below. Next: epistemic discoverability and knowledge routing. |
 | [ ] | P1-03 | to do | Reconcile overlapping README/index/profile edits with existing PRs before merge. Do not close or supersede substantive research PRs automatically. |
 | [ ] | P1-04 | to do | Review the proposed organization bio and any repository-description/pin changes. Live settings are outside these source PRs. |
 | [ ] | P1-05 | blocked | Publication requires Rae's separate approval of the exact final website source. Preserve `site/approval.json`; the release build must reject the candidate until then. Merge alone would trigger the existing Pages workflow, so do not merge this source refresh before resolving that gate. |
@@ -78,6 +78,10 @@ On **2026-10-17 (Pacific)**, Rae approved writing block `92184` and explicitly r
 
 On **2026-10-17 (Pacific)**, Rae approved writing block `68425` and explicitly requested its application to the draft. The description and review-status sentence are applied verbatim to the existing “Coherence Is a Systems Property” entry and English translation data. Its title and source destination are unchanged. The adaptive-continuity / dynamic-coherence description is next for review. This approves the public description; the canonical paper and its substantive author-review status remain unchanged.
 
+## Approved homepage adaptive-continuity entry
+
+On **2026-10-17 (Pacific)**, Rae approved writing block `32716` and explicitly requested its application to the draft. The description and review-status sentence are applied verbatim to the existing “Adaptive continuity and dynamic coherence” entry and English translation data. Its title and canonical source link remain unchanged. The epistemic-discoverability / knowledge-routing entry is next for review. This is passage approval; the underlying framework remains an AI-assisted synthesis with author review incomplete.
+
 ## Review package and update log
 
 - 2026-10-17: checklist created after live audit. Public source work is on `docs/professional-refresh-phase-1-2026-10-17`; private project material remains in its existing repositories.
@@ -89,6 +93,6 @@ On **2026-10-17 (Pacific)**, Rae approved writing block `68425` and explicitly r
 - [Root repository, site, plan, and sample: draft PR #46](https://github.com/Root-Sequence/root-sequence/pull/46). Initial implementation commit: `4070fc8b396fc84148ecbe525c1156360d0cec2c`.
 - [Organization profile: draft PR #10](https://github.com/Root-Sequence/.github/pull/10). Implementation commit: `c50bd82f623038e3f7e0b58d6157205dfa29fcdf`.
 - Review the canonical repository first, then the profile. Existing research and commons drafts remain open; reconcile overlapping navigation/profile text before any merge.
-- **Next supported review:** the adaptive-continuity / dynamic-coherence entry, third of six description reviews (P1-07). The research-method and working-paper entries are approved and applied. Draft-only research stays in the repository queue. The mission, accessibility/contribution, method introduction, and evidence passages are approved; P1-01 and P1-02 are done.
+- **Next supported review:** the epistemic-discoverability / knowledge-routing entry, fourth of six description reviews (P1-07). The research-method, working-paper, and adaptive-continuity entries are approved and applied. Draft-only research stays in the repository queue. The mission, accessibility/contribution, method introduction, and evidence passages are approved; P1-01 and P1-02 are done.
 
 Current status after the research-placement decision: **15 done, 6 to do, 1 in progress, 1 blocked** across 23 tasks. P1-07 was added to track the requested homepage-description review. The blocked item is publication pending a separate exact-source decision. This is a source-review milestone, not a published refresh.

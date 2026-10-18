@@ -8,8 +8,8 @@ This candidate extends the existing `site/index.html` rather than introducing a 
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `7593baf06d6f028f89181691b1bd82442103679843fe5aa36776b501d83ff818`.
-Candidate preview HTML SHA-256: `73dc264a553498b8284b4352bc9212d56bd394886308405d168c711aee4a0b2e`.
+Candidate source digest: `69745d9daafd23a4d8ce0c9c7391196de621f8c90a57ca90a9a8c0184f511d11`.
+Candidate preview HTML SHA-256: `f341386eb9e31e40ff1ba09cd0e9933e0dcb341a1509d26514ac9458de13094b`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
@@ -68,6 +68,22 @@ The approved copy is:
 This approves the public description. It does not approve the paper’s claims or exact website source for publication. The canonical manuscript, paper-level review records, and `approval.json` remain unchanged.
 
 Previous research-method-entry candidate: source `500725de2893d737ecf533558768183948aacda57ac1e0676c9ded9da7d097d5`; HTML `dd5ea0ba616c0d27eaed346b2b9527a70c3c7eb7052c3beb7dc73dcbcc816f62`.
+
+## Homepage adaptive-continuity entry approval: October 17, 2026
+
+Rae approved writing block `32716` and requested its application before reviewing epistemic discoverability and knowledge routing. The description and review-status sentence are applied verbatim in HTML and English translation data. The title and source link remain unchanged. Three of the six homepage research entries have completed passage review.
+
+The approved copy is:
+
+> **Adaptive continuity and dynamic coherence**
+>
+> Earlier changes can shape what a system is able to do next. This working framework explores how it can adapt to changing conditions while preserving or rebuilding its capacity to continue. It also asks whose options a change opens up and whose it closes off.
+>
+> AI-assisted working synthesis; author review is incomplete. Similarities across fields don’t establish that the same process is at work.
+
+This approves the public description, not the framework’s claims or exact-source website publication. The canonical concept, lineage note, historical `approval.json`, and other research descriptions remain unchanged.
+
+Previous working-paper-entry candidate: source `7593baf06d6f028f89181691b1bd82442103679843fe5aa36776b501d83ff818`; HTML `73dc264a553498b8284b4352bc9212d56bd394886308405d168c711aee4a0b2e`.
 
 ## Earlier review and approval history
 
