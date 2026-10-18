@@ -25,7 +25,7 @@ This is the single checklist for this refresh. Project-specific backlogs remain 
 
 | Check | ID | Status | Decision / next action |
 | --- | --- | --- | --- |
-| [ ] | P1-01 | to do | Rae reviews the mission sentence and evidence/AI-use wording in small passages. Approval of one passage does not approve the research corpus. |
+| [ ] | P1-01 | in progress | Mission sentence approved by Rae on 2026-10-17 (Pacific). Review the evidence/AI-use wording next, in small passages. Approval of the mission does not approve the research corpus or website release. |
 | [ ] | P1-02 | to do | Decide whether draft-only research should later appear on the homepage; Phase 1 keeps it in a clearly labelled repository review queue. |
 | [ ] | P1-03 | to do | Reconcile overlapping README/index/profile edits with existing PRs before merge. Do not close or supersede substantive research PRs automatically. |
 | [ ] | P1-04 | to do | Review the proposed organization bio and any repository-description/pin changes. Live settings are outside these source PRs. |
@@ -45,6 +45,14 @@ The public baseline has priority. This track demonstrates source handling and pr
 | [ ] | P2-05 | to do | Add a technical AI/ML paper brief after selected-section reading and domain review. The first conceptual note alone does not establish technical ML proficiency. |
 | [ ] | P2-06 | to do | Tailor selected samples, CV, fit statement, and availability to the current application. No application submission, employer contact, or credential claim is included here. |
 
+## Approved mission wording
+
+Rae approved this exact sentence in chat on **2026-10-17 (Pacific)**, responding “sounds perfect actually” to the selected mission sentence:
+
+> Root Sequence is an independent interdisciplinary research initiative started by Rae Lovejoy, exploring how intelligence, technology, and social systems shape one another.
+
+This records approval of the mission sentence. Methods/evidence/AI-use wording, work-sample endorsement, merging, and exact-source website publication remain separate pending decisions.
+
 ## Review package and update log
 
 - 2026-10-17: checklist created after live audit. Public source work is on `docs/professional-refresh-phase-1-2026-10-17`; private project material remains in its existing repositories.
@@ -55,6 +63,6 @@ The public baseline has priority. This track demonstrates source handling and pr
 - [Root repository, site, plan, and sample: draft PR #46](https://github.com/Root-Sequence/root-sequence/pull/46). Initial implementation commit: `4070fc8b396fc84148ecbe525c1156360d0cec2c`.
 - [Organization profile: draft PR #10](https://github.com/Root-Sequence/.github/pull/10). Implementation commit: `c50bd82f623038e3f7e0b58d6157205dfa29fcdf`.
 - Review the canonical repository first, then the profile. Existing research and commons drafts remain open; reconcile overlapping navigation/profile text before any merge.
-- **Next supported review:** the mission sentence, then the methods/evidence/AI-use passage. No approval is inferred from creating these PRs.
+- **Next supported review:** the first AI-use disclosure paragraph. The mission sentence is approved; the rest of P1-01 remains in progress.
 
-At handoff: **13 done, 8 to do, 1 blocked** across 22 tasks. The blocked item is publication pending a separate exact-source decision. This is a source-review milestone, not a published refresh.
+Current status after mission approval: **13 done, 7 to do, 1 in progress, 1 blocked** across 22 tasks. The blocked item is publication pending a separate exact-source decision. This is a source-review milestone, not a published refresh.
