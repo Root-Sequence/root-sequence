@@ -1,6 +1,6 @@
 # Root Sequence professional refresh
 
-**Canonical progress checklist · started 2026-10-17 · Phase 1 in progress**
+**Canonical progress checklist · started 2026-10-17 · Phase 1 draft ready for review**
 
 This plan improves the public introduction to Root Sequence as an independent interdisciplinary research initiative started by Rae Lovejoy. Its exploratory writing, technical questions, social inquiry, and speculative work remain part of the project. The [research method](research/method.md), [repository map](root_map.md), and [ecosystem map](ECOSYSTEM.md) retain their existing authority.
 
@@ -19,7 +19,7 @@ This is the single checklist for this refresh. Project-specific backlogs remain 
 | [x] | P0-07 | done | Prepare organization profile consistency in `Root-Sequence/.github/profile/README.md`; record a proposed short bio for later approval. |
 | [x] | P0-08 | done | Validate site, preview, script hashes, navigation, and changed links. Compare repository documentation failures against the untouched base. |
 | [x] | P0-09 | done | Inspect wide and narrow browser layouts, keyboard navigation, disclosures, and project panels. Record remaining accessibility limits. |
-| [ ] | P0-10 | in progress | Open and verify linked draft PRs. Do not merge, deploy, change live organization settings, or update exact-source approval. |
+| [x] | P0-10 | done | Open and verify linked draft PRs. Do not merge, deploy, change live organization settings, or update exact-source approval. |
 
 ## P1: supported review and publication decisions
 
@@ -48,4 +48,13 @@ The public baseline has priority. This track demonstrates source handling and pr
 ## Review package and update log
 
 - 2026-10-17: checklist created after live audit. Public source work is on `docs/professional-refresh-phase-1-2026-10-17`; private project material remains in its existing repositories.
-- Source/copy preparation and selected browser checks completed. The 11 site tests and Idea Trail graph/index pass; reader-check failures match the 15-error base. See [site validation](site/VALIDATION.md). Draft PR links will be added after creation.
+- Source/copy preparation and selected browser checks completed. The 11 site tests and Idea Trail graph/index pass; reader-check failures match the 15-error base. See [site validation](site/VALIDATION.md). Both draft PRs are open, unmerged, and mergeable at verification.
+
+### Review links
+
+- [Root repository, site, plan, and sample: draft PR #46](https://github.com/Root-Sequence/root-sequence/pull/46). Initial implementation commit: `4070fc8b396fc84148ecbe525c1156360d0cec2c`.
+- [Organization profile: draft PR #10](https://github.com/Root-Sequence/.github/pull/10). Implementation commit: `c50bd82f623038e3f7e0b58d6157205dfa29fcdf`.
+- Review the canonical repository first, then the profile. Existing research and commons drafts remain open; reconcile overlapping navigation/profile text before any merge.
+- **Next supported review:** the mission sentence, then the methods/evidence/AI-use passage. No approval is inferred from creating these PRs.
+
+At handoff: **13 done, 8 to do, 1 blocked** across 22 tasks. The blocked item is publication pending a separate exact-source decision. This is a source-review milestone, not a published refresh.
