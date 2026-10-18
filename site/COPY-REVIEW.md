@@ -4,16 +4,28 @@
 
 **Status: mission, accessibility/contribution, research-method, evidence, and all six homepage research descriptions approved by Rae; the complete source remains a draft awaiting full-page review and separate publication approval. No merge or deployment is recorded.**
 
-This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, palette, wordmark, reading controls, overlays, and URLs are preserved.
+This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `6e9ee3e687fdfe00cdbec648c5d7fefdbaf9cdcd45ebdba867eaadd92b7fa1df`.
-Candidate preview HTML SHA-256: `232d492ec94b0b4f8c9954e8a4137037354952ac73082a49c26fb275d8827231`.
+Candidate source digest: `1a0a5712569036d90c30dc3197fa2d5a8ba07340b00c2bb259c6b1134cdcfabd`.
+Candidate preview HTML SHA-256: `4403bb72e5975b137bf64260a50f1f071caa823d486ea642d2d831b92e507378`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## About, research, and dark appearance review: October 17, 2026
+
+Rae found the relocated founder-credit line still forced, preferred the dark appearance, and supplied a screenshot showing the fragmented beginning of the research section. These changes respond to that feedback and remain proposals awaiting review.
+
+The separate credit line is removed. The About introduction now reads: “Root Sequence is where Rae Lovejoy explores questions that cross fields. Often, the first task is figuring out what kind of question is being asked.” Rae’s name retains its GitHub link. This introduces the person through the work instead of placing an attribution between the heading and paragraph.
+
+The research opening now groups the heading, a shorter introduction, and one native methods/evidence/AI-use disclosure. Its duplicate jump link is removed. The wider repository link follows the six selected entries, and the first entry no longer has a second rule competing with the disclosure border. All six entry descriptions and the disclosure’s complete contents remain verbatim.
+
+The draft now uses the existing dark palette as its only screen appearance, including before JavaScript runs. The light/system selector, theme preference handling, and theme-bootstrap script are removed. Other reading controls and existing non-theme preferences remain. System high-contrast styles and a black-on-white print layout are retained. The Content Security Policy hash is updated for the one remaining executable script without broadening its policy. No publication approval or deployment workflow is changed.
+
+Previous opening-layout candidate: source `6e9ee3e687fdfe00cdbec648c5d7fefdbaf9cdcd45ebdba867eaadd92b7fa1df`; HTML `232d492ec94b0b4f8c9954e8a4137037354952ac73082a49c26fb275d8827231`.
 
 ## Opening layout review: October 17, 2026
 

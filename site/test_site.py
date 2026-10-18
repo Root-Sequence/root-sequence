@@ -153,7 +153,7 @@ class PublicationTests(unittest.TestCase):
         csp = re.search(r'<meta content="([^"]+)" http-equiv="Content-Security-Policy"/>', text).group(1)
         page = self.parse(output / "index.html")
         executable = [s for s in page.scripts if s["attrs"].get("type") != "application/json"]
-        self.assertEqual(len(executable), 2)
+        self.assertEqual(len(executable), 1)
         for script in executable:
             digest = base64.b64encode(hashlib.sha256(script["text"].encode()).digest()).decode()
             self.assertIn(f"'sha256-{digest}'", csp)
@@ -173,8 +173,7 @@ class PublicationTests(unittest.TestCase):
             "Research for a",
             "more coherent world",
             "Root Sequence is an independent interdisciplinary research initiative",
-            "Root Sequence is a place for questions that cross fields",
-            "Root Sequence was started by",
+            "Root Sequence is where",
             "https://github.com/raelovejoy",
             "Why “Root Sequence”?",
             "What conditions made this possible, and what does it make possible next?",

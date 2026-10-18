@@ -261,3 +261,18 @@ Source digest: `6e9ee3e687fdfe00cdbec648c5d7fefdbaf9cdcd45ebdba867eaadd92b7fa1df
 Preview HTML SHA-256: `232d492ec94b0b4f8c9954e8a4137037354952ac73082a49c26fb275d8827231`.
 
 The proposed layout awaits Rae’s review (ROADMAP P1-08). `approval.json` and the Pages workflow are unchanged. No merge, deployment, or live-settings change is included.
+
+## About, research, and dark appearance refinement: 2026-10-17
+
+The separate founder credit is replaced by an integrated About introduction. The research header has one native disclosure and a shorter introduction; the wider repository route follows the selected entries. The six entries and complete methods/evidence/AI-use disclosure were compared byte for byte with the preceding source and are unchanged.
+
+All 11 site checks pass. The existing script-hash check now expects one executable script, following removal of the theme bootstrap; the remaining script’s CSP hash matches its new bytes. The required-copy check follows the revised About introduction. Source and preview are byte-identical; fragments and generated files pass. `approval.json` remains historical and the candidate fails the release gate as intended.
+
+Desktop and 390 × 844 browser inspection found no horizontal overflow. The methods disclosure opens and closes by keyboard. Larger text and one-background mode were exercised at phone width without overflow, then reset. The reading menu retains four controls and has no theme selector. Viewport overrides were reset.
+
+With browser scripts disabled and a light OS preference emulated, the page still rendered dark (`color-scheme: dark`, body RGB 11/36/27). Print emulation rendered the About section white with black text. Both emulation overrides and script disabling were cleared afterward. Existing forced-colors styles remain in the source; full system high-contrast and screen-reader audits were not performed.
+
+Source digest: `1a0a5712569036d90c30dc3197fa2d5a8ba07340b00c2bb259c6b1134cdcfabd`.
+Preview HTML SHA-256: `4403bb72e5975b137bf64260a50f1f071caa823d486ea642d2d831b92e507378`.
+
+These are selected presentation and behavior checks. The revised wording and appearance await Rae’s review under ROADMAP P1-08; they are not publication approval or research validation.
