@@ -359,3 +359,16 @@ Source digest: `3fe458f15b80d7a88d37e0a46539071596de9b9426655dfce675203d3f7ae482
 Preview HTML SHA-256: `bb984f6a88d4974b08ed3efb7f37c83dd3360304e739e90ca2efdb2719c22868`.
 
 These are selected copy/presentation checks, not a complete accessibility audit or publication approval.
+
+## Being Human(e) description and provisional status: 2026-10-17 (Pacific)
+
+Applied writing block `72841` verbatim in HTML and English translation data. Changed the label to “Practical field guide · In development” and replaced the unverified website-not-built note with the statement that observations are provisional and open to disagreement and revision. No private Atlas material or unverified external link is added. Other project descriptions, executable script, builder, and historical publication approval remain unchanged.
+
+The first site run found one stale required-copy expectation for “Its public website has not been built yet.” That existing expectation now requires the new provisional-observations sentence instead. All 11 site tests then passed, including fragment/CSP checks, preview/source byte parity, and the intentionally blocked release gate. No new test was added or assertion removed.
+
+Desktop (1575 pixels) and 390 × 844 inspection found readable wrapping without document overflow. The guide’s panel opens by keyboard and shows the revised description, development status, and provisional note, with no old website-not-built claim or horizontal panel overflow. Escape closes it and returns focus; normal desktop viewport dimensions were restored. The Museum’s current public website was read to prepare its next proposed description; the Museum entry remains unchanged. No broader repository check was rerun; the last recorded reader-document result remains 15 pre-existing errors.
+
+Source digest: `24544528259af9ee733fef47974387d50538bf96f177b830cf0a810051ab7241`.
+Preview HTML SHA-256: `189905adf3af70bac8f33409eeb148e587247dd33b0bc546e4a04d0b18801d9e`.
+
+These are selected copy and interaction checks, not full accessibility or research validation. The candidate remains a draft with no release authorization.

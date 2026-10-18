@@ -190,7 +190,7 @@ class PublicationTests(unittest.TestCase):
             "https://github.com/Root-Sequence/root-sequence/blob/main/research/method-router.md",
             "Being Human(e): An Incomplete Guide",
             'id="project-humane"',
-            "Its public website has not been built yet",
+            "Its observations are provisional and open to disagreement and revision.",
             "Take part in",
             "Cascadia Mono license",
         ):

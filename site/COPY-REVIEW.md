@@ -2,18 +2,30 @@
 
 ## Unapproved professional refresh: October 17, 2026
 
-**Status: mission, accessibility/contribution, research-method, evidence, all six homepage research descriptions, the revised About explanation and invitation, contextual name introduction, four related-project descriptions accepted by Rae, including Community Infrastructure and the requested concise openings; the complete source remains a draft awaiting full-page review and separate publication approval. No merge or deployment is recorded.**
+**Status: mission, accessibility/contribution, research-method, evidence, all six homepage research descriptions, the revised About explanation and invitation, contextual name introduction, five related-project descriptions accepted for the draft, including Being Human(e) with its provisional status and the requested concise openings; the complete source remains a draft awaiting full-page review and separate publication approval. No merge or deployment is recorded.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `3fe458f15b80d7a88d37e0a46539071596de9b9426655dfce675203d3f7ae482`.
-Candidate preview HTML SHA-256: `bb984f6a88d4974b08ed3efb7f37c83dd3360304e739e90ca2efdb2719c22868`.
+Candidate source digest: `24544528259af9ee733fef47974387d50538bf96f177b830cf0a810051ab7241`.
+Candidate preview HTML SHA-256: `189905adf3af70bac8f33409eeb148e587247dd33b0bc546e4a04d0b18801d9e`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Being Human(e) passage and provisional status: October 17, 2026 (Pacific)
+
+Rae authorized application of writing block `72841` and the updated status, clarifying that the guide is not authoritative. The exact description is applied to HTML and English translation data, including the shared project-panel summary:
+
+> A developing field guide to being human and continuing to choose care. It draws on ordinary experience to explore how we relate to one another, including how we set boundaries and take responsibility when we cause harm.
+
+The status is now “Practical field guide · In development.” The public guide repository already contains writing and Astro site source; its listed live website was not verified in this review, so the old “not built yet” claim is removed from both the label and panel note. The panel now says: “The work is in development. Its observations are provisional and open to disagreement and revision.” This reflects Rae’s clarification and the guide’s existing open, evolving editorial scope; it does not turn observations into universal guidance.
+
+No external site link or private Atlas material is added. Other project descriptions and the existing script remain unchanged. Related-project passage review is now **5/7 complete**; Museum of Ordinary Life is next and remains unchanged pending its own passage review. This is draft-edit authorization, not a corpus-wide endorsement, authoritative status, or exact-source website publication approval.
+
+Previous candidate: source `3fe458f15b80d7a88d37e0a46539071596de9b9426655dfce675203d3f7ae482`; HTML `bb984f6a88d4974b08ed3efb7f37c83dd3360304e739e90ca2efdb2719c22868`.
 
 ## Accepted Community Infrastructure and concise openings: October 17, 2026 (Pacific)
 
