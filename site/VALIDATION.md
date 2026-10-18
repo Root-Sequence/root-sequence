@@ -348,3 +348,14 @@ Source digest: `e87e85303a7b725b9f131cd6121179a1f073ace69f62ade329de1bdc291ad8c0
 Preview HTML SHA-256: `e5b783fa1a85c73ecc7391cf34b774d33146831b0a3a028de43fc8ec10aa391f`.
 
 These are selected copy and interaction checks, not a complete accessibility audit, implementation evidence, research validation, or website release approval. The candidate remains a draft.
+
+## Community Infrastructure and concise openings: 2026-10-17 (Pacific)
+
+Applied the accepted Community Infrastructure passage with the requested “Explores” opening. Removed the repeated name from the Coherent Computing and Coherent World openings, using “Explores” and “Brings.” HTML and English translation data agree; the existing novel link and status labels remain. All 11 site checks pass without test changes, including fragment/CSP checks, preview/source byte parity, and the intentionally blocked exact-source release gate. The executable script, builder and historical publication approval are unchanged.
+
+Desktop (1575 pixels) and 390 × 844 browser inspection found no horizontal overflow. The Community Infrastructure details panel opens by keyboard and displays the same new description; Escape closes it and returns focus. Normal desktop dimensions were restored. No broader repository check was rerun for this copy-only update; the last reader-document result remains 15 pre-existing errors. No private-project changes or implementation claims are introduced.
+
+Source digest: `3fe458f15b80d7a88d37e0a46539071596de9b9426655dfce675203d3f7ae482`.
+Preview HTML SHA-256: `bb984f6a88d4974b08ed3efb7f37c83dd3360304e739e90ca2efdb2719c22868`.
+
+These are selected copy/presentation checks, not a complete accessibility audit or publication approval.

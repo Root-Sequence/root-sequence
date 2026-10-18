@@ -2,18 +2,30 @@
 
 ## Unapproved professional refresh: October 17, 2026
 
-**Status: mission, accessibility/contribution, research-method, evidence, all six homepage research descriptions, the revised About explanation and invitation, contextual name introduction, Coherent World, No One Noticed, and revised Coherent Computing descriptions accepted by Rae; the complete source remains a draft awaiting full-page review and separate publication approval. No merge or deployment is recorded.**
+**Status: mission, accessibility/contribution, research-method, evidence, all six homepage research descriptions, the revised About explanation and invitation, contextual name introduction, four related-project descriptions accepted by Rae, including Community Infrastructure and the requested concise openings; the complete source remains a draft awaiting full-page review and separate publication approval. No merge or deployment is recorded.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `e87e85303a7b725b9f131cd6121179a1f073ace69f62ade329de1bdc291ad8c0`.
-Candidate preview HTML SHA-256: `e5b783fa1a85c73ecc7391cf34b774d33146831b0a3a028de43fc8ec10aa391f`.
+Candidate source digest: `3fe458f15b80d7a88d37e0a46539071596de9b9426655dfce675203d3f7ae482`.
+Candidate preview HTML SHA-256: `bb984f6a88d4974b08ed3efb7f37c83dd3360304e739e90ca2efdb2719c22868`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Accepted Community Infrastructure and concise openings: October 17, 2026 (Pacific)
+
+Rae accepted the Community Infrastructure passage from writing block `57203`, asking that its first sentence start with “Explores” because the project name is already in the heading. Rae requested the same change for Coherent Computing and “Brings” for Coherent World. These precise editorial revisions are applied to visible HTML and English translation data; the shared project-panel summaries follow the same text.
+
+- Coherent World now starts “Brings research and design ideas into a possible future…”; the rest of its accepted passage and novel context link remain.
+- Coherent Computing now starts “Explores how computing systems could work around people’s needs…”; the remainder preserves its broader lifecycle scope.
+- Community Infrastructure now reads: “Explores how people can find community and organize everyday life together. It develops tools communities could run and shape for themselves, so people can coordinate help while choosing what they share and how they take part.”
+
+The heading supplies the name in each entry, so a descriptive opening need not repeat it. This is an editorial preference, not a requirement to start every project description with the same verb. The existing private/development/no-release labels remain. Other passages, executable script, and exact-source publication approval are unchanged. Related-project description review is now **4/7 complete**; Being Human(e) is next. This records passage approval and draft implementation, not scientific validation, a private-project change, or publication authorization.
+
+Previous candidate: source `e87e85303a7b725b9f131cd6121179a1f073ace69f62ade329de1bdc291ad8c0`; HTML `e5b783fa1a85c73ecc7391cf34b774d33146831b0a3a028de43fc8ec10aa391f`.
 
 ## Accepted revised Coherent Computing description: October 17, 2026 (Pacific)
 
