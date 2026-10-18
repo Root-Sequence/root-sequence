@@ -2,7 +2,7 @@
 
 ## Unapproved professional refresh: October 17, 2026
 
-**Status: mission, accessibility/contribution, research-method, and evidence passages approved by Rae; the complete source remains a draft awaiting separate publication approval. No merge or deployment is recorded.**
+**Status: mission, accessibility/contribution, research-method, evidence, and all six homepage research descriptions approved by Rae; the complete source remains a draft awaiting full-page review and separate publication approval. No merge or deployment is recorded.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, palette, wordmark, reading controls, overlays, and URLs are preserved.
 

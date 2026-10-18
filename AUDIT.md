@@ -167,7 +167,7 @@ Research drafts keep one substantive home. New material in `research/work-sample
 - Untouched base: **11/11 site checks passed**.
 - Untouched base: reader-document checker reports **15 errors**, comprising one broken relative link and fourteen missing inbound links in living-paper notes. These are pre-existing, not introduced by this refresh. Fixing that paper requires its scoped instructions and a separate pass.
 - Default and bundled Python lack PyYAML; the existing isolated validation environment supplies it for the generated Idea Trail index check. No project dependency change is needed.
-- Live organization bio reads “A systems-oriented lab exploring root structures and unfolding sequences shaping systems, intelligence, technology, and reality.” A replacement is proposed below; live settings have not been changed.
+- The organization bio read “A systems-oriented lab exploring root structures and unfolding sequences shaping systems, intelligence, technology, and reality.” at the initial audit. Rae has since approved the replacement wording below; live settings have not been changed.
 - Current site links and research entry points already provide a useful baseline. Improve identity, claim-status visibility, and disclosure within that structure.
 
 ### Refresh compatibility review: 2026-10-17
@@ -204,7 +204,7 @@ The original #9 guidance still links to a proposed canonical commons anchor. Roo
 
 > Independent interdisciplinary research exploring how intelligence, technology, and social systems shape one another.
 
-This single-sentence version is proposed for Rae’s wording review. It reuses the agreed mission and removes the second list-style sentence. Wording approval and a later live-settings change remain separate. It does not assert an incorporated institute, funded team, academic affiliation, AIAF connection, completed study, or deployed product.
+Rae approved this exact sentence from writing block `61582` on **2026-10-17 (Pacific)** by responding “indeed.” It reuses the agreed mission. The heading remains stable for existing links. Wording approval and a later live-settings change remain separate; no live bio change has been made. It does not assert an incorporated institute, funded team, academic affiliation, AIAF connection, completed study, or deployed product.
 
 ### Review boundary
 

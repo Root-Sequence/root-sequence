@@ -76,7 +76,7 @@ The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Frui
 
 Suggested entry points:
 
-- [Public Seed website source](site/README.md) — approved single-page introduction, publication workflow, and deployment records
+- [Public Seed website source](site/README.md) — current review candidate, publication workflow, and earlier deployment records
 - [Coherence Is a Systems Property](research/papers/coherent-systems/README.md) — v0.1-dev living-paper scaffold; AI-assisted and awaiting author review
 - [Conscious Systems](research/conscious-systems/README.md) — exploratory research question on experience, physical organization, and possible artificial systems; AI-assisted and awaiting author review
 - [Ecosystem Map](ECOSYSTEM.md) — understand the wider project family  

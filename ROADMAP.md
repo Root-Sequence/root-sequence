@@ -29,7 +29,7 @@ This is the single checklist for this refresh. Project-specific backlogs remain 
 | [x] | P1-02 | done | Rae confirmed on 2026-10-17 (Pacific) that draft-only research stays in the clearly labelled repository review queue for Phase 1. The homepage keeps its existing six entry points to material already on `main`; being merged does not establish research validity or complete author review. |
 | [x] | P1-07 | done | **6/6 homepage research entries approved and applied** to HTML and English translation data. Each was checked against its canonical source and reviewed as a short passage. See the approval records below. This completes description review, not research validation or website publication approval. |
 | [x] | P1-03 | done | Current refresh overlaps reconciled. Organization #10 owns the profile summary; #9 retains its four substantive guidance files unchanged and no longer edits the profile. Their combined tree passes without conflict. Root #42–#45 remain individually compatible with the refresh. See the [reconciliation record](AUDIT.md#organization-profile-overlap-resolved-2026-10-17). Older proposals and their dependencies still require separate review. |
-| [ ] | P1-04 | in progress | Review the single-sentence organization bio [proposed in the audit](AUDIT.md#proposed-short-organization-bio). No live bio, repository-description, or pin change is made or bundled with wording approval. |
+| [x] | P1-04 | done | Rae approved the single-sentence organization bio on 2026-10-17 (Pacific). See the [wording record in the audit](AUDIT.md#proposed-short-organization-bio). Live organization settings remain unchanged; wording approval does not authorize a settings change. |
 | [ ] | P1-05 | blocked | Publication requires Rae's separate approval of the exact final website source. Preserve `site/approval.json`; the release build must reject the candidate until then. Merge alone would trigger the existing Pages workflow, so do not merge this source refresh before resolving that gate. |
 | [ ] | P1-06 | to do | Broader documentation repair: the untouched base has 15 reader-check errors in living-paper notes. Repair in its own scoped pass, following that directory's instructions. |
 
@@ -94,6 +94,14 @@ On **2026-10-17 (Pacific)**, Rae approved writing block `96184` by responding �
 
 On **2026-10-17 (Pacific)**, Rae approved writing block `50297` and explicitly requested its application to the draft. The description and status sentence are applied verbatim to the existing Reading Trails entry and English translation data. Its title and canonical source link remain unchanged. All six homepage research descriptions have now completed passage review. This does not approve the resources’ contents, the underlying research corpus, or exact-source website publication.
 
+## Approved short organization bio
+
+On **2026-10-17 (Pacific)**, Rae approved writing block `61582` by responding “indeed.”
+
+> Independent interdisciplinary research exploring how intelligence, technology, and social systems shape one another.
+
+This completes wording review (P1-04). It does not authorize a live organization-bio change. The wording remains in this review branch until Rae separately requests its publication.
+
 ## Review package and update log
 
 - 2026-10-17: checklist created after live audit. Public source work is on `docs/professional-refresh-phase-1-2026-10-17`; private project material remains in its existing repositories.
@@ -104,7 +112,7 @@ On **2026-10-17 (Pacific)**, Rae approved writing block `50297` and explicitly r
 
 - [Root repository, site, plan, and sample: draft PR #46](https://github.com/Root-Sequence/root-sequence/pull/46). Initial implementation commit: `4070fc8b396fc84148ecbe525c1156360d0cec2c`.
 - [Organization profile: draft PR #10](https://github.com/Root-Sequence/.github/pull/10). Implementation commit: `c50bd82f623038e3f7e0b58d6157205dfa29fcdf`.
-- Review the canonical repository first, then the profile. Existing research and commons drafts remain open; reconcile overlapping navigation/profile text before any merge.
-- **Next supported review:** the proposed short organization bio (P1-04). The profile overlap is resolved in the draft branches (P1-03 complete); its new collaboration summary remains reviewable in organization #10. All six homepage research descriptions are approved and applied. Draft-only research stays in the repository queue. The mission, accessibility/contribution, method introduction, and evidence passages are approved; P1-01 and P1-02 are done.
+- Review the canonical repository first, then the profile. The profile overlap has been reconciled; existing research and commons drafts remain open for separate substantive review.
+- **Next supported review:** read the complete website candidate for flow and voice, then review the organization profile’s collaboration summary in #10. The mission, methods/evidence introduction, accessibility/contribution explanation, all six homepage research descriptions, and short organization bio have completed passage review. Draft-only research stays in the repository queue. Full-page review does not authorize a merge, deployment, or live-settings change.
 
-Current status after profile reconciliation: **17 done, 4 to do, 1 in progress, 1 blocked** across 23 tasks. P1-03 and P1-07 are complete; P1-04 is in progress for bio wording review. The blocked item is publication pending a separate exact-source decision. This is a source-review milestone, not a published refresh.
+Current status after bio wording approval: **18 done, 4 to do, 0 in progress, 1 blocked** across 23 tasks. P1-03, P1-04, and P1-07 are complete. The blocked item is publication pending a separate exact-source decision. This is a source-review milestone, not a published refresh.
