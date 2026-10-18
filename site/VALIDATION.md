@@ -484,3 +484,14 @@ Source digest: `db8c1eab425a31497d815897360b4c71cc5f1c4049c83e01c1cca510190c6b39
 Preview HTML SHA-256: `49dcd47ae54cf7c1050a66a5020b6b3e249df238dfe2787347da18495a698600`.
 
 P1-08 remains in progress; Community Infrastructure panel wording is next. No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, or project-status change is included.
+
+## Community Infrastructure panel refinement: 2026-10-18 (Pacific)
+
+Applied writing block `42851` verbatim, replacing the repeated extra paragraph with a development note. Approved description and type remain. Source comparison confirms only Community’s extra-to-note configuration changes in executable code, with CSP refreshed; its corresponding English entry is the only translation-data change. Builder, tests, and historical approval are unchanged. All 11 checks pass, including source/preview parity, CSP, fragments, and release rejection against historical approval.
+
+At 1575 pixels and 390 × 844, the panel has exactly two paragraphs, no empty row, and no horizontal overflow. The note uses the shared context-source-note style. Keyboard opening and Escape closure return focus to the Community title trigger; normal desktop dimensions were restored. Being Human(e)’s unchanged panel was read for review. Its public repository is public and unarchived on main; README and START-HERE confirm developing public writing. A GitHub reading route is proposed, not added. The listed hosted site and private Atlas were not opened or audited. No Community or guide source was changed.
+
+Source digest: `1db06ce623f315e35f3005d6c3792e85ea94a1d46bddf16357fc31a91f72b4da`.
+Preview HTML SHA-256: `6b10c62130d29d27a5f0277ac67f3f3f633d83a6b3da9bed35c8262344470cba`.
+
+P1-08 remains in progress; Being Human(e) is next. These selected checks do not establish complete accessibility or project validation. No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, project-status change, or private-content transfer is included.

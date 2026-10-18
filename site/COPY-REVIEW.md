@@ -2,18 +2,32 @@
 
 ## Unapproved professional refresh: October 18, 2026
 
-**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as are Take part, all four footer passages, and the shorter World, No One Noticed, and Coherent Computing panels. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
+**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as are Take part, all four footer passages, and the shorter World, No One Noticed, Coherent Computing, and Community Infrastructure panels. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `db8c1eab425a31497d815897360b4c71cc5f1c4049c83e01c1cca510190c6b39`.
-Candidate preview HTML SHA-256: `49dcd47ae54cf7c1050a66a5020b6b3e249df238dfe2787347da18495a698600`.
+Candidate source digest: `1db06ce623f315e35f3005d6c3792e85ea94a1d46bddf16357fc31a91f72b4da`.
+Candidate preview HTML SHA-256: `6b10c62130d29d27a5f0277ac67f3f3f633d83a6b3da9bed35c8262344470cba`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Accepted Community Infrastructure panel: October 18, 2026 (Pacific)
+
+Rae approved writing block `42851` and explicitly requested its application before Being Human(e) review:
+
+> These are design proposals in private development. There’s no public service linked here.
+
+The approved description and “Practical design · Private development” type remain. The note replaces the extra paragraph’s repeated description and lengthy availability qualification. It uses the shared development-note styling after the summary. The access statement is bounded to this page; it does not claim a global audit of available services.
+
+Only Community’s extra field changes to a note field in the executable project configuration. Its obsolete extra translation is replaced with the approved note; the CSP hash is refreshed. The builder, tests, and historical exact-source approval are unchanged. No project implementation or private source changes.
+
+Being Human(e) is next. Its already approved description and provisional-status note remain unchanged. The public `Root-Sequence/beinghumane-guide` repository, README, and START-HERE were verified; a public GitHub reading link and removal of the long extra paragraph are proposed for review, not applied. This does not verify the separately listed live website, complete the guide, or transfer private Atlas material. P1-08 remains in progress; footer wording stays 4/4 complete.
+
+Previous candidate: source `db8c1eab425a31497d815897360b4c71cc5f1c4049c83e01c1cca510190c6b39`; HTML `49dcd47ae54cf7c1050a66a5020b6b3e249df238dfe2787347da18495a698600`.
 
 ## Accepted Coherent Computing panel: October 18, 2026 (Pacific)
 
