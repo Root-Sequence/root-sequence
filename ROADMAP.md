@@ -28,9 +28,10 @@ This is the single checklist for this refresh. Project-specific backlogs remain 
 | [x] | P1-01 | done | Rae approved the mission, site/README accessibility and contribution passages, research-method introduction, and revised evidence wording on 2026-10-17 (Pacific). All are applied to the review drafts. These passage approvals do not approve the research corpus or website release. |
 | [x] | P1-02 | done | Rae confirmed on 2026-10-17 (Pacific) that draft-only research stays in the clearly labelled repository review queue for Phase 1. The homepage keeps its existing six entry points to material already on `main`; being merged does not establish research validity or complete author review. |
 | [x] | P1-07 | done | **6/6 homepage research entries approved and applied** to HTML and English translation data. Each was checked against its canonical source and reviewed as a short passage. See the approval records below. This completes description review, not research validation or website publication approval. |
+| [x] | P1-09 | done | **7/7 related-project descriptions reviewed and applied**, including Root Sequence Wiki. Descriptions retain project-specific roles, development limits, and consent boundaries. [Latest passage record](site/COPY-REVIEW.md#accepted-wiki-description-and-next-review-october-17-2026-pacific). This completes entry wording, not full-page or publication approval. |
 | [x] | P1-03 | done | Current refresh overlaps reconciled. Organization #10 owns the profile summary; #9 retains its four substantive guidance files unchanged and no longer edits the profile. Their combined tree passes without conflict. Root #42–#45 remain individually compatible with the refresh. See the [reconciliation record](AUDIT.md#organization-profile-overlap-resolved-2026-10-17). Older proposals and their dependencies still require separate review. |
 | [x] | P1-04 | done | Rae approved the single-sentence organization bio on 2026-10-17 (Pacific). See the [wording record in the audit](AUDIT.md#proposed-short-organization-bio). Live organization settings remain unchanged; wording approval does not authorize a settings change. |
-| [ ] | P1-08 | in progress | Continue related-project descriptions and remaining page flow. **6/7 related-project descriptions reviewed and applied**, including Museum of Ordinary Life. Its independent-archive status and existing fiction/reuse permission explanation remain. [Latest passage record](site/COPY-REVIEW.md#accepted-museum-of-ordinary-life-description-october-17-2026-pacific). **Next: Root Sequence Wiki.** Being Human(e)’s provisional note, accepted About passages, and concise project openings remain. |
+| [ ] | P1-08 | in progress | Finish the site review now that all seven related-project descriptions are complete (P1-09). **Next: Take part and the footer**, including source/history wording against current destinations and remaining project-panel copy. Keep the current public GitHub participation routes until an additional route is explicitly chosen. Then review full-page flow and retained reading/keyboard behavior before a separate exact-source decision. |
 | [ ] | P1-05 | blocked | Publication requires Rae's separate approval of the exact final website source. Preserve `site/approval.json`; the release build must reject the candidate until then. Merge alone would trigger the existing Pages workflow, so do not merge this source refresh before resolving that gate. |
 | [ ] | P1-06 | to do | Broader documentation repair: the untouched base has 15 reader-check errors in living-paper notes. Repair in its own scoped pass, following that directory's instructions. |
 
@@ -46,6 +47,17 @@ The public baseline has priority. This track demonstrates source handling and pr
 | [ ] | P2-04 | to do | Rae reviews the sample and confirms retained claims and contribution wording with source passages available. |
 | [ ] | P2-05 | to do | Add a technical AI/ML paper brief after selected-section reading and domain review. The first conceptual note alone does not establish technical ML proficiency. |
 | [ ] | P2-06 | to do | Tailor selected samples, CV, fit statement, and availability to the current application. No application submission, employer contact, or credential claim is included here. |
+
+## P3: later Wiki reconciliation
+
+Queued after the public-facing baseline. Freshness and completeness of either Wiki layer have not been established by the site-description review. Canonical project repositories and relevant open drafts must be compared with both layers before selecting updates. This plan records later work; no Wiki entries have been transferred.
+
+| Check | ID | Status | Deliverable and evidence |
+| --- | --- | --- | --- |
+| [ ] | P3-01 | to do | Audit freshness and coverage across the public Wiki, private layer, canonical project repositories, and relevant open drafts. Record source revisions, stale or conflicting entries, missing routes, and unresolved provenance in an appropriate private audit location. Extend existing maintenance records where suitable. |
+| [ ] | P3-02 | to do | Prepare small, source-linked candidate updates for private review before public draft PRs. Confirm wording, provenance, visibility, and canonical placement with Rae; preserve stable entity IDs and keep substantive work in its project home. Public builds continue to consume only public sources. |
+
+The public [Wiki overlay contract](https://github.com/Root-Sequence/wiki/blob/main/PRIVATE_OVERLAY.md) defines the shared identities and visibility boundary. Source comparison is still to do; recent activity alone does not establish that the private layer is current. Suitable material can be deliberately transformed for public use after review.
 
 ## Approved mission wording
 
@@ -118,9 +130,9 @@ On **2026-10-17 (Pacific)**, Rae accepted writing block `86204` by replying “b
 - [Root repository, site, plan, and sample: draft PR #46](https://github.com/Root-Sequence/root-sequence/pull/46). Initial implementation commit: `4070fc8b396fc84148ecbe525c1156360d0cec2c`.
 - [Organization profile: draft PR #10](https://github.com/Root-Sequence/.github/pull/10). Implementation commit: `c50bd82f623038e3f7e0b58d6157205dfa29fcdf`.
 - Review the canonical repository first, then the profile. The profile overlap has been reconciled; existing research and commons drafts remain open for separate substantive review.
-- **Next supported review:** Root Sequence Wiki, then remaining page flow (P1-08). The first six related-project descriptions and the contextual name introduction are applied with their recorded qualifications; the founder credit remains in Credits and reuse. The accepted About explanation and invitation remain verbatim. The organization profile’s collaboration summary in #10 follows the website review. Draft-only research stays in the repository queue. Full-page review does not authorize a merge, deployment, or live-settings change.
+- **Next supported review:** Take part and the footer, then project panels and full-page flow (P1-08). All seven related-project descriptions are complete under P1-09. The contextual name introduction and passage qualifications remain; the founder credit remains in Credits and reuse. The accepted About explanation and invitation remain verbatim. The organization profile’s collaboration summary in #10 follows the website review. Draft-only research stays in the repository queue. Full-page review does not authorize a merge, deployment, or live-settings change.
 
-Current status after the Museum of Ordinary Life description: **18 done, 4 to do, 1 in progress, 1 blocked** across 24 tasks. P1-03, P1-04, and P1-07 are complete; the website presentation remains under review in P1-08. The blocked item is publication pending a separate exact-source decision. This is a source-review milestone, not a published refresh.
+Current status after the Wiki description and later reconciliation plan: **19 done, 6 to do, 1 in progress, 1 blocked** across 27 tasks. P1-03, P1-04, P1-07, and P1-09 are complete; the website presentation remains under review in P1-08. The blocked item is publication pending a separate exact-source decision. This is a source-review milestone, not a published refresh.
 
 ## Accepted name context and first related-project description
 
@@ -145,3 +157,9 @@ On **2026-10-17 (Pacific)**, Rae authorized applying writing block `72841` and t
 ## Accepted Museum of Ordinary Life description
 
 On **2026-10-17 (Pacific)**, Rae approved writing block `60427` and requested its application to the draft. The exact passage is applied to HTML and English translation data, including the shared project-panel summary. The independent-archive label and existing panel explanation of separate fictional-reuse permissions remain. No Museum source, collection permissions, or story canon is changed. **Related-project passage review: 6/7 complete; Root Sequence Wiki next.** P1-08 remains in progress, and exact-source publication approval remains separate.
+
+## Accepted Wiki description and later reconciliation plan
+
+On **2026-10-17 (Pacific)**, Rae approved writing block `81962` and requested its application to the draft. The exact passage is applied to HTML and English translation data, including the shared project-panel summary. **All 7/7 related-project descriptions are reviewed and applied; P1-09 is done.** P1-08 remains in progress for closing copy, page notes, panels, and full-page flow. A factual maintenance correction removes an obsolete reference to light-theme controls from Reading help.
+
+Rae also identified later work to bring suitable material from the private Wiki into public view, subject to checking whether the private layer is itself current. P3-01 and P3-02 queue source reconciliation and privately reviewed publication candidates. Only architecture/collaboration boundaries were consulted here; no Wiki freshness audit or content transfer was performed. Exact-source website publication approval remains separate.

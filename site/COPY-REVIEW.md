@@ -2,18 +2,32 @@
 
 ## Unapproved professional refresh: October 17, 2026
 
-**Status: mission, accessibility/contribution, research-method, evidence, all six homepage research descriptions, the revised About explanation and invitation, contextual name introduction, six related-project descriptions accepted for the draft, including Museum of Ordinary Life; Being Human(e)’s provisional status and concise project openings remain; the complete source remains a draft awaiting full-page review and separate publication approval. No merge or deployment is recorded.**
+**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `d708b584356587c6e45b55637f7c3ab69d1bad1767148e6b6d0fca8c49f2738f`.
-Candidate preview HTML SHA-256: `279e6dd5a959f94395d976297307f0cced9292d598cc506f1b31fbf34c822060`.
+Candidate source digest: `eef5e1a6d9b17556a25e6532a75e19b8fec45fa547800ad50d80182d924604ef`.
+Candidate preview HTML SHA-256: `cf10382a73f28b78e0ea5a929604df8a62337da33c768b1f391c6b3ba655667e`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Accepted Wiki description and next review: October 17, 2026 (Pacific)
+
+Rae approved writing block `81962` and explicitly requested its application to the draft:
+
+> Helps you find your way around Root Sequence and follow connections between projects. Entries explain recurring terms and point to the fuller work, with notes on where ideas came from and how they have changed.
+
+The exact description is applied to HTML and English translation data, including the shared project-panel summary. The existing “Project reference · Public website” label remains. This completes all seven related-project description passages (ROADMAP P1-09); the underlying Wiki and its freshness are not validated by this passage review.
+
+A factual maintenance correction removes “light or dark colors” from the footer’s Reading instructions, matching the existing dark-only candidate and retained controls. No executable script, approval record, Wiki data, or project permissions change. The placement note now correctly identifies this source as a review candidate and labels its September 18 hosting account as historical.
+
+The next site review is Take part and the footer, followed by remaining project-panel copy and a full-page pass. Source/history wording still needs comparison with current source destinations. The requested later Wiki freshness and public-coverage work is queued in ROADMAP P3-01/P3-02; no private content is transferred or assumed current. Full-page and exact-source release approval remain separate.
+
+Previous candidate: source `d708b584356587c6e45b55637f7c3ab69d1bad1767148e6b6d0fca8c49f2738f`; HTML `279e6dd5a959f94395d976297307f0cced9292d598cc506f1b31fbf34c822060`.
 
 ## Accepted Museum of Ordinary Life description: October 17, 2026 (Pacific)
 

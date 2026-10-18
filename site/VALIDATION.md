@@ -383,3 +383,14 @@ Source digest: `d708b584356587c6e45b55637f7c3ab69d1bad1767148e6b6d0fca8c49f2738f
 Preview HTML SHA-256: `279e6dd5a959f94395d976297307f0cced9292d598cc506f1b31fbf34c822060`.
 
 These are selected copy and interaction checks, not independent archival validation, complete accessibility, or website publication approval.
+
+## Wiki description and accurate Reading help: 2026-10-17 (Pacific)
+
+Applied writing block `81962` verbatim to HTML and English translation data. Removed an obsolete light/dark-control reference from the footer’s Reading instructions. All 11 site tests pass without test changes, including fragment/CSP checks, preview/source byte parity, and the intentionally blocked release gate. Other descriptions, executable script, builder, and historical approval are unchanged.
+
+Desktop (1575 pixels) and 390 × 844 browser inspection found no horizontal document or panel overflow. The Wiki panel opens by keyboard and shows the same revised summary; Escape closes it and returns focus. The native Accessibility disclosure shows the corrected reading choices. Normal desktop dimensions were restored. The placement note’s stale approved-source claim is corrected, and its old hosting account is labelled historical. Public/private Wiki architecture and collaboration boundaries were read only to plan later work; no entity freshness comparison, synchronization, content transfer, or private-context export is claimed. No broader repository check was rerun; the last recorded reader-document result remains 15 pre-existing errors.
+
+Source digest: `eef5e1a6d9b17556a25e6532a75e19b8fec45fa547800ad50d80182d924604ef`.
+Preview HTML SHA-256: `cf10382a73f28b78e0ea5a929604df8a62337da33c768b1f391c6b3ba655667e`.
+
+All seven related-project descriptions have completed passage review. These are selected presentation checks, not a complete accessibility audit, completed page review, Wiki-content validation, or website publication approval.
