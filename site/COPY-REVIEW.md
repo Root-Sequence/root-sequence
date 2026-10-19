@@ -1,16 +1,15 @@
 # Website copy review
 
-**Unpublished source candidate. All six research descriptions, seven related-project descriptions, Take part, all four footer passages, and seven project-panel refinements are applied. The supported full-page pass is complete; organization-profile consistency and separate exact-source publication approval remain open.**
-
+**Current status: Rae approved the reviewed website for publication on 2026-10-19 (UTC), explicitly requesting “Website changes approved. Publish and continue with org readme consistency etc.” This approval covers the exact page/publisher digest below and its declared publication-state substitutions. Research endorsement, portfolio samples, and the organization-profile draft retain their separate review states.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
-The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
+The [canonical checklist](https://github.com/Root-Sequence/root-sequence/blob/docs/professional-refresh-phase-1-2026-10-17/ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](https://github.com/Root-Sequence/root-sequence/blob/docs/professional-refresh-phase-1-2026-10-17/AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
 Candidate source digest: `8dcd150886446fe180c985b87cc8f913b5d920ad81d8d422de208e46d634847e`.
 Candidate preview HTML SHA-256: `b532f50c0b875f762d695a6d872553983d733d6209e360383ab64776be08eb36`.
 
-`approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
+`approval.json` now records Rae’s approval of this exact source. The release builder accepts this digest and still rejects missing, historical, or changed-source approval. Preview output remains byte-identical to source and `noindex`; release output changes only the declared publication-state markers. Earlier dated entries below retain the approval boundary that applied at the time.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
 

@@ -171,7 +171,7 @@ Remote repository verification should compare the committed blobs with the teste
 - Reader-document check reports the same 15 pre-existing errors as untouched `main`: one broken relative link and fourteen notes without inbound navigation. No new errors from the refresh. This is not a clean whole-repository result.
 - Changed public GitHub file destinations and local Markdown links were checked. No private-project source URLs or content were added to the site.
 
-This is selected browser and structural inspection, not a full WCAG audit, screen-reader assessment, real-device test, independent research review, or live-deployment verification. The preview is a local review artifact. Progress and remaining decisions live in [ROADMAP.md](../ROADMAP.md).
+This is selected browser and structural inspection, not a full WCAG audit, screen-reader assessment, real-device test, independent research review, or live-deployment verification. The preview is a local review artifact. Progress and remaining decisions live in [ROADMAP.md](https://github.com/Root-Sequence/root-sequence/blob/docs/professional-refresh-phase-1-2026-10-17/ROADMAP.md).
 
 ## Approved accessibility and contribution copy: 2026-10-17
 
@@ -245,7 +245,7 @@ Applied the Reading Trails description and status sentence from writing block `5
 
 All 11 site checks and the Idea Trail index check pass. Exact wording, translation parity, and byte-identical preview output were checked. Reading Trails was inspected at desktop width and 390 × 844 CSS pixels with no measured horizontal overflow; viewport overrides were reset. The broader reader-document check still reports the same 15 pre-existing errors.
 
-Tree-only compatibility checks against current PR heads found no textual conflict between the root refresh and each of #42–#45 individually. Organization #9 and #10 conflict in `profile/README.md`; the proposed resolution is recorded in the [audit](../AUDIT.md#refresh-compatibility-review-2026-10-17). No older PR was modified and no branch was merged by those calculations.
+Tree-only compatibility checks against current PR heads found no textual conflict between the root refresh and each of #42–#45 individually. Organization #9 and #10 conflict in `profile/README.md`; the proposed resolution is recorded in the [audit](https://github.com/Root-Sequence/root-sequence/blob/docs/professional-refresh-phase-1-2026-10-17/AUDIT.md#refresh-compatibility-review-2026-10-17). No older PR was modified and no branch was merged by those calculations.
 
 The historical publication approval and Pages workflow remain unchanged. The current candidate still fails the exact-source release gate. These results do not establish scientific validity, complete accessibility, or publication approval.
 
@@ -536,3 +536,11 @@ Source digest: `8dcd150886446fe180c985b87cc8f913b5d920ad81d8d422de208e46d634847e
 Preview HTML SHA-256: `b532f50c0b875f762d695a6d872553983d733d6209e360383ab64776be08eb36`.
 
 P1-08 is complete for the supported page pass. P1-10 is to do; P1-05 remains blocked on separate exact-source publication approval. No merge, deployment, approval-file update, or live-setting change.
+
+## Authorized website release — 2026-10-19 (UTC)
+
+Rae explicitly approved website publication after review commit `0780c6d3ce846680b4485330df3e1dc0af1084bf`. The website-only release is based on current main and carries no research, portfolio, organization-profile, or other unrelated draft changes. `index.html` and `build.py` are byte-identical to the reviewed source. The approval record now matches source digest `8dcd150886446fe180c985b87cc8f913b5d920ad81d8d422de208e46d634847e` and preview HTML SHA-256 `b532f50c0b875f762d695a6d872553983d733d6209e360383ab64776be08eb36`.
+
+The candidate-only historical-approval assertion is updated for the authorized release: it checks the current approval/preview match and still explicitly rejects the historical digest in a temporary fixture. Existing missing-approval and changed-source rejection tests remain. Page/publisher source and publication substitutions are unchanged. Local test/build and live deployment results are recorded as they are verified; authorization alone is not deployment evidence.
+
+All 11 local site tests pass for the authorized release. `build.py --release` succeeds with the matching approval and generates HTML SHA-256 `11688c47ffdde09879de721d6fe0982d2bc596ffaa5f0680334d05cd354cce8f`. Preview/source parity and approved source digest remain unchanged. Deployment and live-domain verification are pending at this commit. The existing Pages workflow and DNS are unchanged.

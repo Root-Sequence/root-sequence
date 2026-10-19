@@ -87,12 +87,19 @@ class PublicationTests(unittest.TestCase):
         parser.feed(path.read_text(encoding="utf-8"))
         return parser
 
-    def test_candidate_does_not_inherit_historical_approval(self):
+    def test_current_approval_matches_source_and_historical_approval_is_rejected(self):
         actual = hashlib.sha256((HERE / "index.html").read_bytes()).hexdigest()
         self.assertNotEqual(actual, APPROVED_PREVIEW_SHA256)
-        approval = json.loads((HERE / "approval.json").read_text())
-        self.assertEqual(approval["approved_preview_sha256"], APPROVED_PREVIEW_SHA256)
-        self.assertNotEqual(builder.source_digest(HERE), approval["source_sha256"])
+        approval = builder.approval_for(HERE, builder.source_digest(HERE))
+        self.assertEqual(approval["approved_preview_sha256"], actual)
+        historical = {
+            "source_sha256": "45288440e4e5f04a6ded6660659bf6f01ade1faf856f59f859b959ee14ea0669",
+            "approved_by": "historical test fixture only",
+            "approved_at": "2026-09-25",
+        }
+        (self.root / "approval.json").write_text(json.dumps(historical), encoding="utf-8")
+        with self.assertRaisesRegex(ValueError, "Release blocked"):
+            self.build(True)
 
     def test_preview_build_preserves_the_approved_html_exactly(self):
         output, manifest = self.build()

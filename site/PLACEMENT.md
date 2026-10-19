@@ -1,12 +1,12 @@
 # Public Seed placement
 
-**Current source status — 2026-10-18**
+**Current source status — 2026-10-19 (UTC)**
 
 `site/index.html` is the canonical reader-facing Root Sequence website source.
-The current professional-refresh source is an unapproved review candidate.
-`approval.json` records the earlier September 25 edition and does not approve
-this candidate. See [the site guide](README.md) and [copy review](COPY-REVIEW.md)
-for current source status and passage decisions.
+Rae approved the professional-refresh source for publication on 2026-10-19 (UTC).
+`approval.json` identifies its exact page/publisher digest. The generated release
+contains only the single page and generated hosting support files. See the
+[site guide](README.md) and [copy review](COPY-REVIEW.md).
 
 The earlier 11-page candidate is retained under
 `site/legacy-public-seed-v0.1/` for history only. Existing research files remain

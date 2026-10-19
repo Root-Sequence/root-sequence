@@ -4,13 +4,13 @@
 
 <img src="assets/root-sequence.png" alt="Root Sequence logo" width="100" align="right" />
 
-Root Sequence is an independent interdisciplinary research initiative started by Rae Lovejoy, exploring how intelligence, technology, and social systems shape one another.
+Root Sequence is an independent interdisciplinary research initiative exploring how intelligence, technology, and social systems shape one another.
 
 The work starts with questions that cross fields and follows them into the research and methods suited to each part. Technical design sits alongside philosophical inquiry. Speculative worlds and fiction offer room to explore consequences without establishing that an imagined mechanism works.
 
 Current public work ranges from research notes to small tools. The AI-assisted working paper still awaits author review. Evidence varies across the project; the material does not establish a finished theory or a validated universal framework.
 
-Rae uses AI both as an accessibility aid and as a tool for developing the work. Read about [accessibility, contributions, and review](research/README.md#accessibility-ai-assistance-and-contributions).
+Rae Lovejoy, who started Root Sequence, uses AI both as an accessibility aid and as a tool for developing the work. Read about [accessibility, contributions, and review](research/README.md#accessibility-ai-assistance-and-contributions).
 
 **Read next:** [selected research, methods, evidence, and AI use](research/README.md) · [professional-refresh checklist](ROADMAP.md) · [short orientation](START-HERE.md).
 
@@ -34,7 +34,7 @@ Read the maintained explanation in [Why “Root Sequence”?](concepts/root-sequ
 
 ## Public Seed v0.1
 
-The reader-facing website source lives in [`site/`](site/README.md). Its single-page public seed introduces the project and routes readers into the research, related projects, and participation paths without replacing their canonical homes. The website directory also records approval, validation, and deployment boundaries.
+The reader-facing website source lives in [`site/`](site/README.md). The [published professional refresh](https://rootsequence.systems/) introduces the project and routes readers into the research, related projects, and participation paths without replacing their canonical homes. The website directory also records approval, validation, and deployment boundaries.
 
 ---
 
@@ -76,7 +76,7 @@ The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Frui
 
 Suggested entry points:
 
-- [Public Seed website source](site/README.md) — current review candidate, publication workflow, and earlier deployment records
+- [Public Seed website source](site/README.md) — approved professional refresh, publication workflow, and deployment records
 - [Coherence Is a Systems Property](research/papers/coherent-systems/README.md) — v0.1-dev living-paper scaffold; AI-assisted and awaiting author review
 - [Conscious Systems](research/conscious-systems/README.md) — exploratory research question on experience, physical organization, and possible artificial systems; AI-assisted and awaiting author review
 - [Ecosystem Map](ECOSYSTEM.md) — understand the wider project family  

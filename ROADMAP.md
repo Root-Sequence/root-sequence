@@ -1,6 +1,6 @@
 # Root Sequence professional refresh
 
-**Canonical progress checklist · started 2026-10-17 · Phase 1 draft ready for review**
+**Canonical progress checklist · started 2026-10-17 · Website published · README consistency draft ready for review**
 
 This plan improves the public introduction to Root Sequence as an independent interdisciplinary research initiative started by Rae Lovejoy. Its exploratory writing, technical questions, social inquiry, and speculative work remain part of the project. The [research method](research/method.md), [repository map](root_map.md), and [ecosystem map](ECOSYSTEM.md) retain their existing authority.
 
@@ -19,7 +19,7 @@ This is the single checklist for this refresh. Project-specific backlogs remain 
 | [x] | P0-07 | done | Prepare organization profile consistency in `Root-Sequence/.github/profile/README.md`; record a proposed short bio for later approval. |
 | [x] | P0-08 | done | Validate site, preview, script hashes, navigation, and changed links. Compare repository documentation failures against the untouched base. |
 | [x] | P0-09 | done | Inspect wide and narrow browser layouts, keyboard navigation, disclosures, and project panels. Record remaining accessibility limits. |
-| [x] | P0-10 | done | Open and verify linked draft PRs. Do not merge, deploy, change live organization settings, or update exact-source approval. |
+| [x] | P0-10 | done | Open and verify linked draft PRs. The initial review boundary was preserved; Rae subsequently approved the website-only publication recorded in P1-05. Other draft/publication decisions and live organization settings remain separate. |
 
 ## P1: supported review and publication decisions
 
@@ -32,8 +32,9 @@ This is the single checklist for this refresh. Project-specific backlogs remain 
 | [x] | P1-03 | done | Current refresh overlaps reconciled. Organization #10 owns the profile summary; #9 retains its four substantive guidance files unchanged and no longer edits the profile. Their combined tree passes without conflict. Root #42–#45 remain individually compatible with the refresh. See the [reconciliation record](AUDIT.md#organization-profile-overlap-resolved-2026-10-17). Older proposals and their dependencies still require separate review. |
 | [x] | P1-04 | done | Rae approved the single-sentence organization bio on 2026-10-17 (Pacific). See the [wording record in the audit](AUDIT.md#proposed-short-organization-bio). Live organization settings remain unchanged; wording approval does not authorize a settings change. |
 | [x] | P1-08 | done | Supported site review complete: Take part, **4/4 footer passages and 7/7 panel refinements applied**. Read the seven-section flow; checked wide/narrow layout, section navigation and focus, native disclosures, reading controls, project panels, and script-free reading. See the [page-pass record](site/COPY-REVIEW.md#wiki-panel-and-full-page-review-october-18-2026-pacific) and [validation](site/VALIDATION.md#wiki-panel-and-full-page-review-2026-10-18-pacific). Full accessibility review and Rae’s exact-source decision remain separate. |
-| [ ] | P1-10 | to do | Align the companion organization-profile draft’s short summaries and collaboration explanation with approved website wording. In particular, replace its OS-only Computing introduction with the broader computing-system/lifecycle scope. Reuse accepted passages, retain project authority and development limits, and review concise wording before applying it. No live profile or bio change. |
-| [ ] | P1-05 | blocked | Publication requires Rae's separate approval of the exact final website source. Preserve `site/approval.json`; the release build must reject the candidate until then. Merge alone would trigger the existing Pages workflow, so do not merge this source refresh before resolving that gate. |
+| [x] | P1-10 | done | Prepare and verify organization-profile consistency in [draft #10](https://github.com/Root-Sequence/.github/pull/10), head `7d772afaef9e99c089e1189f2148b1d6f9ff790e`. Reuse the approved site opening/invitation and project passages, preserve all six research limits, broaden Computing beyond OS-only scope, contextualize the founder, and retain AI/accessibility disclosure in native details. Fix the fuller-explanation link to an existing public section. Rendered draft and public-tree paths checked; publication remains for P1-11. |
+| [x] | P1-05 | done | Rae explicitly approved website publication on 2026-10-19 (UTC). [Website-only PR #47](https://github.com/Root-Sequence/root-sequence/pull/47) merged as `b179a7fa56252dfd9fefbb3f93dcf1a9e1dd3ec6`; [Pages run](https://github.com/Root-Sequence/root-sequence/actions/runs/39211072192) succeeded. Live HTTPS apex and www return the exact generated release. The approval record matches the reviewed source; the gate still rejects historical/stale approval. No other draft or research endorsement follows. |
+| [ ] | P1-11 | to do | Rae reviews the organization-profile draft and remaining repository front-door documentation before publication. Publish approved documentation separately from applicant samples unless those receive their own P2-04 review. Keep existing research/governance PRs and live organization bio decisions separate. |
 | [ ] | P1-06 | to do | Broader documentation repair: the untouched base has 15 reader-check errors in living-paper notes. Repair in its own scoped pass, following that directory's instructions. |
 
 ## P2: small applicant work-samples track
@@ -131,9 +132,9 @@ On **2026-10-17 (Pacific)**, Rae accepted writing block `86204` by replying “b
 - [Root repository, site, plan, and sample: draft PR #46](https://github.com/Root-Sequence/root-sequence/pull/46). Initial implementation commit: `4070fc8b396fc84148ecbe525c1156360d0cec2c`.
 - [Organization profile: draft PR #10](https://github.com/Root-Sequence/.github/pull/10). Implementation commit: `c50bd82f623038e3f7e0b58d6157205dfa29fcdf`.
 - Review the canonical repository first, then the profile. The profile overlap has been reconciled; existing research and commons drafts remain open for separate substantive review.
-- **Next supported review:** Bring the organization-profile draft into line with the approved site descriptions (P1-10), starting with Coherent Computing’s broader scope. The Wiki cut and supported full-page pass are complete. Later Wiki freshness reconciliation is still queued; no material has been transferred. Exact-source publication approval remains separate.
+- **Next supported review:** Review the rendered organization README in draft #10 and the remaining repository front-door changes (P1-11). Website publication is complete. Applicant samples still await P2-04 review; later Wiki freshness reconciliation remains queued, with no material transferred.
 
-Current status after the Wiki and supported page pass: **20 done, 7 to do, 0 in progress, 1 blocked** across 28 tasks. P1-08 is complete within the recorded browser-check scope. P1-10 tracks the companion profile follow-up. Publication remains blocked pending a separate exact-source decision.
+Current status after website publication and README consistency: **22 done, 7 to do, 0 in progress, 0 blocked** across 29 tasks. P1-05 and P1-10 are complete; P1-11 tracks the remaining documentation review/publication decision.
 
 ## Accepted name context and first related-project description
 
@@ -212,3 +213,11 @@ On **2026-10-18 (Pacific)**, Rae accepted writing block `62749` by responding �
 ## Wiki panel and supported page pass
 
 On **2026-10-18 (Pacific)**, Rae accepted the proposed Wiki repetition cut by replying “Ok, continue.” The cut is applied, completing 7/7 panel refinements. The seven-section flow and selected wide/narrow, keyboard, reading-control, and script-free checks are complete. See the [dated record](site/COPY-REVIEW.md#wiki-panel-and-full-page-review-october-18-2026-pacific). This completes P1-08, with full accessibility review and exact-source publication acceptance still separate. P1-10 records the remaining companion-profile consistency work; its OS-only Coherent Computing introduction needs to reflect the broader approved scope.
+
+## Website publication and README consistency: October 19, 2026 (UTC)
+
+Rae explicitly instructed: “Website changes approved. Publish and continue with org readme consistency etc.” This supersedes the earlier website-only publication hold. It does not approve the research corpus, applicant exercise, organization-profile draft, or other repository changes for merging.
+
+Published the reviewed page/publisher digest `8dcd150886446fe180c985b87cc8f913b5d920ad81d8d422de208e46d634847e` through website-only PR #47. The local approved release and live apex/www HTML share SHA-256 `11688c47ffdde09879de721d6fe0982d2bc596ffaa5f0680334d05cd354cce8f`. Pages run `39211072192` succeeded; a browser load confirms the current mission, `index,follow`, published footer, and no desktop overflow. See the [release receipt](AUDIT.md#website-publication-and-organization-readme-consistency-2026-10-19).
+
+Organization draft #10 now reuses the approved site framing, invitation, project descriptions and evidence limits. Its founder reference has context, its Computing summary retains the wider lifecycle scope, and the AI/accessibility explanation stays available in native details. Six research entries are curated without changing their evidence status. The public source/fragment destinations resolve in current main; the fuller accessibility route no longer depends on an unpublished README heading. The rendered GitHub disclosure opens by keyboard. This is a prepared consistency draft, not publication approval. The canonical website source on this branch is reconciled exactly with published main; older dated review records retain their historical limits.
