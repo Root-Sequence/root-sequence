@@ -1,19 +1,28 @@
 # Website copy review
 
-## Unapproved professional refresh: October 18, 2026
+**Unpublished source candidate. All six research descriptions, seven related-project descriptions, Take part, all four footer passages, and seven project-panel refinements are applied. The supported full-page pass is complete; organization-profile consistency and separate exact-source publication approval remain open.**
 
-**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as are Take part, all four footer passages, and the first six project-panel refinements. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `a5d02bc304092cdf9ccdbcda161cf6de1d99e425225418d250fb31f98b7170b8`.
-Candidate preview HTML SHA-256: `1028fcb522597402c4a23d39ad9e15b7e8a1a35843cb5b06e1b52155eb0e98ca`.
+Candidate source digest: `8dcd150886446fe180c985b87cc8f913b5d920ad81d8d422de208e46d634847e`.
+Candidate preview HTML SHA-256: `b532f50c0b875f762d695a6d872553983d733d6209e360383ab64776be08eb36`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Wiki panel and full-page review: October 18, 2026 (Pacific)
+
+Rae accepted the proposed removal of the Wiki panel’s repeated extra paragraph by replying “Ok, continue.” Removed that paragraph and its optional configuration field; the approved description, type, and original website action remain. All seven panel refinements are now applied. Only the Wiki field removal changes executable code; its CSP hash is refreshed. No new wording, Wiki entry, private source, builder, test, or historical approval change is included.
+
+The completed supported page pass read the seven-section flow and retained source/evidence qualifications. Desktop and phone checks covered navigation, native disclosures, reading choices, and the seven project panels. The page remains an unpublished review candidate. These checks complete P1-08’s supported review, not Rae’s exact-source acceptance, research validation, or full accessibility review.
+
+One consistency follow-up remains: the companion organization-profile draft still introduces Coherent Computing as operating-system research alone. Its short project summaries and collaboration explanation should be compared with the now-approved website wording before final source acceptance. P1-10 tracks this draft-only follow-up; the profile is unchanged in this pass. Later Wiki freshness reconciliation remains queued separately.
+
+Previous candidate: source `a5d02bc304092cdf9ccdbcda161cf6de1d99e425225418d250fb31f98b7170b8`; HTML `1028fcb522597402c4a23d39ad9e15b7e8a1a35843cb5b06e1b52155eb0e98ca`.
 
 ## Accepted Museum of Ordinary Life panel: October 18, 2026 (Pacific)
 

@@ -517,3 +517,22 @@ Source digest: `a5d02bc304092cdf9ccdbcda161cf6de1d99e425225418d250fb31f98b7170b8
 Preview HTML SHA-256: `1028fcb522597402c4a23d39ad9e15b7e8a1a35843cb5b06e1b52155eb0e98ca`.
 
 Panel refinement pass is 6/7 complete; P1-08 remains in progress for the Wiki decision and full-page review. These are selected rendering and interaction checks, not a complete accessibility or Wiki-content audit. No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, rights change, or private-source transfer is included.
+
+## Wiki panel and full-page review: 2026-10-18 (Pacific)
+
+Removed only the Wiki’s repeated extra paragraph and optional configuration field, retaining its approved summary/type/website route. Source comparison confirms the English translation loses only `overlay.wikiExtra`, and the only executable change removes `extra:'wikiExtra'` from the Wiki configuration. Its CSP hash is refreshed. Builder, tests, and historical `approval.json` remain byte-identical to HEAD. All 11 site tests pass, including fragments, CSP, source/preview parity, and rejection by the exact-source release gate.
+
+Read the complete seven-section page and expanded About, methods, and four footer disclosures. The page distinguishes hypothetical examples, fiction, developing proposals, AI assistance, and incomplete research review. Desktop visual inspection at 1575 × 897 covered the introduction, About, research opening, possibilities, projects, and participation. All seven section-menu destinations received heading focus below the sticky header. The discussion link opens its explanatory panel; Tab reaches the correctly labelled GitHub action. No external action was activated.
+
+At desktop and 390 × 844, project panels retain their summaries and useful development/permission notes without empty paragraphs or horizontal overflow. The Wiki has exactly one description paragraph and its original website action. Escape restores trigger focus. A rapid mobile sweep sampled the prior World state for the novel; an individual state-synchronized check confirmed the novel title and no overflow. World’s inline novel link switches panels correctly and closes back to World’s trigger. A first anchor screenshot immediately after viewport switching had an outdated reading position; explicit section navigation then placed the introduction correctly. No persistent navigation failure was reproduced.
+
+At phone width, there is no section or page horizontal overflow, including with enlarged text. All four reading controls are reflected in the page data attributes; enlarged body text is 22.4 px, one background applies to chapters, less motion suppresses animation, and Keep navigation in the page makes the phone controls static. Reset clears all four choices. English/source-edition guidance remains available. Desktop dimensions and default reading choices were restored.
+
+In a temporary tab with script execution disabled, all seven sections and direct research-source links remain, the no-script explanation is visible, and methods/privacy native disclosures open by keyboard. Script execution was restored and the temporary tab closed. This is script-free reading verification, not a screen-reader or real-device test. Full accessibility conformance, assisted-technology review, print output, live-host behavior, and external website freshness were not newly tested. Earlier print and contrast records retain their dated scope.
+
+Screenshots and preview are in the local handoff outputs; only generated site files were served. The source-only publication gate remains in force. The broader reader-document suite was not rerun; the earlier 15-error baseline remains unresolved. The companion organization profile still needs wording consistency work (P1-10), especially Computing’s broader scope. Wiki freshness, private/public transfers, consent, licenses, research results, and fictional canon remain outside this edit.
+
+Source digest: `8dcd150886446fe180c985b87cc8f913b5d920ad81d8d422de208e46d634847e`.
+Preview HTML SHA-256: `b532f50c0b875f762d695a6d872553983d733d6209e360383ab64776be08eb36`.
+
+P1-08 is complete for the supported page pass. P1-10 is to do; P1-05 remains blocked on separate exact-source publication approval. No merge, deployment, approval-file update, or live-setting change.
