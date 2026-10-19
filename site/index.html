@@ -7,7 +7,7 @@
 <meta content="dark" name="color-scheme"/>
 <meta content="noindex,nofollow" name="robots"/>
 <meta content="no-referrer" name="referrer"/>
-<meta content="default-src 'none'; script-src 'sha256-O9ovh9MuLZHWdibR713YQ+ou8lvZPXBqOMg62Z7m86Q='; style-src 'unsafe-inline'; font-src data:; img-src data:; connect-src 'none'; base-uri 'none'; form-action 'none'; object-src 'none'" http-equiv="Content-Security-Policy"/>
+<meta content="default-src 'none'; script-src 'sha256-9qB2OvKP3CB2g9V+9PHjIAY08tYjIpM4T5dCMXkz0IY='; style-src 'unsafe-inline'; font-src data:; img-src data:; connect-src 'none'; base-uri 'none'; form-action 'none'; object-src 'none'" http-equiv="Content-Security-Policy"/>
 <title>Root Sequence · Research for a more coherent world</title>
 <meta content="Root Sequence is an independent interdisciplinary research initiative exploring how intelligence, technology, and social systems shape one another." name="description"/>
 <link href="https://rootsequence.systems/" rel="canonical"/>
@@ -943,6 +943,7 @@ html{scrollbar-gutter:stable}html[data-overlay-open]{overflow:hidden;overscroll-
     "overlay.sourceCue": "View link details without leaving this page.",
     "overlay.jump": "Find this project on the page",
     "overlay.website": "Open the project website",
+    "overlay.guideSource": "Explore the guide on GitHub",
     "overlay.openSource": "Open the original page",
     "overlay.newTab": "Opens in a new tab",
     "overlay.readingPlace": "Closing this panel returns you to your place in the page.",
@@ -953,7 +954,6 @@ html{scrollbar-gutter:stable}html[data-overlay-open]{overflow:hidden;overscroll-
     "overlay.novelStatus": "The manuscript is still in development. There’s no public website linked here.",
     "overlay.computingStatus": "This is research and design work. There’s no public release to try yet.",
     "overlay.communityStatus": "These are design proposals in private development. There’s no public service linked here.",
-    "overlay.humaneExtra": "The guide begins with grounded observations and practical reflection about care, harm, fear, grief, power, repair, interdependence, and tenderness, with theory underneath rather than standing in the doorway.",
     "overlay.humaneStatus": "The work is in development. Its observations are provisional and open to disagreement and revision.",
     "overlay.museumExtra": "The archive and its fictional counterpart have different purposes. Sharing material with the real Museum does not automatically permit its use in the novel.",
     "overlay.wikiExtra": "The Wiki helps readers find names, definitions, project relationships, and the canonical home of longer work without duplicating that work here.",
@@ -1076,7 +1076,7 @@ world:{name:'Coherent World',type:'worldType',summary:'world',note:'worldStatus'
 novel:{name:'No One Noticed',type:'novelType',summary:'novel',note:'novelStatus'},
 computing:{name:'Coherent Computing',type:'computingType',summary:'computing',note:'computingStatus'},
 community:{name:'Community Infrastructure',type:'communityType',summary:'community',note:'communityStatus'},
-humane:{name:'Being Human(e): An Incomplete Guide',type:'humaneType',summary:'humane',extra:'humaneExtra',note:'humaneStatus'},
+humane:{name:'Being Human(e): An Incomplete Guide',type:'humaneType',summary:'humane',note:'humaneStatus',url:'https://github.com/Root-Sequence/beinghumane-guide',urlLabel:'guideSource'},
 museum:{name:'Museum of Ordinary Life',type:'museumType',summary:'museum',extra:'museumExtra',url:'https://museumofordinarylife.org/'},
 wiki:{name:'Root Sequence Wiki',type:'wikiType',summary:'wiki',extra:'wikiExtra',url:'https://wiki.rootsequence.systems/'}
 };
@@ -1153,7 +1153,7 @@ if(!trigger.closest('#projects')){
  const jump=document.createElement('a');jump.href='#project-'+slug+'-title';jump.className='source-link';jump.textContent=t('overlay.jump');
  jump.addEventListener('click',e=>{e.preventDefault();closeTarget=jump.getAttribute('href');contextDialog.close();});contextActions.append(jump);
 }
-if(p.url)externalAction(p.url,t('overlay.website'));
+if(p.url)externalAction(p.url,t('overlay.'+(p.urlLabel||'website')));
 if(switching){contextDialog.scrollTop=0;contextTitle.focus({preventScroll:true});}else openContext(trigger);
 }
 function showSource(a){

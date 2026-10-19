@@ -2,18 +2,34 @@
 
 ## Unapproved professional refresh: October 18, 2026
 
-**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as are Take part, all four footer passages, and the shorter World, No One Noticed, Coherent Computing, and Community Infrastructure panels. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
+**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as are Take part, all four footer passages, and the World, No One Noticed, Computing, Community, and Being Human(e) panel refinements. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `1db06ce623f315e35f3005d6c3792e85ea94a1d46bddf16357fc31a91f72b4da`.
-Candidate preview HTML SHA-256: `6b10c62130d29d27a5f0277ac67f3f3f633d83a6b3da9bed35c8262344470cba`.
+Candidate source digest: `cd7e1a6612ca8d83ed9c29a02172dea10dd2a74018ce8595278847ee1b9aecb8`.
+Candidate preview HTML SHA-256: `a1a0e27d0972627f530b0a05dc6530f045f8f7806be46c86c7c7d256889f0e31`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Accepted Being Human(e) panel: October 18, 2026 (Pacific)
+
+Rae approved writing block `73608` and explicitly requested its application before Museum of Ordinary Life review:
+
+> The work is in development. Its observations are provisional and open to disagreement and revision.
+
+> [Explore the guide on GitHub](https://github.com/Root-Sequence/beinghumane-guide)
+
+The approved description and in-development type remain. The provisional note was already approved and remains verbatim; the long extra paragraph is removed. The new action links to the verified public, unarchived repository rather than making an unverified hosted-site claim. No guide content, private Atlas material, or contributed-source permissions change.
+
+Removed the extra field/translation and added the guide action plus its label. The shared action renderer supports an optional project label, preserving the default “Open the project website” label for other projects. These are the only executable changes; CSP is refreshed. Builder, tests, and historical approval remain unchanged.
+
+The Museum panel’s description and website action remain. Its real/fictional reuse distinction is next for clearer wording, grounded in the existing ECOSYSTEM entry; no Museum change is applied. P1-08 stays in progress, with footer wording still 4/4 complete.
+
+Previous candidate: source `1db06ce623f315e35f3005d6c3792e85ea94a1d46bddf16357fc31a91f72b4da`; HTML `6b10c62130d29d27a5f0277ac67f3f3f633d83a6b3da9bed35c8262344470cba`.
 
 ## Accepted Community Infrastructure panel: October 18, 2026 (Pacific)
 

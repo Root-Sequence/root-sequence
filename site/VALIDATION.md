@@ -495,3 +495,14 @@ Source digest: `1db06ce623f315e35f3005d6c3792e85ea94a1d46bddf16357fc31a91f72b4da
 Preview HTML SHA-256: `6b10c62130d29d27a5f0277ac67f3f3f633d83a6b3da9bed35c8262344470cba`.
 
 P1-08 remains in progress; Being Human(e) is next. These selected checks do not establish complete accessibility or project validation. No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, project-status change, or private-content transfer is included.
+
+## Being Human(e) panel refinement: 2026-10-18 (Pacific)
+
+Applied writing block `73608`: kept the already approved provisional note verbatim, removed the extra paragraph, and added the verified public GitHub action. Description and type remain unchanged. Source comparison confirms only the guide configuration and optional action-label fallback change in executable code; its CSP is refreshed. English changes remove the old extra and add the new action label. Builder, tests, and historical approval are unchanged. All 11 site checks pass, including source/preview parity, CSP, fragments, and rejection of the candidate by the release gate.
+
+At 1575 pixels and 390 × 844, the panel has two paragraphs without empty rows or horizontal overflow. The GitHub action has the approved label, correct destination, `_blank`, and `noopener noreferrer`; keyboard Tab reaches it at both widths. Escape closes the panel and returns focus to the guide trigger. The Museum panel retains its original website action label and URL through the shared fallback. Neither external action was activated. Normal desktop dimensions were restored. The browser runtime had reset between turns; the existing preview tab was reconnected rather than creating a replacement.
+
+Source digest: `cd7e1a6612ca8d83ed9c29a02172dea10dd2a74018ce8595278847ee1b9aecb8`.
+Preview HTML SHA-256: `a1a0e27d0972627f530b0a05dc6530f045f8f7806be46c86c7c7d256889f0e31`.
+
+The Museum’s autonomy and fiction/consent boundary were checked in the existing ECOSYSTEM entry for its next wording proposal. Museum source and permissions remain unchanged. P1-08 stays in progress; selected browser checks do not establish complete accessibility or project validation. No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, private-content transfer, or guide-source change is included.
