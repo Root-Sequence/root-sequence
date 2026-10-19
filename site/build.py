@@ -21,18 +21,15 @@ SOURCE_FILES = ("build.py", "index.html")
 RELEASE_REPLACEMENTS = (
     ('<meta content="noindex,nofollow" name="robots"/>',
      '<meta content="index,follow" name="robots"/>', 1),
-    ('This preview rearranges existing project text and adds proposed About and participation copy.',
-     'This public seed rearranges existing project text and adds About and participation copy.', 2),
+    ('This page is an AI-assisted draft being reviewed before publication.',
+     'This page was developed with AI assistance.', 2),
     ('Privacy and this preview', 'Privacy and this site', 2),
-    ('This is a local review copy, not a deployment or a publication approval. There are no manuscript scenes in this edition.',
-     'This is the public seed edition of the Root Sequence site. There are no manuscript scenes in this edition.', 2),
-    ('A future hosted version may produce ordinary request logs at its hosting provider. This local preview makes no claim about the provider’s retention or access policies.',
-     'This hosted version may produce ordinary request logs at its hosting provider. This site makes no claim about the provider’s retention or access policies.', 2),
-    ('Design study · Updated 25 September 2026 · Not a published site',
-     'Public seed · Published 25 September 2026', 2),
-    ('This preview has no separate public website to link to for Coherent World.',
-     'This site has no separate public website to link to for Coherent World.', 1),
-    ('so this preview does not link to it.', 'so this site does not link to it.', 1),
+    ('This is a local preview for reviewing the site before publication.',
+     'This is the public seed edition of the Root Sequence site.', 2),
+    ('If the site is published, its hosting provider may keep request logs. The provider’s logging and retention policies haven’t been checked for this preview.',
+     'This site’s hosting provider may keep request logs. Its logging and retention policies haven’t been checked as part of this review.', 2),
+    ('Review candidate · Updated 18 October 2026 · Not a published site',
+     'Public seed · Professional refresh', 2),
 )
 
 
@@ -91,7 +88,7 @@ def build(root: Path, output: Path, release: bool = False) -> dict:
         "sitemap.xml": (
             '<?xml version="1.0" encoding="UTF-8"?>\n'
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-            f"  <url><loc>{BASE_URL}</loc><lastmod>2026-09-25</lastmod></url>\n"
+            f"  <url><loc>{BASE_URL}</loc><lastmod>2026-10-18</lastmod></url>\n"
             "</urlset>\n"
         ).encode(),
         ".nojekyll": b"",
