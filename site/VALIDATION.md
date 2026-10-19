@@ -506,3 +506,14 @@ Source digest: `cd7e1a6612ca8d83ed9c29a02172dea10dd2a74018ce8595278847ee1b9aecb8
 Preview HTML SHA-256: `a1a0e27d0972627f530b0a05dc6530f045f8f7806be46c86c7c7d256889f0e31`.
 
 The Museum’s autonomy and fiction/consent boundary were checked in the existing ECOSYSTEM entry for its next wording proposal. Museum source and permissions remain unchanged. P1-08 stays in progress; selected browser checks do not establish complete accessibility or project validation. No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, private-content transfer, or guide-source change is included.
+
+## Museum of Ordinary Life panel refinement: 2026-10-18 (Pacific)
+
+Applied writing block `62749` verbatim. The approved description, type, and website action remain unchanged. Source comparison confirms only Museum’s extra-to-note configuration changes in executable code, with CSP refreshed; its corresponding English entry is the only translation-data change. Builder, tests, and historical approval are unchanged. All 11 tests pass, including source/preview parity, CSP, fragments, and rejection by the exact-source release gate.
+
+At 1575 pixels and 390 × 844, the panel has two paragraphs, no empty row, and no horizontal overflow. The permission note uses the shared qualifier style. Keyboard Tab reaches the unchanged Museum website action; Escape closes the panel and restores focus. Normal desktop dimensions were restored. The Wiki panel was read for the next proposal and still has its approved description, repeated extra paragraph, and original website action. Neither website action was activated. No Museum, Wiki, contributed-material, or fictional-canon source was changed.
+
+Source digest: `a5d02bc304092cdf9ccdbcda161cf6de1d99e425225418d250fb31f98b7170b8`.
+Preview HTML SHA-256: `1028fcb522597402c4a23d39ad9e15b7e8a1a35843cb5b06e1b52155eb0e98ca`.
+
+Panel refinement pass is 6/7 complete; P1-08 remains in progress for the Wiki decision and full-page review. These are selected rendering and interaction checks, not a complete accessibility or Wiki-content audit. No broader repository check was rerun; the last reader-document result remains 15 pre-existing errors. No merge, deployment, approval-file update, rights change, or private-source transfer is included.

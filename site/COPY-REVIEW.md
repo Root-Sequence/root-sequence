@@ -2,18 +2,32 @@
 
 ## Unapproved professional refresh: October 18, 2026
 
-**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as are Take part, all four footer passages, and the World, No One Noticed, Computing, Community, and Being Human(e) panel refinements. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
+**Status: mission, methods/evidence and contribution wording, all six research descriptions, and all seven related-project descriptions have passage approval for the draft. The About explanation and invitation are accepted, as are Take part, all four footer passages, and the first six project-panel refinements. Remaining page review and exact-source publication approval are open; this refresh remains unmerged and undeployed.**
 
 This candidate extends the existing `site/index.html` rather than introducing a new site framework. The mission describes an independent interdisciplinary research initiative. Selected research retains its six existing routes and adds visible evidence/review limits. A native disclosure panel explains methods, substantive AI assistance, and unfinished human review. The existing headline, section order, green visual identity, wordmark, overlays, and URLs remain. The current refinement uses the dark palette alone; other reading controls are retained.
 
 The [canonical checklist](../ROADMAP.md) tracks source preparation, review, and the secondary work-samples track. The [dated audit](../AUDIT.md#professional-refresh-audit-2026-10-17) records existing PR overlap and source authority. This edition does not present Root Sequence as affiliated with AIAF or as an established research institution.
 
-Candidate source digest: `cd7e1a6612ca8d83ed9c29a02172dea10dd2a74018ce8595278847ee1b9aecb8`.
-Candidate preview HTML SHA-256: `a1a0e27d0972627f530b0a05dc6530f045f8f7806be46c86c7c7d256889f0e31`.
+Candidate source digest: `a5d02bc304092cdf9ccdbcda161cf6de1d99e425225418d250fb31f98b7170b8`.
+Candidate preview HTML SHA-256: `1028fcb522597402c4a23d39ad9e15b7e8a1a35843cb5b06e1b52155eb0e98ca`.
 
 `approval.json` still identifies the September 25 edition. It must not be updated until Rae separately approves the exact final source. The release builder rejects the current candidate. Preview builds stay byte-identical to the source and `noindex`; the proposed release label no longer predicts a publication date. The sitemap date describes the source revision.
 
 Changes were checked against the repository's writing guidance, including the retrieved Rossmann editing reference. Research source records and paper-level AI disclosures are linked, not rewritten or silently upgraded. See [validation](VALIDATION.md) for checks and limits.
+
+## Accepted Museum of Ordinary Life panel: October 18, 2026 (Pacific)
+
+Rae accepted writing block `62749` by responding “ok nice.” Continuing the established review sequence, the exact note is applied:
+
+> A fictional version of the Museum appears in the novel No One Noticed. Sharing material with the real archive doesn’t automatically give permission to use it in the novel.
+
+The approved description and “Independent archive · Public website” type remain. The original public website action is unchanged. The note names the novel explicitly and keeps the existing real/fiction consent distinction; it changes no contributor permission, license, Museum source, or fictional canon.
+
+The project’s extra field becomes a permission-note field and its English entry is replaced. The shared qualifier styling makes its role clear after the description. This configuration change is the only executable change, with CSP refreshed. Builder, tests, and historical exact-source approval remain unchanged.
+
+The Wiki’s extra paragraph repeats its already approved description. Removing it while retaining the description and website link is proposed next; Wiki source remains unchanged. This does not audit Wiki freshness or authorize any private/public content transfer. Six of seven panel refinements are applied, footer wording remains 4/4 complete, and P1-08 continues to full-page review after the Wiki decision.
+
+Previous candidate: source `cd7e1a6612ca8d83ed9c29a02172dea10dd2a74018ce8595278847ee1b9aecb8`; HTML `a1a0e27d0972627f530b0a05dc6530f045f8f7806be46c86c7c7d256889f0e31`.
 
 ## Accepted Being Human(e) panel: October 18, 2026 (Pacific)
 
