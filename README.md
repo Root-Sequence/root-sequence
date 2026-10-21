@@ -6,7 +6,7 @@
 
 Root Sequence is an independent interdisciplinary research initiative exploring how intelligence, technology, and social systems shape one another.
 
-The work starts with questions that cross fields and follows them into the research and methods suited to each part. Technical design sits alongside philosophical inquiry. Speculative worlds and fiction offer room to explore consequences without establishing that an imagined mechanism works.
+This repository holds research and developing ideas that connect different parts of Root Sequence. Individual projects keep their own direction and maintain their detailed work separately.
 
 Current public work ranges from research notes to small tools. The AI-assisted working paper still awaits author review. Evidence varies across the project; the material does not establish a finished theory or a validated universal framework.
 
