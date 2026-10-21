@@ -17,6 +17,8 @@ Put together, **Root Sequence** names a way of asking two linked questions:
 
 The first question looks beneath an event or artifact. The second follows what develops from it. Neither direction is complete alone.
 
+Root Sequence is therefore an inquiry not merely into why things are the way they are, but **how they became that way, what their present arrangements make possible or impossible, and how changing those arrangements might produce different futures.** A limitation can be real within a particular arrangement without being a universal limit. Understanding the conditions that produce it helps distinguish what must be respected, what may be changed, and what is worth preserving.
+
 ## Roots are plural and relational
 
 “Root” does not mean that every problem has one hidden first cause. Systems usually have many roots at different scales: material conditions, inherited structures, cultural stories, technical choices, power relationships, ecological limits, maintenance practices, and ordinary habits.
@@ -34,6 +36,14 @@ A sequence may branch, loop, stall, reverse, or be interrupted. Different partic
 Sequences also become roots. An outcome in one moment becomes part of the starting conditions for what follows. A tool becomes infrastructure; a repeated choice becomes a norm; a story becomes an assumption; a failure becomes knowledge—or becomes another buried dependency.
 
 That recursion is central to the name. Root Sequence is interested not only in where systems come from, but in how they keep producing the conditions of their own continuation or transformation.
+
+## Constraints, possibility, and alternative sequences
+
+**The constraints of a system are not necessarily the limits of possibility.** A rule, dependency, institutional arrangement, technical interface, or inherited practice can restrict what people can do here and now without establishing what must always be true. Constraints can also be enabling or protective: not every connection should be severed, and not every boundary should be removed.
+
+A central question is therefore: **What would have to change for something currently impossible to become possible—and for whom?** The answer must attend to material limits, resources, historical conditions, who controls the rules, who bears the cost, and what other possibilities an intervention might close. Imagining an alternative is not the same as showing that it is reachable, accessible, desirable, or just.
+
+The inquiry can itself follow this recursive pattern: an observation leads to new questions; investigation makes relationships legible; findings change which questions can be asked next. The method is not a claim that all domains share one causal mechanism. See [Disentanglement and System-Relative Constraints](../systems/principles/disentanglement-and-constraints.md) for an exploratory analysis of this distinction.
 
 ## A routing and synthesis layer, not a replacement discipline
 
