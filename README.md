@@ -26,6 +26,8 @@ A **root** is an underlying condition, relationship, history, dependency, or con
 
 Together, the name asks: **What conditions made this possible, and what does it make possible next?** Sequences can become roots for whatever follows, so the inquiry is recursive rather than a search for one first cause or one predetermined path.
 
+The inquiry also asks how an arrangement's constraints shape available possibilities: which limits are fundamental, which depend on current conditions, what connections should be preserved, and what different futures could become reachable through change. An obstacle can be real without being inevitable; an imagined alternative can be possible without yet being accessible.
+
 Read the maintained explanation in [Why “Root Sequence”?](concepts/root-sequence.md).
 
 ## Public Seed v0.1
