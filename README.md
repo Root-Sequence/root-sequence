@@ -52,7 +52,7 @@ The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Frui
 ## 📂 Repository map
 
 - [`site/`](site/README.md) — reader-facing Public Seed website source; not a replacement for research or the Wiki
-- [`research/`](research/README.md) — bounded research inquiries and versioned synthesis papers; underlying concepts and evidence retain their canonical homes
+- [`research/`](research/README.md) — bounded inquiries and synthesis papers, including [What If It All Works?](research/what-if-it-all-works/README.md) on progress, access, perfection, and the ethics of what's left out; underlying concepts and evidence retain their canonical homes
 - [`research/methods/`](research/methods/README.md) — shared error-correcting inquiry methods, including epistemic contrast and deliberative inquiry
 - [`founding-texts/`](founding-texts/README.md) — founding texts, early models, manifestos, normative essays, and historical orientations
 - [`systems/`](systems/README.md) — analytical principles, models, and methods for understanding system behavior

@@ -20,6 +20,8 @@ This directory holds bounded research inquiries and versioned papers that synthe
 
 - [Conscious Systems](conscious-systems/README.md) — **exploratory, AI-assisted seed; author review pending**. Starts with [what can change about a mind while preserving consciousness](conscious-systems/what-can-we-change-about-a-mind.md), separating experience from report, capability, and authority.
 
+- [What If It All Works?](what-if-it-all-works/README.md) — **exploratory / AI-assisted / author review pending**. Investigates what counts as progress, who benefits, meaningful access, contested ideals, ethical uncertainty, and why imperfection neither excuses harm nor defeats improvement.
+
 ## Cross-cutting related work
 
 - [Adaptive continuity / dynamic coherence — intellectual lineage and prior art](dynamic-coherence-lineage.md) — **targeted related-work note; not a novelty finding or systematic review**. Traces state/parameter change, ultrastability, requisite variety, double-loop learning, resilience engineering, sustained adaptability, adaptive management/governance, path dependence, and second-order cybernetics; also records prior uses of the phrase “dynamic coherence.”
