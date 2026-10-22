@@ -8,7 +8,7 @@ Root Sequence is an independent interdisciplinary research initiative exploring 
 
 This repository holds research and developing ideas that connect different parts of Root Sequence. Individual projects keep their own direction and maintain their detailed work separately.
 
-Current public work ranges from research notes to small tools. The AI-assisted working paper still awaits author review. Evidence varies across the project; the material does not establish a finished theory or a validated universal framework.
+Work here ranges from research notes to experimental tools. Evidence and review status vary, and the working paper is AI-assisted and still awaits author review. The material does not establish a finished theory or a validated universal framework.
 
 Rae Lovejoy, who started Root Sequence, uses AI both as an accessibility aid and as a tool for developing the work. Read about [accessibility, contributions, and review](research/README.md#accessibility-ai-assistance-and-contributions).
 
