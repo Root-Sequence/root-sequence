@@ -40,6 +40,8 @@ Three former empty placeholders have been retired so they are not mistaken for f
 
 ---
 
+**Related cross-cutting inquiry:** [What If It All Works?](../research/what-if-it-all-works/README.md) asks how to recognize and distribute progress without assuming a perfect endpoint; it is an exploratory research seed, not a futures blueprint.
+
 ## Purpose
 
 Use this folder to:
