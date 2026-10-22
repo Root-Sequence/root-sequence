@@ -27,6 +27,7 @@ Under what conditions do advances in knowledge, technology, and collective coord
 | D. Care, burden, and omission | Who performs maintenance? Who is unseen by indicators? Whose testimony is discounted? | care ethics, feminist/social epistemology, environmental justice | qualitative interviews, document analysis, distributional assessment |
 | E. Adaptation rather than finality | How do institutions recognize mistakes and revise without capture or chaos? | adaptive governance, organizational learning, resilience engineering | longitudinal cases, rule-change tracing, scenario comparisons |
 | F. Testable recombinations | Which assumptions survive interaction among social, technical, and ecological systems? | systems modeling, agent-based models, human-centered evaluation | bounded simulation calibrated and challenged by cases |
+| G. Experiential plurality and meaning | Can common conditions support many individual paths to connection, enjoyment, meaning, and shared empathy without prescribing one feeling? | phenomenology, aesthetics, psychology of emotion, disability and accessibility studies | qualitative contrasting accounts and participant-defined outcomes; no universal euphoria metric |
 
 ### Epistemic separation
 
@@ -69,6 +70,7 @@ See [The Ethics of Etcetera](ethics-of-etcetera.md) for the distinct problem of 
 - Do proposed safeguards obstruct urgent benefits, and how would that be detected?
 - How could "everyone" be assessed without denying plural identities and interests?
 - How can action proceed responsibly despite genuine disagreement and incomplete evidence?
+- Can a shared social improvement leave room for genuinely different experiences of value, including no desire for euphoria or emotional connection? How do we distinguish access to meaningful possibilities from engineering feelings?
 
 ## First practical outputs
 
@@ -84,6 +86,6 @@ See [The Ethics of Etcetera](ethics-of-etcetera.md) for the distinct problem of 
 - **Being Human(e):** ordinary-life care, comprehension, dignity, support, and refusal.
 - **Coherent World:** speculative stress tests of policies and infrastructures; remain within its own access rules.
 - **Common Future Compact / policy work:** institutional proposals subject to cost, rights, and feasibility analysis.
-- **Existential Euphoria:** the experience of finitude, contradictions, meaning, and openness; not a substitute for evidence.
+- **[Existential Euphoria](https://github.com/Root-Sequence/existential-euphoria):** experiential and aesthetic questions about wonder, contradiction, and connection. Its existing *coherence without sameness* and *joy as a design consideration* themes offer a related perspective, not evidence that all people should seek the same emotional outcome.
 
 [Inquiry index](README.md) · [Related work](related-work.md)

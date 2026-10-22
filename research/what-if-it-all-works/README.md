@@ -41,6 +41,7 @@ These are **normative working propositions**, not empirical findings or unquesti
 - **Corrigibility is not an excuse for weak commitments.** Institutions should be capable of correction while protecting rights, accountability, and justified constraints.
 - **The word "perfect" needs a stated reference frame.** A well-specified optimization target is not the same as a perfect society or complete moral theory.
 - **Et cetera means unfinished attention.** The omitted perspectives, costs, experiences, and unknowns remain reasons for humility and inquiry, not reasons to suspend action indefinitely.
+- **Shared flourishing does not require identical experience.** What invites wonder, belonging, care, or meaning may differ radically between people; access to possibility is not an obligation to feel a prescribed emotion.
 
 ## What this inquiry does not claim
 
@@ -55,6 +56,7 @@ It does not demonstrate that utopia exists, that humanity already knows every an
 - [Research Method](../method.md), [Epistemic Contrast](../methods/epistemic-contrast.md), and [Deliberative Inquiry](../methods/deliberative-inquiry.md): how to check claims and compare perspectives.
 - [Futures](../../futures/README.md): plural trajectories instead of one inevitable or perfected endpoint.
 - [Coherent World](https://github.com/Root-Sequence/coherent-world): possible speculative translation, under that project's own boundary and review.
+- [Existential Euphoria](https://github.com/Root-Sequence/existential-euphoria): complementary experiential inquiry; its [Patterns](https://github.com/Root-Sequence/existential-euphoria/blob/main/PATTERNS.md) already articulate *coherence without sameness* and *joy as a design consideration*, without prescribing an emotional response. A shared opportunity can support different, equally legitimate experiences.
 
 The full treatment belongs here. Other projects should link or transform a bounded question rather than copy this inquiry or inherit its conclusions.
 
