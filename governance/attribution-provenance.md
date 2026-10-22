@@ -9,7 +9,7 @@ Distinguish originating a question, connecting existing work, writing, editing, 
 
 For a specific result, cite its document-level authors and sources, exact path, version/commit, date where known, and relevant limitations. Do not invent a first-discovery date, DOI, affiliation, peer review, successful experiment, or author approval. The [root citation file](../CITATION.cff) identifies the project as a whole; it is not a substitute for item-level credit.
 
-GitHub recognizes root-level `CITATION.cff` metadata on the default branch.[^cff] While this change is a draft PR, the default-branch citation interface has not been changed.
+GitHub recognizes root-level `CITATION.cff` metadata on the default branch.[^cff] A citation file proposed only on a pull-request branch does not update that interface. Once the file is present on the default branch, GitHub uses it for the repository's citation prompt; this does not establish item-level authorship, completed review, or policy adoption.
 
 ## Minimal provenance block
 
