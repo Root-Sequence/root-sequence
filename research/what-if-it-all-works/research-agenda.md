@@ -42,6 +42,7 @@ Under what conditions do advances in knowledge, technology, and collective coord
 - **H3 — Metric gap.** Aggregate welfare improvements can coexist with distributional harms that chosen measurements overlook.
 - **H4 — Adaptation gap.** Institutions with better accessible feedback and correction mechanisms may respond more effectively to novel harms, but may also face instability or capture risks.
 - **H5 — Anti-perfection risk.** Rejecting a final ideal may enable plural flourishing or may instead provide cover for avoidable harm, depending on accountability and substantive protections.
+- **H6 — Omission and repair.** Making decision boundaries and appeal mechanisms more legible may reveal harms missed by aggregate performance measures; additional processes may also introduce cost, delay, or capture.
 
 ### What would weaken these claims?
 
@@ -56,6 +57,8 @@ Find cases where simply providing a benefit *does* reliably translate into meani
 Do not reduce the inquiry to a "perfection score," a universal moral ranking, or an unweighted six-item audit. Instead collect plural indicators, record tradeoffs and uncertainty, use disaggregated outcomes, and make participation/appeal procedures visible.
 
 Candidate dimensions: technical performance, availability, affordability, accessibility, actual uptake, informed choice, control/exit, distribution of costs and labor, ecological impacts, challenge/repair mechanisms, and sustained usefulness. Selection of indicators is itself a governance decision.
+
+See [The Ethics of Etcetera](ethics-of-etcetera.md) for the distinct problem of omissions, unrecognized stakeholders, and the politics of deciding what counts.
 
 ## Critical counterquestions
 

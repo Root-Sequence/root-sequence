@@ -26,6 +26,7 @@ These are **normative working propositions**, not empirical findings or unquesti
 - [What If It All Works? — essay](essay.md): a conversational reconstruction of the central questions, preserving the wonder and uncertainty.
 - [Original question cascade](source-questions.md): the exact source questions from the October 22, 2026 conversation, before editorial interpretation.
 - [The Problem of Perfection](perfection.md): the difference between a local ideal and a universal one, value conflict, reality and interpretation, ethical uncertainty, and the risks of perfectionism.
+- [The Ethics of Etcetera](ethics-of-etcetera.md): whose interests, measurements, and lived experiences are left out, and what responsible correction might require.
 - [Research agenda](research-agenda.md): questions, methods, rival explanations, proposed tests, and explicit failure modes.
 - [Related work and source trail](related-work.md): established literatures and what they do—and do not—support.
 - [Pilot case: Free and accessible AI?](case-study-ai-access.md): a bounded application that might challenge the framework.
