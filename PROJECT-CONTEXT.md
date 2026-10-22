@@ -21,6 +21,7 @@ It is not the whole organization and does not absorb project-specific implementa
 | What is this repository? | [`README.md`](README.md) |
 | How does Root Sequence research across fields? | [`research/method.md`](research/method.md) and [`research/method-router.md`](research/method-router.md) |
 | Which shared methods support evidence-weighted inquiry and collective judgment? | [`research/methods/README.md`](research/methods/README.md), [`research/methods/epistemic-contrast.md`](research/methods/epistemic-contrast.md), and [`research/methods/deliberative-inquiry.md`](research/methods/deliberative-inquiry.md) |
+| Where are the proposed publication, licensing, provenance, and reuse safeguards? | [`governance/README.md`](governance/README.md); review-pending guidance, not adopted restrictions |
 | How does the organization connect? | [`ECOSYSTEM.md`](ECOSYSTEM.md) |
 | How is this repository organized? | [`root_map.md`](root_map.md) |
 | Where should a new thought go? | [`THOUGHT_ROUTING.md`](THOUGHT_ROUTING.md) |
@@ -36,6 +37,8 @@ The repository contains active and historical writing, sourced research scaffold
 ## Repository structure
 
 `research/`, including `research/methods/`, `systems/`, and `concepts/` hold current inquiry; `analysis/`, `ideology/`, and `futures/` apply or extend it; `founding-texts/` preserves origins; `commons/` produces reusable artifacts; `site/` is a reader-facing projection; `cli/` contains experiments; `incubator/` holds temporary, explicitly non-canonical project seeds pending migration or a final home.
+
+`governance/` holds proposed research-publication, licensing, attribution, and collaboration procedures. It does not replace broader commons work, organization-level maintenance stewardship, or project-specific consent and release rules. The procedures and project-level `CITATION.cff` add no restrictions to existing licenses.
 
 ## Ecosystem connections
 
@@ -54,7 +57,7 @@ These are typed transformations, not a command hierarchy.
 
 - Treat relationships—dependencies, interfaces, feedbacks, authority, translations, flows, conditions, and histories—as first-class objects of inquiry.
 - Route mechanisms to the fields and methods that study them, then reconnect findings without erasing domain differences.
-- Use epistemic contrast before convergence and deliberative inquiry before consequential collective judgment; preserve uncertainty, dissent, and revision conditions.
+- Use epistemic contrast before convergence and deliberative inquiry before consequential collective judgment or authorization; preserve uncertainty, dissent, and revision conditions.
 - Preserve one canonical home and link rather than copying undifferentiated material.
 - Distinguish evidence, interpretation, hypothesis, normative position, and fiction.
 - Treat disagreement and failed connections as information.
