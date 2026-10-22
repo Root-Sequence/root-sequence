@@ -60,6 +60,8 @@ Perhaps we'd recognize progress not by flying cities or an ultimate revelation b
 
 And what about experiences that cannot be shared in quite the same way? A particular song, movement, thought, or chance encounter might open a profound sense of wonder or connection for one person. Someone else might feel something equally meaningful in a completely different moment—or not seek euphoria at all. Neither response is a failure. Sharing an experience does not necessarily mean experiencing the same thing, and empathy need not require identical feelings. If we want more people to flourish, perhaps we should attend to their freedom to find meaning on their own terms rather than designing one supposedly ideal emotional result for everyone.
 
+A moment like that might feel spiritual without requiring a religious belief or a supernatural explanation. Someone else might interpret a similar feeling through religious practice, psychology, philosophy, or music itself. These accounts needn't be forced into one vocabulary. Perspective profoundly shapes the meaning of an encounter, even if it does not determine everything that happened or settle the nature of reality. We might share a world—and even recognize something in one another's experiences—without sharing a metaphysics.
+
 But we should be careful. The impossibility of perfection doesn't excuse preventable harm. And the existence of imperfection doesn't invalidate progress.
 
 Nobody needs to be perfect to deserve the benefits of progress, compassion, dignity, or love.

@@ -71,6 +71,7 @@ See [The Ethics of Etcetera](ethics-of-etcetera.md) for the distinct problem of 
 - How could "everyone" be assessed without denying plural identities and interests?
 - How can action proceed responsibly despite genuine disagreement and incomplete evidence?
 - Can a shared social improvement leave room for genuinely different experiences of value, including no desire for euphoria or emotional connection? How do we distinguish access to meaningful possibilities from engineering feelings?
+- How can different people interpret similarly powerful experiences as secular, spiritual, religious, aesthetic, or psychological without imposing one interpretation or treating subjective intensity as proof of a metaphysical claim?
 
 ## First practical outputs
 
