@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-23 — Supporting-record navigation repair
+
+Linked the existing T-003 case-selection, packet, registration, and method records from their current open-questions section. Corrected the protocol's relative link to Dynamic Coherence. The exercise findings, manuscript claims, author-review state, and distinction between editorial pilots and independent validation are unchanged.
+
 ## v0.1-dev — 2026-09-25 — Relational coherence and router-role revision
 
 Revised the paper after the September 24–25 adaptive-continuity work and three

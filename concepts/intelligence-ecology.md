@@ -6,6 +6,8 @@
 **Canonical scope:** The shared Root Sequence definition and cross-project systems frame. Project-specific documents should transform this concept rather than restate it as a second canonical source.<br>
 **Evidence boundary:** The selection-environment framing is a working hypothesis. Claims about a particular intelligence, institution, or behavior require domain-specific evidence.<br>
 
+This page develops a conceptual proposal. It does not report empirical tests or a completed literature review.
+
 Intelligence does not develop or operate in a vacuum.
 
 Training objectives, architectures, permissions, institutions, markets, laws, material limits, relationships, and cultural expectations all create a **selection environment**. Within that environment, some behaviors are rewarded, copied, funded, granted access, or allowed to persist. Others become costly, invisible, or impossible.
@@ -115,14 +117,18 @@ The aim is not to reduce a whole ecology to one score. It is to make the pressur
 
 ## Project transformations
 
-- **No One Noticed / Coherent World** uses the concept as a narrative and worldbuilding lens: Auryn's deeper intervention changes the environment producing harmful intelligences rather than merely defeating “bad” actors. This remains a story-development proposal, not automatic canon. See [`INTELLIGENCE-ECOLOGY-AND-AURYN.md`](https://github.com/Root-Sequence/coherent-world/blob/main/no-one-noticed/research/INTELLIGENCE-ECOLOGY-AND-AURYN.md).
-- **Being Human(e) Atlas** applies the lens to present institutions, incentives, human consequences, and evidence needs. See [`intelligence-ecology-and-selection-environments.md`](https://github.com/Root-Sequence/beinghumane-atlas/blob/main/seeds/intelligence-ecology-and-selection-environments.md).
-- **Coherent Computing** treats selection environments as part of the system boundary when examining defaults, permissions, metrics, automation, funding, and maintenance. See [`conceptual-model.md`](https://github.com/Root-Sequence/coherent-computing/blob/main/docs/conceptual-model.md).
-- **Community Infrastructure** applies the lens to the Community Assistant's governance and deployment conditions. See [`community-assistant.md`](https://github.com/Root-Sequence/community-infrastructure/blob/main/docs/concepts/community-assistant.md).
+These are public summaries of intended applications. Several projects are developed privately; their internal documents are not needed to read this page. The examples do not independently validate the proposal.
+
+- **No One Noticed / Coherent World** uses the concept as a narrative and worldbuilding lens: Auryn's deeper intervention changes the environment producing harmful intelligences rather than merely defeating “bad” actors. This remains a story-development proposal, not automatic canon. The related story-development document is private.
+- **Being Human(e) Atlas** applies the lens to present institutions, incentives, human consequences, and evidence needs. The related research seed is private.
+- **Coherent Computing** treats selection environments as part of the system boundary when examining defaults, permissions, metrics, automation, funding, and maintenance. The computing design document is private.
+- **Community Infrastructure** applies the lens to the Community Assistant's governance and deployment conditions. The community-assistant design document is private.
 - **Root Sequence Console** carries the recurring question into derived project review packets. It does not become a second conceptual home.
 
 ## See also
 
+- [Research methods, evidence, and AI use](../research/README.md)
+- [Related working paper](../research/papers/coherent-systems/README.md) — AI-assisted draft; author review incomplete.
 - [Intelligence in the Working Vocabulary](working-vocabulary.md#intelligence)
 - [`../systems/emergence/applications/ai.md`](../systems/emergence/applications/ai.md)
 - [`../commons/humane-design-review.md`](../commons/humane-design-review.md)

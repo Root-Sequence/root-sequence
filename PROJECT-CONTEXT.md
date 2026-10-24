@@ -10,7 +10,7 @@ status: active-living
 
 ## Purpose and scope
 
-Root Sequence is the organization’s public conceptual commons and transdisciplinary research-and-design router: the broadest home for systems inquiry, shared concepts, research synthesis, analysis, and possible futures. It decomposes cross-field questions, routes their mechanisms to relevant disciplines and methods, reconnects findings without treating different mechanisms as identical, and translates useful results into research, tests, simulations, tools, designs, or possible futures.
+Root Sequence is an independent interdisciplinary research initiative started by Rae Lovejoy. This repository is the organization’s public conceptual commons and transdisciplinary research-and-design router: the broadest home for systems inquiry, shared concepts, research synthesis, analysis, and possible futures. It decomposes cross-field questions, routes their mechanisms to relevant disciplines and methods, reconnects findings without treating different mechanisms as identical, and translates useful results into research, tests, simulations, tools, designs, or possible futures.
 
 It is not the whole organization and does not absorb project-specific implementation, gathering practice, intelligence ethics, private worldbuilding, narrative canon, or autonomous Museum governance.
 
@@ -18,6 +18,7 @@ It is not the whole organization and does not absorb project-specific implementa
 
 | Question | Canonical source |
 | --- | --- |
+| What is the professional-refresh plan and status? | [`ROADMAP.md`](ROADMAP.md) |
 | What is this repository? | [`README.md`](README.md) |
 | How does Root Sequence research across fields? | [`research/method.md`](research/method.md) and [`research/method-router.md`](research/method-router.md) |
 | Which shared methods support evidence-weighted inquiry and collective judgment? | [`research/methods/README.md`](research/methods/README.md), [`research/methods/epistemic-contrast.md`](research/methods/epistemic-contrast.md), and [`research/methods/deliberative-inquiry.md`](research/methods/deliberative-inquiry.md) |
@@ -31,7 +32,7 @@ It is not the whole organization and does not absorb project-specific implementa
 
 ## Current reality
 
-The repository contains active and historical writing, sourced research scaffolds, concepts, systems principles, analysis, futures, public artifacts, the Public Seed site source, and small navigation tools. The canonical research method formalizes the project’s route–synthesize–test–build workflow. Working, review-pending Epistemic Contrast and Deliberative Inquiry methods make the error-correcting layer explicit: broaden the model before convergence, route claims to stronger evidence and native methods, preserve dissent and uncertainty, and revise after observing consequences. The September 25 router-role website source has exact-source approval, and GitHub Actions successfully built and deployed the approved commit to GitHub Pages. That approval covers the website source and mechanical publication-state transformation only; it does not approve the underlying research papers or frameworks. GitHub Pages deployment is evidenced, but an independent browser fetch of the custom domain has not yet been recorded. The repository also temporarily hosts the public bootstrap seed for Commons of Inquiry & Creation under `incubator/`; that seed is explicitly non-canonical here, proposes a future standalone repository, and does not establish an operating institution. Maturity and evidence vary by document. Root Sequence is not a finished theory, validated universal model, deployed social system, or single doctrine.
+The repository contains active and historical writing, sourced research scaffolds, concepts, systems principles, analysis, futures, public artifacts, the Public Seed site source, and small navigation tools. The canonical research method formalizes the project’s route–synthesize–test–build workflow. Working, review-pending Epistemic Contrast and Deliberative Inquiry methods make the error-correcting layer explicit: broaden the model before convergence, route claims to stronger evidence and native methods, preserve dissent and uncertainty, and revise after observing consequences. The professional-refresh website is approved and published; the remaining documentation and work-sample drafts retain their separate review states. The October 19 (UTC) professional-refresh website has exact-source approval and a successful GitHub Pages deployment. HTTPS apex and www responses match the generated release, and a browser load confirms the published page. This approval covers website presentation and mechanical publication-state substitutions; research papers and frameworks retain their own review status. The repository also temporarily hosts the public bootstrap seed for Commons of Inquiry & Creation under `incubator/`; that seed is explicitly non-canonical here, proposes a future standalone repository, and does not establish an operating institution. Maturity and evidence vary by document. Root Sequence is not a finished theory, validated universal model, deployed social system, or single doctrine.
 
 ## Repository structure
 
@@ -43,7 +44,7 @@ The repository contains active and historical writing, sourced research scaffold
 - **Human grounding:** Being Human(e) supplies lived-scale observations and tensions.
 - **Aesthetic and experiential exploration:** Existential Euphoria explores wonder, contradiction, interdependence, and possibility while leaving “good” and “coherent” open to examination.
 - **Embodied practice:** Liberation Mass explores gathering and shared stewardship.
-- **Present-world testing:** Community Infrastructure tests selected ideas under practical constraints.
+- **Present-world design:** Community Infrastructure develops proposals for community-controlled systems under practical constraints.
 - **Speculative recombination:** Coherent World recombines mechanisms and stress-tests interactions and consequences in simulation; *No One Noticed* makes transition lived through narrative.
 - **Findability:** the Wiki indexes names, provenance, relationships, and canonical homes.
 - **Institutional incubation:** Commons of Inquiry & Creation is a public seed for a proposed residential commons, temporarily hosted under `incubator/` and intended to migrate to a standalone repository. Root Sequence does not govern a future community by default.

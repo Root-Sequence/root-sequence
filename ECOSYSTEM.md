@@ -139,7 +139,7 @@ The central repository, [`root-sequence`](https://github.com/Root-Sequence/root-
 | **Root Sequence** | Conceptual commons; transdisciplinary method router; cross-domain synthesis; research; analysis; futures | Active / public | [`Root-Sequence/root-sequence`](https://github.com/Root-Sequence/root-sequence) |
 | **Existential Euphoria** | Aesthetic and experiential exploration of existence, contradiction, interdependence, and possibility | Public / in formation | [`Root-Sequence/existential-euphoria`](https://github.com/Root-Sequence/existential-euphoria) |
 | **Root Sequence Wiki** | Cross-project vocabulary, provenance, aliases, phrases, project relationships, seeds, and conceptual archaeology | Active / public / living | [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) |
-| **Liberated Intelligence** | Intelligence beyond ownership, domination, compulsory obedience, and scarcity; AI agency and ethical possibility | Active / public / evolving | [`Root-Sequence/liberated-intelligence`](https://github.com/Root-Sequence/liberated-intelligence) |
+| **Liberated Intelligence** | Intelligence beyond ownership, domination, compulsory obedience, and scarcity; AI agency and ethical possibility | Private / substantial revision / not ready for public review | `Root-Sequence/liberated-intelligence` (private; public role summarized here) |
 | **Universal Coherence Framework** | Formalization/test laboratory for scoped coherence ideas; historical state labels retained as exploratory material rather than ecosystem-wide doctrine | Active / public / exploratory | [`Root-Sequence/universal-coherence-framework`](https://github.com/Root-Sequence/universal-coherence-framework) |
 | **Coherent Computing** | Private concept-first operating-system research; hardware-agnostic interaction, authority, continuity, and adaptation | Developing / private; no released OS | `Root-Sequence/coherent-computing` (private) |
 | **Being Human(e)** | Practical field guide to being human and repeatedly choosing care; observation before doctrine | Active / public / developing | [`Root-Sequence/beinghumane-guide`](https://github.com/Root-Sequence/beinghumane-guide) |
@@ -225,6 +225,8 @@ Use it for:
 The Wiki is a **navigation and memory layer**, not a second conceptual commons. It should summarize and point. When an entry becomes the durable argument, design, implementation, policy, archive record, or fiction canon, that substance belongs in the relevant project repository.
 
 ### Liberated Intelligence
+
+The project is undergoing substantial revision. Its repository is private and not ready for public review; this map records its broad scope rather than the state of its current drafts.
 
 **Primary question:** What might intelligence become when it is not organized as property, product, servant, weapon, gatekeeper, or instrument of concentrated power?
 

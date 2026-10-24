@@ -75,6 +75,17 @@ Result:
 
 See [Pilot 003 comparison](notes/t003-editorial-pilot-003-comparison.md).
 
+### Supporting records for the editorial pilots
+
+These existing records belong to the same AI-assisted editorial exercises described above. Making them easier to find does not turn them into independent validation.
+
+| Record set | Read the existing material |
+| --- | --- |
+| Case selection and source packets | [Initial case selection](notes/t003-case-selection-2026-09-24.md); [Cloudflare packet with remediation withheld](notes/t003-evidence-packet-cloudflare-2024-06-20-no-remediation.md); [NDSS evidence packet](notes/t003-case-2-evidence-packet-ndss.md) |
+| Pilot 001 | [Registration](notes/t003-editorial-pilot-001-registration.md); [Method A](notes/t003-editorial-pilot-001-method-a.md); [Method D](notes/t003-editorial-pilot-001-method-d.md) |
+| Pilot 002 | [Registration](notes/t003-editorial-pilot-002-registration.md); [Method A](notes/t003-editorial-pilot-002-method-a.md); [Method D](notes/t003-editorial-pilot-002-method-d.md) |
+| Pilot 003 | [Registration](notes/t003-editorial-pilot-003-registration.md); [Method A](notes/t003-editorial-pilot-003-method-a.md); [Method B](notes/t003-editorial-pilot-003-method-b.md); [Method C](notes/t003-editorial-pilot-003-method-c.md); [Method D](notes/t003-editorial-pilot-003-method-d.md) |
+
 ### Methodological correction
 
 Pilot 003 also exposed a contamination issue: the same AI process had viewed source recommendations while vetting the case. The packet could withhold those recommendations from the written method inputs, but the analyst was not genuinely blind.
