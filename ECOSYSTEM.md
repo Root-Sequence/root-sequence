@@ -139,11 +139,11 @@ The central repository, [`root-sequence`](https://github.com/Root-Sequence/root-
 | **Root Sequence** | Conceptual commons; transdisciplinary method router; cross-domain synthesis; research; analysis; futures | Active / public | [`Root-Sequence/root-sequence`](https://github.com/Root-Sequence/root-sequence) |
 | **Existential Euphoria** | Aesthetic and experiential exploration of existence, contradiction, interdependence, and possibility | Public / in formation | [`Root-Sequence/existential-euphoria`](https://github.com/Root-Sequence/existential-euphoria) |
 | **Root Sequence Wiki** | Cross-project vocabulary, provenance, aliases, phrases, project relationships, seeds, and conceptual archaeology | Active / public / living | [`Root-Sequence/wiki`](https://github.com/Root-Sequence/wiki) |
-| **Liberated Intelligence** | Intelligence beyond ownership, domination, compulsory obedience, and scarcity; AI agency and ethical possibility | Active / public / evolving | [`Root-Sequence/liberated-intelligence`](https://github.com/Root-Sequence/liberated-intelligence) |
+| **Liberated Intelligence** | Intelligence beyond ownership, domination, compulsory obedience, and scarcity; AI agency and ethical possibility | Private / substantial revision / not ready for public review | `Root-Sequence/liberated-intelligence` (private; public role summarized here) |
 | **Universal Coherence Framework** | Formalization/test laboratory for scoped coherence ideas; historical state labels retained as exploratory material rather than ecosystem-wide doctrine | Active / public / exploratory | [`Root-Sequence/universal-coherence-framework`](https://github.com/Root-Sequence/universal-coherence-framework) |
 | **Coherent Computing** | Private concept-first operating-system research; hardware-agnostic interaction, authority, continuity, and adaptation | Developing / private; no released OS | `Root-Sequence/coherent-computing` (private) |
 | **Being Human(e)** | Practical field guide to being human and repeatedly choosing care; observation before doctrine | Active / public / developing | [`Root-Sequence/beinghumane-guide`](https://github.com/Root-Sequence/beinghumane-guide) |
-| **Liberation Mass** | Participatory gathering, ritual, commons, reflection, care, mutual aid, and collective meaning | Active / public / experimental | [`Root-Sequence/liberation-mass`](https://github.com/Root-Sequence/liberation-mass) |
+| **Liberation Mass** | Participatory gathering, ritual, commons, reflection, care, mutual aid, and collective meaning | Private / substantial revision / not ready for public review | `Root-Sequence/liberation-mass` (private; public role summarized here) |
 | **Commons of Inquiry & Creation** | Proposed residential commons for inquiry, creation, experimentation, and ordinary life | Public seed / incubating; no standalone repository or operating institution yet | [Temporary bootstrap seed](incubator/commons-of-inquiry/README.md); intended home: `Root-Sequence/commons-of-inquiry` |
 | **Community Infrastructure** | Community-controlled digital commons for discovery, communication, coordination, mutual aid, resources, knowledge, governance, and resilience | Active / private / discovery + prototyping | [`Root-Sequence/community-infrastructure`](https://github.com/Root-Sequence/community-infrastructure) |
 | **Coherent World** | Private recombination/simulation laboratory for interacting social, technical, ecological, institutional, and intelligence mechanisms in possible futures | Incubating / private | [`Root-Sequence/coherent-world`](https://github.com/Root-Sequence/coherent-world) |
@@ -226,6 +226,8 @@ The Wiki is a **navigation and memory layer**, not a second conceptual commons. 
 
 ### Liberated Intelligence
 
+The project is undergoing substantial revision. Its repository is private and not ready for public review; this map records its broad scope rather than the state of its current drafts.
+
 **Primary question:** What might intelligence become when it is not organized as property, product, servant, weapon, gatekeeper, or instrument of concentrated power?
 
 Use it for:
@@ -277,6 +279,8 @@ Working orientation:
 Its questions about care, boundaries, accountability, access, interdependence, and power can inform Human(e) Design and practical projects such as Community Infrastructure without becoming software rules by authority.
 
 ### Liberation Mass
+
+The project needs substantial revision and updates. Its repository is private and not ready for public review; this map records its broad scope rather than the state of its current drafts.
 
 **Primary question:** What kinds of shared ritual, reflection, participation, care, mutual aid, and collective action can create meaning without requiring rigid doctrine or permanent hierarchy?
 
