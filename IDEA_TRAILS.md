@@ -170,6 +170,8 @@ The point is **appropriate transformation**, not symmetry.
 
 **Canonical real-system work:** Community Infrastructure `resource-commons.md`.
 
+**Related research (not a new governance authority):** [Intelligence Without Omniscience](research/intelligence-without-omniscience/README.md) and the [Intelligence Commons inquiry](research/intelligence-without-omniscience/intelligence-commons.md) investigate knowledge, learning, tools, and coordination as shared capacities, including privacy, contributor consent, enclosure, maintenance, and AI dependence.
+
 ---
 
 # Trail 7 — Federation, Autonomy, and Networks of Networks
@@ -235,6 +237,8 @@ This trail also asks: **What behaviors does this system select for?** Capability
 | **Museum of Ordinary Life** | Preserve ordinary pre-transition AI interfaces, prompts, automated decisions, help systems, errors, consent notices, and the human labor hidden behind “automation.” |
 
 - **Canonical broad systems concept:** [`concepts/intelligence-ecology.md`](concepts/intelligence-ecology.md).
+- **Related cross-disciplinary research (review-pending):** [Intelligence Without Omniscience](research/intelligence-without-omniscience/README.md) distinguishes generality, transactive memory, cognitive offloading, infrastructure-enabled capability, and authority. [Epistemic Trust and Collective Verification](research/intelligence-without-omniscience/epistemic-trust-and-collective-verification.md) follows how expert testimony, source independence, criticism, and AI assistance can support or undermine warranted reliance without asserting a universal intelligence theory.
+- **Mechanism investigations (not a new theory):** [Mechanisms of Collective Knowledge](research/intelligence-without-omniscience/mechanisms-of-collective-knowledge.md) examines discovery, disclosure, source verification, integration, uptake and authorization, including an equal-information analytical comparison with null and adverse cases. [Learning to Revise the Rules](research/intelligence-without-omniscience/learning-to-revise-the-rules.md) examines governing-variable revision, real enacted practice, problem-boundary critique, and who may change institutional goals. Related Coherent World probes remain illustrative, not empirical confirmation.
 - **Shared working design principle:** [`concepts/agency-and-automation.md`](concepts/agency-and-automation.md) asks when delegation expands agency, how burdens move, and what governance must accompany automation.
 - **Related research question:** [`research/conscious-systems/`](research/conscious-systems/README.md) asks which conditions might support experience; it does not infer consciousness or authority from capability.
 - **Canonical focused research:** Liberated Intelligence.
@@ -364,6 +368,8 @@ This trail also asks: **What behaviors does this system select for?** Capability
 **Developing human-scale work:** `Root-Sequence/beinghumane-atlas/seeds/humane-collective-decision-architecture.md`  
 **Real-system proving ground:** `Root-Sequence/community-infrastructure/docs/concepts/collective-decision-making.md`  
 **Speculative world treatment:** `Root-Sequence/coherent-world/world/collective-decision-and-dissent.md`
+
+**Related knowledge-recognition cases:** [Epistemic injustice and knowledge recognition](research/intelligence-without-omniscience/epistemic-injustice-and-knowledge-recognition.md) and [From knowledge to uptake](research/intelligence-without-omniscience/from-knowledge-to-uptake.md) distinguish participation, information integration, credibility, uptake of criticism, boundary objects, and the right to contest the framing of a problem; neither document replaces native methods or the authority of affected participants.
 
 ---
 
