@@ -71,6 +71,7 @@ This directory holds bounded research inquiries and versioned papers that synthe
 ## Research areas
 
 - [Conscious Systems](conscious-systems/README.md) — **exploratory, AI-assisted seed; author review pending**. Starts with [what can change about a mind while preserving consciousness](conscious-systems/what-can-we-change-about-a-mind.md), separating experience from report, capability, and authority.
+- [Knowledge, institutional power, and stewardship](knowledge-power-and-stewardship.md) — **exploratory, AI-assisted seed; author review pending**. Compares recognition, reuse, agency, and benefit-sharing without asserting that extraction has occurred.
 
 - [What If It All Works?](what-if-it-all-works/README.md) — **exploratory / AI-assisted / author review pending**. Investigates what counts as progress, who benefits, meaningful access, contested ideals, ethical uncertainty, and why imperfection neither excuses harm nor defeats improvement.
 
@@ -96,5 +97,7 @@ These links point to existing public draft PRs, not merged research or reviewed 
 ## Publication boundary
 
 Public branches and pull requests in this repository are public. They are not private review spaces. Only public-safe synthesis belongs here; private notes and unpublished fiction retain their existing homes and permissions. Website presentation is separate and requires an explicit publication pass.
+
+The [proposed publication-review procedure](../governance/publication-review.md) adds a practical pre-disclosure checklist without replacing existing project-specific consent or release rules. Its author review remains pending.
 
 [Repository map](../root_map.md) · [Contribution guidance](../contributing.md)

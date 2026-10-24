@@ -56,6 +56,7 @@ The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Frui
 - [`site/`](site/README.md) — reader-facing Public Seed website source; not a replacement for research or the Wiki
 - [`research/`](research/README.md) — bounded inquiries and synthesis papers, including [What If It All Works?](research/what-if-it-all-works/README.md) on progress, access, perfection, and the ethics of what's left out; underlying concepts and evidence retain their canonical homes
 - [`research/methods/`](research/methods/README.md) — shared error-correcting inquiry methods, including epistemic contrast and deliberative inquiry
+- [`governance/`](governance/README.md) — proposed research-publication, licensing, attribution, and collaboration guidance; author review pending
 - [`founding-texts/`](founding-texts/README.md) — founding texts, early models, manifestos, normative essays, and historical orientations
 - [`systems/`](systems/README.md) — analytical principles, models, and methods for understanding system behavior
 - [`concepts/`](concepts/README.md) — shared definitions, cross-project frameworks, design principles, and methods
@@ -139,6 +140,12 @@ When a file, concept, system, canonical treatment, or project relationship is ad
 > **If a reader could reasonably miss the new work because the old navigation does not point to it, the navigation is part of the change.**
 
 This convention is intended to keep repository work self-indexing rather than relying on memory or a later cleanup pass.
+
+---
+
+## Research stewardship — proposed
+
+[Research stewardship](governance/README.md) collects the publication-review checklist, licensing baseline, provenance conventions, and responsible-use expectations. These are AI-assisted, review-pending proposals, not new restrictions on the existing CC0 dedication. [Citation metadata](CITATION.cff) helps identify the project; cite specific documents and revisions wherever possible.
 
 ---
 

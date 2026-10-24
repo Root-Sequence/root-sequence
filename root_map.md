@@ -63,6 +63,7 @@ Do not compress every kind of status into one word.
 - [`founding-texts/`](founding-texts/) — founding texts, early models, manifestos, normative essays, and historical orientations.
 - [`concepts/`](concepts/) — shared vocabulary, cross-project frameworks, design principles, and methods.
 - [`research/`](research/README.md) — bounded research inquiries and versioned synthesis papers that connect existing work without replacing its canonical sources.
+- [`governance/`](governance/README.md) — proposed research-publication, licensing, provenance, and collaboration procedures; not a new governing body or an override of project-specific rules.
 - [`analysis/`](analysis/) — diagnosis of systems, power, capitalism, infrastructure, surveillance, and related conditions.
 - [`ideology/`](ideology/) — myths, philosophies, and narratives that justify or contest power.
 - [`systems/`](systems/) — analytical principles, structure, dependency, stress, failure, feedback, recovery, coherence, and adaptation.
@@ -87,6 +88,7 @@ Root-level orientation files:
 - [`THOUGHT_ROUTING.md`](THOUGHT_ROUTING.md) — capture and placement convention for new material.
 - [`hello-world.md`](hello-world.md) — early public orientation text.
 - [`contributing.md`](contributing.md) — contribution guidance.
+- [`CITATION.cff`](CITATION.cff) — project-level citation fallback; specific works retain their own contributors, sources, revisions, and review status.
 - [`license`](license) — repository license text.
 
 Fragments already have a canonical home under [`commons/fragments/`](commons/fragments/). A raw note that is not yet public-facing or deliberately fragmentary should remain in a temporary capture system until it is ready to enter the repository.
@@ -119,6 +121,7 @@ What connects several layers
 into a bounded inquiry or
 versioned synthesis?  → research
 What can be shared?  → commons
+How should publication and reuse be handled? → governance (proposed)
 What is a temporary project seed? → incubator
 What shaped its values? → founding-texts
 What is it called,
