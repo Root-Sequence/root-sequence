@@ -145,3 +145,7 @@ This convention is intended to keep repository work self-indexing rather than re
 ## 🔄 Use & Remix
 
 Root Sequence’s own material is released under [CC0 1.0](license). Check the original source and any separate terms before reusing third-party or contributed material. Related projects keep their own permissions.
+
+## Collaborating on the inquiry
+
+The [commons collaboration proposal](commons/README.md#collaboration-as-a-living-experiment) explores how people can contribute and disagree while keeping clear boundaries around responsibility and decisions. The practices remain proposals for review.
