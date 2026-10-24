@@ -79,7 +79,7 @@ The point is **appropriate transformation**, not symmetry.
 |---|---|
 | **Root Sequence** | Analyze hierarchy, institutional power, delegation, accountability, capture, concentrated veto power, and the difference between responsibility and domination. |
 | **Being Human(e)** | Explore care with boundaries, responsibility, accountability, conflict, repair, and how good intentions interact with unequal power. |
-| **Liberation Mass** | Practice rotating roles and the principle “roles share work, not power.” Observe where facilitation, safety, expertise, and continuity still produce informal authority. |
+| **Liberation Mass** | Practice rotating roles with limited, explicit, reviewable powers. Observe where facilitation, safety, expertise, and continuity still produce informal authority. |
 | **Community Infrastructure** | Encode scoped steward roles, delegation, revocation, moderation boundaries, technical-admin separation, auditability, and explicit capability bundles instead of universal admin rank. |
 | **Liberated Intelligence** | Ask how highly capable intelligence can assist without silently acquiring legitimate authority over people or communities. |
 | **Coherent World** | Design infrastructure stewardship across settlements, networks, institutions, and shared systems without assuming that removing ownership eliminates power. |
@@ -170,6 +170,8 @@ The point is **appropriate transformation**, not symmetry.
 
 **Canonical real-system work:** Community Infrastructure `resource-commons.md`.
 
+**Related research (not a new governance authority):** [Intelligence Without Omniscience](research/intelligence-without-omniscience/README.md) and the [Intelligence Commons inquiry](research/intelligence-without-omniscience/intelligence-commons.md) investigate knowledge, learning, tools, and coordination as shared capacities, including privacy, contributor consent, enclosure, maintenance, and AI dependence.
+
 ---
 
 # Trail 7 — Federation, Autonomy, and Networks of Networks
@@ -235,6 +237,8 @@ This trail also asks: **What behaviors does this system select for?** Capability
 | **Museum of Ordinary Life** | Preserve ordinary pre-transition AI interfaces, prompts, automated decisions, help systems, errors, consent notices, and the human labor hidden behind “automation.” |
 
 - **Canonical broad systems concept:** [`concepts/intelligence-ecology.md`](concepts/intelligence-ecology.md).
+- **Related cross-disciplinary research (review-pending):** [Intelligence Without Omniscience](research/intelligence-without-omniscience/README.md) distinguishes generality, transactive memory, cognitive offloading, infrastructure-enabled capability, and authority. [Epistemic Trust and Collective Verification](research/intelligence-without-omniscience/epistemic-trust-and-collective-verification.md) follows how expert testimony, source independence, criticism, and AI assistance can support or undermine warranted reliance without asserting a universal intelligence theory.
+- **Mechanism investigations (not a new theory):** [Mechanisms of Collective Knowledge](research/intelligence-without-omniscience/mechanisms-of-collective-knowledge.md) examines discovery, disclosure, source verification, integration, uptake and authorization, including an equal-information analytical comparison with null and adverse cases. [Learning to Revise the Rules](research/intelligence-without-omniscience/learning-to-revise-the-rules.md) examines governing-variable revision, real enacted practice, problem-boundary critique, and who may change institutional goals. Related Coherent World probes remain illustrative, not empirical confirmation.
 - **Shared working design principle:** [`concepts/agency-and-automation.md`](concepts/agency-and-automation.md) asks when delegation expands agency, how burdens move, and what governance must accompany automation.
 - **Related research question:** [`research/conscious-systems/`](research/conscious-systems/README.md) asks which conditions might support experience; it does not infer consciousness or authority from capability.
 - **Canonical focused research:** Liberated Intelligence.
@@ -365,6 +369,8 @@ This trail also asks: **What behaviors does this system select for?** Capability
 **Real-system proving ground:** `Root-Sequence/community-infrastructure/docs/concepts/collective-decision-making.md`  
 **Speculative world treatment:** `Root-Sequence/coherent-world/world/collective-decision-and-dissent.md`
 
+**Related knowledge-recognition cases:** [Epistemic injustice and knowledge recognition](research/intelligence-without-omniscience/epistemic-injustice-and-knowledge-recognition.md) and [From knowledge to uptake](research/intelligence-without-omniscience/from-knowledge-to-uptake.md) distinguish participation, information integration, credibility, uptake of criticism, boundary objects, and the right to contest the framing of a problem; neither document replaces native methods or the authority of affected participants.
+
 ---
 
 # Trail 16 — Possibility, Historical Contingency, and Abandoned Futures
@@ -394,17 +400,17 @@ This trail also asks: **What behaviors does this system select for?** Capability
 
 ## Root question
 
-> How can a person, community, institution, intelligence, or technical system change enough to adapt while preserving or rebuilding the capacities, relationships, and meaningful possibilities that make continued becoming possible—and who gets to shape that possibility space?
+> How can a person, community, institution, intelligence, or technical system change enough to adapt while preserving or rebuilding the capacities, relationships, and meaningful possibilities that make continued becoming possible—including when expectations fail—and who gets to shape that possibility space?
 
 | Project | Treatment |
 |---|---|
-| **Root Sequence** | Develop shared language for path dependence, dynamic coherence, agency envelopes, meta-agency, continuity-through-transformation, reflexivity, and adaptation across scale while testing whether existing disciplines already supply sharper concepts. |
+| **Root Sequence** | Develop shared language for path dependence, dynamic coherence, agency envelopes, meta-agency, continuity-through-transformation, reflexivity, anticipation under uncertainty, and adaptation across scale while testing whether existing disciplines already supply sharper concepts. |
 | **Conscious Systems** | Separate organismic, embodied, autobiographical, social, and subjective continuity; ask whether bodily regulation, development, learned history, and system boundaries matter to experience without assuming that identity and consciousness are the same problem. |
-| **Being Human(e)** | Ground adaptation in lived bodies and environments: fear, trauma, disability, learning, recovery, care, and changing possibility without diagnosing people from abstract systems language. |
-| **Coherent Computing** | Preserve future user capability across repair, automation, migration, identity, service, and failure: inspect, understand, modify, refuse, recover, and continue without unnecessary lock-in. |
+| **Being Human(e)** | Ground adaptation in lived bodies and environments: fear, trauma, disability, learning, recovery, care, and changing possibility without diagnosing people from abstract systems language or treating anticipated reactions as substitutes for lived experience. |
+| **Coherent Computing** | Preserve future user capability across repair, automation, migration, identity, service, and failure: inspect, understand, modify, refuse, recover, and continue without unnecessary lock-in; prepare for known failure modes without making continuity depend on one forecast. |
 | **Community Infrastructure** | Adapt across legal, technical, institutional, and cultural contexts without making any one surrounding institution the ontology of community; preserve portability, local authority, and graceful degradation. |
 | **Liberated Intelligence** | Ask how intelligences can learn, change, retain or revise identity and memory, and participate in relationships without treating capability as authority or functional adaptation as evidence of consciousness. |
-| **Coherent World** | Model history as changes in future dynamics and affordances, not merely a log of events; let interventions reshape agents, institutions, dependencies, feedback, and later possibility without reducing coherence to one score. |
+| **Coherent World** | Model history as changes in future dynamics and affordances, not merely a log of events; let interventions reshape agents, institutions, dependencies, feedback, and later possibility; let anticipation remain partial and fallible so surprise can revise later models and behavior rather than reducing coherence to one score. |
 | **Museum of Ordinary Life** | Preserve evidence of trajectories—ordinary objects, routines, interfaces, records, testimony, and material traces that reveal how earlier conditions became later possibilities or constraints. |
 
 **Canonical cross-project concept:** [Dynamic Coherence and Adaptive Continuity](concepts/dynamic-coherence.md)<br>

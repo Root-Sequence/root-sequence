@@ -2,7 +2,7 @@
 
 ## Altered States, Human Curiosity, and the Long History of Making Meaning
 
-Living research paper · v0.1.1 · 14 October 2026 · AI-assisted narrative synthesis · author and disciplinary review pending
+Living research paper · v0.1.2 · 24 October 2026 · AI-assisted narrative synthesis · author and disciplinary review pending
 
 Companion provocation: **How Drugs Explain the Universe**. The title names a temptation this project investigates; it is not its scientific conclusion.
 
@@ -68,7 +68,7 @@ A narrower historical question is more tractable: once particular communities ha
 
 ## 6. Curiosity, creativity and the feeling of discovery
 
-Mason and colleagues' placebo-controlled study of 60 healthy participants found a useful dissociation: acute reports of creative insight increased while deliberate task-based creativity decreased; at seven days, participants reported more ideas new to themselves, while convergent-thinking performance remained reduced. This self-rated novelty is not independently established originality. The result is time- and task-specific, not a general cognitive upgrade.[^S07]
+Mason and colleagues' placebo-controlled study of 60 healthy participants found a useful dissociation: acute reports of creative insight increased while deliberate task-based creativity decreased; at seven days, participants reported more ideas new to themselves, while convergent-thinking performance remained lower than placebo. Both groups improved from their own baselines at follow-up. This self-rated novelty is not independently established originality. The result is time- and task-specific, not a general cognitive upgrade.[^S07]
 
 This contrast matters because a person may feel that an idea is important before being able to evaluate it. That observation supplies a research question rather than a verdict against inspiration. How well does confidence track accuracy? Which ideas survive later testing? Are useful questions produced even when immediate answers are wrong? Are outcomes different when people have time, trusted critics and a safe opportunity to revise?
 
@@ -176,6 +176,6 @@ The [source appraisal](../research/appraisal.md) records sample, control, interp
 
 [^S14]: Indigenous Peyote Conservation Initiative (undated; accessed 2026-10-14). [Political and Social Issues](https://www.ipci.life/politicalandsocialissues). Community organization statement.
 
-[^S15]: Sharma, M., et al. (2023). [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548). arXiv:2310.13548; primary research preprint (2023 version).
+[^S15]: Sharma, M., et al. (2023). [Towards Understanding Sycophancy in Language Models](https://arxiv.org/abs/2310.13548v1). arXiv:2310.13548; primary research preprint (2023 version).
 
 [^S16]: Butler, M.; Jelen, L.; Rucker, J. (2022). [Expectancy in placebo-controlled trials of psychedelics: if so, so what?](https://pmc.ncbi.nlm.nih.gov/articles/PMC9481484/). Psychopharmacology.

@@ -116,7 +116,7 @@ Indigenous Peyote Conservation Initiative (undated; accessed 2026-10-14). Commun
 
 ## S15 — Towards Understanding Sycophancy in Language Models
 
-Sharma, M., et al. (2023). arXiv:2310.13548; primary research preprint (2023 version). [Source](https://arxiv.org/abs/2310.13548).
+Sharma, M., et al. (2023). arXiv:2310.13548; primary research preprint (2023 version). [Source](https://arxiv.org/abs/2310.13548v1).
 
 **Inspected:** Version 1 full HTML; task definitions, models and preference analyses inspected.
 

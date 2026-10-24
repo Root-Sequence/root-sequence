@@ -6,7 +6,7 @@ This is a claim-focused appraisal of all 16 sources in the first edition, not a 
 
 ## Decisions from this pass
 
-- **Correct S07 across editions.** The later creativity result concerns participants marking ideas as new to themselves. It is not independently established novelty or a general cognitive improvement. Convergent-thinking performance remained lower at seven days.
+- **Correct S07 across editions.** The later creativity result concerns participants marking ideas as new to themselves. It is not independently established novelty or a general cognitive improvement. Convergent-thinking performance remained lower than placebo at seven days.
 - **Balance S06.** Enduring significance reports coexist with acute fear in a small, carefully screened, supported sample. Neither finding determines metaphysical truth or general safety.
 - **Narrow archaeological inference.** Residue chemistry, original potency, consumption, preparation, individual experience and religious meaning are separate claims. Replicated aliquots are not independent ancient people.
 - **Preserve association labels.** Cultural and festival studies do not establish a drug-driven origin of religion, mediation causality, or better collective decisions.
@@ -54,7 +54,7 @@ This is a claim-focused appraisal of all 16 sources in the first edition, not a 
 
 [Primary article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8032715/). **Inspected:** full main text via Europe PMC, behavioral methods, results and limitations. Sixty experienced healthy volunteers were randomized 30/30. Task analyses used smaller samples: 51 for the picture-concept task and 57 for alternate uses. Acute subjective insight increased while several deliberate task scores fell.
 
-At day seven, the positive alternate-uses result was **self-rated novelty**: ideas new to the participant. Convergent thinking remained reduced. Neither result establishes general intelligence, independently rated real-world innovation, or evolutionary advantage. Imaging associations do not establish the mechanism of task changes.
+At day seven, the positive alternate-uses result was **self-rated novelty**: ideas new to the participant. Convergent-thinking scores remained lower than placebo, although both groups improved from baseline at follow-up. Neither result establishes general intelligence, independently rated real-world innovation, or evolutionary advantage. Imaging associations do not establish the mechanism of task changes.
 
 **Decision:** replace the first edition's vague “a later measure improved” wording in the paper and booklet; make essay and talk equally explicit. **Open:** missing-data and blinding details, supplementary methods, behavioral multiplicity and registration crosswalk (NL6007/NTR6505). Funding includes the Beckley Foundation; the paper declares no competing interests. Funding alone neither confirms nor refutes results.
 
@@ -119,3 +119,17 @@ The companion [metadata check](metadata-check.json) records Crossref DOI/title/t
 Before a scholarly release: obtain S01 full text; complete S05/S06 and all relevant supplements/registration checks; have analytical specialists review archaeological identifications and chronology; assess primary studies behind review-level claims; seek appropriately situated cultural scholarship; expand the dated literature search and contradictory evidence; independently review all 19 claims. No raw-data reanalysis or human-subject research was performed. No source text or copyrighted figure is redistributed here.
 
 Publication status: public **draft** [PR #45](https://github.com/Root-Sequence/root-sequence/pull/45); merge and deployment pending. This appraisal improves the draft while documenting why it is not yet a reviewed scholarly release.
+
+## Review follow-up: 24 October 2026
+
+This AI-assisted maintenance pass checked selected passages, rather than repeating the entire 16-source appraisal. Author, scholarly and cultural review remain pending.
+
+- **S01:** Bar-Ilan's author-institution abstract and publication record. The bounded residue attribution remains; full methods were not obtained.
+- **S03:** Indexed primary-paper Results and Fig. 3 text, including the tentative psilocin identification. Direct PMC/XML retrieval failed in this pass; the full analytical record was not reappraised.
+- **S04:** Publisher abstract, sample provenance, replicated-aliquot results and relevant analytical-method passages. Detection remains distinct from dose, individual identity and cultural interpretation.
+- **S06:** Indexed primary abstract and fear/selection passages. This rechecks the small supported sample and adverse-experience context, not the full measurement record or general-use risk.
+- **S07:** Primary text on novelty scoring and follow-up convergent-thinking comparisons. The editions now specify the placebo comparator; the paper/appraisal retain within-group improvement. No reanalysis or supplement/registration crosswalk was performed.
+- **S14:** IPCI's current policy page, especially its drug-policy section. Its own position remains attributed to IPCI; no claim to represent all Indigenous communities follows.
+- **S15:** Version 1 abstract and model/task descriptions. Source-register and edition links now pin that 2023 version. Models were not rerun and this is not a current-system assessment.
+
+The other source appraisals and unresolved scholarly-release gates remain as recorded above. The correction does not establish a general cognitive benefit or harm, an evolutionary explanation, clinical guidance, or cultural endorsement. Updated editions remain public drafts.

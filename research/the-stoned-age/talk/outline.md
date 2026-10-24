@@ -1,6 +1,6 @@
 # The Stoned Age — 25-minute talk
 
-v0.1.1 · 14 October 2026. 21 minutes speaking plus 4 minutes discussion. AI-assisted draft; review pending.
+v0.1.2 · 24 October 2026. 21 minutes speaking plus 4 minutes discussion. AI-assisted draft; review pending.
 
 ## 1. The Stoned Age (0:00–1:30)
 
@@ -56,7 +56,7 @@ v0.1.1 · 14 October 2026. 21 minutes speaking plus 4 minutes discussion. AI-ass
 
 **On screen:** Generation and evaluation need separate measures.
 
-**Speaker notes:** Distinguish acute subjective insight from lower task performance. At seven days, self-rated novelty increased while convergent thinking remained lower. New to the participant does not mean independently verified originality. Avoid general cognitive-upgrade claims.
+**Speaker notes:** Distinguish acute subjective insight from lower task performance. At seven days, self-rated novelty increased while convergent thinking remained lower than placebo. New to the participant does not mean independently verified originality. Avoid general cognitive-upgrade claims.
 
 **Visual:** [Conceptual illustration](../assets/split.svg).
 

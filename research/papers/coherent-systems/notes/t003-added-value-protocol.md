@@ -389,6 +389,6 @@ The next legitimate action is case selection and packet freezing—not writing a
 
 - [Open questions / T-003](../open-questions.md)
 - [Related work](related-work.md)
-- [Dynamic Coherence and Adaptive Continuity](../../../concepts/dynamic-coherence.md)
+- [Dynamic Coherence and Adaptive Continuity](../../../../concepts/dynamic-coherence.md)
 - [UCF dynamic-coherence evidence reconciliation](https://github.com/Root-Sequence/universal-coherence-framework/pull/6)
 - Leveson & Thomas, *STPA Handbook* (2018): https://psas.scripts.mit.edu/home/get_file.php?name=STPA_handbook.pdf

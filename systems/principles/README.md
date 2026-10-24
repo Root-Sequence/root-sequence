@@ -19,6 +19,10 @@ The goal is not to flatten everything into abstraction. The goal is to keep the 
 - [`reinforcement.md`](reinforcement.md) → systems do not stabilize around truth alone; they stabilize around what gets repeated and reinforced.
 - [`non-reversal.md`](non-reversal.md) → ending harm means interrupting its pattern rather than merely reversing who occupies each role.
 
+## Exploratory analytical lens
+
+- [Disentanglement and System-Relative Constraints](disentanglement-and-constraints.md) → distinguish genuinely fixed limits from constraints dependent on configuration, permitted operations, knowledge, resources, and power; explore what change could make possible. **Working research note, not an established universal principle.**
+
 ## Root Sequence lens
 
 When looking at a system, ask:

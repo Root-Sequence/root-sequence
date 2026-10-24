@@ -10,7 +10,7 @@ A small book about large experiences—and what happens after someone says, “I
 
 Companion provocation: How Drugs Explain the Universe.
 
-Root Sequence · illustrated reader edition · v0.1.1 · 14 October 2026
+Root Sequence · illustrated reader edition · v0.1.2 · 24 October 2026
 
 AI-assisted draft. Author, scholarly and cultural review pending. The illustrations are original conceptual diagrams, not historical reconstructions.
 
@@ -102,7 +102,7 @@ Our question survives the grand story failing: how might particular altered-stat
 
 ![Conceptual illustration: split](../assets/split.svg)
 
-In one controlled study, acute feelings of creative insight increased while deliberate creativity-task performance decreased; at seven days, self-rated novelty increased but convergent thinking remained lower. “New to me” is not independently verified originality. [S07]
+In one controlled study, acute feelings of creative insight increased while deliberate creativity-task performance decreased; at seven days, self-rated novelty increased but convergent thinking remained lower than placebo. “New to me” is not independently verified originality. [S07]
 
 Imagine two notebooks. One holds ideas as they arrive. The other records what happened when they were checked. Neither notebook should swallow the other.
 

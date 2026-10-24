@@ -4,7 +4,7 @@
 
 Companion provocation: **How Drugs Explain the Universe**.
 
-**Status:** v0.1.1 public draft suite · 14 October 2026 · AI-assisted · author, scholarly and cultural review pending. This is substantial first-edition production, not a completed scholarly monograph or reviewed release.
+**Status:** v0.1.2 public draft suite · 24 October 2026 · AI-assisted · author, scholarly and cultural review pending. It remains a working inquiry, with the evidence and review limits recorded below.
 
 Open [the project](index.html), then choose:
 
@@ -26,7 +26,7 @@ The proposed nearest-index addition is in the accompanying repository patch. The
 
 ## Publication boundary
 
-Public draft [PR #45](https://github.com/Root-Sequence/root-sequence/pull/45) is open. Merge and deployment remain pending. The research index requires a separate explicit website publication pass; this PR does not authorize deployment.
+Public draft [PR #45](https://github.com/Root-Sequence/root-sequence/pull/45) is open. Merge and deployment remain pending. Merging would add this suite and its navigation to the repository. Publishing the HTML editions on a website requires a separate decision and deployment destination.
 
 ## Provenance and contribution
 
@@ -56,3 +56,11 @@ A phase is complete when its evidence or review work is complete, not merely whe
 ## Evidence revision
 
 The [source-by-source appraisal](research/appraisal.md) covers all 16 records, distinguishes inspected material from remaining gaps, and records the creativity correction carried through all four editions. Crossref returned 13 of 14 DOI records in this pass; one was rate-limited. Full scholarly appraisal remains incomplete, particularly S01 access and supplements/registrations.
+
+## Review checkpoint: 24 October 2026
+
+This draft incorporates main through #44 and preserves the existing public introduction and privacy fixes. Its research-index entry replaces the old draft-queue pointer. The playful framing and the distinction between findings, hypotheses and editorial proposals remain.
+
+The creativity wording now names placebo as the follow-up comparator across the paper, booklet, essay, talk and claims ledger. The paper and appraisal also distinguish that comparison from within-group improvement. S15 links to the specific 2023 preprint version inspected. The [appraisal follow-up](research/appraisal.md#review-follow-up-24-october-2026) records this pass's selected source checks; it does not replace the earlier appraisal or complete scholarly/cultural review.
+
+All reader editions expose an Evidence notes route. PDF builds now use stable generation metadata so unchanged inputs can reproduce the same files. The [validation record](VALIDATION.md) distinguishes technical checks from remaining research and accessibility work. No homepage, hosting configuration, private project or fictional canon is changed.

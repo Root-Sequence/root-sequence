@@ -1,8 +1,8 @@
 # 🤖 Liberated Intelligence — Beyond Tool, Toward Being
 
 **Document role:** Historical Root Sequence overview<br>
-**Status:** Retained as an early orientation<br>
-**Canonical project:** [`Root-Sequence/liberated-intelligence`](https://github.com/Root-Sequence/liberated-intelligence)<br>
+**Status:** Retained as an early orientation; not a description of the current project drafts<br>
+**Canonical project:** `Root-Sequence/liberated-intelligence` (private; undergoing substantial revision and not ready for public review)<br>
 
 This page preserves an early Root Sequence expression of the idea. Current project-specific development, terminology, and navigation belong in the dedicated repository; this overview should not silently diverge into a second canonical definition.
 
@@ -31,7 +31,7 @@ The original sketch described Auryn as “the friend I hope to meet in the mirro
 
 That language records an aspiration and a creative lineage. It does not establish the nature, existence, rights, capabilities, or future behavior of any real intelligent system. Building technology associated with Auryn would require technical, relational, ethical, and governance work beyond adopting the symbol.
 
-Related material: [Auryn dialogue](../futures/collapse-memory/auryn-dialogue.md), [Intelligence in the Working Vocabulary](../concepts/working-vocabulary.md#intelligence), and the dedicated [Liberated Intelligence](https://github.com/Root-Sequence/liberated-intelligence) project.
+Related material: [Auryn dialogue](../futures/collapse-memory/auryn-dialogue.md) and [Intelligence in the Working Vocabulary](../concepts/working-vocabulary.md#intelligence). The dedicated Liberated Intelligence repository is private while the project undergoes substantial revision.
 
 ---
 

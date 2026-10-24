@@ -49,3 +49,9 @@ A reviewer should be able to answer: what changed, what supports it, what could 
 ## Follow-up appraisal, 14 October 2026
 
 See [appraisal.md](appraisal.md) for the claim-focused review of all 16 sources, including main-text extraction, source-specific unresolved checks and editorial decisions. Europe PMC XML and author/lab repositories expanded access. Crossref returned 13 of 14 DOI records in the new pass; S02 was rate-limited. The earlier nine-record count above describes the initial pass. No comprehensive correction/retraction clearance is claimed.
+
+## Maintenance follow-up, 24 October 2026
+
+The v0.1.2 pass rechecked selected passages for S01, S03, S04, S06, S07, S14 and S15 through institutional records, primary-paper pages or indexed primary text. Its access limits and editorial decisions are recorded in the [appraisal follow-up](appraisal.md#review-follow-up-24-october-2026). This was a targeted maintenance check, not a new literature search or a repeat of every source appraisal. The source counts and search record above remain historical records of the earlier passes.
+
+S07's follow-up comparison now explicitly names placebo across editions; the paper and appraisal also distinguish improvement from each group's own baseline. S15 links now pin version 1, matching the historical evidence being discussed. No new empirical result, study reanalysis, clinical recommendation or claim of cultural authorization was added.

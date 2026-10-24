@@ -188,7 +188,7 @@
     "title": "Towards Understanding Sycophancy in Language Models",
     "venue": "arXiv:2310.13548; primary research preprint (2023 version)",
     "doi": "",
-    "url": "https://arxiv.org/abs/2310.13548",
+    "url": "https://arxiv.org/abs/2310.13548v1",
     "inspection": "Version 1 full HTML; task definitions, models and preference analyses inspected",
     "limit": "Evidence about tested models and tasks, not every present-day AI interaction.",
     "appraisal": "appraisal.md",
