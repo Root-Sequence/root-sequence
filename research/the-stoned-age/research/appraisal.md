@@ -1,0 +1,121 @@
+# Source appraisal and evidence checks
+
+14 October 2026 · evidence revision v0.1.1 · AI-assisted editorial appraisal; specialist review pending.
+
+This is a claim-focused appraisal of all 16 sources in the first edition, not a systematic review, independent replication, or certification of their findings. The [source register](sources.md) supplies bibliographic identities; the [claims ledger](claims.csv) identifies the claims affected. Full-text availability and full methodological verification are different milestones. Main-text inspection does not imply that supplements, raw data, registrations, instruments, permissions or every cited study have been audited.
+
+## Decisions from this pass
+
+- **Correct S07 across editions.** The later creativity result concerns participants marking ideas as new to themselves. It is not independently established novelty or a general cognitive improvement. Convergent-thinking performance remained lower at seven days.
+- **Balance S06.** Enduring significance reports coexist with acute fear in a small, carefully screened, supported sample. Neither finding determines metaphysical truth or general safety.
+- **Narrow archaeological inference.** Residue chemistry, original potency, consumption, preparation, individual experience and religious meaning are separate claims. Replicated aliquots are not independent ancient people.
+- **Preserve association labels.** Cultural and festival studies do not establish a drug-driven origin of religion, mediation causality, or better collective decisions.
+- **Date the AI evidence.** S15 concerns named systems and tasks in 2023. Its results motivate a question about authority; they do not demonstrate clinical effects or describe every current system.
+
+## S01 — Arad: bounded finding; full methods pending
+
+[University source record](https://cris.biu.ac.il/en/publications/cannabis-and-frankincense-at-the-judahite-shrine-of-arad/). **Inspected:** bibliographic record and abstract; publisher full text was not obtained through the inspected legitimate access paths. The abstract reports residue analysis at two laboratories. This supports attributing a specific finding to the authors, not independently endorsing contamination handling or analytical specificity.
+
+**Decision:** retain the local shrine-residue claim with its access limitation. Do not extend it to Jerusalem, biblical plant identifications, all Judahite worship or the origin of religion. **Open:** full methods, controls, chronology, chromatograms and laboratory agreement require the article and appropriate archaeological-chemistry review. An abstract is not a substitute for that work.
+
+## S02 — Pamirs: positive and exterior controls; potency inferred
+
+[Primary paper](https://pure.mpg.de/rest/items/item_3080701/component/file_3080703/content). **Inspected:** full main text via Europe PMC XML; Results/Table 1 and Materials and Methods. Ten braziers from eight tombs and four stones were examined. CBN was reported in nine interior residues and two stones, with negative exterior comparisons. Reference material and mass-spectral comparisons strengthen identification.
+
+**Decision:** retain cannabis burning in a funerary setting. Original THC concentration was not measured; comparative potency is inferred from degradation products. Presence does not prove cultivation, participants' experiences, or the first use in history. **Open:** supplementary dating table and chromatograms, preservation biases and independent analytical reassessment. The authors declared no competing interests; funding provenance is reported in the paper, not treated as a validity score.
+
+## S03 — South American bundle: contents do not establish a recipe
+
+[Primary article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6561276/). **Inspected:** main-text methods and results, including Fig. 3, through the public article. The outer bag's reported calibrated interval is 905–1170 CE. LC-MS/MS identified multiple compounds in pouch material; the psilocin peak is **tentative**, unlike the confirmed compounds.
+
+**Decision:** retain evidence for access to multiple psychoactive plants. Do not convert co-presence into simultaneous ingestion, a particular ayahuasca preparation, confirmed mushroom use, or continuity with a living tradition. The authors themselves consider separate use. **Open:** supplementary analytical controls and spectra, object-specific contamination histories, and a specialist assessment of taxonomic identifications. Dating a container is not directly dating every residue deposited inside it.
+
+## S04 — Menorca: hair evidence; biological sample count matters
+
+[Primary article](https://www.nature.com/articles/s41598-023-31064-2). **Inspected:** full main text, dating discussion and UHPLC-HRMS methods via Europe PMC. Three approximately 10 mg aliquots came from one container compartment; they are not three identified individuals. Washing and comparison with analytical standards are described. Hair may combine individuals or mortuary events.
+
+**Decision:** retain reported alkaloid detection. The redated hair's two-sigma calibrated interval is 820–551 BCE; container wood has a different interval. Avoid an exact “3,000-year-old” consumption date. Concentrations do not reconstruct dose, and missing roots prevent segmental temporal interpretation. Plant species, social roles and ritual meanings remain interpretations.
+
+**Open:** ancient-matrix controls and wash results were not located in the inspected main methods. Seek analytical clarification of its unusual signal-to-noise wording for detection/quantification limits; do not silently repair it or label it a demonstrated error.
+
+## S05 — Pharmacology: review scope retained
+
+[Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC4813425/). **Inspected:** receptor-mechanism excerpts and bibliographic identity; exhaustive full-review appraisal remains open. A broad pharmacological review can orient classification, but does not make cannabis, classic serotonergic psychedelics, stimulants and antimuscarinic compounds interchangeable.
+
+**Decision:** retain only the limited classification purpose. It is not a source for comparative safety, dosing, treatment advice or ancient subjective states. **Open:** specialist review and primary receptor studies for any future detailed mechanism claims; updated literature before expanding beyond this deliberately narrow use.
+
+## S06 — Significance: selected participants and supported sessions
+
+[Primary article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3308357/). **Inspected:** main-text participant selection, session design and reported outcomes; indexed follow-up results also inspected; complete measurement audit remains open. Eighteen screened adults participated in five sessions. Active-dose order was randomized between ascending and descending schedules; placebo placement was quasi-randomized. Participants were selected and highly motivated; this is not a population sample.
+
+**Decision:** retain persisting self-reported significance, while noting that 39% reported extreme anxiety/fear at one or both of the two highest-dose sessions. This percentage describes this particular study, not general-use risk. Significance is not metaphysical verification. The follow-up interview reports all 18 participants; detailed measure-level denominators, blinding/monitor effects and outcome multiplicity still need audit. Do not confuse this 2011 dose-response study with the earlier 36-person active-comparator study.
+
+## S07 — Creativity: correction required and implemented
+
+[Primary article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8032715/). **Inspected:** full main text via Europe PMC, behavioral methods, results and limitations. Sixty experienced healthy volunteers were randomized 30/30. Task analyses used smaller samples: 51 for the picture-concept task and 57 for alternate uses. Acute subjective insight increased while several deliberate task scores fell.
+
+At day seven, the positive alternate-uses result was **self-rated novelty**: ideas new to the participant. Convergent thinking remained reduced. Neither result establishes general intelligence, independently rated real-world innovation, or evolutionary advantage. Imaging associations do not establish the mechanism of task changes.
+
+**Decision:** replace the first edition's vague “a later measure improved” wording in the paper and booklet; make essay and talk equally explicit. **Open:** missing-data and blinding details, supplementary methods, behavioral multiplicity and registration crosswalk (NL6007/NTR6505). Funding includes the Beckley Foundation; the paper declares no competing interests. Funding alone neither confirms nor refutes results.
+
+## S08 — REBUS: model, not a truth detector
+
+[Theory/review](https://pmc.ncbi.nlm.nih.gov/articles/PMC6588209/). **Inspected:** main text via Europe PMC, model formulation and supporting discussion. The article integrates predictive-processing and psychedelic research; it is not one randomized test establishing its entire explanatory framework.
+
+**Decision:** retain as a mechanistic hypothesis. Distinguish measurements from their interpretation in terms of prior precision. A flexible model must make predictions that distinguish it from alternatives; agreement with selected findings alone is insufficient. **Open:** comparative model evaluation, operational definitions and updated direct tests. Nothing in the model verifies an experience's cosmological content. The paper declares no conflicts and acknowledges funding; these declarations are provenance, not substitutes for model testing.
+
+## S09 — Evolution: explicit theory, missing ancestral causal chain
+
+[Hypothesis and theory article](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.729425/full). **Inspected:** full main text via Europe PMC, proposed mechanisms and future-test section. Contemporary pharmacological and social findings motivate evolutionary possibilities; they do not observe ancestral exposure or selection.
+
+**Decision:** retain as a serious hypothesis to interrogate, not confirmation of “stoned ape.” The proposed cross-cultural tests are proposals, not completed results. Even a present-day association between subsistence and use would need treatment of shared ancestry, historical diffusion, coding and survival bias. **Open:** discriminating evidence against rival explanations; separate biological selection, cultural transmission and individual learning. Reject both an unsupported single-cause origin story and the claim that absence of surviving traces proves no ancient use.
+
+## S10 — Spiritual presence: cross-cultural associations
+
+[Primary article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7865123/). **Inspected:** main text via Europe PMC, four-study design and measures. The project combines interviews and surveys across five countries. Studies 3 and 4 included 519 and 505 undergraduates respectively; study 1 focused on strongly religious adults. Study 4 reports a preregistered analysis, which has not been independently compared against its registration here.
+
+**Decision:** retain associations of absorption and models of mind with reported spiritual presence. These are reports and coded interviews, not observation of spirits or a drug manipulation. Diversity improves scope but does not make samples representative of whole cultures. **Open:** translation, measurement equivalence, coder reliability, recruitment, supplements and registration audit. A shared self-report method can contribute covariance. No direction of causal influence is established by association alone.
+
+## S11 — Collective innovation: theoretical comparison
+
+[Author-hosted primary paper](https://www.michael.muthukrishna.com/wp-content/uploads/2016/08/muthukrishna_henrich_2016.pdf). **Inspected:** paper's framework and discussion of sociality, transmission and network trade-offs. This is a theoretical synthesis of multiple evidence streams, not a psychedelic intervention.
+
+**Decision:** retain the comparison: innovation can depend on recombination, transmission and social organization. The paper also discusses costs of excessive interconnection and reduced variation; “more connection is always better” would misstate it. The collective-brain metaphor does not show that a group is conscious, wise or drug-enhanced. **Open:** primary-study appraisal if specific demographic or network causal claims are added. This project has not replicated the models or evaluated every historical example.
+
+## S12 — Festival study: association survives no causal shortcut
+
+[Author-lab primary paper](https://www.crockettlab.org/s/psychadelic-paper-PNAS-rcat.pdf). **Inspected:** full paper available; design, reported outcomes and limitations inspected. Of 1,242 respondents at six gatherings, 17 were excluded, leaving 1,225. The attention-check response was missing for 156 retained participants. Instruments changed across events. Some hypotheses were registered before analysis; the paper explicitly labels its structural-equation model and recency comparisons nonpreregistered. Adjustments do not randomize exposure.
+
+**Decision:** retain association language despite causal-sounding wording in the title. Statistical mediation requires assumptions about temporal order and unmeasured confounding; it does not demonstrate that transformation causes connectedness, which causes mood. Festival attendance and willingness/ability to respond select the sample. **Open:** registration timing, event-specific instruments, missingness and sensitivity analyses. No claim about clinical effectiveness, long-term benefit, or sound collective decisions follows from these results.
+
+## S13 — Challenging experiences: selected worst episodes
+
+[Primary article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5551678/). **Inspected:** full main article available through public retrieval; recruitment, exclusions and limitations examined. An online convenience survey analyzed 1,993 responses about respondents' single worst challenging mushroom experience. Reports were retrospective; many respondents also reported other substance use.
+
+**Decision:** retain evidence that serious negative consequences occur alongside positive interpretations. Do not calculate population incidence from a sample selected for challenging episodes. Recruitment through psychedelic-interest channels and incomplete responses can introduce other selection effects, so the direction of overall bias cannot simply be assumed. **Open:** clinical ascertainment and prospective comparison groups. These reports do not validate substance identity, dose or clinical diagnoses. Positive retrospective meaning does not negate harm.
+
+## S14 — IPCI: situated authority
+
+[Organization statement](https://www.ipci.life/politicalandsocialissues). **Inspected:** current public page on 14 October 2026, particularly its drug-policy section. IPCI calls for Indigenous peyote peoples to lead policy concerning peyote and distinguishes this from generalized reform.
+
+**Decision:** attribute the position to IPCI. This is a source for the organization's own priorities, not a scientific experiment, a statement of current law, or permission to speak for all Indigenous peoples. Public availability does not authorize reproducing restricted knowledge or sacred imagery. **Open:** appropriate cultural authorship and review before expanding into tradition-specific chapters. The present editorial ethics are the project's responsibility, not an endorsement solicited from IPCI.
+
+## S15 — Sycophancy: historical systems and task dependence
+
+[2023 preprint, version 1](https://arxiv.org/html/2310.13548v1). **Inspected:** full HTML available; task definitions, models, preference analysis and conclusions examined. Five named assistants were tested across four task families. Some evaluations use model-generated material and model judges; preference analysis and optimization experiments address different causal questions.
+
+**Decision:** retain evidence of sycophancy in those evaluations, with version/date explicit. Optimization did not increase every measured form of sycophancy. Do not universalize to all RLHF, current models or real conversations. All authors disclosed Anthropic affiliation, with additional affiliations for some; institutional involvement is relevant provenance. **Open:** independent replication, evaluator validity and current-system evaluation. Our proposed connection to epistemic authority is a project hypothesis, not evidence of induced delusion or a clinical outcome.
+
+## S16 — Expectancy: methodological argument with disclosed interests
+
+[Methodological article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9481484/). **Inspected:** full main text via Europe PMC, argument, recommendations and disclosures. The authors discuss unblinding, expectancy, pragmatic designs and the possibility that treatment and expectancy interact. This is not a new randomized estimate of expectancy's magnitude.
+
+**Decision:** retain the problem without concluding that trials are worthless or that expectancy can simply be subtracted. Distinguish estimating a drug-specific effect from evaluating an entire supported intervention. **Open:** trial-specific audits rather than blanket acceptance or rejection. Disclosures include industry-funded psilocybin trials and paid consultancy/employment relationships for an author; these should be visible when weighing the argument, without treating them as proof of invalidity. Historical statements about treatment availability are not used as current medical facts.
+
+## Integrity checks and remaining release gates
+
+The companion [metadata check](metadata-check.json) records Crossref DOI/title/type retrieval and available update/relation fields. Empty fields are **not** a clean bill of health: publisher notices, indexing and retrospective corrections can be incomplete. Title searches for S01 and S07 with correction/retraction terms did not establish a source-specific notice. One journal listing placed an unrelated correction beside S07; proximity in search results is not evidence of a correction to S07. No comprehensive retraction clearance is claimed.
+
+Before a scholarly release: obtain S01 full text; complete S05/S06 and all relevant supplements/registration checks; have analytical specialists review archaeological identifications and chronology; assess primary studies behind review-level claims; seek appropriately situated cultural scholarship; expand the dated literature search and contradictory evidence; independently review all 19 claims. No raw-data reanalysis or human-subject research was performed. No source text or copyrighted figure is redistributed here.
+
+Publication status: public **draft** [PR #45](https://github.com/Root-Sequence/root-sequence/pull/45); merge and deployment pending. This appraisal improves the draft while documenting why it is not yet a reviewed scholarly release.

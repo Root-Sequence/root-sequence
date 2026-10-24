@@ -70,6 +70,8 @@ This directory holds bounded research inquiries and versioned papers that synthe
 
 ## Research areas
 
+- [The Stoned Age](the-stoned-age/README.md) — **v0.1, AI-assisted review draft**. Altered states, curiosity, religion, cognitive evolution, shared meaning and AI; living paper, illustrated reader editions, talk and shared evidence records.
+
 - [Conscious Systems](conscious-systems/README.md) — **exploratory, AI-assisted seed; author review pending**. Starts with [what can change about a mind while preserving consciousness](conscious-systems/what-can-we-change-about-a-mind.md), separating experience from report, capability, and authority.
 
 - [What If It All Works?](what-if-it-all-works/README.md) — **exploratory / AI-assisted / author review pending**. Investigates what counts as progress, who benefits, meaningful access, contested ideals, ethical uncertainty, and why imperfection neither excuses harm nor defeats improvement.
