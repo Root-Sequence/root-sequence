@@ -1,6 +1,6 @@
 # Root Sequence professional refresh
 
-**Canonical progress checklist · started 2026-10-17 · Public documentation batch complete · Open-PR triage next**
+**Canonical progress checklist · started 2026-10-17 · Public documentation batch complete · Open-PR triage in progress**
 
 This plan improves the public introduction to Root Sequence as an independent interdisciplinary research initiative started by Rae Lovejoy. Its exploratory writing, technical questions, social inquiry, and speculative work remain part of the project. The [research method](research/method.md), [repository map](root_map.md), and [ecosystem map](ECOSYSTEM.md) retain their existing authority.
 
@@ -36,7 +36,7 @@ This is the single checklist for this refresh. Project-specific backlogs remain 
 | [x] | P1-05 | done | Rae explicitly approved website publication on 2026-10-19 (UTC). [Website-only PR #47](https://github.com/Root-Sequence/root-sequence/pull/47) merged as `b179a7fa56252dfd9fefbb3f93dcf1a9e1dd3ec6`; [Pages run](https://github.com/Root-Sequence/root-sequence/actions/runs/39211072192) succeeded. Live HTTPS apex and www return the exact generated release. The approval record matches the reviewed source; the gate still rejects historical/stale approval. No other draft or research endorsement follows. |
 | [x] | P1-11 | done | The public-documentation batch is complete. [Root #46](https://github.com/Root-Sequence/root-sequence/pull/46) merged as `ec9ba2f693d482450e2361cde01a9b010089a91e`; [profile #10](https://github.com/Root-Sequence/.github/pull/10) merged as `7ea6c4b7cd191775a17d951935c7f9927f691f70`; [Wiki #15](https://github.com/Root-Sequence/wiki/pull/15) merged as `7b7d15120e289ab2798476afaf928f6a567c6172`; and [status follow-up #51](https://github.com/Root-Sequence/root-sequence/pull/51) merged as `c53f704202a6e8db150b9c77c761abfad54b5502`. The website, repository documentation, organization profile/registry, seven-public-repository Wiki snapshot, and privacy corrections for Liberated Intelligence and Liberation Mass are published. Unreviewed applicant exercises remain on `review/work-samples-2026-10-23` outside this release. Research, licensing, governance, and private-Wiki changes were not adopted by the batch. |
 | [x] | P1-06 | done | Repair the 15 existing reader-check failures: correct one relative link and connect fourteen existing T-003 supporting records from their current open-questions section. The checker now passes all 238 Markdown files. Paper findings, author review, and the independent-comparison boundary remain unchanged. |
-| [ ] | P1-12 | to do | After P1-11, triage open PRs across Root Sequence against current main and their canonical homes. Read the diffs, check dependencies and overlap, and record a recommendation with evidence for each PR. Keep substantive research and governance proposals separate from routine maintenance. Merge and closure decisions remain individual review decisions; preserve superseded work before proposing closure. |
+| [ ] | P1-12 | in progress | Initial triage covers the 32-PR starting inventory; private findings remain in a private handoff. Published source for organization #13/#5, Wiki #12, and root #41/#43/#40 is verified. Five public commons companions remain ready for review. Root #42 now incorporates #40 and has completed a bounded source/wording check; author review and a publication decision remain. See the [source-review checkpoint](AUDIT.md#agency-under-stress-source-review-2026-10-24). #44/#45 still conflict in the research index. Larger research, stewardship, and private implementation reviews remain; publication and adoption are individual decisions. |
 
 ## P2: small applicant work-samples track
 
@@ -61,6 +61,14 @@ Queued after the public-facing baseline. Freshness and completeness of either Wi
 | [ ] | P3-02 | to do | Prepare small, source-linked candidate updates for private review before public draft PRs. Confirm wording, provenance, visibility, and canonical placement with Rae; preserve stable entity IDs and keep substantive work in its project home. Public builds continue to consume only public sources. |
 
 The public [Wiki overlay contract](https://github.com/Root-Sequence/wiki/blob/main/PRIVATE_OVERLAY.md) defines the shared identities and visibility boundary. Source comparison is still to do; recent activity alone does not establish that the private layer is current. Suitable material can be deliberately transformed for public use after review.
+
+## P4: personal-site link follow-up
+
+Queued after the current public PR batch; this small pass can precede the larger Wiki reconciliation. The personal site's own source and review process remain authoritative.
+
+| Check | ID | Status | Deliverable and evidence |
+| --- | --- | --- | --- |
+| [ ] | P4-01 | to do | Review the project-ecology wording and links on both [raearea.net](https://raearea.net/) and [whoami](https://raearea.net/whoami/). **Show Rae the proposed link additions, replacements, removals, and any copy changes before editing either page.** The live link inventory and actual source were inspected; a detailed proposal is prepared locally for review. Source is `raelovejoy/raearea`: homepage `index.html`, canonical whoami copy `whoami/whoami.md`, generated `whoami/index.html`. Recheck main and open drafts after approval, then prepare only the approved changes on a branch. Preserve the personal page's voice; publication requires its own decision. |
 
 ## Approved mission wording
 
