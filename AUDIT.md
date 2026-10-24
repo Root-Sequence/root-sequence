@@ -311,7 +311,7 @@ The released documentation preserves project-local authority, research/evidence 
 
 Dates in this section use Pacific time. Root #52 is merged as `f42d934a05d1783ee003d3fd9b8f23545a39a30a`, completing the publication-status follow-up. The next work is the existing PR backlog, not another publication receipt.
 
-The live inventory contains **32 open PRs across 15 repositories: 16 public and 16 private**. Every PR has an initial recommendation. This public record covers the public proposals; private titles, branch contents, and findings remain in a private local handoff. No PR was merged or closed during the audit. No open proposal was found to be wholly superseded and ready for closure on that basis alone.
+The inventory taken before opening this audit PR contains **32 open PRs across 15 repositories: 16 public and 16 private**. Every PR has an initial recommendation. This public record covers the public proposals; private titles, branch contents, and findings remain in a private local handoff. No PR was merged or closed during the audit. No open proposal was found to be wholly superseded and ready for closure on that basis alone.
 
 ### Progress and review depth
 
