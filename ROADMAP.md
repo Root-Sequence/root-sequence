@@ -68,7 +68,7 @@ Queued after the current public PR batch; this small pass can precede the larger
 
 | Check | ID | Status | Deliverable and evidence |
 | --- | --- | --- | --- |
-| [ ] | P4-01 | to do | Review the project-ecology wording and other links on [raearea.net/whoami](https://raearea.net/whoami/). A preliminary live read found a direct link to the now-private Liberation Mass repository; other destinations still need checking. Audit the actual site source and existing drafts before editing, then prepare a small link/copy update for review in that source repository. Keep the personal page's voice and use public-safe destinations. Publication requires its own decision. |
+| [ ] | P4-01 | to do | Review the project-ecology wording and links on both [raearea.net](https://raearea.net/) and [whoami](https://raearea.net/whoami/). **Show Rae the proposed link additions, replacements, removals, and any copy changes before editing either page.** The live link inventory and actual source were inspected; a detailed proposal is prepared locally for review. Source is `raelovejoy/raearea`: homepage `index.html`, canonical whoami copy `whoami/whoami.md`, generated `whoami/index.html`. Recheck main and open drafts after approval, then prepare only the approved changes on a branch. Preserve the personal page's voice; publication requires its own decision. |
 
 ## Approved mission wording
 
