@@ -1,6 +1,6 @@
 # Root Sequence professional refresh
 
-**Canonical progress checklist · started 2026-10-17 · Public documentation batch complete · Open-PR triage next**
+**Canonical progress checklist · started 2026-10-17 · Public documentation batch complete · Open-PR triage in progress**
 
 This plan improves the public introduction to Root Sequence as an independent interdisciplinary research initiative started by Rae Lovejoy. Its exploratory writing, technical questions, social inquiry, and speculative work remain part of the project. The [research method](research/method.md), [repository map](root_map.md), and [ecosystem map](ECOSYSTEM.md) retain their existing authority.
 
@@ -36,7 +36,8 @@ This is the single checklist for this refresh. Project-specific backlogs remain 
 | [x] | P1-05 | done | Rae explicitly approved website publication on 2026-10-19 (UTC). [Website-only PR #47](https://github.com/Root-Sequence/root-sequence/pull/47) merged as `b179a7fa56252dfd9fefbb3f93dcf1a9e1dd3ec6`; [Pages run](https://github.com/Root-Sequence/root-sequence/actions/runs/39211072192) succeeded. Live HTTPS apex and www return the exact generated release. The approval record matches the reviewed source; the gate still rejects historical/stale approval. No other draft or research endorsement follows. |
 | [x] | P1-11 | done | The public-documentation batch is complete. [Root #46](https://github.com/Root-Sequence/root-sequence/pull/46) merged as `ec9ba2f693d482450e2361cde01a9b010089a91e`; [profile #10](https://github.com/Root-Sequence/.github/pull/10) merged as `7ea6c4b7cd191775a17d951935c7f9927f691f70`; [Wiki #15](https://github.com/Root-Sequence/wiki/pull/15) merged as `7b7d15120e289ab2798476afaf928f6a567c6172`; and [status follow-up #51](https://github.com/Root-Sequence/root-sequence/pull/51) merged as `c53f704202a6e8db150b9c77c761abfad54b5502`. The website, repository documentation, organization profile/registry, seven-public-repository Wiki snapshot, and privacy corrections for Liberated Intelligence and Liberation Mass are published. Unreviewed applicant exercises remain on `review/work-samples-2026-10-23` outside this release. Research, licensing, governance, and private-Wiki changes were not adopted by the batch. |
 | [x] | P1-06 | done | Repair the 15 existing reader-check failures: correct one relative link and connect fourteen existing T-003 supporting records from their current open-questions section. The checker now passes all 238 Markdown files. Paper findings, author review, and the independent-comparison boundary remain unchanged. |
-| [ ] | P1-12 | to do | After P1-11, triage open PRs across Root Sequence against current main and their canonical homes. Read the diffs, check dependencies and overlap, and record a recommendation with evidence for each PR. Keep substantive research and governance proposals separate from routine maintenance. Merge and closure decisions remain individual review decisions; preserve superseded work before proposing closure. |
+| [ ] | P1-12 | in progress | Initial triage covers the 32-PR starting inventory; private findings remain in a private handoff. Published source for organization #13/#5, Wiki #12, and root #41/#43/#40/#42/#44 is verified. Five public commons companions remain previously checked review candidates. Root #45 now incorporates #44 and has completed a bounded source/edition/navigation pass at `12efef65ede19744ed1f43df01cb5ebbc1165e22` (source/edition review), with the later route proposal tracked under P1-13; author, scholarly and cultural review remain pending. See the [Stoned Age checkpoint](AUDIT.md#intelligence-research-published-and-stoned-age-reviewed-2026-10-24). Stewardship/licensing and private implementation reviews remain separate; publication and adoption are individual decisions. |
+| [ ] | P1-13 | in progress | Prepare and review the proposed `rootsequence.systems/stonedage/` route in existing [draft #45](https://github.com/Root-Sequence/root-sequence/pull/45), now at `2f382c71c1434f1c2ee447656aa5a1dffe2c57ef`. The combined preview reuses the canonical editions, preserves the homepage, and passes 17 publisher tests and 192 local-target checks. The planned address is recorded in the research README/index, with no homepage link. “How Drugs Explain the Universe” is a working provocation, not a separate companion text. Hosting approval remains unset; the release gate blocks deployment. See the [route checkpoint](AUDIT.md#proposed-stoned-age-website-route-2026-10-24). Review and publication remain pending. |
 
 ## P2: small applicant work-samples track
 
@@ -61,6 +62,14 @@ Queued after the public-facing baseline. Freshness and completeness of either Wi
 | [ ] | P3-02 | to do | Prepare small, source-linked candidate updates for private review before public draft PRs. Confirm wording, provenance, visibility, and canonical placement with Rae; preserve stable entity IDs and keep substantive work in its project home. Public builds continue to consume only public sources. |
 
 The public [Wiki overlay contract](https://github.com/Root-Sequence/wiki/blob/main/PRIVATE_OVERLAY.md) defines the shared identities and visibility boundary. Source comparison is still to do; recent activity alone does not establish that the private layer is current. Suitable material can be deliberately transformed for public use after review.
+
+## P4: personal-site link follow-up
+
+Queued after the current public PR batch; this small pass can precede the larger Wiki reconciliation. The personal site's own source and review process remain authoritative.
+
+| Check | ID | Status | Deliverable and evidence |
+| --- | --- | --- | --- |
+| [ ] | P4-01 | to do | Review the project-ecology wording and links on both [raearea.net](https://raearea.net/) and [whoami](https://raearea.net/whoami/). **Show Rae the proposed link additions, replacements, removals, and any copy changes before editing either page.** The live link inventory and actual source were inspected; a detailed proposal is prepared locally for review. Source is `raelovejoy/raearea`: homepage `index.html`, canonical whoami copy `whoami/whoami.md`, generated `whoami/index.html`. Recheck main and open drafts after approval, then prepare only the approved changes on a branch. Preserve the personal page's voice; publication requires its own decision. |
 
 ## Approved mission wording
 
@@ -132,12 +141,13 @@ On **2026-10-17 (Pacific)**, Rae accepted writing block `86204` by replying “b
 
 - [Merged root documentation cleanup: PR #46](https://github.com/Root-Sequence/root-sequence/pull/46). Merge commit: `ec9ba2f693d482450e2361cde01a9b010089a91e`. Unreviewed work samples are excluded.
 - [Published organization profile: merged PR #10](https://github.com/Root-Sequence/.github/pull/10). Merge commit: `7ea6c4b7cd191775a17d951935c7f9927f691f70`.
-- [Public Wiki: draft PR #15](https://github.com/Root-Sequence/wiki/pull/15), including the build repair and current public/private routing.
-- [Publication and private-project status: draft PR #51](https://github.com/Root-Sequence/root-sequence/pull/51), reusing the existing post-merge context update.
-- Review the canonical repository first, then the profile. The profile overlap has been reconciled; existing research and commons drafts remain open for separate substantive review.
-- **Next supported review:** Begin P1-12’s evidence-based open-PR triage against current default branches and canonical homes. Work-sample review and private/public Wiki reconciliation remain separate later work.
+- [Published Wiki: merged PR #15](https://github.com/Root-Sequence/wiki/pull/15), including the build repair and current public/private routing.
+- [Published status follow-up: merged PR #51](https://github.com/Root-Sequence/root-sequence/pull/51).
+- [Current audit and checklist draft: PR #53](https://github.com/Root-Sequence/root-sequence/pull/53). Reuses this plan and the existing audit; no additional tracking PR.
+- [The Stoned Age: review draft #45](https://github.com/Root-Sequence/root-sequence/pull/45), reconciled with main through #44. Author, scholarly and cultural review remain pending; the proposed `/stonedage/` deployment has a separate pending approval.
+- **Next supported review:** Rae reviews #45 as a labelled working inquiry and considers its proposed hosting route. The larger stewardship/licensing family needs its own substantive pass. Work samples, private implementation and Wiki reconciliation remain separate; personal-page edits still require review of the existing link proposal.
 
-Current status: **24 done, 6 to do, 0 in progress, 0 blocked** across 30 tasks. P1-11 is complete: Root #46, organization profile #10, Wiki #15, and status follow-up #51 are merged. The approved bio, metadata, registry, build routing, and public/private projection corrections are live. P1-12 open-PR triage is next.
+Current status: **24 done, 6 to do, 2 in progress, 0 blocked** across 32 tasks. P1-11 is complete; P1-12 open-PR triage is in progress. The public documentation baseline and subsequent root #41/#43/#40/#42/#44 source changes are published. The latest source/edition review is #45; P1-13 now tracks its proposed `/stonedage/` hosting route. Publication and the remaining project decisions are pending.
 
 ## Accepted name context and first related-project description
 
