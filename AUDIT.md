@@ -266,3 +266,35 @@ Liberation Mass still has inconsistent source licensing labels (CC0 versus CC BY
 ### Release scope and preserved drafts
 
 The two unreviewed applicant exercise files are preserved unchanged at `58002e0b547bac6e49b3b38b4c9a0171fe0e7d5a` on `review/work-samples-2026-10-23`. They are excluded from the documentation publication candidate, with their review route retained in the canonical plan. Existing root #46, organization #10, and Wiki #15 are reused; no additional cleanup PR is required. All three still need the user's explicit publication decision. No merge, deployment, policy adoption, private-source release, license change, or source-research endorsement is included.
+
+## Publication and private-project status: 2026-10-23
+
+This later checkpoint supersedes the pending-publication and live-metadata statements above. Dates in this checkpoint use Pacific time.
+
+Root #46 is merged as `ec9ba2f693d482450e2361cde01a9b010089a91e`. Organization profile #10 is open for code review and is no longer a draft; Wiki #15 remains an open draft. Existing root status-update draft #51 is reused for the canonical plan, context, and ecosystem-map follow-up. No new PR is created and none of these remaining PRs is merged here.
+
+### Current public/private boundary
+
+The verified inventory still contains 15 repositories, now seven public and eight private. Rae made Liberation Mass private because it needs substantial revision and updates and is not ready for public inspection, the same reason given for Liberated Intelligence. Their broad roles remain in the public map, with explicit private/revision labels and no direct private-repository reading links in the affected summaries. The machine-readable organization registry records both as private. The Wiki automatic registry excludes them, and its public context index no longer offers Liberation Mass's private files. No private source is copied and no repository visibility is changed.
+
+### Approved and applied live metadata
+
+Rae explicitly approved the proposed bio, descriptions, and link repairs in chat. These values are saved and read back from GitHub:
+
+| Field | Applied value |
+| --- | --- |
+| Organization bio | Independent interdisciplinary research exploring how intelligence, technology, and social systems shape one another. |
+| `root-sequence` description | Independent interdisciplinary research exploring how intelligence, technology, and social systems shape one another. |
+| `universal-coherence-framework` description | Exploratory framework for comparing how systems hold together or change; AI-assisted model under author review. |
+| `universal-coherence-framework` homepage | `https://github.com/Root-Sequence/universal-coherence-framework#readme` |
+| `beinghumane-guide` homepage | `https://github.com/Root-Sequence/beinghumane-guide#readme` |
+| `liberation-mass` description | Experimental gathering format connecting collective action with shared ritual and celebration; rotating responsibilities and voluntary participation. |
+| `liberation-mass` homepage | Cleared while the project is private pending revision. |
+
+Liberation Mass's new private status makes the earlier proposed private-README homepage unsuitable for public navigation. Clearing the field removes the previously failing website route without suggesting that private drafts are ready for inspection. The historical timeout for Being Human(e) does not establish permanent domain failure. The site's source, publication gate, deployment, DNS, permissions, and existing license grants are unchanged.
+
+### Checks and remaining decisions
+
+Reader-document validation passes all 238 Markdown files. The Wiki public/private boundary check and MkDocs 1.6.1 strict build pass after the registry refresh, with 35 canonical entities and 14 project lenses. The organization registry's visibility values match the live 15-repository snapshot. These are structural and routing checks, not research validation.
+
+Profile #10 still awaits code review, and #10, Wiki #15, and status follow-up #51 still need their publication decisions. P1-11 remains in progress. The preserved work samples, unresolved licensing questions, substantive research review, and private/public Wiki freshness comparison retain their separate scopes.
