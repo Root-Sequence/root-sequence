@@ -22,7 +22,7 @@ Root Sequence is an independent interdisciplinary research initiative exploring 
 
 ## Current reality
 
-This is an active, public, evolving body of writing, research, maps, and small tools. The professional-refresh website is approved and published; remaining documentation and work-sample reviews are tracked in [ROADMAP.md](ROADMAP.md). Material ranges from developing research to historical notes and explicitly speculative work. The canonical research method formalizes a route–synthesize–test–build workflow for cross-field questions. Working Epistemic Contrast and Deliberative Inquiry methods add contrast before convergence, evidence-weighted revision, and shared understanding before consequential decisions without replacing domain-native methods. The October 19 (UTC) website release has exact-source approval, a successful GitHub Pages deployment, and verified live-domain parity. That approval covers the website source and publication transformation, not the underlying research. The repository also temporarily hosts an explicitly non-canonical incubation seed for the proposed standalone Commons of Inquiry & Creation project. Root Sequence is not a finished theory, product, institution, or universal explanation.
+This is an active, public, evolving body of writing, research, maps, and small tools. The professional-refresh website is published, and this repository’s public documentation cleanup merged on October 24, 2026 (UTC). Companion organization-profile and Wiki proposals, plus work-sample reviews, remain tracked in [ROADMAP.md](ROADMAP.md). Material ranges from developing research to historical notes and explicitly speculative work. The canonical research method formalizes a route–synthesize–test–build workflow for cross-field questions. Working Epistemic Contrast and Deliberative Inquiry methods add contrast before convergence, evidence-weighted revision, and shared understanding before consequential decisions without replacing domain-native methods. The October 19 (UTC) website release has exact-source approval, a successful GitHub Pages deployment, and verified live-domain parity. That approval covers the website source and publication transformation, not the underlying research. The repository also temporarily hosts an explicitly non-canonical incubation seed for the proposed standalone Commons of Inquiry & Creation project. Root Sequence is not a finished theory, product, institution, or universal explanation.
 
 ## The smallest useful map
 
@@ -39,7 +39,7 @@ Root Sequence asks broad questions and routes mechanisms to native fields and me
 
 ## Refresh progress
 
-The [professional-refresh checklist](ROADMAP.md) tracks the public baseline, draft PR review, publication decisions, and a small work-samples track.
+The [professional-refresh checklist](ROADMAP.md) records the merged repository cleanup and tracks the still-draft organization-profile and Wiki proposals, live-settings decisions, and the separate work-samples track.
 
 ## What to do next
 
