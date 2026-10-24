@@ -257,7 +257,7 @@ Wiki #15 retains its existing six-line orientation/build repair and adds current
 
 ### Current access and unresolved decisions
 
-Liberated Intelligence is now private. The organization registry and public summaries reflect that access state without changing repository visibility or exporting its contents. Other known private projects retain their boundaries.
+Liberated Intelligence is now private. Rae clarified that it needs substantial revision and updates and is not ready for public inspection. The organization profile, ecosystem map, Wiki project index, and historical Root Sequence overview reflect that status. The historical overview is not presented as an account of the current drafts. No repository visibility was changed and no private contents were exported. Other known private projects retain their boundaries.
 
 Live repository homepage checks found an HTTP 404 for UCF's `/ucf` page, a hostname certificate mismatch for `liberationmass.org`, and a timeout while verifying `beinghumane.guide`. A timeout does not establish permanent absence. The Wiki homepage returns HTTP 200. Corrected homepage/description values are prepared in the local review handoff; live settings are not changed by these source drafts.
 
