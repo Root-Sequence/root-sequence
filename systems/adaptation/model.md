@@ -1,7 +1,7 @@
 # Adaptation — Working Analysis Model
 
 **Document role:** Reusable systems model for describing how a system changes its responses, structure, or environment over time  
-**Status:** AI-assisted draft for author review, revised 2026-10-01  
+**Status:** AI-assisted draft for author review, revised 2026-10-01<br>
 **Scope:** Cross-domain systems analysis; not a validated universal scientific model and not a clinical model of human behavior  
 **Conceptual parent:** [Dynamic Coherence and Adaptive Continuity](../../concepts/dynamic-coherence.md)
 
@@ -530,7 +530,7 @@ A useful test is:
 
 > **Did anticipation preserve options and improve preparedness, or did it narrow the system around a prediction that has not happened?**
 
-This overlaps established resilience-engineering work on responding, monitoring, learning, anticipating, graceful extensibility, and sustained adaptability. Root Sequence uses the formulation above as a cross-project design prompt, not as a claim to a new underlying mechanism.
+The [existing lineage comparison](../../research/dynamic-coherence-lineage.md#6-resilience-engineering-respond-monitor-learn-anticipate) routes these topics to resilience engineering. The formulation above remains a Root Sequence design prompt; the referenced literature does not validate its cross-project application.
 
 ---
 

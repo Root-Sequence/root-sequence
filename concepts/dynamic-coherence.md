@@ -1,7 +1,7 @@
 # Dynamic Coherence and Adaptive Continuity
 
 **Document role:** Cross-project conceptual framework and synthesis  
-**Status:** AI-assisted draft for author review, revised 2026-10-01  
+**Status:** AI-assisted draft for author review, revised 2026-10-01<br>
 **Canonical scope:** Shared Root Sequence language for change, continuity, agency, adaptation, and future possibility. Systems-specific mechanisms belong in the systems layer; project-specific implementations remain local.  
 **Evidence boundary:** This document connects established concepts from several literatures with Root Sequence working language. The synthesis itself is not a validated universal theory. Similar language across organisms, minds, institutions, ecosystems, and artificial systems does not establish a shared mechanism.
 
@@ -829,7 +829,7 @@ The distinction matters. Foresight without adaptability can produce premature op
 
 Unexpected outcomes are therefore not merely exceptions to the model. They can be evidence about the model's boundary, missing variables, false assumptions, or changing conditions.
 
-This overlaps established resilience-engineering work on responding, monitoring, learning, anticipating, graceful extensibility, and sustained adaptability. Root Sequence's role is to connect those questions to agency, power, reversibility, affected parties, and future possibility—not to rename the underlying mechanisms.
+The [existing lineage comparison](../research/dynamic-coherence-lineage.md#6-resilience-engineering-respond-monitor-learn-anticipate) connects these questions to resilience engineering, including responding, monitoring, learning, anticipating, graceful extensibility, and sustained adaptability. Root Sequence proposes connections to agency, power, reversibility, affected parties, and future possibility. That proposed application has not been evaluated here.
 
 ---
 

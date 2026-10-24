@@ -1,7 +1,8 @@
 # Root Sequence Design Grammar
 
 **Document role:** Working synthesis of recurring cross-project design principles<br>
-**Status:** AI-assisted draft for author review, revised 2026-10-01<br>
+**Status:** AI-assisted draft for author review<br>
+**Revision history:** Dated additions are recorded in the source notes below.<br>
 **Canonical scope:** Shared questions and commitments at Root Sequence level; each project owns its own design decisions, tests, governance, and canon.<br>
 **Evidence boundary:** Normative synthesis from a conversation, not a validated universal theory or evidence that every project already implements every item.
 
@@ -18,6 +19,7 @@ This wording is a proposed synthesis, not an approved project slogan. Coherence 
 | Move | Design question | Related home |
 | --- | --- | --- |
 | Treat relationships as first-class | Which dependencies, interfaces, feedbacks, authority relations, translations, flows, conditions, and histories matter as much as the parts themselves? | [Why Root Sequence?](root-sequence.md#a-routing-and-synthesis-layer-not-a-replacement-discipline) and [Systems](../systems/README.md) |
+| Distinguish system-relative from fundamental limits | Which apparent barriers depend on the current arrangement, which conditions could change, and which relationships or protections should remain? Who gains or loses future options? | [Disentanglement and System-Relative Constraints](../systems/principles/disentanglement-and-constraints.md) (exploratory lens) and [Dynamic Coherence](dynamic-coherence.md) |
 | Preserve connection through controllable boundaries | What crosses this boundary, who controls the crossing, can it be refused or reversed, and does greater connection preserve meaningful distinction? | [The Membrane Test](membrane-test.md) |
 | Route mechanisms to their native methods | Which discipline or established method already studies the mechanism we are invoking? What remains after its distinctions and evidence limits are restored? | [Why Root Sequence?](root-sequence.md#a-routing-and-synthesis-layer-not-a-replacement-discipline) and [Dynamic Coherence lineage](../research/dynamic-coherence-lineage.md) |
 | Make knowledge discoverable before vocabulary is mastered | Can someone begin from the question they actually have and discover the terms, fields, sources, and methods needed to go deeper? | [Epistemic Discoverability and Knowledge Routing](epistemic-discoverability.md) and [Reading Trails](../research/reading-trails/README.md) |
@@ -65,6 +67,8 @@ See [Idea Trails](../IDEA_TRAILS.md) for broader routes. These examples are **pr
 
 ## How this page changes
 
+**2026-10-01 source addition:** A discussion added the operational anticipation rule, “Anticipate what you can. Design for what you can’t,” as a derivative of adaptive continuity, resilience, and corrigibility rather than a separate theory.
+
 Use [Thought Routing](../THOUGHT_ROUTING.md) to capture the source once, compare existing treatments, and choose a canonical home. A useful path may be **capture → investigate → synthesize → make a project-specific decision → test or observe → revise**. It is not a required promotion ladder: an idea can stay a question, split, be contested, or be retired. Research can challenge a principle; a principle does not certify a research finding.
 
-**Source note:** This synthesis was prompted by the 2026-09-24 discussion of recurring project patterns, agency/automation, and the later dynamic-coherence/adaptive-continuity discussion. A 2026-09-28 synthesis/connection discussion sharpened the treatment of relationships as first-class objects and synthesis as distinct from replacement expertise. A 2026-09-29 Existential Euphoria / Root Sequence comparison added the provisional Membrane Test: a boundary-and-interface prompt for relationship without erasure. A 2026-10-01 discussion added the operational anticipation rule—“Anticipate what you can. Design for what you can’t.”—as a derivative of adaptive continuity, resilience, and corrigibility rather than a separate theory. The conversation text was available during drafting, but no durable conversation URL was supplied. The table and wording are AI-assisted proposals for author review.
+**Source note:** This synthesis was prompted by the 2026-09-24 discussion of recurring project patterns, agency/automation, and the later dynamic-coherence/adaptive-continuity discussion. A 2026-09-28 synthesis/connection discussion sharpened the treatment of relationships as first-class objects and synthesis as distinct from replacement expertise. A 2026-09-29 Existential Euphoria / Root Sequence comparison added the provisional Membrane Test: a boundary-and-interface prompt for relationship without erasure. The conversation text was available during drafting, but no durable conversation URL was supplied. The table and wording are AI-assisted proposals for author review.
