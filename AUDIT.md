@@ -306,3 +306,68 @@ This checkpoint supersedes the remaining-publication statements in the preceding
 [Root #46](https://github.com/Root-Sequence/root-sequence/pull/46), [organization profile/registry #10](https://github.com/Root-Sequence/.github/pull/10), [Wiki build/visibility #15](https://github.com/Root-Sequence/wiki/pull/15), and [root status follow-up #51](https://github.com/Root-Sequence/root-sequence/pull/51) are merged. The public website, repository introductions, organization profile and registry, seven-public-repository Wiki projection, and corrected private/revision status for Liberated Intelligence and Liberation Mass are now on their default branches.
 
 The released documentation preserves project-local authority, research/evidence limits, private-source boundaries, and the separation of work-sample review. It does not adopt research claims, governance proposals, licensing changes, or private-Wiki material. The next planned professional-refresh action is the evidence-based open-PR triage in ROADMAP P1-12.
+
+## Open-PR triage: 2026-10-23
+
+Dates in this section use Pacific time. Root #52 is merged as `f42d934a05d1783ee003d3fd9b8f23545a39a30a`, completing the publication-status follow-up. The next work is the existing PR backlog, not another publication receipt.
+
+The live inventory contains **32 open PRs across 15 repositories: 16 public and 16 private**. Every PR has an initial recommendation. This public record covers the public proposals; private titles, branch contents, and findings remain in a private local handoff. No PR was merged or closed during the audit. No open proposal was found to be wholly superseded and ready for closure on that basis alone.
+
+### Progress and review depth
+
+| Check | Status | Evidence / remaining work |
+| --- | --- | --- |
+| [x] | done | Read current PR metadata, bodies, and changed-file inventories for all 32; read the small documentation diffs and selected scope, method, and boundary sections of the larger drafts. |
+| [x] | done | Compare all 16 public PRs with current main using local Git tree merges; repair the sole current-main conflict in existing root #43. |
+| [x] | done | Check all 21 pairs of the seven root research/proposal PRs after projecting each onto current main. Two pairs conflict, recorded below. |
+| [x] | done | Prepare three existing maintenance PRs for individual review, preserve current privacy labels, and verify their exact remote commit trees. |
+| [ ] | to do | Complete deeper source/claim review of root #44/#45, publication-policy review of #50, and separate technical review of the larger private drafts. This triage is not those reviews. |
+| [ ] | to do | Decide each merge or closure individually, then reconcile accepted source proposals and their companions. No bulk merge is proposed. |
+
+Full papers, generated PDFs, every external source, and private runtime behavior were not independently validated here. Checks reported in older PR descriptions remain their authors' records unless explicitly rerun below. A clean Git merge establishes textual compatibility, not evidence quality or approval. P1-12 therefore remains **in progress** in the canonical checklist.
+
+### First maintenance candidates
+
+1. **[Organization #13](https://github.com/Root-Sequence/.github/pull/13)** corrects the published profile/Wiki status in two context files and removes the stale pending-publication sentence from the infrastructure README. The branch now changes three documentation files. Profile copy, project registry, and policies are unchanged.
+2. **[Organization #5](https://github.com/Root-Sequence/.github/pull/5)** adds the already-public Commons of Inquiry bootstrap under `external_or_nested_projects`. Its actual source is [`incubator/commons-of-inquiry/README.md`](incubator/commons-of-inquiry/README.md). The record retains `canonical_home: pending`, distinguishes the current nested seed from an intended standalone repository, and does not claim an operating institution. Current main is incorporated; all existing project records remain identical to main, including private/revision labels.
+3. **[Wiki #12](https://github.com/Root-Sequence/wiki/pull/12)** adds one working Existential Euphoria identity and two index routes, grounded in its public repository and the organization registry. Original reflection and AI-assisted interpretation remain distinct; historical phrase provenance is unverified. The project creation timestamp is September 28 in Pacific time, not a first-use claim. Current Wiki main is incorporated and a generated-site project-index link is repaired. This supersedes the already closed Wiki #11, not another open PR.
+
+Validation: organization registry YAML parses and its only proposed addition is the public seed. Wiki #12 passes the public/private boundary checker and MkDocs 1.6.1 strict build after source generation, with **36 canonical entities and 15 project lenses**. Its seven-public-repository automatic registry and private-project context labels are unchanged from current main. GitHub reports each candidate mergeable; their new heads have no posted reviews or check runs in this snapshot. GitHub's empty commit-status collection is not evidence of a queued or passing review. The local checks above are the evidence available for these small changes.
+
+### Public PR recommendations
+
+These are recommendations for review, not publication authorizations. Heads are the exact versions checked after the repairs in this pass.
+
+| PR | Checked head | Recommendation and reason |
+| --- | --- | --- |
+| [Organization #13](https://github.com/Root-Sequence/.github/pull/13) | `e7d6c6f6c30b2d4f47e9de3cf76fab373250c3e8` | First maintenance batch. Three context/introduction corrections now agree with published main. Remains draft for review. |
+| [Organization #5](https://github.com/Root-Sequence/.github/pull/5) | `7cd6cae1b6b4e43850e73b912c4a8e66c8437afb` | First maintenance batch. Indexes an existing public seed without promoting it to an established institution. |
+| [Wiki #12](https://github.com/Root-Sequence/wiki/pull/12) | `4d76d8e03bc1b32139f6e6b6b152427b29ca8ad2` | First maintenance batch. Source comparison and strict build pass; unfinished provenance remains explicit. Remains draft. |
+| [Root #43](https://github.com/Root-Sequence/root-sequence/pull/43) | `d4aec95fa138a2cb245dd76110a43b38dc34cc11` | Keep draft for author review of the collaboration proposal. README conflict repaired; reviewed main introduction/reuse wording and current privacy labels retained. Original substantive commons text unchanged. Its new main anchor is not available until acceptance. |
+| [Organization #9](https://github.com/Root-Sequence/.github/pull/9) | `36527befd9f1f5576966940e9b57ef7aa194167f` | Keep draft. Depends on root #43's missing main anchor and needs local review of contribution/stewardship guidance. Its profile overlap was already removed; the remaining guidance is not redundant with merged #10. |
+| [UCF #9](https://github.com/Root-Sequence/universal-coherence-framework/pull/9) | `817863e9e1612d85d4317b110f2e434bc2242819` | Keep draft with #43. Proposed contribution practices do not validate the model or establish operating governance. |
+| [Discussions #8](https://github.com/Root-Sequence/root-sequence-discussions/pull/8) | `1af04f3a59ae5aac2ef0cbaf73ed8a0d78e4f624` | Keep draft with #43; review moderation, dissent, and voluntary repair locally before adopting them. No new appeals body is established. |
+| [Being Human(e) #6](https://github.com/Root-Sequence/beinghumane-guide/pull/6) | `a98959245c90583f4623ca1aba430634ab59abc3` | Keep draft with #43; preserve personal-story permissions and project-local contribution decisions. |
+| [Wiki #13](https://github.com/Root-Sequence/wiki/pull/13) | `041842b66b1bbb70b04b24be25dfb87675963329` | Keep draft with #43. A README pointer, not a private-content import or a replacement for the substantive source. |
+| [Root #50](https://github.com/Root-Sequence/root-sequence/pull/50) | `8590f16c6bf8ea2fd010f9fe27be9b53006823a9` | Keep draft for publication-policy, attribution, and licensing decisions. Guidance explicitly remains proposed. Preserve existing grants; the October 22 license audit is dated history, not a current public-access census. Review its complete decision checklist before adoption. |
+| [Organization #12](https://github.com/Root-Sequence/.github/pull/12) | `20fe610c6bb7306c49fdef107443a800f3afd303` | Keep paired with #50. Links deliberately pin the proposal's exact revision and describe it as unadopted; review those targets again if #50 changes. |
+| [Root #41](https://github.com/Root-Sequence/root-sequence/pull/41) | `c731d2f481c86eef4bbcba32290be5b1a803e493` | Small next content-review candidate. Adds representational-legibility distinctions in two existing concepts; no formal metric or empirical validation follows from the wording. |
+| [Root #40](https://github.com/Root-Sequence/root-sequence/pull/40) | `0cf7ed00cd241f083510c605a7dfe7fbc48554f6` | Author review of anticipation/surprise wording, followed by reconciliation with #42. Non-draft status does not establish accepted content or validated mechanisms. |
+| [Root #42](https://github.com/Root-Sequence/root-sequence/pull/42) | `6329bfea8b9d25a3bf5845046f3313f17d063b57` | Keep draft for source and translation review of agency under stress. New source page is absent from main; companion pointers require a source decision. Reconcile design-grammar wording with #40. |
+| [Root #44](https://github.com/Root-Sequence/root-sequence/pull/44) | `00f14ffd8fb8bffc0c551e1bab88b64c1f5c58b2` | Keep draft. Large research map and analytical probes require claim-level reading and source checks. Stipulated probabilities and mathematical toys are not human/organizational experiments or proof of an RS diagnostic advantage. Reconcile its index with #45. |
+| [Root #45](https://github.com/Root-Sequence/root-sequence/pull/45) | `30748ee8db9bfde29fc0312a41b8f04edd98340d` | Keep draft. The Stoned Age has substantial reader editions and a source/claims ledger, but author, scholarly, cultural, and accessibility review remain incomplete. Existing validation records are not rerun scientific appraisal. Reconcile its research index with #44; website publication remains separate. |
+
+### Dependencies and overlap
+
+The five public companions to #43 are organization #9, UCF #9, Discussions #8, Being Human(e) #6, and Wiki #13. Their links to `commons/README.md#collaboration-as-a-living-experiment` will resolve on main only after a source decision. Accepting a shared proposal would still not approve every project's adaptation. Private companions retain their own review boundaries.
+
+All 16 public proposals now merge individually into the checked current main trees. The root #43 repair passes the reader-document checker for all **238 Markdown files**. Pairwise checks of the seven root proposals found two conflicts:
+
+- **#40 and #42:** `concepts/design-grammar.md`. Their prospective-guidance/agency wording needs a deliberate combined edit after deciding which content to accept.
+- **#44 and #45:** `research/README.md`. Both insert research entries at the same place. Retain both only if each research proposal is accepted; no reason to copy one draft's substance into the other now.
+
+The other 19 root pairs merge textually without conflict. This is not a test of every multi-PR order or semantic consistency. In particular, #50's proposed stewardship guidance and #43's collaboration practices need substantive review even though their repaired trees combine cleanly.
+
+Checked public main revisions: root `f42d934a05d1783ee003d3fd9b8f23545a39a30a`; organization `7ea6c4b7cd191775a17d951935c7f9927f691f70`; Wiki `7b7d15120e289ab2798476afaf928f6a567c6172`; UCF `e1c7b28803f58bea4a5b3a200063d5f579260b50`; Discussions `e93ec409bf3f490dbce47ae242921a5ccb276b1e`; Being Human(e) `e7e8b35a7f13e15c041b53475a80aefbdb499437`; Existential Euphoria public source `eb306d4e83d06790c53b3b6f0a90db227b193fcd`. Refresh affected heads and main before an actual merge decision if they change.
+
+Recommended order: review the three maintenance candidates first, then the small #41 conceptual addition. Review #43 as a shared proposal before its companions. Keep the larger research and stewardship families separate so a documentation cleanup cannot silently adopt research conclusions, licensing choices, or new governance.
