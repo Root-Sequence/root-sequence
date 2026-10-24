@@ -1,7 +1,8 @@
 # Root Sequence Design Grammar
 
 **Document role:** Working synthesis of recurring cross-project design principles<br>
-**Status:** AI-assisted draft for author review, revised 2026-10-05<br>
+**Status:** AI-assisted draft for author review<br>
+**Revision history:** Dated additions are recorded in the source notes below.<br>
 **Canonical scope:** Shared questions and commitments at Root Sequence level; each project owns its own design decisions, tests, governance, and canon.<br>
 **Evidence boundary:** Normative synthesis from a conversation, not a validated universal theory or evidence that every project already implements every item.
 
@@ -18,6 +19,7 @@ This wording is a proposed synthesis, not an approved project slogan. Coherence 
 | Move | Design question | Related home |
 | --- | --- | --- |
 | Treat relationships as first-class | Which dependencies, interfaces, feedbacks, authority relations, translations, flows, conditions, and histories matter as much as the parts themselves? | [Why Root Sequence?](root-sequence.md#a-routing-and-synthesis-layer-not-a-replacement-discipline) and [Systems](../systems/README.md) |
+| Distinguish system-relative from fundamental limits | Which apparent barriers depend on the current arrangement, which conditions could change, and which relationships or protections should remain? Who gains or loses future options? | [Disentanglement and System-Relative Constraints](../systems/principles/disentanglement-and-constraints.md) (exploratory lens) and [Dynamic Coherence](dynamic-coherence.md) |
 | Preserve connection through controllable boundaries | What crosses this boundary, who controls the crossing, can it be refused or reversed, and does greater connection preserve meaningful distinction? | [The Membrane Test](membrane-test.md) |
 | Route mechanisms to their native methods | Which discipline or established method already studies the mechanism we are invoking? What remains after its distinctions and evidence limits are restored? | [Why Root Sequence?](root-sequence.md#a-routing-and-synthesis-layer-not-a-replacement-discipline) and [Dynamic Coherence lineage](../research/dynamic-coherence-lineage.md) |
 | Make knowledge discoverable before vocabulary is mastered | Can someone begin from the question they actually have and discover the terms, fields, sources, and methods needed to go deeper? | [Epistemic Discoverability and Knowledge Routing](epistemic-discoverability.md) and [Reading Trails](../research/reading-trails/README.md) |
