@@ -298,3 +298,11 @@ Liberation Mass's new private status makes the earlier proposed private-README h
 Reader-document validation passes all 238 Markdown files. The Wiki public/private boundary check and MkDocs 1.6.1 strict build pass after the registry refresh, with 35 canonical entities and 14 project lenses. The organization registry's visibility values match the live 15-repository snapshot. These are structural and routing checks, not research validation.
 
 Profile #10 still awaits code review, and #10, Wiki #15, and status follow-up #51 still need their publication decisions. P1-11 remains in progress. The preserved work samples, unresolved licensing questions, substantive research review, and private/public Wiki freshness comparison retain their separate scopes.
+
+## Public-documentation batch completed: 2026-10-23
+
+This checkpoint supersedes the remaining-publication statements in the preceding section. Dates use Pacific time.
+
+[Root #46](https://github.com/Root-Sequence/root-sequence/pull/46), [organization profile/registry #10](https://github.com/Root-Sequence/.github/pull/10), [Wiki build/visibility #15](https://github.com/Root-Sequence/wiki/pull/15), and [root status follow-up #51](https://github.com/Root-Sequence/root-sequence/pull/51) are merged. The public website, repository introductions, organization profile and registry, seven-public-repository Wiki projection, and corrected private/revision status for Liberated Intelligence and Liberation Mass are now on their default branches.
+
+The released documentation preserves project-local authority, research/evidence limits, private-source boundaries, and the separation of work-sample review. It does not adopt research claims, governance proposals, licensing changes, or private-Wiki material. The next planned professional-refresh action is the evidence-based open-PR triage in ROADMAP P1-12.
