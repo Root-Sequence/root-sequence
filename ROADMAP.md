@@ -36,6 +36,7 @@ This is the single checklist for this refresh. Project-specific backlogs remain 
 | [x] | P1-05 | done | Rae explicitly approved website publication on 2026-10-19 (UTC). [Website-only PR #47](https://github.com/Root-Sequence/root-sequence/pull/47) merged as `b179a7fa56252dfd9fefbb3f93dcf1a9e1dd3ec6`; [Pages run](https://github.com/Root-Sequence/root-sequence/actions/runs/39211072192) succeeded. Live HTTPS apex and www return the exact generated release. The approval record matches the reviewed source; the gate still rejects historical/stale approval. No other draft or research endorsement follows. |
 | [ ] | P1-11 | in progress | [Root #46](https://github.com/Root-Sequence/root-sequence/pull/46) merged on 2026-10-23 (Pacific) as `ec9ba2f693d482450e2361cde01a9b010089a91e`. The bio and repository metadata fixes are now approved, applied, and verified. [Profile #10](https://github.com/Root-Sequence/.github/pull/10) awaits code review; [Wiki #15](https://github.com/Root-Sequence/wiki/pull/15) remains a draft. Both are updated for Liberation Mass's private/revision status. Existing [status follow-up #51](https://github.com/Root-Sequence/root-sequence/pull/51) records the merge, applied settings, and ecosystem-map correction; no new PR is created. These three remaining PRs still need their publication decisions. Unreviewed applicant exercises remain on `review/work-samples-2026-10-23` outside the release. Research, licensing, governance, and private-Wiki changes are not adopted here. |
 | [x] | P1-06 | done | Repair the 15 existing reader-check failures: correct one relative link and connect fourteen existing T-003 supporting records from their current open-questions section. The checker now passes all 238 Markdown files. Paper findings, author review, and the independent-comparison boundary remain unchanged. |
+| [ ] | P1-12 | to do | After P1-11, triage open PRs across Root Sequence against current main and their canonical homes. Read the diffs, check dependencies and overlap, and record a recommendation with evidence for each PR. Keep substantive research and governance proposals separate from routine maintenance. Merge and closure decisions remain individual review decisions; preserve superseded work before proposing closure. |
 
 ## P2: small applicant work-samples track
 
@@ -136,7 +137,7 @@ On **2026-10-17 (Pacific)**, Rae accepted writing block `86204` by replying “b
 - Review the canonical repository first, then the profile. The profile overlap has been reconciled; existing research and commons drafts remain open for separate substantive review.
 - **Next supported review:** Complete profile #10's code review, then review publication of #10, Wiki #15, and status follow-up #51. Root #46 is already merged and the approved metadata repairs are live. Work-sample review and private/public Wiki reconciliation remain later work.
 
-Current status: **23 done, 5 to do, 1 in progress, 0 blocked** across 29 tasks. P1-06 navigation repair is complete. P1-11 remains in progress for the companion documentation and status follow-up publication decisions. The approved bio and repository metadata repairs are live; no further merge or deployment is authorized by that settings approval.
+Current status: **23 done, 6 to do, 1 in progress, 0 blocked** across 30 tasks. P1-06 navigation repair is complete. P1-11 remains in progress for the companion documentation and status follow-up publication decisions. The approved bio and repository metadata repairs are live; no further merge or deployment is authorized by that settings approval.
 
 ## Accepted name context and first related-project description
 
@@ -397,3 +398,7 @@ Rae merged root #46, confirmed profile #10 is awaiting code review and Wiki #15 
 Rae made Liberation Mass private for the same reason as Liberated Intelligence: it needs substantial revision and updates and is not ready for public inspection. The public ecosystem map, organization profile/registry, and Wiki drafts now reflect that status. The automatic Wiki registry includes only the seven public repositories. No private content is copied and no repository visibility is changed by this follow-up.
 
 Existing status-update draft #51 is reused for the canonical plan and map; #10 and #15 remain their respective review homes. No additional PR is created. P1-11 stays in progress until the remaining publication decisions are complete. Work-sample review and licensing choices remain separate.
+
+## Next pass: open PR review
+
+Rae asked to address the wider open-PR backlog after the present publication batch. P1-12 records that order. This queues a review of readiness, dependencies, and possible supersession; it does not approve bulk merges or closures. The current #10, #15, and #51 publication decisions remain first.
