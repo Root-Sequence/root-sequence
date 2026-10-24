@@ -39,7 +39,7 @@ Root Sequence asks broad questions and routes mechanisms to native fields and me
 
 ## Refresh progress
 
-The [professional-refresh checklist](ROADMAP.md) records the published website, repository cleanup, organization profile/registry, and Wiki projection. It keeps the separate context follow-up and work-sample review visible.
+The [professional-refresh checklist](ROADMAP.md) records the completed public-documentation batch. The next planned frontier is evidence-based open-PR triage; work-sample review remains separate.
 
 ## What to do next
 
