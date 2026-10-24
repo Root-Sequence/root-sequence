@@ -26,3 +26,7 @@ Next revisions must record changed claim IDs, evidence, interpretation, affected
 ### Proposed hosting route, later on 24 October
 
 Rae suggested `/stonedage/` on the existing Root Sequence domain. Added a proposed combined site publisher and Pages workflow using these canonical editions, with a separate pending hosting-approval record. The homepage is unchanged. Publication transforms add a return link, canonical/robots metadata and source destinations; the public release would update only the appraisal's deployment-state sentence. Draft and unfinished-review qualifications remain. No public deployment or change to the research conclusions is included.
+
+### Repository references and provocation wording
+
+Rae clarified that the Root Sequence homepage does not need a Stoned Age link. The research README and parent index record the planned, unpublished web address instead. Replaced “companion provocation” with “working provocation” in the maintained sources and rebuilt editions: “How Drugs Explain the Universe” is framing within this inquiry, not a separate companion text. The evidence, title and review status are unchanged.

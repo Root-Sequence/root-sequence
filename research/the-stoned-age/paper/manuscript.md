@@ -4,7 +4,7 @@
 
 Living research paper · v0.1.2 · 24 October 2026 · AI-assisted narrative synthesis · author and disciplinary review pending
 
-Companion provocation: **How Drugs Explain the Universe**. The title names a temptation this project investigates; it is not its scientific conclusion.
+Working provocation: **How Drugs Explain the Universe**. The phrase names a temptation this project investigates; it is not its scientific conclusion.
 
 ## Abstract
 

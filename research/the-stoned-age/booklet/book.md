@@ -8,7 +8,7 @@
 
 A small book about large experiences—and what happens after someone says, “I have figured it all out.”
 
-Companion provocation: How Drugs Explain the Universe.
+Working provocation: How Drugs Explain the Universe.
 
 Root Sequence · illustrated reader edition · v0.1.2 · 24 October 2026
 

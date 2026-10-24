@@ -2,7 +2,7 @@
 
 **Altered States, Human Curiosity, and the Long History of Making Meaning**
 
-Companion provocation: **How Drugs Explain the Universe**.
+Working provocation: **How Drugs Explain the Universe**. This is a framing phrase for the inquiry; there is no separate companion text in this suite.
 
 **Status:** v0.1.2 public draft suite · 24 October 2026 · AI-assisted · author, scholarly and cultural review pending. It remains a working inquiry, with the evidence and review limits recorded below.
 
@@ -27,6 +27,8 @@ The proposed nearest-index addition is in the accompanying repository patch. The
 ## Publication boundary
 
 Public draft [PR #45](https://github.com/Root-Sequence/root-sequence/pull/45) is open. Merge and deployment remain pending. The draft now proposes publishing the reading editions at `https://rootsequence.systems/stonedage/`, following Rae's suggestion. The combined site publisher requires a separate exact-source hosting approval; its approval record is pending. Merging this branch alone does not satisfy that gate or approve research findings.
+
+The planned web address belongs in this research README and its parent research index. No Stoned Age link is added to the Root Sequence homepage.
 
 ## Provenance and contribution
 
