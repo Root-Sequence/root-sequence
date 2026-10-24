@@ -23,3 +23,9 @@ release; this historical note does not establish their present state.
 
 Deploy only the approved generated output. Never publish the repository root,
 the legacy source directory, private Wiki material, or unpublished fiction.
+
+## Proposed Stoned Age route: 2026-10-24
+
+Rae suggested adding the existing research suite at `/stonedage/`. The proposed combined publisher reads `research/the-stoned-age/` and exports only its named reading files under that route. It does not create a second maintained copy in `site/`. Source records remain in the research directory and are linked on GitHub where they are not exported.
+
+The original homepage source, publisher and approval remain intact. The proposed workflow uses `build_research.py` for the combined artifact and requires a separate matching `stonedage-approval.json` before release. That record is pending. This proposal does not publish the route, approve research findings or finish author, scholarly or cultural review. See the [site guide](README.md#proposed-research-route-24-october-2026).

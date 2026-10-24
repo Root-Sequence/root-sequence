@@ -6,11 +6,11 @@ The current [`index.html`](index.html) is the **approved October 19, 2026 profes
 
 The opening separates the mission from reading routes. About explains the initiative’s focus and connects research with projects, followed by the accepted invitation to take part. The founder credit stays in Credits and reuse; the AI disclosure introduces Rae’s role where the name first appears. About, research, and footer notes share one native expandable-section style.
 
-All six research descriptions, seven related-project descriptions, Take part, four footer passages, and seven project-panel refinements are applied. The Wiki panel keeps its approved description and website action without the repeated extra paragraph. The [latest copy record](COPY-REVIEW.md#wiki-panel-and-full-page-review-october-18-2026-pacific) and [validation](VALIDATION.md#wiki-panel-and-full-page-review-2026-10-18-pacific) describe the supported full-page pass and its limits. Earlier passage approvals remain in COPY-REVIEW.md. The companion organization profile remains under draft review for consistency, particularly its OS-only Computing summary. Later public/private Wiki reconciliation remains queued; no Wiki content has been audited or transferred here.
+All six research descriptions, seven related-project descriptions, Take part, four footer passages, and seven project-panel refinements are applied. The Wiki panel keeps its approved description and website action without the repeated extra paragraph. The [latest copy record](COPY-REVIEW.md#wiki-panel-and-full-page-review-october-18-2026-pacific) and [validation](VALIDATION.md#wiki-panel-and-full-page-review-2026-10-18-pacific) describe the supported full-page pass and its limits. Earlier passage approvals remain in COPY-REVIEW.md. The companion organization profile was published on October 23. Public/private Wiki reconciliation remains queued separately.
 
 The candidate uses one dark palette, including without JavaScript. The theme selector and its startup script are removed. Larger text, one background color, reduced motion, and in-page navigation settings remain available. System high-contrast styles and black-on-white print output are retained. Saved theme choices from an earlier candidate are ignored; other reading choices keep their existing storage key.
 
-[`approval.json`](approval.json) identifies this exact page/publisher digest and Rae’s publication approval. Any later source change requires a matching approval record. The [canonical refresh checklist](https://github.com/Root-Sequence/root-sequence/blob/docs/professional-refresh-phase-1-2026-10-17/ROADMAP.md) remains on the review branch with the separate documentation and portfolio work.
+[`approval.json`](approval.json) identifies the exact homepage/publisher digest and Rae’s publication approval. Any later change to those sources requires a matching approval record. The [canonical refresh checklist](../ROADMAP.md) records the separate documentation, research and portfolio work.
 
 The page is one self-contained file with its styles, scripts, favicon, and
 Cascadia Mono wordmark font embedded. It makes no runtime requests for fonts,
@@ -71,3 +71,22 @@ can deploy to GitHub Pages. Deploy only that generated directory, never the
 repository or the historical source directory.
 
 This review does not change hosting, DNS, or mail. Historical migration steps are recorded in [DEPLOYMENT.md](DEPLOYMENT.md); current DNS and provider behavior must be checked before a future publication change.
+
+## Proposed research route: 24 October 2026
+
+The proposed address is **`https://rootsequence.systems/stonedage/`**. It serves the existing [Stoned Age inquiry](../research/the-stoned-age/README.md), keeping its paper, illustrated essay, booklet, talk and evidence notes together. The research directory remains the substantive source. The homepage copy and its original approval are unchanged.
+
+[`build_research.py`](build_research.py) packages the approved homepage with an explicit list of research reading files. It adds a return link to Root Sequence, canonical addresses and publication-state metadata to the generated research pages. Markdown source links point to GitHub; the PDFs and downloadable evidence records remain local to the research route. Source tools, editable content files, unrelated research and private material are not copied into the hosting artifact. The reading editions retain their AI-assisted draft and unfinished-review wording.
+
+Preview the combined artifact in a fresh directory:
+
+```sh
+python3 site/test_site.py
+python3 site/test_research_site.py
+python3 site/build_research.py --output /tmp/root-sequence-with-stonedage
+python3 -m http.server 8000 --directory /tmp/root-sequence-with-stonedage
+```
+
+Open `/stonedage/` on that local server. This does not publish it. The proposed Pages workflow uses the combined builder and also watches this inquiry for changes.
+
+`stonedage-approval.json` is a **pending** record for the separate hosting decision. Release builds require both the existing homepage approval and an exact research-source approval. The research digest includes the route publisher, workflow, exported files and named source records. No approval has been recorded for this route. Once approved, `python3 site/build_research.py --release --output <fresh-directory>` builds the combined publication artifact. Existing deployed content is unaffected by preparing this draft.

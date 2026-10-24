@@ -70,6 +70,10 @@ This directory holds bounded research inquiries and versioned papers that synthe
 
 ## Research areas
 
+- [The Stoned Age](the-stoned-age/README.md) — **v0.1.2, AI-assisted review draft**. Altered states, curiosity, religion, cognitive evolution, shared meaning and AI; living paper, illustrated reader editions, talk and shared evidence records.
+
+  Its web edition is planned for `rootsequence.systems/stonedage/`. It is not published yet; see the [publication status](the-stoned-age/README.md#publication-boundary).
+
 - [Conscious Systems](conscious-systems/README.md) — **exploratory, AI-assisted seed; author review pending**. Starts with [what can change about a mind while preserving consciousness](conscious-systems/what-can-we-change-about-a-mind.md), separating experience from report, capability, and authority.
 
 - [What If It All Works?](what-if-it-all-works/README.md) — **exploratory / AI-assisted / author review pending**. Investigates what counts as progress, who benefits, meaningful access, contested ideals, ethical uncertainty, and why imperfection neither excuses harm nor defeats improvement.
@@ -90,12 +94,6 @@ This directory holds bounded research inquiries and versioned papers that synthe
 - [Coherence Is a Systems Property](papers/coherent-systems/README.md) — **v0.1-dev; AI-assisted working draft; author review pending**. Charter, annotated argument, claims ledger, source map, and research questions. Not a reviewed release or a validated theory.
 
 A research area holds a bounded question; a paper proposes a synthesis. Underlying work can contradict and revise both. Do not move material into this directory merely to make a paper or area appear comprehensive.
-
-## Drafts already under review
-
-These links point to existing public draft PRs, not merged research or reviewed publications. Their substantive homes remain on those branches until review resolves them.
-
-- [The Stoned Age, PR #45](https://github.com/Root-Sequence/root-sequence/pull/45): source register, claims ledger, appraisal notes, and linked paper/booklet/essay/talk. Scholarly appraisal and author review remain incomplete.
 
 ## Publication boundary
 
