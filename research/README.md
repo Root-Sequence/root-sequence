@@ -14,9 +14,11 @@ The [research method](method.md) and [method router](method-router.md) contain t
 
 | Start with | What is available | Evidence and review limits |
 | --- | --- | --- |
+| [Intelligence Ecology](../concepts/intelligence-ecology.md) | Asks how the conditions around an intelligent system affect which behaviors are rewarded or able to persist. | Developing conceptual proposal; this page does not report empirical tests or a completed literature review. |
 | [Research method](method.md) and [method router](method-router.md) | Workflow and field-specific routes for decomposing questions and testing claims | Developing method; no claim of novelty or demonstrated general effectiveness. |
 | [Coherence Is a Systems Property](papers/coherent-systems/README.md) | Working paper, [claims ledger](papers/coherent-systems/claims.md), and [source-inspection map](papers/coherent-systems/notes/source-map.md) | AI-assisted v0.1-dev; author review incomplete; no independent validation of the framework. |
 | [Adaptive continuity](../concepts/dynamic-coherence.md) | A working framework with [lineage and prior art](dynamic-coherence-lineage.md) | Cross-domain synthesis; analogy is not evidence of one shared mechanism. |
+| [Epistemic discoverability and knowledge routing](../concepts/epistemic-discoverability.md) | A design concept for finding relevant research when you don’t yet know the terms to search for. | AI-assisted design proposal; author review incomplete. Its usefulness for finding research hasn’t been established. |
 | [Legible Systems](../concepts/legible-systems.md) | A design principle about understanding, questioning, repair, and exit | Design argument; not a measured usability result. |
 | [Reading Trails](reading-trails/README.md) | Curated routes into fields and intellectual history | Orientation resources; inclusion does not establish support for a claim. |
 
@@ -70,6 +72,8 @@ This directory holds bounded research inquiries and versioned papers that synthe
 
 - [Conscious Systems](conscious-systems/README.md) — **exploratory, AI-assisted seed; author review pending**. Starts with [what can change about a mind while preserving consciousness](conscious-systems/what-can-we-change-about-a-mind.md), separating experience from report, capability, and authority.
 
+- [What If It All Works?](what-if-it-all-works/README.md) — **exploratory / AI-assisted / author review pending**. Investigates what counts as progress, who benefits, meaningful access, contested ideals, ethical uncertainty, and why imperfection neither excuses harm nor defeats improvement.
+
 ## Cross-cutting related work
 
 - [Adaptive continuity / dynamic coherence — intellectual lineage and prior art](dynamic-coherence-lineage.md) — **targeted related-work note; not a novelty finding or systematic review**. Traces state/parameter change, ultrastability, requisite variety, double-loop learning, resilience engineering, sustained adaptability, adaptive management/governance, path dependence, and second-order cybernetics; also records prior uses of the phrase “dynamic coherence.”
@@ -88,10 +92,6 @@ These links point to existing public draft PRs, not merged research or reviewed 
 - [The Stoned Age, PR #45](https://github.com/Root-Sequence/root-sequence/pull/45): source register, claims ledger, appraisal notes, and linked paper/booklet/essay/talk. Scholarly appraisal and author review remain incomplete.
 - [Intelligence without omniscience, PR #44](https://github.com/Root-Sequence/root-sequence/pull/44): developing research on distributed knowledge, recognition, trust, and enabling conditions.
 - [Agency under stress, PR #42](https://github.com/Root-Sequence/root-sequence/pull/42): cross-domain synthesis with explicit evidence and domain limits.
-
-## Work samples
-
-The [small work-samples track](work-samples/README.md) routes to existing public artifacts and one clearly labelled proposal-development exercise. Application preparation stays secondary to the [public-baseline checklist](../ROADMAP.md).
 
 ## Publication boundary
 

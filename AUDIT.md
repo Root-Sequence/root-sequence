@@ -225,3 +225,44 @@ The remaining professional-refresh branch incorporates published main with all `
 Checked all eleven unique linked root-sequence main file/fragment destinations against the public tree. The rendered GitHub draft shows six research entries and the approved project descriptions; keyboard opening of the methods disclosure reveals the retained contribution/evidence text. No private-project addresses or diagnosis disclosure were added. The org PR still changes only `README.md` and `profile/README.md`. Organization #9 head `36527befd9f1f5576966940e9b57ef7aa194167f` is unchanged, preserving the earlier ownership split; no substantive policy file was changed here. The README is saved for user review, not merged or applied to the live profile/bio. Writing follows the approved passages and explicit style preferences; a writing-reference retrieval tool was unavailable, so no retrieved personal-style match is claimed.
 
 Publication completes P1-05; the prepared README consistency draft completes P1-10. P1-11 records review/publication of remaining documentation separately from applicant samples, which still await P2-04. Broader reader-document failures retain the earlier 15-error baseline; no new full-documentation audit or Wiki freshness/transfer work is claimed.
+
+## Public repository cleanup: 2026-10-23
+
+**Scope:** current public introductions, navigation, source-status wording, registry visibility, existing PR overlap, and publication candidates. This is an editorial/structural cleanup, not research validation, policy adoption, or legal review. [ROADMAP.md](ROADMAP.md) remains the only progress checklist.
+
+The live accessible inventory contains 15 repositories: eight public and seven private. All 34 open-PR summaries were listed for scope; substantive research and governance drafts remain separate. The eight public repositories' README/on-ramp/context files were inspected, comprising 22 introductory documents. Their relative file targets resolve. This targeted check is not a claim that every historical page or external source across all repositories has been appraised.
+
+| Public repository | Inspected main revision | Treatment |
+| --- | --- | --- |
+| `root-sequence` | `fa9abcabd36073b9706eca7056f68a9453e859c3` | README/research routes, Intelligence Ecology access notes, source-status clarity, and supporting-record navigation prepared in #46. |
+| `.github` | `e244dd16002994fbb1abe0bf0c80933998846a92` | Reviewed organization introduction and current private/public registry prepared in #10. |
+| `existential-euphoria` | `eb306d4e83d06790c53b3b6f0a90db227b193fcd` | In-formation status is explicit; introductory local targets resolve. |
+| `universal-coherence-framework` | `e1c7b28803f58bea4a5b3a200063d5f579260b50` | Exploratory/author-review limits are explicit; homepage metadata needs repair. |
+| `root-sequence-discussions` | `e93ec409bf3f490dbce47ae242921a5ccb276b1e` | Discussion routing and public/private boundaries are explicit; introductory local targets resolve. |
+| `wiki` | `f15a718d932c1571d85396b85250b93d8953c6a4` | Existing strict-build repair extended with current public visibility in #15. |
+| `beinghumane-guide` | `e7e8b35a7f13e15c041b53475a80aefbdb499437` | Developing field-guide status is explicit; homepage could not be verified. |
+| `liberation-mass` | `4c791af6014a6ceedcb2e92cc4622f7a5076d485` | Experimental format and licensing inconsistency are disclosed in the orientation; homepage certificate and metadata need attention. |
+
+### Prioritized public reading path
+
+`concepts/intelligence-ecology.md` already identifies the selection-environment framing as a working hypothesis. The cleanup preserves the argument and section headings, makes clear that this page is not a report of empirical tests or a completed literature review, replaces four private-document links with explicit private-access notes, and links to the public research index and related working paper. No private document was copied and no unread external citation was added.
+
+The main README uses the existing proposed navigation and approved positioning. The research index includes Intelligence Ecology and the already-public epistemic-discoverability concept with their limits. Existing AI/accessibility disclosure, incomplete author-review status, and the distinction between fiction and evidence remain. Current main's newer research and system-relative-limits work is incorporated through a two-parent review-branch update.
+
+### Structural verification
+
+The reader checker now passes 238 Markdown files, replacing its 15 recorded failures with zero errors. The fix is one corrected relative link plus links to fourteen existing T-003 supporting records from their current open-questions section. The existing manuscript argument, pilot results, and independent-review status are unchanged. All 11 site checks pass, and the Idea Trail graph/index is valid and current. The website source and publication gate are unchanged.
+
+Wiki #15 retains its existing six-line orientation/build repair and adds current public routing: its generated public repository registry now contains eight repositories, and Liberated Intelligence is no longer advertised as a publicly accessible context. MkDocs 1.6.1 strict build and the existing public/private build-boundary check pass. Generated output contains 35 canonical entities and 14 project lenses. No private overlay is imported.
+
+### Current access and unresolved decisions
+
+Liberated Intelligence is now private. The organization registry and public summaries reflect that access state without changing repository visibility or exporting its contents. Other known private projects retain their boundaries.
+
+Live repository homepage checks found an HTTP 404 for UCF's `/ucf` page, a hostname certificate mismatch for `liberationmass.org`, and a timeout while verifying `beinghumane.guide`. A timeout does not establish permanent absence. The Wiki homepage returns HTTP 200. Corrected homepage/description values are prepared in the local review handoff; live settings are not changed by these source drafts.
+
+Liberation Mass still has inconsistent source licensing labels (CC0 versus CC BY-SA for contributions); Existential Euphoria has no declared license in the inspected root. This pass does not choose licenses, alter existing grants, or adopt the separate research-stewardship proposals in root #50 / organization #12. Private/public Wiki completeness and freshness remain a later deliberate comparison.
+
+### Release scope and preserved drafts
+
+The two unreviewed applicant exercise files are preserved unchanged at `58002e0b547bac6e49b3b38b4c9a0171fe0e7d5a` on `review/work-samples-2026-10-23`. They are excluded from the documentation publication candidate, with their review route retained in the canonical plan. Existing root #46, organization #10, and Wiki #15 are reused; no additional cleanup PR is required. All three still need the user's explicit publication decision. No merge, deployment, policy adoption, private-source release, license change, or source-research endorsement is included.

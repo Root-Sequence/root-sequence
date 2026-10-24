@@ -12,7 +12,7 @@ For a comprehensive working briefing, continue to [PROJECT-CONTEXT.md](PROJECT-C
 
 ## In one sentence
 
-Root Sequence is an independent interdisciplinary research initiative started by Rae Lovejoy, exploring how intelligence, technology, and social systems shape one another. This repository is its public conceptual commons.
+Root Sequence is an independent interdisciplinary research initiative exploring how intelligence, technology, and social systems shape one another. This repository is its public conceptual commons.
 
 ## If you remember only three things
 
@@ -22,7 +22,7 @@ Root Sequence is an independent interdisciplinary research initiative started by
 
 ## Current reality
 
-This is an active, public, evolving body of writing, research, maps, and small tools. The professional-refresh website is approved and published; remaining documentation and work-sample reviews are tracked in [ROADMAP.md](ROADMAP.md). Some material is mature; some is exploratory, historical, or explicitly speculative. The canonical research method formalizes a route–synthesize–test–build workflow for cross-field questions. Working Epistemic Contrast and Deliberative Inquiry methods add contrast before convergence, evidence-weighted revision, and shared understanding before consequential decisions without replacing domain-native methods. The October 19 (UTC) website release has exact-source approval, a successful GitHub Pages deployment, and verified live-domain parity. That approval covers the website source and publication transformation, not the underlying research. The repository also temporarily hosts an explicitly non-canonical incubation seed for the proposed standalone Commons of Inquiry & Creation project. Root Sequence is not a finished theory, product, institution, or universal explanation.
+This is an active, public, evolving body of writing, research, maps, and small tools. The professional-refresh website is approved and published; remaining documentation and work-sample reviews are tracked in [ROADMAP.md](ROADMAP.md). Material ranges from developing research to historical notes and explicitly speculative work. The canonical research method formalizes a route–synthesize–test–build workflow for cross-field questions. Working Epistemic Contrast and Deliberative Inquiry methods add contrast before convergence, evidence-weighted revision, and shared understanding before consequential decisions without replacing domain-native methods. The October 19 (UTC) website release has exact-source approval, a successful GitHub Pages deployment, and verified live-domain parity. That approval covers the website source and publication transformation, not the underlying research. The repository also temporarily hosts an explicitly non-canonical incubation seed for the proposed standalone Commons of Inquiry & Creation project. Root Sequence is not a finished theory, product, institution, or universal explanation.
 
 ## The smallest useful map
 
@@ -35,7 +35,7 @@ This is an active, public, evolving body of writing, research, maps, and small t
 
 ## Where it fits
 
-Root Sequence asks broad questions and routes mechanisms to native fields and methods. Other repositories transform selected questions: Liberated Intelligence focuses on intelligence and agency; UCF tests one analytical vocabulary; Being Human(e) grounds ordinary experience; Existential Euphoria explores wonder, contradiction, interdependence, and possibility; Liberation Mass explores embodied practice; Community Infrastructure tests present-day systems; Coherent World recombines mechanisms and stress-tests consequences in simulation; *No One Noticed* makes transition lived through narrative; and the Wiki helps people navigate names and relationships. Commons of Inquiry & Creation is currently a public bootstrap seed here, intended for a standalone repository; hosting the seed does not give Root Sequence governance authority over any future community.
+Root Sequence asks broad questions and routes mechanisms to native fields and methods. Other repositories transform selected questions: Liberated Intelligence focuses on intelligence and agency; UCF tests one analytical vocabulary; Being Human(e) grounds ordinary experience; Existential Euphoria explores wonder, contradiction, interdependence, and possibility; Liberation Mass explores embodied practice; Community Infrastructure develops proposals for present-day community systems; Coherent World recombines mechanisms and stress-tests consequences in simulation; *No One Noticed* makes transition lived through narrative; and the Wiki helps people navigate names and relationships. Commons of Inquiry & Creation is currently a public bootstrap seed here, intended for a standalone repository; hosting the seed does not give Root Sequence governance authority over any future community.
 
 ## Refresh progress
 

@@ -12,23 +12,23 @@ Work here ranges from research notes to experimental tools. Evidence and review 
 
 Rae Lovejoy, who started Root Sequence, uses AI both as an accessibility aid and as a tool for developing the work. Read about [accessibility, contributions, and review](research/README.md#accessibility-ai-assistance-and-contributions).
 
-**Read next:** [selected research, methods, evidence, and AI use](research/README.md) · [professional-refresh checklist](ROADMAP.md) · [short orientation](START-HERE.md).
+## Where to begin
 
-**Ecosystem role:** umbrella inquiry / conceptual commons  
-**Canonical scope:** broad systems research, concepts, analysis, shared patterns, futures, and organization-level orientation  
-**Does not own:** project-specific software, gathering practice, intelligence-specific conclusions, fictional canon, or Museum governance/consent  
-**Status:** active / public / living<br>
+- [Research](research/README.md): current work, with evidence and review notes.
+- [Ecosystem map](ECOSYSTEM.md): see what belongs in each project.
+- [Idea Trails](IDEA_TRAILS.md): follow a question across projects. The [trail browser](IDEA_TRAIL_INDEX.md) links to individual documents.
+- [Wiki](https://github.com/Root-Sequence/wiki): recurring terms and the work they refer to.
+- [Refresh checklist](ROADMAP.md): what is complete and what still needs review.
 
-> **This repository is the conceptual commons, not the entire GitHub organization.**  
-> See the [Ecosystem Map](ECOSYSTEM.md) for the relationships among Root Sequence, Community Infrastructure, Liberated Intelligence, the Universal Coherence Framework, Being Human(e), Liberation Mass, Coherent World, *No One Noticed*, the Museum of Ordinary Life, and adjacent implementation work.  
-> See [Idea Trails](IDEA_TRAILS.md) to understand recurring cross-project questions, then use the generated [Idea Trail Browser](IDEA_TRAIL_INDEX.md) to jump directly to relevant documents by trail and role.  
-> Use the [Root Sequence Wiki](https://github.com/Root-Sequence/wiki) when the question is what something is called, where it belongs, how projects connect, or how a concept changed over time.
+For a shorter introduction, read [Start here](START-HERE.md).
 
 ## Why “Root Sequence”?
 
 A **root** is an underlying condition, relationship, history, dependency, or constraint from which visible outcomes can grow. A **sequence** is how conditions unfold through time, feedback, choice, adaptation, and consequence.
 
 Together, the name asks: **What conditions made this possible, and what does it make possible next?** Sequences can become roots for whatever follows, so the inquiry is recursive rather than a search for one first cause or one predetermined path.
+
+The inquiry also asks how an arrangement's constraints shape available possibilities: which limits are fundamental, which depend on current conditions, what connections should be preserved, and what different futures could become reachable through change. An obstacle can be real without being inevitable; an imagined alternative can be possible without yet being accessible.
 
 Read the maintained explanation in [Why “Root Sequence”?](concepts/root-sequence.md).
 
@@ -54,7 +54,7 @@ The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Frui
 ## 📂 Repository map
 
 - [`site/`](site/README.md) — reader-facing Public Seed website source; not a replacement for research or the Wiki
-- [`research/`](research/README.md) — bounded research inquiries and versioned synthesis papers; underlying concepts and evidence retain their canonical homes
+- [`research/`](research/README.md) — bounded inquiries and synthesis papers, including [What If It All Works?](research/what-if-it-all-works/README.md) on progress, access, perfection, and the ethics of what's left out; underlying concepts and evidence retain their canonical homes
 - [`research/methods/`](research/methods/README.md) — shared error-correcting inquiry methods, including epistemic contrast and deliberative inquiry
 - [`founding-texts/`](founding-texts/README.md) — founding texts, early models, manifestos, normative essays, and historical orientations
 - [`systems/`](systems/README.md) — analytical principles, models, and methods for understanding system behavior
@@ -144,6 +144,4 @@ This convention is intended to keep repository work self-indexing rather than re
 
 ## 🔄 Use & Remix
 
-**CC0 / Public Domain**
-
-Use, modify, and extend freely.
+Root Sequence’s own material is released under [CC0 1.0](license). Check the original source and any separate terms before reusing third-party or contributed material. Related projects keep their own permissions.

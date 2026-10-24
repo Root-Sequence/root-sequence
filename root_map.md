@@ -172,4 +172,4 @@ Prefer one canonical home plus links over copied documents that silently diverge
 
 ## Professional refresh planning
 
-[`ROADMAP.md`](ROADMAP.md) is the canonical prioritized checklist for the public professional refresh and small applicant work-samples track. [`research/work-samples/`](research/work-samples/README.md) holds transformed proposal-development exercises and routes to existing public research; it does not replace source papers, claim ledgers, or project backlogs.
+[`ROADMAP.md`](ROADMAP.md) is the canonical prioritized checklist for the public professional refresh and small applicant work-samples track. The [proposal-development exercises awaiting author review](https://github.com/Root-Sequence/root-sequence/blob/58002e0b547bac6e49b3b38b4c9a0171fe0e7d5a/research/work-samples/README.md) are preserved on `review/work-samples-2026-10-23`. They remain separate from the public documentation release and do not replace source papers, claim ledgers, or project backlogs.

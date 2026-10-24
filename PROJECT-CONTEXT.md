@@ -44,7 +44,7 @@ The repository contains active and historical writing, sourced research scaffold
 - **Human grounding:** Being Human(e) supplies lived-scale observations and tensions.
 - **Aesthetic and experiential exploration:** Existential Euphoria explores wonder, contradiction, interdependence, and possibility while leaving “good” and “coherent” open to examination.
 - **Embodied practice:** Liberation Mass explores gathering and shared stewardship.
-- **Present-world testing:** Community Infrastructure tests selected ideas under practical constraints.
+- **Present-world design:** Community Infrastructure develops proposals for community-controlled systems under practical constraints.
 - **Speculative recombination:** Coherent World recombines mechanisms and stress-tests interactions and consequences in simulation; *No One Noticed* makes transition lived through narrative.
 - **Findability:** the Wiki indexes names, provenance, relationships, and canonical homes.
 - **Institutional incubation:** Commons of Inquiry & Creation is a public seed for a proposed residential commons, temporarily hosted under `incubator/` and intended to migrate to a standalone repository. Root Sequence does not govern a future community by default.
