@@ -131,7 +131,7 @@ On **2026-10-17 (Pacific)**, Rae accepted writing block `86204` by replying “b
 ### Review links
 
 - [Merged root documentation cleanup: PR #46](https://github.com/Root-Sequence/root-sequence/pull/46). Merge commit: `ec9ba2f693d482450e2361cde01a9b010089a91e`. Unreviewed work samples are excluded.
-- [Organization profile: PR #10](https://github.com/Root-Sequence/.github/pull/10), awaiting code review and publication.
+- [Published organization profile: merged PR #10](https://github.com/Root-Sequence/.github/pull/10). Merge commit: `7ea6c4b7cd191775a17d951935c7f9927f691f70`.
 - [Public Wiki: draft PR #15](https://github.com/Root-Sequence/wiki/pull/15), including the build repair and current public/private routing.
 - [Publication and private-project status: draft PR #51](https://github.com/Root-Sequence/root-sequence/pull/51), reusing the existing post-merge context update.
 - Review the canonical repository first, then the profile. The profile overlap has been reconciled; existing research and commons drafts remain open for separate substantive review.
