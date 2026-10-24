@@ -22,3 +22,7 @@ Next revisions must record changed claim IDs, evidence, interpretation, affected
 - Pinned S15 to the reviewed 2023 version and recorded the selected-source recheck separately from the earlier appraisal.
 - Added an Evidence notes navigation route and stable PDF generation metadata; rebuilt from the existing Markdown/JSON sources.
 - Incorporated main through #44 and reconciled the repository index. Author, scholarly, cultural and deployment decisions remain separate.
+
+### Proposed hosting route, later on 24 October
+
+Rae suggested `/stonedage/` on the existing Root Sequence domain. Added a proposed combined site publisher and Pages workflow using these canonical editions, with a separate pending hosting-approval record. The homepage is unchanged. Publication transforms add a return link, canonical/robots metadata and source destinations; the public release would update only the appraisal's deployment-state sentence. Draft and unfinished-review qualifications remain. No public deployment or change to the research conclusions is included.

@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "site/**"
+      - "research/the-stoned-age/**"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 
@@ -33,11 +34,14 @@ jobs:
           python-version: "3.13"
 
       - name: Verify the site
-        run: python site/test_site.py
+        run: |
+          python site/test_site.py
+          python site/test_research_site.py
 
       - name: Show publication digests
         run: |
           echo "source_sha256=$(python site/build.py --digest)"
+          echo "research_source_sha256=$(python site/build_research.py --digest)"
           python - <<'PY'
           from hashlib import sha256
           from pathlib import Path
@@ -45,7 +49,7 @@ jobs:
           PY
 
       - name: Build the approved release
-        run: python site/build.py --release --output site/dist
+        run: python site/build_research.py --release --output site/dist
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5

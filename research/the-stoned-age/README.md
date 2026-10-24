@@ -26,7 +26,7 @@ The proposed nearest-index addition is in the accompanying repository patch. The
 
 ## Publication boundary
 
-Public draft [PR #45](https://github.com/Root-Sequence/root-sequence/pull/45) is open. Merge and deployment remain pending. Merging would add this suite and its navigation to the repository. Publishing the HTML editions on a website requires a separate decision and deployment destination.
+Public draft [PR #45](https://github.com/Root-Sequence/root-sequence/pull/45) is open. Merge and deployment remain pending. The draft now proposes publishing the reading editions at `https://rootsequence.systems/stonedage/`, following Rae's suggestion. The combined site publisher requires a separate exact-source hosting approval; its approval record is pending. Merging this branch alone does not satisfy that gate or approve research findings.
 
 ## Provenance and contribution
 
@@ -64,3 +64,7 @@ This draft incorporates main through #44 and preserves the existing public intro
 The creativity wording now names placebo as the follow-up comparator across the paper, booklet, essay, talk and claims ledger. The paper and appraisal also distinguish that comparison from within-group improvement. S15 links to the specific 2023 preprint version inspected. The [appraisal follow-up](research/appraisal.md#review-follow-up-24-october-2026) records this pass's selected source checks; it does not replace the earlier appraisal or complete scholarly/cultural review.
 
 All reader editions expose an Evidence notes route. PDF builds now use stable generation metadata so unchanged inputs can reproduce the same files. The [validation record](VALIDATION.md) distinguishes technical checks from remaining research and accessibility work. No homepage, hosting configuration, private project or fictional canon is changed.
+
+## Proposed website route: 24 October 2026
+
+The subsequent route proposal reuses these editions under `/stonedage/`, with a link back to Root Sequence. The [site publisher](../../site/build_research.py) copies an explicit set of reading files and sends other source links to GitHub. This adds no second research home. Its preview remains local; its proposed Pages workflow and publication gate are documented in the [site guide](../../site/README.md#proposed-research-route-24-october-2026). The existing paper, source appraisal and evidence limits remain unchanged.

@@ -29,3 +29,9 @@ Working edition v0.1.2, reconciled with repository main through merged PR #44. T
 - Selected source passages were rechecked at the depths recorded in [appraisal.md](research/appraisal.md#review-follow-up-24-october-2026). The original scholarly and cultural review gates remain open. This pass did not repeat the full source appraisal or independently reproduce the studies.
 
 This remains a repository draft for author review. No merge, website deployment, clinical guidance or cultural endorsement follows from these checks.
+
+## Proposed website route checks: later on 24 October 2026
+
+The combined publisher stages the existing reading editions under `/stonedage/` without changing the research conclusions or maintaining another research copy. All 11 homepage tests and six added route/publication tests pass. They verify the separate approval requirement and stale-source rejection, preserve the homepage and draft labels, and check export boundaries, local links/fragments and output preservation. PDF and downloadable evidence bytes are preserved. The release command rejects the pending route approval before producing output.
+
+The browser preview confirms the link back to Root Sequence and the landing page at desktop and 390-pixel widths without horizontal overflow or missing images. Full accessibility review remains open. The proposed public URL returned HTTP 404 in the live check; no public deployment is claimed. See the [site validation](../../site/VALIDATION.md) for the publisher-specific record.
