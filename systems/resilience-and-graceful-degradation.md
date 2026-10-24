@@ -226,7 +226,7 @@ This connects directly to accountability and externalization.
 
 Stress, fear, pain, exhaustion, grief, injury, uncertainty, and overload can temporarily narrow the actions a person can realistically take even when the underlying system is technically available.
 
-For human-facing systems, graceful degradation therefore has a second meaning:
+For human-facing systems, Root Sequence proposes this design constraint:
 
 > **Shed complexity before shedding meaningful agency.**
 
@@ -241,7 +241,7 @@ When capacity is reduced, preserve the smallest workable set of:
 
 This does not mean maximizing options during crisis or treating every stressed response as invalid. It means avoiding designs where the system becomes **more cognitively demanding, more coercive, or less reversible precisely when a person has fewer resources available**.
 
-The evidence and limits behind this translation are collected in [Agency under stress](../research/agency-under-stress.md).
+The sources and limits informing this untested design translation are collected in [Agency under stress](../research/agency-under-stress.md).
 
 ## 8. Maintenance is resilience
 

@@ -206,10 +206,9 @@ Erik Hollnagel's resilience-engineering work emphasizes four systemic potentials
 
 Sources:
 
-- Erik Hollnagel, overview of resilience engineering and systemic potentials: https://erikhollnagel.com/ideas/resilience-engineering-2004
-- Resilience Analysis Grid overview: https://resilienceengineeringinstitute.org/resilience-analysis-grid/
+- [Resilience Analysis Grid overview, Resilience Engineering Institute](https://resilienceengineeringinstitute.org/resilience-analysis-grid/), attributed there to Erik Hollnagel's 2015 technical note. The overview's account of the four potentials and its method orientation were checked on 2026-10-23 (Pacific). The original technical note was not retrieved in this pass. The earlier author-site link no longer reached the cited material and is not used as current support.
 
-A particularly relevant extension is Hollnagel's description of systems that recursively consider how their **own changes alter the world and later conditions**.
+**Root Sequence interpretation:** use anticipation to ask how an intervention might alter later conditions. The checked overview supports the four potentials; it does not establish this stronger recursive interpretation.
 
 ## Relation to Root Sequence
 
@@ -236,7 +235,7 @@ Sustained adaptability is especially relevant because it concerns the capacity t
 
 Sources:
 
-- David D. Woods, "The theory of graceful extensibility: basic rules that govern adaptive systems," *Environment Systems and Decisions* 38 (2018). DOI: 10.1007/s10669-018-9708-3
+- David D. Woods, ["The theory of graceful extensibility: basic rules that govern adaptive systems," *Environment Systems and Decisions* 38 (2018), 433–457](https://link.springer.com/article/10.1007/s10669-018-9708-3). DOI: 10.1007/s10669-018-9708-3. Publisher abstract and bibliographic record checked on 2026-10-23 (Pacific); the full article was not read in this pass. These support the named construct and its stated scope, not the effectiveness of Root Sequence's proposed application.
 - Resilience Engineering Association publication overview: https://www.resilience-engineering-association.org/resources/publications/
 
 ## Why this matters

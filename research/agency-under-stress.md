@@ -1,8 +1,8 @@
 # Agency under stress
 
-**Document role:** Bounded cross-domain research synthesis and design-input note  
-**Status:** AI-assisted working synthesis for author review, 2026-10-05  
-**Scope:** Human stress, coercion, controllability, cognition, recovery, and the design of systems people must use under reduced capacity  
+**Document role:** Bounded cross-domain research synthesis and design-input note<br>
+**Status:** AI-assisted working synthesis for author review; first drafted 2026-10-05<br>
+**Scope:** Human stress, coercion, controllability, cognition, recovery, and the design of systems people must use under reduced capacity<br>
 **Evidence boundary:** This note is not a clinical model, diagnosis, treatment guide, interrogation manual, or claim that one mechanism explains trauma or resilience. It connects several research literatures while preserving their differences.
 
 ## Why this belongs in Root Sequence
@@ -48,35 +48,37 @@ A person may comply without agreeing. A person may say something without believi
 
 This distinction matters anywhere a system interprets outward behavior as evidence of consent, belief, truth, competence, or legitimacy.
 
-## 2. There is no established universal "breaking point"
+## 2. Responses to severe stress vary
 
-The 2022 Istanbul Protocol emphasizes wide variation in psychological responses to torture and ill-treatment and cautions against reducing suffering to one psychiatric classification. Trauma-related reactions can change over time and depend on individual processing, coping, context, culture, and external conditions.
+The 2022 [Istanbul Protocol](#institutional-sources) describes varied psychological responses to torture and ill-treatment. Chapter VI, especially paragraphs 491–498, asks evaluators to consider culture and context rather than reducing suffering to a psychiatric classification. It also describes symptoms changing over time with coping and external conditions.
 
-This is consistent with broader stress and trauma research: outcome depends on interacting factors such as intensity, duration, developmental history, meaning, material safety, social support, perceived control, and what happens afterward.
+This supports caution about treating capacity as one fixed threshold. It does not establish a general law about every kind of stress, or prove that no threshold model could ever be useful.
 
-The systems implication is straightforward:
+Root Sequence translates that caution into a design question:
 
 > **Do not model human capacity as one fixed threshold.**
 
-Capacity is multidimensional and state-dependent. A person can be highly capable in one dimension while overloaded in another. The same person can respond differently to similar demands at different times because sleep, pain, uncertainty, social support, prior stress, and available alternatives have changed.
+For design purposes, consider that a person may handle one demand while struggling with another, or need a different route at a different time. This is a reason to provide alternatives, not a way to infer someone's decision-making capacity from their distress.
 
 ## 3. Coercion can produce compliance without producing reliable truth
 
-The U.S. Senate Select Committee on Intelligence's study of the CIA detention and interrogation program concluded that the CIA's enhanced interrogation techniques were not an effective means of acquiring intelligence or gaining cooperation as represented by the agency. The public record also documents fabricated and otherwise unreliable information under coercive conditions.
+The U.S. Senate Select Committee on Intelligence's study of the CIA detention and interrogation program concluded that the CIA's enhanced interrogation techniques were not an effective means of acquiring intelligence or gaining cooperation as represented by the agency. Finding 1 also records fabricated information from detainees during or after those techniques.
 
 The FBI-administered High-Value Detainee Interrogation Group later synthesized interrogation science and emphasized evidence-based, information-gathering approaches rather than treating coercion as a reliable route to truth.
 
-The important systems distinction is:
+A 2024 [systematic review by Catlin and colleagues](#research-syntheses) separately examined experiments with mock suspects, mostly U.S. college students. Its three-category analysis found more false confessions under accusatorial approaches than under information-gathering approaches. The difference in true confessions between those two approaches was not statistically significant. These experiments do not directly test torture or ordinary workplace interactions.
+
+Root Sequence draws a distinction for system design:
 
 > **Compliance, cooperation, belief change, and information quality are separate variables.**
 
 A system that is optimized for visible compliance can become worse at learning what is actually true.
 
-This applies beyond interrogation. In workplaces, care systems, bureaucracies, education, communities, software, and governance, people may comply because refusal is expensive, confusing, dangerous, or unavailable. Outward agreement therefore cannot by itself establish meaningful consent or legitimacy.
+Beyond interrogation, this becomes a question to investigate rather than an established transfer of those findings: what does outward agreement mean when refusal is costly or unavailable? Compliance alone should not be treated as proof of meaningful consent or legitimacy.
 
 ## 4. Controllability matters, but "control" is not magic
 
-Research on stressor controllability grew from the learned-helplessness literature. More recent neuroscience reviews emphasize that experiences of effective control can engage pathways associated with later resilience in animal models, while uncontrollable aversive stress can produce passivity and exaggerated fear-related responses.
+Research on stressor controllability grew from the learned-helplessness literature. [Baratta, Seligman, and Maier (2023)](#research-syntheses) review animal experiments in which learning control over an aversive event can engage neural pathways that buffer later stress effects. Protection depends on how control is learned; merely performing an escape response is not always protective.
 
 The strongest experimental neural evidence is largely from rodents, so direct translation to ordinary human life requires caution. Human control is also social, cognitive, institutional, and material rather than one laboratory response.
 
@@ -98,11 +100,11 @@ The inverse also matters: a system can present many buttons while leaving conseq
 
 ## 5. Stress can narrow the reachable action space
 
-Severe or prolonged stress can affect attention, working memory, memory retrieval, decision-making, emotional regulation, sleep, threat perception, and social behavior. Different mechanisms and stressors produce different effects, and individual variation is substantial.
+[Shields, Sazma, and Yonelinas (2016)](#research-syntheses) analyzed acute stress experiments and found average impairments in working memory and cognitive flexibility. Effects on inhibition differed by task, including improved response inhibition. The cognitive-flexibility evidence came from relatively few studies, and most samples were young adults in Western, educated populations. These findings do not mean every person loses the same capabilities, or establish the effects of chronic stress.
 
-For design purposes, the important observation is not that stress always makes people irrational. It is that **the effective action space can narrow**.
+The design hypothesis here is that **the effective action space can narrow** when a system depends on capabilities that are harder to access under stress. That needs to be examined in the setting being designed.
 
-A person who normally can:
+Illustrative demands to examine include whether someone can:
 
 - compare five options;
 - remember procedural details;
@@ -112,27 +114,21 @@ A person who normally can:
 - wait through delays;
 - explain a complicated situation;
 
-may temporarily be able to do much less.
+These are design examples, not outcomes measured by the cited meta-analysis.
 
 If a critical system requires peak executive function precisely when people are frightened, injured, exhausted, grieving, displaced, overloaded, or in crisis, the system has created a brittle human dependency.
 
-## 6. Meta-awareness can create psychological distance without erasing the experience
+## 6. Decentering offers a limited design analogy
 
-Research on **decentering** describes a family of processes involving:
+[Bernstein and colleagues (2015)](#research-syntheses) propose a model of **decentering** involving:
 
 - meta-awareness of current internal experience;
 - reduced identification with thoughts or feelings as the whole self;
 - reduced automatic reactivity to thought content.
 
-A simple example is the difference between:
+An illustrative contrast is “This is impossible” and “I am having the thought that this is impossible.” These sentences illustrate a change in perspective; they are not a tested intervention presented by this note.
 
-> "I am in danger."
-
-and:
-
-> "I notice that my nervous system is producing a strong danger signal."
-
-That second perspective does not prove that danger is absent. It does not make severe stress harmless. It can, however, create an additional relation to the experience rather than leaving the current internal state as the only available frame.
+The 2015 review identifies gaps in measurement and causal understanding. The 2019 follow-up describes emerging methods and preliminary evidence. Neither makes meta-awareness a guarantee of safety or protection from trauma. A changed perspective does not establish that an external danger is absent.
 
 This suggests a limited but useful design analogy:
 
@@ -146,7 +142,7 @@ Meta-awareness should not become another demand placed on someone in crisis. Ext
 
 WHO guidance on mental health and psychosocial support in emergencies emphasizes that emergencies disrupt safety, livelihoods, social networks, trust, privacy, and resources. Responses therefore operate across community support, communication, practical assistance, and clinical care rather than treating distress as an isolated defect inside individuals.
 
-This supports a multisystemic framing:
+Root Sequence uses that service-level guidance to motivate the following design framing; WHO does not present or validate this particular diagram:
 
 ```text
 individual capacity
@@ -194,7 +190,7 @@ After adversity, continuation may involve:
 - revised identity or priorities;
 - new ways of participating.
 
-That aligns with the broader Root Sequence recovery model: restoration is only one recovery path. Continuation, rerouting, repair, redundancy, knowledge recovery, and graceful degradation can matter too.
+This is a conceptual extension of the broader Root Sequence recovery model, not an evaluated account of clinical recovery. Restoration is only one proposed recovery path. Continuation, rerouting, repair, redundancy, knowledge recovery, and graceful degradation can matter too.
 
 A humane recovery question is therefore:
 
@@ -284,19 +280,38 @@ Preserve the distinction between compliance, cooperation, alignment, consent, an
 
 ## Sources and provenance
 
-### Primary / institutional sources
+The design prompts and project translations above are Root Sequence proposals. The sources inform them without validating the combined framework. No human study or clinical evaluation is reported here.
 
-- U.S. Senate Select Committee on Intelligence. *Committee Study of the Central Intelligence Agency's Detention and Interrogation Program* (2014): https://www.intelligence.senate.gov/2014/12/09/publications-committee-study-central-intelligence-agencys-detention-and-interrogation-program/
+### Institutional sources
+
+- U.S. Senate Select Committee on Intelligence. *Committee Study of the Central Intelligence Agency's Detention and Interrogation Program* (2014): https://www.govinfo.gov/app/details/CRPT-113srpt288
 - High-Value Detainee Interrogation Group, FBI. *Interrogation: A Review of the Science* (2016): https://www.fbi.gov/file-repository/reports-and-publications/hig-report-interrogation-a-review-of-the-science-september-2016.pdf
-- Office of the United Nations High Commissioner for Human Rights. *Istanbul Protocol*, Rev. 2 (2022): https://www.ohchr.org/sites/default/files/documents/publications/2022-06-29/Istanbul-Protocol_Rev2_EN.pdf
+- Office of the United Nations High Commissioner for Human Rights. *Istanbul Protocol*, Rev. 2 (2022): https://www.ohchr.org/sites/default/files/documents/publications/2022-06-29/Istanbul-Protocol_Rev2_EN.pdf · [UNHCR Refworld copy](https://www.refworld.org/sites/default/files/2024-08/istanbul-protocol_rev2_en.pdf)
 - World Health Organization. *Mental health in emergencies*: https://www.who.int/news-room/fact-sheets/detail/mental-health-in-emergencies
 
 ### Research syntheses
 
-- Baratta MV, Seligman MEP, Maier SF. "From helplessness to controllability: toward a neuroscience of resilience" (2023): https://pmc.ncbi.nlm.nih.gov/articles/PMC10205144/
+- Baratta MV, Seligman MEP, Maier SF. "From helplessness to controllability: toward a neuroscience of resilience" (2023): https://pmc.ncbi.nlm.nih.gov/articles/PMC10205144/ · [Publisher full text](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2023.1170417/full)
 - Bernstein A, Hadash Y, Lichtash Y, Tanay G, Shepherd K, Fresco DM. "Decentering and Related Constructs: A Critical Review and Metacognitive Processes Model" (2015): https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/
-- Bernstein A et al. "Metacognitive Processes Model of Decentering: Emerging Methods and Insights" (2019): https://pmc.ncbi.nlm.nih.gov/articles/PMC7459352/
-- Systematic review update comparing accusatorial and information-gathering interrogation approaches (2024): https://pmc.ncbi.nlm.nih.gov/articles/PMC11465838/
+- Bernstein A, Hadash Y, Fresco DM. "Metacognitive Processes Model of Decentering: Emerging Methods and Insights" (2019): https://pmc.ncbi.nlm.nih.gov/articles/PMC7459352/ · [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/30908987/)
+- Catlin M et al. "Interview and interrogation methods and their effects on true and false confessions: A systematic review update and extension" (2024): https://doi.org/10.1002/cl2.1441 · [Publisher full text](https://onlinelibrary.wiley.com/doi/full/10.1002/cl2.1441)
+- Shields GS, Sazma MA, Yonelinas AP. "The effects of acute stress on core executive functions: A meta-analysis and comparison with cortisol" (2016): https://doi.org/10.1016/j.neubiorev.2016.06.038 · [Author-hosted article](https://www.grantsshields.com/wp-content/uploads/2016/08/Stress_and_EF_meta-analysis.pdf)
+
+### Source-check checkpoint: 2026-10-24
+
+This was an AI-assisted check of the passages used here, not a systematic literature search, reanalysis, or independent clinical review. Author review remains pending. An accessible full text does not mean the entire source was read.
+
+| Source | Material inspected and limit |
+| --- | --- |
+| Istanbul Protocol (2022) | Chapter VI, especially paragraphs 491–498, in the UNHCR-hosted copy. The OHCHR PDF returned an access error during this check. Used for variation and context, not a universal threshold claim. |
+| Senate study (2014) | Findings and Conclusions, Finding 1, in the official GPO PDF. The full report and competing assessments were not appraised. The conclusion above is attributed to the committee. |
+| HIG (2016) | Foreword, scope, and methodology, printed pp. 1–2. Used for the report's stated information-gathering conclusion, not an endorsement of every technique or study it includes. |
+| WHO fact sheet (6 May 2025) | Overview, problems, and recommended actions. Describes emergency support; does not evaluate Root Sequence's diagram or design prompts. |
+| Baratta et al. (2023) | Abstract and sections on learning circuitry, sex differences, and human translation, in the publisher text. Animal evidence and proposed human implications remain distinct. |
+| Bernstein et al. (2015) | Abstract, model definitions, and future-directions discussion in the author manuscript. Definition and measurement limits, not a treatment recommendation. |
+| Bernstein et al. (2019) | PubMed abstract and bibliographic record only; full text not inspected. Used only for its stated preliminary status. |
+| Catlin et al. (2024) | Publisher abstract, selection criteria, summary-of-findings table, and three-category results/bias discussion. Mock-suspect evidence; no reanalysis or appraisal of every included experiment. |
+| Shields et al. (2016) | Abstract, results, and limitations passages in the author-hosted article. Acute experimental stress and task-specific effects; no chronic-stress inference or reanalysis. |
 
 ## Open questions
 
