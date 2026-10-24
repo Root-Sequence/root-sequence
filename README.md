@@ -148,4 +148,4 @@ Root Sequence’s own material is released under [CC0 1.0](license). Check the o
 
 ## Collaborating on the inquiry
 
-The [commons collaboration proposal](commons/README.md#collaboration-as-a-living-experiment) asks how this inquiry can absorb criticism, diverse contributions, mistakes, forks, and change while preserving agency and boundaries. It develops bounded openness, inspectable power, voluntary repair, sustainable maintenance, and a signal → reflection → adaptation → feedback loop. It remains a reviewable proposal, not a claim that these practices are already established everywhere.
+The [commons collaboration proposal](commons/README.md#collaboration-as-a-living-experiment) explores how people can contribute and disagree while keeping clear boundaries around responsibility and decisions. The practices remain proposals for review.

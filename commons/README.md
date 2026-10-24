@@ -52,7 +52,9 @@ It’s where theory composts into practice — not abstract, but lived.
 
 ## Collaboration as a living experiment
 
-**Status:** proposed collaboration principles for review; normative commitments and design questions, not evidence of an operating institution or a validated governance model.
+**Status:** AI-assisted proposal; author review pending. These are collaboration principles and design questions, not evidence of an operating institution or a validated governance model.
+
+Publishing this proposal leaves each project's existing rules and roles in place. Adopting any part as a rule requires an explicit project-local decision.
 
 Root Sequence is an experiment in creating better conditions for asking questions, sharing knowledge, discovering patterns, testing possibilities, and adapting together. Its ideas can be challenged, narrowed, remixed, or rejected, including by people who disagree with its originators. Useful participation does not require adopting the whole ecosystem or one account of what is good.
 
@@ -88,7 +90,7 @@ This loop is a working analogy across projects, not a claim that people, ecosyst
 
 ### Where these principles belong
 
-This section is the shared substantive home. [Organization contribution guidance](https://github.com/Root-Sequence/.github/blob/main/CONTRIBUTING.md) translates it into repository work; [Project Stewardship](https://github.com/Root-Sequence/.github/blob/main/PROJECT_STEWARDSHIP.md) addresses maintenance. Project-specific designs remain local, and the Wiki provides routes rather than a second charter.
+This section is the shared substantive home for the proposal. For repository work, use the existing [organization contribution guidance](https://github.com/Root-Sequence/.github/blob/main/CONTRIBUTING.md) and [Project Stewardship](https://github.com/Root-Sequence/.github/blob/main/PROJECT_STEWARDSHIP.md). Their proposed companion updates remain under review. Project-specific designs remain local, and the Wiki provides routes rather than a second charter.
 
 The [Commons of Inquiry & Creation seed](../incubator/commons-of-inquiry/README.md) is a distinct incubating project. These collaboration principles do not establish its institution, create a new Commons repository, or change any project's governance or release status by implication.
 
