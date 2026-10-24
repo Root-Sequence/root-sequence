@@ -4,21 +4,23 @@
 
 <img src="assets/root-sequence.png" alt="Root Sequence logo" width="100" align="right" />
 
-The Root Sequence is a living, open-source inquiry into how intelligence, systems, and meaning evolve together.
+Root Sequence is an independent interdisciplinary research initiative exploring how intelligence, technology, and social systems shape one another.
 
-It combines philosophy, systems thinking, and technical exploration into a modular body of work designed to grow, adapt, and be remixed.
+This repository holds research and developing ideas that connect different parts of Root Sequence. Individual projects keep their own direction and maintain their detailed work separately.
 
-It's a process, not a blueprint.
+Work here ranges from research notes to experimental tools. Evidence and review status vary, and the working paper is AI-assisted and still awaits author review. The material does not establish a finished theory or a validated universal framework.
 
-**Ecosystem role:** umbrella inquiry / conceptual commons  
-**Canonical scope:** broad systems research, concepts, analysis, shared patterns, futures, and organization-level orientation  
-**Does not own:** project-specific software, gathering practice, intelligence-specific conclusions, fictional canon, or Museum governance/consent  
-**Status:** active / public / living<br>
+Rae Lovejoy, who started Root Sequence, uses AI both as an accessibility aid and as a tool for developing the work. Read about [accessibility, contributions, and review](research/README.md#accessibility-ai-assistance-and-contributions).
 
-> **This repository is the conceptual commons, not the entire GitHub organization.**  
-> See the [Ecosystem Map](ECOSYSTEM.md) for the relationships among Root Sequence, Community Infrastructure, Liberated Intelligence, the Universal Coherence Framework, Being Human(e), Liberation Mass, Coherent World, *No One Noticed*, the Museum of Ordinary Life, and adjacent implementation work.  
-> See [Idea Trails](IDEA_TRAILS.md) to understand recurring cross-project questions, then use the generated [Idea Trail Browser](IDEA_TRAIL_INDEX.md) to jump directly to relevant documents by trail and role.  
-> Use the [Root Sequence Wiki](https://github.com/Root-Sequence/wiki) when the question is what something is called, where it belongs, how projects connect, or how a concept changed over time.
+## Where to begin
+
+- [Research](research/README.md): current work, with evidence and review notes.
+- [Ecosystem map](ECOSYSTEM.md): see what belongs in each project.
+- [Idea Trails](IDEA_TRAILS.md): follow a question across projects. The [trail browser](IDEA_TRAIL_INDEX.md) links to individual documents.
+- [Wiki](https://github.com/Root-Sequence/wiki): recurring terms and the work they refer to.
+- [Refresh checklist](ROADMAP.md): what is complete and what still needs review.
+
+For a shorter introduction, read [Start here](START-HERE.md).
 
 ## Why “Root Sequence”?
 
@@ -26,11 +28,13 @@ A **root** is an underlying condition, relationship, history, dependency, or con
 
 Together, the name asks: **What conditions made this possible, and what does it make possible next?** Sequences can become roots for whatever follows, so the inquiry is recursive rather than a search for one first cause or one predetermined path.
 
+The inquiry also asks how an arrangement's constraints shape available possibilities: which limits are fundamental, which depend on current conditions, what connections should be preserved, and what different futures could become reachable through change. An obstacle can be real without being inevitable; an imagined alternative can be possible without yet being accessible.
+
 Read the maintained explanation in [Why “Root Sequence”?](concepts/root-sequence.md).
 
 ## Public Seed v0.1
 
-The reader-facing website source lives in [`site/`](site/README.md). Its approved single-page public seed introduces the project and routes readers into the research, related projects, and participation paths without replacing their canonical homes. The website directory also records approval, validation, and deployment boundaries.
+The reader-facing website source lives in [`site/`](site/README.md). The [published professional refresh](https://rootsequence.systems/) introduces the project and routes readers into the research, related projects, and participation paths without replacing their canonical homes. The website directory also records approval, validation, and deployment boundaries.
 
 ---
 
@@ -50,7 +54,7 @@ The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Frui
 ## 📂 Repository map
 
 - [`site/`](site/README.md) — reader-facing Public Seed website source; not a replacement for research or the Wiki
-- [`research/`](research/README.md) — bounded research inquiries and versioned synthesis papers; underlying concepts and evidence retain their canonical homes
+- [`research/`](research/README.md) — bounded inquiries and synthesis papers, including [What If It All Works?](research/what-if-it-all-works/README.md) on progress, access, perfection, and the ethics of what's left out; underlying concepts and evidence retain their canonical homes
 - [`research/methods/`](research/methods/README.md) — shared error-correcting inquiry methods, including epistemic contrast and deliberative inquiry
 - [`founding-texts/`](founding-texts/README.md) — founding texts, early models, manifestos, normative essays, and historical orientations
 - [`systems/`](systems/README.md) — analytical principles, models, and methods for understanding system behavior
@@ -72,7 +76,7 @@ The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Frui
 
 Suggested entry points:
 
-- [Public Seed website source](site/README.md) — approved single-page introduction, publication workflow, and deployment records
+- [Public Seed website source](site/README.md) — approved professional refresh, publication workflow, and deployment records
 - [Coherence Is a Systems Property](research/papers/coherent-systems/README.md) — v0.1-dev living-paper scaffold; AI-assisted and awaiting author review
 - [Conscious Systems](research/conscious-systems/README.md) — exploratory research question on experience, physical organization, and possible artificial systems; AI-assisted and awaiting author review
 - [Ecosystem Map](ECOSYSTEM.md) — understand the wider project family  
@@ -97,15 +101,7 @@ This project explores systems as living, interdependent processes.
 
 [Existential Euphoria](https://github.com/Root-Sequence/existential-euphoria) explores a felt orientation Rae connects to this inquiry: wonder, interdependence, and the possibility of living more humanely, with room for contradiction and ordinary life. The [original reflection and provisional RS connections](https://github.com/Root-Sequence/existential-euphoria/blob/main/ROOT-SEQUENCE.md) keep “good” and “coherent” open to examination; no shared emotional state is required to participate.
 
-It focuses on:
-- pattern recognition across domains  
-- multiple exploratory models and methods
-- connections between technical, social, and philosophical systems  
-
-It is:
-- recursive, not rigid  
-- open, not closed  
-- evolving, not complete  
+Ideas move between technical work and questions about how people live together. A pattern noticed in one field may suggest a question elsewhere, but the connection needs examination. The models remain provisional and can change as the work develops.
 
 ---
 
@@ -148,9 +144,7 @@ This convention is intended to keep repository work self-indexing rather than re
 
 ## 🔄 Use & Remix
 
-**CC0 / Public Domain**
-
-Use, modify, and extend freely.
+Root Sequence’s own material is released under [CC0 1.0](license). Check the original source and any separate terms before reusing third-party or contributed material. Related projects keep their own permissions.
 
 ## Collaborating on the inquiry
 
