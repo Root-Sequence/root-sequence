@@ -142,7 +142,7 @@ Potential ethical interventions include optional private reporting channels, mea
 
 ### Coherent World translation, not a new population claim
 
-A [five-world identical-dashboard probe](https://github.com/Root-Sequence/coherent-world/blob/research/intelligence-without-omniscience-2026-10/simulation/scenarios/distributed-intelligence/MECHANISM-PROBE-006.md) already demonstrates the *logical* inability to distinguish hidden situations from an identical aggregate. A **future unexecuted extension** could hold the recorded complaint count fixed while varying actual harms, availability of safe channels, and reasons for silence. The lesson would be a sensitivity test of **information generation and missingness**, not a license to simulate marginalized people's private testimony, or proof about any real institution.
+A five-world identical-dashboard probe (private supporting draft) already demonstrates the *logical* inability to distinguish hidden situations from an identical aggregate. A **future unexecuted extension** could hold the recorded complaint count fixed while varying actual harms, availability of safe channels, and reasons for silence. The lesson would be a sensitivity test of **information generation and missingness**, not a license to simulate marginalized people's private testimony, or proof about any real institution.
 
 Working question:
 

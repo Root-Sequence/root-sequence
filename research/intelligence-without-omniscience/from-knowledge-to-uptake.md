@@ -262,7 +262,7 @@ If established tools already capture the necessary mechanisms, their work should
 - [Epistemic Contrast](../methods/epistemic-contrast.md) and [Deliberative Inquiry](../methods/deliberative-inquiry.md): legitimate epistemic procedures.
 - [Intelligence Commons](intelligence-commons.md): hypothetical shared infrastructure with permission, governance, maintenance, and rights.
 - [Epistemic Trust and Collective Verification](epistemic-trust-and-collective-verification.md): when information has been recognized, how can an outsider rationally rely on expertise, establish independent support, and retain opportunities to correct error?
-- [Coherent World simulation](https://github.com/Root-Sequence/coherent-world): bounded model and failure testing; no real-world confirmation or canon by implication.
+- [Coherent World simulation](../../ECOSYSTEM.md#coherent-world): bounded model and failure testing; no real-world confirmation or canon by implication.
 - [Museum of Ordinary Life](https://museumofordinarylife.org/): independent archive; research analogies do **not** change archive governance, consent, or reuse rules.
 
 ## 15. Durable working formulations

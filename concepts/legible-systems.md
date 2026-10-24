@@ -77,6 +77,36 @@ This is progressive disclosure applied not only to interface complexity, but to 
 
 The beginner should not be punished for being a beginner. The expert should not be prevented from becoming an expert because the system has hidden itself.
 
+## Representational legibility
+
+Internal coherence and external legibility are related but distinct.
+
+A system, argument, project, or person may contain meaningful relationships that make sense within the model being used while remaining difficult for someone else to reconstruct from a short explanation. That does not establish that the underlying model is correct, complete, or normatively legitimate. It means only that **difficulty explaining a structure is not, by itself, evidence that no structure exists**.
+
+Communication also changes representation. A graph may become a paragraph; a mechanism may become a diagram; an experience may become a story; a research program may become a summary. Every such translation can preserve some relationships while dropping others.
+
+For design purposes, distinguish:
+
+- **structural coherence:** whether specified parts, assumptions, dependencies, behavior, or purposes fit within a stated boundary;
+- **representational legibility:** whether another person can reconstruct enough of that structure for the task at hand;
+- **translational fidelity:** which important relationships, qualifications, uncertainties, and dependencies survive a change in representation.
+
+These are working distinctions, not formal metrics.
+
+A representation can become easier to read while becoming less faithful. Maximum simplicity is therefore not the goal.
+
+> **Reduce complexity until the representation becomes usable, but not past the point where removing another relationship would materially change what it means.**
+
+A useful layered explanation can provide:
+
+1. a **doorway** — the smallest faithful entry point;
+2. a **working model** — enough structure to reason or act without reconstructing everything;
+3. **inspectable depth** — the fuller relationships, evidence, caveats, provenance, and implementation available when needed.
+
+The short layer does not have to contain everything the deeper layer contains. It should preserve a route back to the deeper structure rather than pretending the compression is the whole thing.
+
+This matters for explaining software, institutions, research, lived experience, and complex project ecosystems. A system can be understandable to an insider yet illegible to a newcomer because the insider carries context that the interface never made visible.
+
 ---
 
 ## Technical accessibility
@@ -367,6 +397,8 @@ When evaluating a system, ask:
 11. Does the system remain usable for people with limited time, attention, working memory, money, bandwidth, mobility, confidence, or technical experience?
 12. Can the system become more transparent without demanding unnecessary transparency from the people using it?
 13. Can someone understand an important result or action without already knowing specialist vocabulary, while still being able to inspect the technical basis?
+14. Does a simplified representation preserve the dependencies, qualifications, and relationships whose absence would materially change its meaning?
+15. Can someone move from the shortest useful explanation into a fuller model without depending on the original explainer to reconstruct the missing context?
 
 ---
 

@@ -94,7 +94,7 @@ The [Adaptation model](adaptation/model.md) operationalizes part of that questio
 - [`adaptation/`](adaptation/) — how systems change in response to pressure, feedback, or altered conditions.
 - [`cascades/`](cascades/) — how effects propagate through connections and dependencies.
 - [`coherence/`](coherence/) — alignment and misalignment among signals, assumptions, structure, goals, and reality.
-- [`principles/`](principles/) — cross-domain analytical lenses for asymmetry, misclassification, feedback, reinforcement, and non-reversal.
+- [`principles/`](principles/) — cross-domain analytical lenses for asymmetry, misclassification, feedback, reinforcement, non-reversal, and a working note on [disentanglement and system-relative constraints](principles/disentanglement-and-constraints.md).
 - [`economics/`](economics/) — economic structures, incentives, flows, and distribution.
 - [`emergence/`](emergence/) — system-level patterns and capacities arising through interaction.
 - [`fragility/`](fragility/) — how small failures become large consequences.

@@ -107,7 +107,7 @@ These empirical studies do not guarantee any intervention will work outside thei
 
 ## 4. First mechanistic probe: hidden information under a fixed message budget
 
-**Location:** the private [Coherent World mechanism probe 001](https://github.com/Root-Sequence/coherent-world/blob/research/intelligence-without-omniscience-2026-10/simulation/scenarios/distributed-intelligence/MECHANISM-PROBE-001.md). This is a *paper calculation*, not a new world simulator, study of real participants, or independent validation.
+**Location:** the private Coherent World mechanism probe 001 (private supporting draft). This is a *paper calculation*, not a new world simulator, study of real participants, or independent validation.
 
 ### Predeclared toy assumptions
 
@@ -123,7 +123,7 @@ Let `q = (1-s)d/2` be the probability that any ordinary turn yields a particular
 P(both critical facts surfaced in n ordinary turns)
   = 1 - 2(1-q)^n + (1-2q)^n
 
-P(both surfaced after two accurately routed, independent requests)
+P(both surfaced after two independent targeted requests)
   = (r*d)^2
 ```
 
@@ -176,7 +176,7 @@ Compare against existing best-practice review; report null/negative effects and 
 
 ## 5. Evidence integrity: what if six citations come from one source?
 
-This is developed as an explicit synthetic trace in the private Coherent World [Mechanism Probe 002](https://github.com/Root-Sequence/coherent-world/blob/research/intelligence-without-omniscience-2026-10/simulation/scenarios/distributed-intelligence/MECHANISM-PROBE-002.md). It is an authored paper exercise, not a set of real documents or an AI test.
+This is developed as an explicit synthetic trace in the private Coherent World Mechanism Probe 002 (private supporting draft). It is an authored paper exercise, not a set of real documents or an AI test.
 
 
 An institution sees three apparently independent reports supporting a proposal. All three copied one original inference. A fourth source raises an independent objection.
@@ -219,17 +219,17 @@ Relevant conceptual homes are preserved:
 
 ### A third separation: accurate knowledge that still cannot yield action
 
-The private Coherent World [Mechanism Probe 003](https://github.com/Root-Sequence/coherent-world/blob/research/intelligence-without-omniscience-2026-10/simulation/scenarios/distributed-intelligence/MECHANISM-PROBE-003.md) holds one fictional, correct observation fixed while changing *reception*, *institutional uptake*, *available means*, *authority/consent*, and *whether goals can be challenged*. No empirical simulation was run. It illustrates why better information cannot automatically solve institutional or material constraints.
+The private Coherent World Mechanism Probe 003 (private supporting draft) holds one fictional, correct observation fixed while changing *reception*, *institutional uptake*, *available means*, *authority/consent*, and *whether goals can be challenged*. No empirical simulation was run. It illustrates why better information cannot automatically solve institutional or material constraints.
 
 It is motivated by [Longino's norms of scientific uptake](https://plato.stanford.edu/entries/scientific-knowledge-social/), the [capability approach's resource-to-opportunity conversion factors](https://plato.stanford.edu/archives/fall2025/entries/capability-approach/), and a [2024 critique distinguishing goal-level from within-goal criticism](https://doi.org/10.1016/j.shpsa.2024.02.005). The philosophical analogy does not assign scientific epistemic communities automatic political authority over citizens or communities.
 
 ### The equal-roster and governing-rule follow-ups
 
-The private Coherent World [Probe 004](https://github.com/Root-Sequence/coherent-world/blob/research/intelligence-without-omniscience-2026-10/simulation/scenarios/distributed-intelligence/MECHANISM-PROBE-004.md) adds a research-only *executable analytical model* of five equal-roster conditions. It evaluates all ten possible pairs of two fact-holders, with the same role list and no answer-aware questioner. The published model's eight unit tests report arithmetic/invariant checks, not measured changes in human/AI behavior. Exact sensitivity outcomes are **conditional on deliberately invented disclosure probabilities** (elicitation .70, generic .45, backfire .25); no evidence shows a prompt actually causes those probabilities. The null and false-information controls show that more elicitation can yield more irrelevant or unverified claims, and protected refusal can prevent full fact exposure.
+The private Coherent World Probe 004 (private supporting draft) adds a research-only *executable analytical model* of five equal-roster conditions. It evaluates all ten possible pairs of two fact-holders, with the same role list and no answer-aware questioner. The earlier draft reports eight arithmetic/invariant unit tests for that private model, not measured changes in human/AI behavior. That suite was not independently rerun in this public review. Exact sensitivity outcomes are **conditional on deliberately invented disclosure probabilities** (elicitation .70, generic .45, backfire .25); no evidence shows a prompt actually causes those probabilities. The null and false-information controls show that more elicitation can yield more irrelevant or unverified claims, and protected refusal can prevent full fact exposure.
 
 An additional deterministic, authored counterfactual was executed using a common four-role packet with four speaking slots per condition. It produced five cases: willing disclosure, no relevant private facts, protected refusal, prompted backfire, and equal disclosure; ten logic assertions passed, including the possibility that completely shared information remains misjudged when a false claim is accepted or contradictory facts are discounted. These are *constructed response functions*, not randomized observations. Sixteen possible paired binary response profiles showed symmetric logical possibilities (three structured-only successes, three ordinary-only, ten ties) **without assigning any human probability to them**.
 
-[Probe 005](https://github.com/Root-Sequence/coherent-world/blob/research/intelligence-without-omniscience-2026-10/simulation/scenarios/distributed-intelligence/MECHANISM-PROBE-005.md) separately isolates single-loop action revision from authorized change to a governing objective, practical resources, implementation permission, refusal, and externalized consequences. Seven toy cases and nine assertions passed. That is **not empirical validation**; it demonstrates why factual uptake, institutional adaptation, and the legitimate authority to change a rule are different mechanisms.
+Probe 005 (private supporting draft) separately isolates single-loop action revision from authorized change to a governing objective, practical resources, implementation permission, refusal, and externalized consequences. Seven toy cases and nine assertions passed. That is **not empirical validation**; it demonstrates why factual uptake, institutional adaptation, and the legitimate authority to change a rule are different mechanisms.
 
 **Related native literatures:** [Argyris and Schön's double-loop learning](https://books.google.com/books/about/Organizational_Learning.html?id=D7eNoAEACAAJ); [2023 systematic review](https://doi.org/10.1111/emre.12615); [2018 adaptive-management treatment of revising decision elements](https://doi.org/10.1007/s00267-018-1107-5); and [Greitemeyer & Schulz-Hardt's 2003 full-information bias experiments](https://pubmed.ncbi.nlm.nih.gov/12585807/). They motivate the research distinctions; they do not calibrate the toy scoring or rule parameters.
 

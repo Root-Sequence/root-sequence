@@ -1,4 +1,4 @@
-"""Offline checks for the approved Root Sequence public seed."""
+"""Offline checks for the Root Sequence review candidate and publication gate."""
 from __future__ import annotations
 
 import base64
@@ -87,9 +87,19 @@ class PublicationTests(unittest.TestCase):
         parser.feed(path.read_text(encoding="utf-8"))
         return parser
 
-    def test_canonical_source_is_the_approved_preview(self):
+    def test_current_approval_matches_source_and_historical_approval_is_rejected(self):
         actual = hashlib.sha256((HERE / "index.html").read_bytes()).hexdigest()
-        self.assertEqual(actual, APPROVED_PREVIEW_SHA256)
+        self.assertNotEqual(actual, APPROVED_PREVIEW_SHA256)
+        approval = builder.approval_for(HERE, builder.source_digest(HERE))
+        self.assertEqual(approval["approved_preview_sha256"], actual)
+        historical = {
+            "source_sha256": "45288440e4e5f04a6ded6660659bf6f01ade1faf856f59f859b959ee14ea0669",
+            "approved_by": "historical test fixture only",
+            "approved_at": "2026-09-25",
+        }
+        (self.root / "approval.json").write_text(json.dumps(historical), encoding="utf-8")
+        with self.assertRaisesRegex(ValueError, "Release blocked"):
+            self.build(True)
 
     def test_preview_build_preserves_the_approved_html_exactly(self):
         output, manifest = self.build()
@@ -114,10 +124,16 @@ class PublicationTests(unittest.TestCase):
         text = (output / "index.html").read_text(encoding="utf-8")
         self.assertEqual(manifest["build_mode"], "release")
         self.assertEqual(self.parse(output / "index.html").meta["robots"], "index,follow")
-        for phrase in ("local review copy", "Not a published site", "Privacy and this preview"):
+        for phrase in (
+            "local review copy", "Not a published site", "Privacy and this preview",
+            "This is a local preview for reviewing the site before publication.",
+            "This page is an AI-assisted draft being reviewed before publication.",
+        ):
             self.assertNotIn(phrase, text)
-        self.assertIn("Public seed · Published 25 September 2026", text)
+        self.assertIn("Public seed · Professional refresh", text)
         self.assertIn("This is the public seed edition", text)
+        self.assertIn("Its logging and retention policies haven’t been checked as part of this review.", text)
+        self.assertIn("This page was developed with AI assistance.", text)
 
     def test_page_structure_and_fragments(self):
         output, _ = self.build()
@@ -150,7 +166,7 @@ class PublicationTests(unittest.TestCase):
         csp = re.search(r'<meta content="([^"]+)" http-equiv="Content-Security-Policy"/>', text).group(1)
         page = self.parse(output / "index.html")
         executable = [s for s in page.scripts if s["attrs"].get("type") != "application/json"]
-        self.assertEqual(len(executable), 2)
+        self.assertEqual(len(executable), 1)
         for script in executable:
             digest = base64.b64encode(hashlib.sha256(script["text"].encode()).digest()).decode()
             self.assertIn(f"'sha256-{digest}'", csp)
@@ -169,15 +185,17 @@ class PublicationTests(unittest.TestCase):
         for phrase in (
             "Research for a",
             "more coherent world",
-            "Root Sequence is an open transdisciplinary research and design project",
-            "Root Sequence is a place for questions that cross fields",
-            "Root Sequence is an independent project started by",
+            "Root Sequence is an independent interdisciplinary research initiative",
+            "Root Sequence explores how the systems we build shape what becomes possible next.",
             "https://github.com/raelovejoy",
             "Why “Root Sequence”?",
             "What conditions made this possible, and what does it make possible next?",
             "https://github.com/Root-Sequence/root-sequence/blob/main/concepts/root-sequence.md",
             "Selected research and writing",
-            "How Root Sequence researches",
+            "Methods, evidence, and AI use",
+            "AI output is not evidence",
+            'id="research-practice"',
+            "How Root Sequence approaches a question",
             "Adaptive continuity and dynamic coherence",
             "Epistemic discoverability and knowledge routing",
             "Legible Systems",
@@ -185,9 +203,9 @@ class PublicationTests(unittest.TestCase):
             "https://github.com/Root-Sequence/root-sequence/blob/main/research/method-router.md",
             "Being Human(e): An Incomplete Guide",
             'id="project-humane"',
-            "Its public website has not been built yet",
+            "Its observations are provisional and open to disagreement and revision.",
             "Take part in",
-            "Cascadia Mono license",
+            "SIL Open Font License 1.1",
         ):
             self.assertIn(phrase, text)
         for control in ("menu-sections", "menu-display", "menu-language", "context-dialog"):
