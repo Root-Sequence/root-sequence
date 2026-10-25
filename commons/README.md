@@ -42,6 +42,8 @@ It’s where theory composts into practice — not abstract, but lived.
 
 ## 🔗 Navigation
 
+* [Intelligence Commons](../research/intelligence-without-omniscience/intelligence-commons.md) is the broader shared-capability inquiry; [AI Commons](../research/intelligence-without-omniscience/ai-commons.md) is its focused research/design companion on AI assistance, safety, resources, and independence. Both are open proposals rather than operating institutions. AI Commons is AI-assisted, author review pending, with no completed experiments.
+
 * Complements **/futures/** (resistance and alternatives).  
 * Counterbalances **/analysis/** and **/ideology/** by offering tangible practice.  
 * Draws from **/commons/fragments/** and **/commons/zines/** as creative compost.  
