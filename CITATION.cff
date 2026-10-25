@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: >-
+  Please cite the specific document, its identified contributors, and the exact
+  revision you used. This project-level citation is a fallback, not a claim of
+  sole authorship, peer review, or endorsement. It adds no license restrictions.
+title: "Root Sequence: research commons"
+authors:
+  - name: "Root Sequence"
+url: "https://github.com/Root-Sequence/root-sequence"
+preferred-citation:
+  type: generic
+  title: "Root Sequence: research commons"
+  authors:
+    - name: "Root Sequence"
+  url: "https://github.com/Root-Sequence/root-sequence"
+  notes: >-
+    Living, multi-document project. Cite the relevant file and exact Git revision;
+    retain document-level author, source, AI-assistance, and review-status records.
