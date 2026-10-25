@@ -855,6 +855,13 @@ documents:
       - intelligence-authority
 
   - repo: Root-Sequence/root-sequence
+    path: research/intelligence-without-omniscience/ai-commons.md
+    role: research
+    trails:
+      - commons-shared-capacity
+      - intelligence-authority
+
+  - repo: Root-Sequence/root-sequence
     path: research/intelligence-without-omniscience/from-knowledge-to-uptake.md
     role: research
     trails:

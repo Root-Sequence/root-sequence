@@ -7,6 +7,8 @@
 
 ## The question
 
+The focused companion [AI Commons: Agency, Safety, Infrastructure, and Paths to Independence](ai-commons.md) develops AI-specific ownership, evaluation, resource, and transition questions. It is an AI-assisted open proposal with author review pending and no completed experiments. This parent inquiry continues to cover knowledge and cooperation beyond AI.
+
 > What would it take for knowledge, tools, learning, and coordination to become widely usable capabilities—not merely resources held by those able to pay, search with expert vocabulary, or obtain institutional permission?
 
 And the equally important counter-question:
