@@ -110,6 +110,8 @@ A later participant study needs a separate protocol, voluntary consent, privacy 
 
 ## 9. Speculative return and bounded research agenda
 
+The separate [Coercion, Care, and the Extended Hand inquiry](../coercion-care-and-extended-hand/README.md) adds historical context and [proposed comparisons](../coercion-care-and-extended-hand/simulation-proposals.md) for informal hierarchy, meaningful refusal, emergency authority, and social awareness without surveillance. It is an AI-assisted review draft, not a replacement commons charter or evidence that an institutional design works.
+
 Coherent World is a private speculative/consequence workspace. It may transform these public questions into alternative resource and authority arrangements. Its findings would return as proposed requirements or missing mechanisms, not empirical evidence or policy authorization. Private adaptations are not required reading for this note; no unpublished narrative details are included here.
 
 The next bounded questions are:
