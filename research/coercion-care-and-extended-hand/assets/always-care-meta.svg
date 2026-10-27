@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+<title id="title">Always has been — the care meta-meme</title>
+<desc id="desc">Two astronauts look toward a planet held in an eye-shaped network. One offers an open glove. An infinity loop remains open between them. Wait… anarchism has always been about care? Always has been. A playful mutual-aid motif. Not a complete history. Creative motif, review draft.</desc>
+<defs>
+  <radialGradient id="space"><stop stop-color="#233644"/><stop offset="1" stop-color="#0b1322"/></radialGradient>
+  <radialGradient id="planet" cx=".35" cy=".25"><stop stop-color="#94dad0"/><stop offset=".65" stop-color="#3d8b96"/><stop offset="1" stop-color="#1c4b66"/></radialGradient>
+  <linearGradient id="visor" x2="1" y2="1"><stop stop-color="#38546a"/><stop offset="1" stop-color="#111a2b"/></linearGradient>
+  <linearGradient id="threads"><stop stop-color="#79d3ca"/><stop offset="1" stop-color="#bc9cdd"/></linearGradient>
+</defs>
+<rect width="1600" height="1000" rx="30" fill="url(#space)"/>
+<g fill="#d5e6ed" opacity=".55">
+  <circle cx="98" cy="270" r="2"/><circle cx="149" cy="391" r="3"/><circle cx="284" cy="266" r="2"/><circle cx="411" cy="363" r="2"/><circle cx="1379" cy="286" r="3"/><circle cx="1490" cy="412" r="2"/><circle cx="1281" cy="369" r="2"/><circle cx="1470" cy="600" r="3"/><circle cx="107" cy="642" r="2"/><circle cx="342" cy="458" r="2"/><circle cx="1521" cy="228" r="2"/>
+</g>
+<g font-family="DejaVu Sans, sans-serif" fill="#f2f4ed">
+  <text x="84" y="95" font-size="18" letter-spacing="5" fill="#92c9c8">ROOT SEQUENCE / EXTENDED HAND</text>
+  <text x="84" y="170" font-size="42" font-weight="700">Wait… anarchism has always been about care?</text>
+  <text x="1060" y="225" font-size="42" font-weight="700" fill="#eacfa1">Always has been.</text>
+</g>
+<!-- Shared awareness: an eye made from visible connections, without a watcher. -->
+<g fill="none" stroke="url(#threads)" stroke-width="2" opacity=".58">
+  <path d="M175 400Q650 40 1125 400Q650 745 175 400Z"/>
+  <path d="M175 400Q445 180 650 400Q865 620 1125 400"/>
+  <path d="M175 400Q445 620 650 400Q865 180 1125 400"/>
+  <path d="M390 250Q650 160 910 250M390 548Q650 640 910 548"/>
+  <path d="M390 250L390 548M910 250L910 548M650 213L650 590" opacity=".35"/>
+</g>
+<circle cx="650" cy="400" r="163" fill="url(#planet)" stroke="#a6e1d5" stroke-width="3"/>
+<g fill="#c1d7a5" opacity=".8">
+  <path d="M540 293q50-40 90-18l22 26-38 20 9 35-43 18-35-29z"/>
+  <path d="M650 360l48-12 46 40-18 27-33 6-8 63-24 22-20-53 12-40-23-22z"/>
+  <path d="M748 458l30 11 8 29-30 13-18-24z"/>
+</g>
+<g fill="#a9d9d4" stroke="#8bc9cc" stroke-width="3">
+  <circle cx="175" cy="400" r="8"/><circle cx="390" cy="250" r="8"/><circle cx="390" cy="548" r="8"/><circle cx="910" cy="250" r="8"/><circle cx="910" cy="548" r="8"/><circle cx="1125" cy="400" r="8"/>
+</g>
+<!-- Astronaut one: turned toward the shared world. -->
+<g stroke="#28384a" stroke-width="6" stroke-linejoin="round">
+  <rect x="461" y="638" width="126" height="147" rx="30" fill="#b5c1cb"/>
+  <path d="M516 626q70-39 131 4l28 158-155 35-38-120z" fill="#e5e6e0"/>
+  <path d="M536 782l58 4-7 93-70 6zM610 788l54-9 31 89-66 17z" fill="#c7d2d6"/>
+  <path d="M535 653l-56 71-20-14 32-83q17-23 44 26z" fill="#c7d2d6"/>
+  <path d="M638 650q24-8 38 17l48 34-16 25-67-27z" fill="#dfe4df"/>
+  <ellipse cx="592" cy="589" rx="67" ry="69" fill="#e8ebe4"/>
+  <path d="M545 572q22-45 77-28l29 28-13 43-72 10-27-29z" fill="url(#visor)"/>
+  <path d="M557 568q24-23 53-14" fill="none" stroke="#8fc9ca" stroke-width="5"/>
+  <rect x="549" y="671" width="63" height="43" rx="7" fill="#566f80"/>
+  <path d="M555 737l73-7" stroke="#a7bec1"/>
+</g>
+<!-- Astronaut two: open palm offered across a visible gap. No weapon. -->
+<g stroke="#28384a" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+  <rect x="1151" y="572" width="103" height="176" rx="25" fill="#a8b6c5"/>
+  <path d="M1059 570q59-30 118 6l32 192-164 10-34-124z" fill="#e9e7df"/>
+  <path d="M1058 755l62 8-16 118-67 2zM1133 762l57-5 30 123-69 3z" fill="#c8d2d6"/>
+  <path d="M1064 600q-24-12-45 8l-51 19-49-27-19 29 58 43q16 7 32 0l65-21z" fill="#e5e8df"/>
+  <path d="M1179 605l51 92-20 34-29-61-23-24z" fill="#c7d2d6"/>
+  <ellipse cx="1113" cy="518" rx="68" ry="70" fill="#eef0e7"/>
+  <path d="M1058 499q30-37 78-20l32 22-10 48-82 14-24-32z" fill="url(#visor)"/>
+  <path d="M1074 497q24-19 51-11" fill="none" stroke="#c8b0df" stroke-width="5"/>
+  <rect x="1086" y="602" width="64" height="44" rx="7" fill="#657786"/>
+  <path d="M1095 700l70-2" stroke="#abbbbd"/>
+  <path d="M918 602l-22-22-12 3 8 24-25-9-8 6 23 17-26-1-4 10 32 12 22-11 15-12z" fill="#f2e9d6" stroke-width="4"/>
+</g>
+<!-- A loose, open infinity loop: relation without a closed shackle. -->
+<path d="M740 713C791 636 886 652 846 727C806 805 724 788 769 719C826 633 916 644 958 717C1007 799 1084 784 1052 723C1037 692 1014 681 991 683" fill="none" stroke="url(#threads)" stroke-width="5" stroke-linecap="round" opacity=".8"/>
+<path d="M75 915H1525" stroke="#65868c" stroke-width="1"/>
+<g font-family="DejaVu Sans, sans-serif" text-anchor="middle">
+  <text x="800" y="954" font-size="29" fill="#eacfa1">A playful mutual-aid motif. Not a complete history.</text>
+  <text x="800" y="984" font-size="16" fill="#91a9b8">CREATIVE MOTIF · REVIEW DRAFT · NOT HISTORICAL EVIDENCE</text>
+</g>
+</svg>
