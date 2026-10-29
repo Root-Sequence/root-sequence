@@ -15,6 +15,8 @@
 
 ## 1. Why this is distinct from fact sharing
 
+The companion [Contextual Coherence inquiry](../contextual-coherence/README.md) applies these distinctions to locally responsive rules, shared protections, polycentric coordination, and interjurisdictional consequences. This page remains the detailed home for organizational learning and authority to revise governing assumptions.
+
 Our earlier inquiry decomposed a path from observed information through disclosure, evidence evaluation, incorporation into a model, institutional uptake, practical means, and legitimate authorization.
 
 A different problem remains after an institution has received, verified, and even *accepted* the evidence:
