@@ -1,5 +1,5 @@
 version: 0.4
-updated: 2026-10-07
+updated: 2026-10-29
 canonical_trails: IDEA_TRAILS.md
 metadata_convention: IDEA_TRAIL_METADATA.md
 
@@ -40,6 +40,14 @@ trails:
     title: Adaptive Continuity, Agency & Becoming
 
 documents:
+  - repo: Root-Sequence/root-sequence
+    path: research/contextual-coherence/README.md
+    role: research
+    trails:
+      - federation-autonomy
+      - stewardship-authority
+      - adaptive-continuity-agency
+
   - repo: Root-Sequence/root-sequence
     path: IDEA_TRAILS.md
     role: routing-map

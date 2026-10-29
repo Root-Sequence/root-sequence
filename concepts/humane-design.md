@@ -152,6 +152,8 @@ Can different people, communities, and contexts adapt the system without being f
 
 Customization should not become abandonment: a system can provide coherent defaults while still allowing meaningful variation.
 
+The developing [Coherence Without Uniformity / Contextual Coherence inquiry](../research/contextual-coherence/README.md) extends this question to shared rules: distinguish the protection people need from the local means used to provide it. Examine physical conditions, practical access, participation, cross-boundary consequences, and understandable interfaces. Give affected people a real route to challenge and revise a rule while keeping protections enforceable. A common standard may still be the best design; the inquiry proposes comparisons rather than assuming variation helps.
+
 ### Power
 
 Who defines the objective? Who can override whom? Who bears the downside when the model is wrong? Who can appeal? Who can inspect decisions? Who is structurally unable to refuse?
