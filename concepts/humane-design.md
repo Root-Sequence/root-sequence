@@ -246,6 +246,8 @@ One can exist without the other. A humane design intervention can be temporary. 
 
 ## Working status
 
+The [Coherent Design research inquiry](../research/coherent-design/README.md) develops unburdensomeness, optional complexity, accommodation, clarification, meaningful consent, negotiation, and plural representations. It is exploratory and author-review pending; this page and the existing Human(e) Design Review remain the shared translation practice rather than a second copy of that inquiry.
+
 This is an ecosystem concept and methodology in development. It should remain open to established accessibility, participatory-design, service-design, human-factors, safety, community-governance, and other traditions rather than pretending Root Sequence invented the underlying practices.
 
 The distinctive contribution is the connective role: explicitly translating the human-scale observations of Being Human(e) into testable design questions while keeping power, uncertainty, maintenance, reversibility, and non-domination visible.

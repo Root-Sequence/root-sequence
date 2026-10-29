@@ -70,6 +70,8 @@ This directory holds bounded research inquiries and versioned papers that synthe
 
 ## Research areas
 
+- [Coherent Design](coherent-design/README.md) — **exploratory / AI-assisted / author review pending**. Investigates coherent defaults, optional complexity, accommodation, clarification, meaningful consent, conflict negotiation, plural representations, and recursive design. Includes sources and unexecuted comparisons; builds on Human(e) Design without replacing its shared review practice.
+
 - [Conscious Systems](conscious-systems/README.md) — **exploratory, AI-assisted seed; author review pending**. Starts with [what can change about a mind while preserving consciousness](conscious-systems/what-can-we-change-about-a-mind.md), separating experience from report, capability, and authority.
 
 - [What If It All Works?](what-if-it-all-works/README.md) — **exploratory / AI-assisted / author review pending**. Investigates what counts as progress, who benefits, meaningful access, contested ideals, ethical uncertainty, and why imperfection neither excuses harm nor defeats improvement.
