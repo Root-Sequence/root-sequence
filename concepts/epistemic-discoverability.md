@@ -688,3 +688,7 @@ These sources support components of the model, not the whole Root Sequence synth
 And:
 
 > **A good answer should increase the person's capacity to discover the next good question.**
+
+## November 27 integration connection
+
+[Coherent Communication](coherent-communication.md) examines the adjacent expression/interpretation problem: a useful research route can fail if a person cannot formulate or correct the query. Compare candidate vocabulary and navigable context with ordinary search; preserve ambiguity and the possibility that no proposed term fits.

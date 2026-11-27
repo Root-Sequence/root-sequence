@@ -1,5 +1,5 @@
 version: 0.4
-updated: 2026-10-07
+updated: 2026-11-27
 canonical_trails: IDEA_TRAILS.md
 metadata_convention: IDEA_TRAIL_METADATA.md
 
@@ -896,3 +896,33 @@ documents:
       - collective-judgment-dissent
       - adaptive-continuity-agency
       - stewardship-authority
+
+  - repo: Root-Sequence/root-sequence
+    path: concepts/coherent-communication.md
+    role: research
+    trails:
+      - accessibility-participation
+      - collective-judgment-dissent
+      - memory-provenance
+
+  - repo: Root-Sequence/root-sequence
+    path: research/possibility-and-participation.md
+    role: research
+    trails:
+      - adaptive-continuity-agency
+      - possibility-historical-contingency
+      - accessibility-participation
+
+  - repo: Root-Sequence/root-sequence
+    path: research/integration-reviews/README.md
+    role: routing-map
+    trails:
+      - memory-provenance
+      - adaptive-continuity-agency
+
+  - repo: Root-Sequence/root-sequence
+    path: research/integration-reviews/coverage-2026-11-27.md
+    role: routing-map
+    trails:
+      - memory-provenance
+      - possibility-historical-contingency

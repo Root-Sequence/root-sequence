@@ -1071,3 +1071,7 @@ It should remain vulnerable to being split, narrowed, corrected, or discarded if
 - [Coherent Systems living paper](../research/papers/coherent-systems/README.md)
 
 **Source note:** The framework was prompted by the 2026-09-24 conversation on personality change, embodied identity, trauma, path dependence, agency, emergence, consciousness, AI, and Root Sequence. A 2026-10-01 discussion added the operational formulation “Anticipate what you can. Design for what you can’t.” as a derivative of the existing adaptive-continuity, resilience, and corrigibility work rather than a separate concept. The structure and wording are AI-assisted synthesis for author review. External sources were used to anchor selected concepts; no systematic literature review was performed.
+
+## November 27 integration connection
+
+The [possibility and participation comparison](../research/possibility-and-participation.md) develops generative agency beside existing future-capacity and meta-agency questions. Distinguish selecting, configuring and generating possibilities, and test whether additional options are practically reachable. Rest, delegation and protective boundaries can preserve future capacity without constant participation.

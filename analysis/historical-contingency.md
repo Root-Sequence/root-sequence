@@ -350,3 +350,7 @@ The reader should feel the present become strange—not because it was unreal, b
 Historical contingency does not promise liberation.
 
 It removes inevitability's alibi.
+
+## November 27 integration connection
+
+[Possibility deprivation](../research/possibility-and-participation.md#possibility-deprivation-six-prompts-not-six-diagnoses) supplies six overlapping prompts for examining absent futures. Distinguish documented suppression or foreclosure from an investigator’s imagined alternative. An unrealized possibility need not have been feasible or beneficial.

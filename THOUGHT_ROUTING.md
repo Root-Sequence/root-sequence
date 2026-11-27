@@ -208,3 +208,7 @@ Human or agent review remains necessary for semantic equivalence, canonical-home
 > **Automate memory, not judgment.**
 
 The shared maintenance boundary is documented in [`Root-Sequence/.github/PROJECT_STEWARDSHIP.md`](https://github.com/Root-Sequence/.github/blob/main/PROJECT_STEWARDSHIP.md). The private Root Sequence Console is a capture and orientation surface; it must not silently become the canonical destination.
+
+## November 27 integration connection
+
+[Recursive integration reviews](research/integration-reviews/README.md) revisit routed work cumulatively: preserve source coverage, typed relations, contradictions, exact draft destinations and remaining experiments in the existing ledger. A monthly synthesis complements weekly project status and the research digest; it does not duplicate their archives or authorize another schedule.

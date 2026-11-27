@@ -50,3 +50,7 @@ The developing cross-disciplinary research inquiry [Intelligence Without Omnisci
 Keep one substantive canonical page for each shared idea. Project-specific pages should link to it, state how their context changes it, and develop only the material their project owns.
 
 When a page becomes primarily a tested systems model, a diagnosis, a future proposal, or a practical artifact, move its canonical treatment to the corresponding area and leave a clear route from here.
+
+## November 27 integration connection
+
+[Coherent Communication](coherent-communication.md) connects expression, interpretation, repair and generative inquiry while preserving agency. [Possibility and participation](../research/possibility-and-participation.md) connects existing agency, continuity and futures questions.

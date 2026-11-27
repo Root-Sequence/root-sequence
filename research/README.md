@@ -102,3 +102,7 @@ These links point to existing public draft PRs, not merged research or reviewed 
 Public branches and pull requests in this repository are public. They are not private review spaces. Only public-safe synthesis belongs here; private notes and unpublished fiction retain their existing homes and permissions. Website presentation is separate and requires an explicit publication pass.
 
 [Repository map](../root_map.md) · [Contribution guidance](../contributing.md)
+
+## November 27 integration connection
+
+[Possibility and participation](possibility-and-participation.md) and [Coherent Communication](../concepts/coherent-communication.md) are source-bounded conceptual drafts. [Recursive integration reviews](integration-reviews/README.md) hold the dated review, cumulative coverage ledger and assistance/source record.
