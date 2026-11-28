@@ -142,3 +142,4 @@ For collaboration updates, begin with one plain-language takeaway, what changed 
 ## 2026-11-28 — passage decisions
 
 - Retain “A tentative thought is not a durable preference, commitment or permission.” in [Coherent Communication](https://github.com/Root-Sequence/root-sequence/blob/c7012a9ad46abc6981c956c5eb3b2a011588ef56/concepts/coherent-communication.md#L17). This decision concerns that sentence.
+- Retain “Preserve what was meant; identify what an interpreter added; allow an intention to remain unsettled.” in [Coherent Communication](https://github.com/Root-Sequence/root-sequence/blob/57f9c2a8129071a228178eba4b2a1f6d1561859b/concepts/coherent-communication.md#L18). This decision concerns that sentence.
