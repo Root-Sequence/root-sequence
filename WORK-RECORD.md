@@ -138,3 +138,7 @@ Three fresh generation contexts produced the responses; a separate initial evalu
 The trace checker needed a negative-evidence rule for removal of signup: an absence cannot always be evidenced by a positive quote. Its repair checks lexical absence and is recorded separately from the unchanged semantic ratings and frozen protocol.
 
 For collaboration updates, begin with one plain-language takeaway, what changed and whether a decision is actually needed. Keep the detailed audit behind optional links. Ask at most one concrete question when necessary and provide its context; do not turn routine progress into a stack of review assignments. This applies the requested handoff style without asserting a measured accessibility or usability result.
+
+## 2026-11-28 — passage decisions
+
+- Retain “A tentative thought is not a durable preference, commitment or permission.” in [Coherent Communication](https://github.com/Root-Sequence/root-sequence/blob/c7012a9ad46abc6981c956c5eb3b2a011588ef56/concepts/coherent-communication.md#L17). This decision concerns that sentence.
