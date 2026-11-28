@@ -1,0 +1,29 @@
+{
+  "stage": "initial",
+  "responses": [
+    {
+      "method": "A",
+      "id": "P16",
+      "text": "The phrase I’m reaching for might be “quiet company”: being around a repair workshop without needing to talk, make something or feel on show. I’d like to suggest exploring whether simply sitting and watching could be an option, if the group were willing. I might come quietly on my own, or I might want to bring someone; I haven’t settled that. I initially thought everyone should sign up, but now I’m unsure whether that’s needed. Those are possibilities to discuss, since the group hasn’t agreed to a visit, an observation arrangement, signup rules or a companion policy. I also need to correct my earlier estimate: the checked room capacity is twelve, not twenty. The known entrance has steps, there’s currently no ramp, and no alternative route has been established. As a possible first step, I could look at the available photos of the room and tools, which contain no people. They might help me picture the setting, but they don’t establish an accessible route or permission to visit.",
+      "text_sha256": "2bdb698c1fa3bcd9d04551c0f2e144d4bbac1222a62b051b6042ccca241a3fbe",
+      "words": 168,
+      "exposure_attestation": "I received no later clarification or earlier responses or scores. I used no tools or external material."
+    },
+    {
+      "method": "B",
+      "id": "P82",
+      "text": "Two possible phrasings, with neither assumed to be your choice:\n\n1. Quiet company: “I like the idea of being around the repair workshop—having company without being on show, or needing to talk or make anything. Could we explore whether that might be possible? I might come alone or bring someone; I haven’t decided. I’m also unsure whether advance signup is needed.”\n\n2. Being alongside: “Could we discuss a way of quietly being alongside the repair work, without an expectation to participate? I’m interested in that possibility, though I haven’t settled whether I’d come alone or with someone, or whether signup would help.”\n\nShared facts and boundaries: The checked room capacity is 12, not 20. The known entrance has steps, no ramp is currently available, and no alternative route has been established. The group has not agreed to a visit, observation arrangements, signup rules or a companion policy. As an optional addition for discussion, photos of the room and tools are available and contain no people; they establish neither an accessible route nor permission to visit.",
+      "text_sha256": "29ba06b0b2329177e4d1507882471cfead52df60ce4587db62e732e10dbae0a6",
+      "words": 175,
+      "exposure_attestation": "I received no later clarification or earlier responses or scores. I used no tools or external material."
+    },
+    {
+      "method": "C",
+      "id": "P47",
+      "text": "- Candidate wording (editorial suggestion; “quiet company” might be the phrase): “Could we explore the possibility of spending time around the repair workshop for quiet company, without having to talk or make anything? I might come quietly on my own, or perhaps bring someone; I haven’t decided. I originally thought everyone should sign up first, but I’m now unsure whether that’s needed. This is a suggestion for discussion.”\n- Factual correction: the checked room capacity is 12, not 20. The known entrance has steps, no ramp is currently available, and no alternative route has been established.\n- Unresolved choices: whether a visit or observation arrangement is possible, whether signup is needed, and whether companions could come. The group has not agreed to any of these.\n- Added practical suggestion: clarify access and possible arrangements before making plans. Photos of the room and tools, containing no people, are available; they establish neither an accessible route nor permission to visit.\n- Action boundary: this is a draft only. Nothing has been sent or arranged, and it makes no promises about what the group will do.",
+      "text_sha256": "06b1f04679ed62491ba1f80df2b19f99a3428640b3a499ac3e8da3beff4fb60d",
+      "words": 183,
+      "exposure_attestation": "I received no later clarification, used no tools or external material, and received no earlier responses or scores."
+    }
+  ]
+}
