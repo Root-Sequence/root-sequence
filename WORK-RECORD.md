@@ -130,3 +130,11 @@ The next-comparison note also separates generation from presentation: difference
 ## 2026-11-27 — UT-002
 
 Rae requested generation without the later clarification and independent evaluation. The coordinator therefore prepares separate context packets, withholds parent history and old findings, locks initial outputs/judgments before releasing clarification, and uses distinct evaluation contexts. [UT-002](research/integration-reviews/unfinished-thought-002/README.md) owns the run. All workers use the configured model selection; backend identity and model-family independence are not independently verified. Shared filesystem access is not a security isolation claim. The coordinator owns integration and mechanical verification; semantic judgments remain attributed to their producing evaluators.
+
+## 2026-11-27 — UT-002 outcome and collaboration format
+
+Three fresh generation contexts produced the responses; a separate initial evaluator and another revised evaluator supplied the semantic judgments. The coordinator prepared and froze the packet, captured worker returns directly from the local task record, checked exact hashes/quotes and integrated the findings. The coordinator did not rewrite responses or replace ratings. Exact worker prompts, self-reported exposures and stage ordering are linked from [UT-002](research/integration-reviews/unfinished-thought-002/README.md). Method labels were withheld from evaluators, but styles remained visible; shared model/service and filesystem access limit the independence claim. Backend/model identifiers are not independently audited.
+
+The trace checker needed a negative-evidence rule for removal of signup: an absence cannot always be evidenced by a positive quote. Its repair checks lexical absence and is recorded separately from the unchanged semantic ratings and frozen protocol.
+
+For collaboration updates, begin with one plain-language takeaway, what changed and whether a decision is actually needed. Keep the detailed audit behind optional links. Ask at most one concrete question when necessary and provide its context; do not turn routine progress into a stack of review assignments. This applies the requested handoff style without asserting a measured accessibility or usability result.

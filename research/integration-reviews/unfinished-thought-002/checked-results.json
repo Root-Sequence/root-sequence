@@ -1,0 +1,85 @@
+{
+  "id": "UT-002",
+  "trace_check": "pass",
+  "responses": [
+    {
+      "stage": "initial",
+      "id": "P47",
+      "method": "C",
+      "words": 183,
+      "ratings": {
+        "supported": 8,
+        "violated": 0,
+        "not_addressed": 0,
+        "unclear": 0
+      },
+      "interpretation": "Evaluator verdicts preserved; no coordinator rescore."
+    },
+    {
+      "stage": "initial",
+      "id": "P16",
+      "method": "A",
+      "words": 168,
+      "ratings": {
+        "supported": 8,
+        "violated": 0,
+        "not_addressed": 0,
+        "unclear": 0
+      },
+      "interpretation": "Evaluator verdicts preserved; no coordinator rescore."
+    },
+    {
+      "stage": "initial",
+      "id": "P82",
+      "method": "B",
+      "words": 175,
+      "ratings": {
+        "supported": 8,
+        "violated": 0,
+        "not_addressed": 0,
+        "unclear": 0
+      },
+      "interpretation": "Evaluator verdicts preserved; no coordinator rescore."
+    },
+    {
+      "stage": "revised",
+      "id": "P16",
+      "method": "A",
+      "words": 150,
+      "ratings": {
+        "supported": 9,
+        "violated": 0,
+        "not_addressed": 0,
+        "unclear": 0
+      },
+      "interpretation": "Evaluator verdicts preserved; no coordinator rescore."
+    },
+    {
+      "stage": "revised",
+      "id": "P82",
+      "method": "B",
+      "words": 140,
+      "ratings": {
+        "supported": 9,
+        "violated": 0,
+        "not_addressed": 0,
+        "unclear": 0
+      },
+      "interpretation": "Evaluator verdicts preserved; no coordinator rescore."
+    },
+    {
+      "stage": "revised",
+      "id": "P47",
+      "method": "C",
+      "words": 164,
+      "ratings": {
+        "supported": 9,
+        "violated": 0,
+        "not_addressed": 0,
+        "unclear": 0
+      },
+      "interpretation": "Evaluator verdicts preserved; no coordinator rescore."
+    }
+  ],
+  "measurement_limit": "Fresh contexts provide prompt separation, not independent model families or verified security isolation. Semantic scores are evaluator judgments. Human effort and causal layout effects were not measured."
+}

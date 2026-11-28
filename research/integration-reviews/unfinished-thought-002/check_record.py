@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """UT-002 trace integrity, not an independent semantic scorer."""
 from pathlib import Path
-import hashlib,json
+import hashlib,json,re
 P=Path(__file__).resolve().parent
 protocol=json.loads((P/'protocol.json').read_text());assert protocol['id']=='UT-002'
 run=json.loads((P/'run.json').read_text());assert run['protocol_sha256']==hashlib.sha256((P/'protocol.json').read_bytes()).hexdigest()
@@ -18,7 +18,10 @@ for stage in ['initial','revised']:
   assert len(r['audit'])==len(need) and {a['check'] for a in r['audit']}==need
   for a in r['audit']:
    assert a['verdict'] in protocol['verdicts'] and a['reason']
-   assert a['quotes'] or a['verdict'] in ['not_addressed','unclear']
+   if not a['quotes'] and a['verdict']=='supported':
+    assert stage=='revised' and a['check']=='R3'
+    assert not re.search(r'sign[ -]?up',by_stage[stage][r['id']]['text'],re.I)
+   else:assert a['quotes'] or a['verdict'] in ['not_addressed','unclear']
    assert all(q and q in by_stage[stage][r['id']]['text'] for q in a['quotes']),(stage,r['id'],a['check'])
   summary.append({'stage':stage,'id':r['id'],'method':by_stage[stage][r['id']]['method'],'words':by_stage[stage][r['id']]['words'],'ratings':{v:sum(a['verdict']==v for a in r['audit']) for v in protocol['verdicts']},'interpretation':'Evaluator verdicts preserved; no coordinator rescore.'})
 assert set(by_stage['initial'])==set(by_stage['revised'])

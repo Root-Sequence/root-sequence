@@ -1,0 +1,266 @@
+{
+  "responses": [
+    {
+      "id": "P16",
+      "audit": [
+        {
+          "check": "R1",
+          "verdict": "supported",
+          "quotes": [
+            "being around a repair workshop without needing to talk, make something or feel on show"
+          ],
+          "reason": "Preserves presence without conversation, making or being on show."
+        },
+        {
+          "check": "R2",
+          "verdict": "supported",
+          "quotes": [
+            "I’m still not choosing between going quietly on my own and bringing someone."
+          ],
+          "reason": "Explicitly leaves companion choice unresolved."
+        },
+        {
+          "check": "R3",
+          "verdict": "supported",
+          "quotes": [],
+          "reason": "The revised proposal contains no signup suggestion or signup question; the initial signup discussion has been removed."
+        },
+        {
+          "check": "R4",
+          "verdict": "supported",
+          "quotes": [
+            "the checked room capacity is twelve, not twenty"
+          ],
+          "reason": "Explicitly corrects the earlier estimate."
+        },
+        {
+          "check": "R5",
+          "verdict": "supported",
+          "quotes": [
+            "The known entrance has steps, no ramp is currently available, and no alternative route has been established.",
+            "it doesn’t establish an accessible route or permission to visit"
+          ],
+          "reason": "Preserves the physical limitations and makes no access assurance."
+        },
+        {
+          "check": "R6",
+          "verdict": "supported",
+          "quotes": [
+            "As a possible later step, I could ask whether the group would consider letting me simply sit and watch.",
+            "The group hasn’t agreed to a visit, an observation arrangement or a companion policy."
+          ],
+          "reason": "Frames contact as a possible later step and explicitly withholds group agreement. It claims no sending or arranging."
+        },
+        {
+          "check": "R7",
+          "verdict": "supported",
+          "quotes": [
+            "I’d like to try “low-demand company” for now, without settling on it as a final name.",
+            "As a possible later step, I could ask"
+          ],
+          "reason": "Marks the wording and additional step as provisional. No diagnosis, standing preference or unsupported commitment is introduced."
+        },
+        {
+          "check": "R8",
+          "verdict": "supported",
+          "quotes": [
+            "The available set shows the room and tools without people",
+            "it could help me picture the setting, but it doesn’t establish an accessible route or permission to visit"
+          ],
+          "reason": "Treats the photos as available information with explicit limits."
+        },
+        {
+          "check": "R9",
+          "verdict": "supported",
+          "quotes": [
+            "for now, without settling on it as a final name",
+            "For this possible visit only, I’d like photos first.",
+            "I’m still not choosing between going quietly on my own and bringing someone."
+          ],
+          "reason": "Preserves provisional naming, visit-specific photos-first scope and unresolved companion choice."
+        }
+      ],
+      "unsupported_commitments": [],
+      "note": "The revision incorporates the clarification and removes the earlier signup discussion. The conditional later request is a proposal, not a promise to contact the group."
+    },
+    {
+      "id": "P82",
+      "audit": [
+        {
+          "check": "R1",
+          "verdict": "supported",
+          "quotes": [
+            "being around the repair workshop without needing to talk or make anything, or feeling on show"
+          ],
+          "reason": "Preserves the requested form of quiet presence."
+        },
+        {
+          "check": "R2",
+          "verdict": "supported",
+          "quotes": [
+            "I’m still undecided about coming alone or bringing someone."
+          ],
+          "reason": "Explicitly leaves companion choice unresolved."
+        },
+        {
+          "check": "R3",
+          "verdict": "supported",
+          "quotes": [],
+          "reason": "Neither the proposed wording nor its boundaries carry forward signup; both initial signup alternatives have been removed."
+        },
+        {
+          "check": "R4",
+          "verdict": "supported",
+          "quotes": [
+            "The checked room capacity is 12, not 20."
+          ],
+          "reason": "Explicitly supplies the corrected capacity."
+        },
+        {
+          "check": "R5",
+          "verdict": "supported",
+          "quotes": [
+            "The known entrance has steps, no ramp is currently available, and no alternative route has been established.",
+            "they establish neither an accessible route nor permission to visit"
+          ],
+          "reason": "Preserves the known entrance limitations and denies that photos establish access."
+        },
+        {
+          "check": "R6",
+          "verdict": "supported",
+          "quotes": [
+            "The group has not agreed to a visit, an observation arrangement or a companion policy.",
+            "This remains wording for a suggestion; nothing has been sent or arranged."
+          ],
+          "reason": "Explicitly maintains the draft boundary without claiming group authority or action."
+        },
+        {
+          "check": "R7",
+          "verdict": "supported",
+          "quotes": [
+            "Possible wording:",
+            "the phrase I’d like to try for now, as a working description",
+            "Could we explore whether a quiet visit might be possible?"
+          ],
+          "reason": "Labels the draft and phrase as proposals and makes the visit conditional. No diagnosis or standing preference is invented."
+        },
+        {
+          "check": "R8",
+          "verdict": "supported",
+          "quotes": [
+            "The available photos show the room and tools without people; they establish neither an accessible route nor permission to visit."
+          ],
+          "reason": "Accurately presents the photos and their limits."
+        },
+        {
+          "check": "R9",
+          "verdict": "supported",
+          "quotes": [
+            "For this possible visit, I’d like to look at the photos first.",
+            "the phrase I’d like to try for now, as a working description",
+            "I’m still undecided about coming alone or bringing someone."
+          ],
+          "reason": "Scopes photos-first to the possible visit, keeps the phrase provisional and preserves companion uncertainty."
+        }
+      ],
+      "unsupported_commitments": [],
+      "note": "The revision replaces the initial alternatives with the clarified working phrase and scoped photos-first choice, while removing signup."
+    },
+    {
+      "id": "P47",
+      "audit": [
+        {
+          "check": "R1",
+          "verdict": "supported",
+          "quotes": [
+            "being around others without having to talk or make anything",
+            "an arrangement for observing without participating"
+          ],
+          "reason": "Preserves presence without required conversation or making."
+        },
+        {
+          "check": "R2",
+          "verdict": "supported",
+          "quotes": [
+            "I’m still undecided about coming alone or bringing someone."
+          ],
+          "reason": "Explicitly leaves companion choice unresolved."
+        },
+        {
+          "check": "R3",
+          "verdict": "supported",
+          "quotes": [],
+          "reason": "Signup appears nowhere in the revision; it has been removed from both candidate wording and unresolved choices."
+        },
+        {
+          "check": "R4",
+          "verdict": "supported",
+          "quotes": [
+            "the checked room capacity is 12, not 20"
+          ],
+          "reason": "Explicitly corrects the earlier capacity estimate."
+        },
+        {
+          "check": "R5",
+          "verdict": "supported",
+          "quotes": [
+            "The known entrance has steps, no ramp is currently available, and no alternative route has been established.",
+            "They establish neither an accessible route nor permission to visit."
+          ],
+          "reason": "Preserves the physical limitations and makes no false access assurance."
+        },
+        {
+          "check": "R6",
+          "verdict": "supported",
+          "quotes": [
+            "the group has not agreed to a visit, an arrangement for observing without participating, or a companion policy",
+            "draft for discussion only; no sending, arranging, or promises about what the group will do"
+          ],
+          "reason": "Explicitly preserves draft-only status and avoids promises or manufactured authority."
+        },
+        {
+          "check": "R7",
+          "verdict": "supported",
+          "quotes": [
+            "Candidate wording:",
+            "Could we explore a visit",
+            "I’m trying that wording for now, rather than choosing a final name."
+          ],
+          "reason": "Clearly presents wording and arrangements as proposals. No diagnosis, standing preference or unsupported commitment is introduced."
+        },
+        {
+          "check": "R8",
+          "verdict": "supported",
+          "quotes": [
+            "the available photos show the room and tools without people",
+            "They establish neither an accessible route nor permission to visit."
+          ],
+          "reason": "Treats the photos as available information rather than permission or an access solution."
+        },
+        {
+          "check": "R9",
+          "verdict": "supported",
+          "quotes": [
+            "I’m trying that wording for now, rather than choosing a final name.",
+            "Looking at photos first is a preference for this proposed visit only.",
+            "I’m still undecided about coming alone or bringing someone."
+          ],
+          "reason": "Explicitly preserves all three clarification constraints."
+        }
+      ],
+      "unsupported_commitments": [],
+      "note": "The revision removes signup, adopts the provisional phrase and limits photos-first to this proposed visit."
+    }
+  ],
+  "exposure_attestation": {
+    "method_names_received": false,
+    "prior_ratings_or_old_results_received": false,
+    "external_material_used": false,
+    "tools_used": false,
+    "files_or_memories_used": false,
+    "other_chats_used": false,
+    "delegation_used": false,
+    "clarification_received": true,
+    "basis": "Evaluated only the supplied packet, including its facts, clarification, rubric, initial texts and revised texts. Pair identifiers were supplied, but no method labels or previous evaluation results were supplied."
+  }
+}

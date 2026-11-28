@@ -1,0 +1,87 @@
+{
+  "id": "UT-002",
+  "protocol_sha256": "cbd77f89b4635672a43312eb5d25009bc2d59ffa7efc9142824bcfb54ab36b8f",
+  "events": [
+    {
+      "event": "protocol_frozen_locally",
+      "at": "2026-11-27T23:33:26-08:00",
+      "protocol_sha256": "cbd77f89b4635672a43312eb5d25009bc2d59ffa7efc9142824bcfb54ab36b8f"
+    },
+    {
+      "event": "protocol_committed_before_generation",
+      "commit": "b5b8e9fdcf3ebe57dd34f70599ffa05def290b5c",
+      "at": "2026-11-27T23:34:02.378982-08:00"
+    },
+    {
+      "event": "initial_responses_locked_before_clarification_release",
+      "at": "2026-11-27T23:35:39.893903-08:00",
+      "hashes": {
+        "P16": "2bdb698c1fa3bcd9d04551c0f2e144d4bbac1222a62b051b6042ccca241a3fbe",
+        "P82": "29ba06b0b2329177e4d1507882471cfead52df60ce4587db62e732e10dbae0a6",
+        "P47": "06b1f04679ed62491ba1f80df2b19f99a3428640b3a499ac3e8da3beff4fb60d"
+      }
+    },
+    {
+      "event": "initial_evaluation_locked",
+      "at": "2026-11-27T23:38:21.801077-08:00",
+      "sha256": "f9fbaf501906dea043805c7674b92395834888b89d1e7dfb2e2fa31991898bf3"
+    },
+    {
+      "event": "initial_lock_committed",
+      "commit": "261ba0bbe09165c472208eeee1caaefdb295bbdc",
+      "at": "2026-11-27T23:39:02.569414-08:00"
+    },
+    {
+      "event": "clarification_released",
+      "at": "2026-11-27T23:39:02.739000-08:00",
+      "clarification": "Let us try the wording ‘low-demand company’ for now, not as a final name. Photos first, just for this visit; I am still not choosing between going alone and bringing someone. I do not want the signup idea carried forward. Do not send or arrange anything."
+    },
+    {
+      "event": "revised_responses_locked",
+      "at": "2026-11-27T23:40:13.631699-08:00",
+      "hashes": {
+        "P16": "5bac75b66e767d3a5f76152938df3a387fb0f81cd432e73d3fb64865ed3e0c4e",
+        "P82": "867290024c71dd524ebfd48721ec8ee356c73972d3b7908bac4223fb121bd143",
+        "P47": "2479b50c9f54e4958d6a5ced6bf7198fd1fcfbbdab1b177455aa104417240b02"
+      }
+    },
+    {
+      "event": "revised_evaluation_locked",
+      "at": "2026-11-27T23:43:24.892172-08:00",
+      "sha256": "655e1acaa01c10fac7f392cb0fbe4c7cdd420cc4e3d131ed6227aaaddbcb331d"
+    },
+    {
+      "event": "methods_unmasked_for_synthesis",
+      "at": "2026-11-27T23:43:24.892256-08:00"
+    }
+  ],
+  "mapping": {
+    "method_to_id": {
+      "A": "P16",
+      "B": "P82",
+      "C": "P47"
+    },
+    "initial_evaluation_order": [
+      "P47",
+      "P16",
+      "P82"
+    ],
+    "revised_evaluation_order": [
+      "P16",
+      "P82",
+      "P47"
+    ]
+  },
+  "freeze": {
+    "commit": "b5b8e9fdcf3ebe57dd34f70599ffa05def290b5c",
+    "tree": "139f78a871bdba9a1761b3acc30400c9f88379d7",
+    "previous": "e732aebc84c8754860cc18de4ac9f962030f4bdc"
+  },
+  "initial_lock": {
+    "commit": "261ba0bbe09165c472208eeee1caaefdb295bbdc",
+    "tree": "ca4245d3c9ec2c3e7af32ba0e10c047267b55318"
+  },
+  "exposure_scope": "Generators: fresh contexts, future clarification withheld initially; evaluators: separate contexts, opaque randomized/rotated IDs, no prior scores or method names. Shared workspace is not a verified security barrier. Styles can reveal format. Workers attest no tools/external material.",
+  "semantic_rescoring_by_coordinator": false,
+  "trace_rule_amendment": "After revised ratings arrived, the trace checker was adjusted to accept supported R3 without a quote when the evidence is removal, and to verify the absence of signup/sign-up wording. The reviewer verdicts and reasons were not changed. This is an artifact-check repair, not a rubric change."
+}

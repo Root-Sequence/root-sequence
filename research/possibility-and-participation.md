@@ -52,3 +52,5 @@ The [coverage ledger](integration-reviews/coverage-2026-11-27.md) records routin
 ## Return from the unfinished-thought case
 
 [UT-001](integration-reviews/unfinished-thought-001/README.md) makes one distinction concrete without demonstrating a broader mechanism: proposed language, an available photo set, a choice to view it, practical physical access and permission for a visit are different things. All three constructed response formats preserved those separations. Better expression did not supply the missing ramp or a group agreement. The case therefore supplies no evidence that a more elaborate representation expands practical agency; it clarifies what a later comparison must keep separate.
+
+[UT-002](integration-reviews/unfinished-thought-002/README.md) repeated the case with the future clarification withheld from initial generation and with separate evaluator contexts. Their judgments again supported the distinction between proposed language, a scoped choice, physical access and authority. This is a stronger separation of roles, not evidence that expression changed actual access or that coherence framing adds value.
