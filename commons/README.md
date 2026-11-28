@@ -42,7 +42,7 @@ It’s where theory composts into practice — not abstract, but lived.
 
 ## 🔗 Navigation
 
-* [Intelligence Commons](../research/intelligence-without-omniscience/intelligence-commons.md) is the broader shared-capability inquiry; [AI Commons](../research/intelligence-without-omniscience/ai-commons.md) is its focused research/design companion on AI assistance, safety, resources, and independence. Both are open proposals rather than operating institutions. AI Commons is AI-assisted, author review pending, with no completed experiments.
+* [Intelligence Commons](../research/intelligence-without-omniscience/intelligence-commons.md) is the broader shared-capability inquiry; [AI Commons](../research/intelligence-without-omniscience/ai-commons.md) is its focused research/design companion on AI assistance, safety, resources, and independence. Both are open proposals rather than operating institutions. AI Commons has no completed experiments.
 
 * Complements **/futures/** (resistance and alternatives).  
 * Counterbalances **/analysis/** and **/ideology/** by offering tangible practice.  
@@ -54,7 +54,7 @@ It’s where theory composts into practice — not abstract, but lived.
 
 ## Collaboration as a living experiment
 
-**Status:** AI-assisted proposal; author review pending. These are collaboration principles and design questions, not evidence of an operating institution or a validated governance model.
+**Status:** proposal. These are collaboration principles and design questions, not evidence of an operating institution or a validated governance model.
 
 Publishing this proposal leaves each project's existing rules and roles in place. Adopting any part as a rule requires an explicit project-local decision.
 

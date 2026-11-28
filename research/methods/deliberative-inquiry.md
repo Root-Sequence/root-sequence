@@ -1,7 +1,7 @@
 # Deliberative Inquiry
 
 **Document role:** shared Root Sequence research and decision method  
-**Status:** working / review-pending  
+**Status:** working 
 **Scope:** collective learning, judgment, and consequential decisions  
 **Not:** a universal voting rule, a demand for unanimity, or a substitute for expertise
 

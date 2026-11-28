@@ -1,7 +1,7 @@
 # Urban Systems, Accessibility & Mobility
 
 **Document role:** Reading Trail  
-**Status:** Starter; AI-assisted curation; author review pending  
+**Status:** Starter; curation  
 **Entry-point check:** 2026-09-25; discovery-level, not a field survey
 
 > **What makes a place or journey usable, rather than merely present on a map?**

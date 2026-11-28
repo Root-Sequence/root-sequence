@@ -1,7 +1,7 @@
 # Learning from Reading Trails
 
 **Document role:** Reading Trail → research/project routing guide  
-**Status:** Developing; AI-assisted; author review pending  
+**Status:** Developing
 **Updated:** 2026-09-25  
 **Canonical method:** [Root Sequence Research Method](../method.md)
 

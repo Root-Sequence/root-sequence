@@ -2,7 +2,7 @@
 
 **Subtitle:** The topology of constraints, relationships, and possible futures  
 **Document role:** Exploratory systems-research note / analytical lens  
-**Status:** AI-assisted draft for author review, 2026-10-21  
+**Status:** draft, 2026-10-21  
 **Canonical scope:** Diagnostic distinctions and questions about constraints, disentanglement, reconfiguration, and possibility. The mathematical, physical, biological, social, and cognitive mechanisms remain the responsibility of their respective fields.  
 **Evidence boundary:** Knot-theory and physical examples are source-supported; transfers to institutions, cognition, and liberation are analogy, interpretation, or normative proposal—not an established common causal law.
 
@@ -168,4 +168,4 @@ A modest research test would freeze several bounded cases and ask whether these 
 - Lennart Björneborn (2020), “[Adjacent Possible](https://researchprofiles.ku.dk/en/publications/adjacent-possible/),” *The Palgrave Encyclopedia of the Possible*. Research overview and cross-domain uses.
 - For cross-domain methods, comparators, epistemic classification, and limits on analogies, use the [Root Sequence research method](../../research/method.md) and [method router](../../research/method-router.md).
 
-**Provenance:** Developed from a 2026-10-21 conversation beginning with topological puzzles and tangled cords, then exploring knot formation, emergence, system-relative limitations, agency, and the recursive meaning of the Root Sequence name. The full private conversation is not reproduced here. This public-safe synthesis is AI-assisted and awaiting author review.
+**Provenance:** Developed from a 2026-10-21 conversation beginning with topological puzzles and tangled cords, then exploring knot formation, emergence, system-relative limitations, agency, and the recursive meaning of the Root Sequence name. The full private conversation is not reproduced here. This public-safe synthesis is a working draft.

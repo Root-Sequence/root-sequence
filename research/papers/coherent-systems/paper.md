@@ -3,7 +3,7 @@
 *Intelligence, Institutions, and the Conditions They Create*
 
 **Root Sequence living paper · v0.1-dev · 2026-09-16**  
-**AI-assisted annotated argument; author review pending; not peer reviewed.** This is a developing synthesis with a constructed example and an externally documented case, not a completed paper. Claim identifiers link the argument to the [claims ledger](claims.md). Authorship and release metadata require approval.
+**Annotated argument; not peer reviewed.** This is a developing synthesis with a constructed example and an externally documented case, not a completed paper. Claim identifiers link the argument to the [claims ledger](claims.md). Authorship and release metadata require approval.
 
 ## Provisional abstract
 
@@ -178,7 +178,7 @@ ChatGPT assisted with research organization, source discovery, substantive draft
 [^manheim2019]: David Manheim and Scott Garrabrant (2018; revised 2019), *Categorizing Variants of Goodhart's Law*, arXiv:1803.04585v4. [Source](https://arxiv.org/abs/1803.04585v4).
 [^meadows]: Donella Meadows, *Leverage Points: Places to Intervene in a System*. [Author archive](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/). Consulted 2026-09-16; used as conceptual framing rather than a tested recipe.
 
-[^ucf]: Root Sequence, *Universal Coherence Framework*, proposed model reconciliation and booking-service example, revision `c4d7b236828a59139c0d5204b1faaed13154682a` (2026-09-16). [Source](https://github.com/Root-Sequence/universal-coherence-framework/blob/c4d7b236828a59139c0d5204b1faaed13154682a/docs/reconciliation-2026-09-16.md). Internal project provenance and constructed analysis; AI-assisted and awaiting author review, not independent corroboration.
+[^ucf]: Root Sequence, *Universal Coherence Framework*, proposed model reconciliation and booking-service example, revision `c4d7b236828a59139c0d5204b1faaed13154682a` (2026-09-16). [Source](https://github.com/Root-Sequence/universal-coherence-framework/blob/c4d7b236828a59139c0d5204b1faaed13154682a/docs/reconciliation-2026-09-16.md). Internal project provenance and constructed analysis; a working draft, not independent corroboration.
 
 [^stpa2018]: Nancy G. Leveson and John P. Thomas, *STPA Handbook* (March 2018), chs. 1–2, selected passages. [MIT-hosted handbook](https://psas.scripts.mit.edu/home/get_file.php?name=STPA_handbook.pdf). Methodological reference, not an evaluation conducted here.
 [^selbst2019]: Andrew D. Selbst, danah boyd, Sorelle A. Friedler, Suresh Venkatasubramanian, and Janet Vertesi, *Fairness and Abstraction in Sociotechnical Systems* (2019), sections 2.1–2.5. DOI: `10.1145/3287560.3287598`. [Author-hosted paper](https://sorelle.friedler.net/papers/sts_fat2019.pdf).

@@ -1,7 +1,7 @@
 # Candidate Theories and Conditions for Consciousness
 
 **Document role:** Theory comparison and candidate-condition ledger<br>
-**Status:** v0.1-dev; AI-assisted literature map, author review pending<br>
+**Status:** v0.1-dev; literature map<br>
 **Evidence status:** Source-grounded comparison; no theory selected or validated here
 
 The current literature does not supply one accepted explanation of consciousness. A major review groups prominent approaches into higher-order theories, global workspace theories, re-entry and predictive-processing theories, and integrated information theory.[^seth-bayne] The categories contain variants and sometimes overlap. This map asks a narrower question: **what does each approach propose changes when processing becomes experience?**

@@ -1,7 +1,7 @@
 # AI Commons: Agency, Safety, Infrastructure, and Paths to Independence
 
 **Document role:** Focused research/design companion to [Intelligence Commons](intelligence-commons.md).<br>
-**Status:** OPEN PROPOSAL / AI-assisted draft / author review pending, 2026-10-24.<br>
+**Status:** OPEN PROPOSAL / draft, 2026-10-24.<br>
 **Canonical scope:** Public research questions, institutional comparisons, and proposed transition tests for AI-related shared capabilities.<br>
 **Evidence status:** Normative commitments and design hypotheses, with limited primary-source orientation below. No experiment, participant study, or comprehensive literature review completed.<br>
 **Access:** Public-safe prose prepared for review; no private material imported.

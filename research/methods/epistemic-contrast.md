@@ -1,7 +1,7 @@
 # Epistemic Contrast
 
 **Document role:** shared Root Sequence research method  
-**Status:** working / review-pending  
+**Status:** working 
 **Scope:** inquiry, source comparison, model-building, and cross-project research  
 **Not:** a requirement to give every claim equal weight or manufacture ideological symmetry
 

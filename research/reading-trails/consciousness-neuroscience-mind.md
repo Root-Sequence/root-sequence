@@ -1,7 +1,7 @@
 # Consciousness, Neuroscience & Philosophy of Mind
 
 **Document role:** Reading Trail  
-**Status:** Starter; AI-assisted curation; author review pending  
+**Status:** Starter; curation  
 **Entry-point check:** 2026-09-25; discovery-level, not a literature review
 
 > **Which aspect of a mind are we asking about—and what observations could distinguish it from the others?**

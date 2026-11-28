@@ -6,6 +6,8 @@ How can people develop, express, interpret and change meaning together while ret
 
 Expression depends on the relationship among a person, a recipient, a medium and circumstances. Vocabulary, attention, energy, sensory conditions, familiarity and available context can vary. A fluent explanation can misrepresent a sound understanding; an incomplete expression can contain an important question. Neither eloquence nor simplicity settles understanding.
 
+The initiating discussion sought enough specificity to save clarification and repairs, while asking for help when vocabulary was missing or a thought slipped away. A request to fill in “etc.” leaves the intended scope unsettled; helpful completion must make its additions correctable.
+
 The proposal is to reduce unnecessary work in articulation, interpretation, clarification and repair without transferring that work invisibly to recipients or reviewers. Precision should fit the consequence and purpose. A poem, exploratory conversation and consequential instruction need different treatment. No optimal precision percentage is established.
 
 ## Distinctions that the design must preserve

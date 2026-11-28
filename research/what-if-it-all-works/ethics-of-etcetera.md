@@ -3,7 +3,7 @@
 *What does responsibility require when every account of the world leaves something out?*
 
 **Document role:** provisional philosophical concept / critical research questions  
-**Status:** exploratory / AI-assisted; author review pending  
+**Status:** exploratory 
 **Epistemic status:** a normative proposal and investigable set of questions, not a discovered ethical law or a substitute for established philosophy  
 **Provenance:** The phrase "et cetera" is central to the original [source questions](source-questions.md); "The Ethics of Etcetera" is a proposed editorial name for one line of inquiry, not a finalized author-approved label.
 

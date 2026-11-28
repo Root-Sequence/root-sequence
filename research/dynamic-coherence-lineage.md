@@ -1,7 +1,7 @@
 # Adaptive continuity / dynamic coherence — intellectual lineage and prior art
 
 **Document role:** Targeted related-work and intellectual-lineage note  
-**Status:** AI-assisted exploratory synthesis for author review, 2026-09-24  
+**Status:** exploratory synthesis, 2026-09-24  
 **Scope:** Identifies established concepts that overlap pieces of the Root Sequence adaptive-continuity / dynamic-coherence synthesis. It does not establish novelty, shared causal mechanism, or a complete literature review.  
 **Canonical concept:** [Dynamic Coherence and Adaptive Continuity](../concepts/dynamic-coherence.md)
 
@@ -1034,7 +1034,7 @@ the evidence currently supports:
     adaptive governance
     path-dependence research
     embodied/enactive cognition
-    ...
+    ..
             ↓
     Root Sequence notices recurring relations
             ↓

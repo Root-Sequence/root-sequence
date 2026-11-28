@@ -1,7 +1,7 @@
 # CS-Q26–28 — Inference Audit
 
 **Document role:** Fifth bounded research pass and reusable audit protocol<br>
-**Status:** v0.1-dev; AI-assisted, author review pending<br>
+**Status:** v0.1-dev<br>
 **Evidence status:** Methodological proposal with three worked literature examples; no new data, completed preregistration, or validated consciousness test
 
 ## Outcome of this pass

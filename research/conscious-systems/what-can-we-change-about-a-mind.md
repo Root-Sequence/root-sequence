@@ -1,7 +1,7 @@
 # What Can We Change About a Mind While Preserving Consciousness?
 
 **Document role:** Opening research question and test design sketch<br>
-**Status:** v0.1-dev; AI-assisted exploratory draft, author review pending<br>
+**Status:** v0.1-dev; draft<br>
 **Evidence status:** Five empirical starting points below; the proposed comparisons are untested here<br>
 **Idea Trail:** [Intelligence, Automation & Legitimate Authority](../../IDEA_TRAILS.md#trail-9--intelligence-automation-and-legitimate-authority)<br>
 **Trail role:** research

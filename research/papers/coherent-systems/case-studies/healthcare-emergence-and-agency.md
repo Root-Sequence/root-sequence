@@ -1,7 +1,7 @@
 # Patchwork healthcare: emergence, design, and accountability
 
 **Role:** Bounded conceptual case for the living paper; the broader interpretation is maintained in [Externalized Responsibility](../../../../analysis/externalized-responsibility.md#case-reading-no-one-designed-american-healthcare).  
-**Status:** AI-assisted retrospective reading, 2026-09-24; author review pending. No interview, patient-level case reconstruction, independent causal study, or validation of the paper's review procedure.
+**Status:** retrospective reading, 2026-09-24. No interview, patient-level case reconstruction, independent causal study, or validation of the paper's review procedure.
 
 ## Catalyst and provenance
 

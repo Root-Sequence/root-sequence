@@ -1,7 +1,7 @@
 # AI Institutions, Governance & Alignment
 
 **Document role:** Reading Trail  
-**Status:** Starter; AI-assisted curation; author review pending  
+**Status:** Starter; curation  
 **Entry-point check:** 2026-09-25; discovery-level, not a literature review
 
 > **What makes an AI system safe, accountable, or governable—and who gets to define those goals?**

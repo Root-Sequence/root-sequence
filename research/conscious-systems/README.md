@@ -1,7 +1,7 @@
 # Conscious Systems
 
 **Document role:** Research-area index<br>
-**Status:** Exploratory seed, AI-assisted; author review pending<br>
+**Status:** Exploratory seed<br>
 **Canonical scope:** A bounded inquiry into conditions for subjective experience, across biological and possible artificial systems
 
 > **Guiding question:** What can we change about a mind while preserving consciousness?
@@ -61,6 +61,6 @@ This area brings neuroscience, anesthesia and sleep research, comparative cognit
 
 Related work has different jobs: [emergence in AI](../../systems/emergence/applications/ai.md#capability-agency-and-personhood-are-different-claims) separates capability, consciousness, personhood, and authority; the [coherent systems living paper](../papers/coherent-systems/README.md) asks how intelligent systems interact with their institutions and surroundings. Possible implications for [Coherent Computing](https://github.com/Root-Sequence/coherent-computing), [Coherent World](https://github.com/Root-Sequence/coherent-world), and [Liberated Intelligence](https://github.com/Root-Sequence/liberated-intelligence) belong in those projects when developed. This area owns the general research question.
 
-**Review note:** The guiding question and whole-system intuition came from the initiating discussion. Follow-up author clarifications distinguish experience from memory of its occurrence, memory of its contents, and physical or functional traces that may arise without experience; identify the subconscious as a connected open problem; and separate death from current experience and the capacity for consciousness. The structure, literature selection, and proposed tests are AI-assisted interpretations awaiting author review; they are not attributed as approved author conclusions.
+**Review note:** The guiding question and whole-system intuition came from the initiating discussion. Follow-up author clarifications distinguish experience from memory of its occurrence, memory of its contents, and physical or functional traces that may arise without experience; identify the subconscious as a connected open problem; and separate death from current experience and the capacity for consciousness. The structure, literature selection, and proposed tests are AI-assisted interpretations; they are not attributed as approved author conclusions.
 
 [Research index](../README.md) · [Repository map](../../root_map.md)

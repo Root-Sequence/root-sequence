@@ -1,6 +1,6 @@
 # Claims ledger
 
-**Version:** v0.1-dev · **Updated:** 2026-09-25 · **Review:** author review pending
+**Version:** v0.1-dev · **Updated:** 2026-09-25
 
 This ledger records propositions to examine, not points awarded for confidence. No empirical study has been conducted for this draft. A synthetic UCF booking model has been implemented; three AI-assisted editorial method comparisons have now been run, but they are not independent reviewer validation. Internal project documents provide provenance, not independent corroboration.
 
@@ -62,7 +62,7 @@ A possible plain-language formulation is: **A choice can be understandable given
 
 ### Author response: coherence amid an unresolved constraint — 2026-09-18
 
-**Author-stated direction:** The author leaned toward a supported and revisable allocation being a coherent response to an unresolved capacity constraint. In the author's words, “Coherence isn't necessarily a destination but a process... many processes even.” The author then clarified that coherence can have levels rather than being a yes-or-no property, and that moving toward an actual route for addressing the shortage would be more coherent than making less progress toward one. This answers the immediate either-or question without approving C-003 or the manuscript as a whole.
+**Author-stated direction:** The author leaned toward a supported and revisable allocation being a coherent response to an unresolved capacity constraint. In the author's words, “Coherence isn't necessarily a destination but a process.. many processes even.” The author then clarified that coherence can have levels rather than being a yes-or-no property, and that moving toward an actual route for addressing the shortage would be more coherent than making less progress toward one. This answers the immediate either-or question without approving C-003 or the manuscript as a whole.
 
 **Assistant synthesis for review:** Coherence can describe the ongoing process of noticing a constraint, making its consequences visible, involving affected people, and revising the response as conditions change. The unresolved shortfall remains an unmet need and may remain incoherent at another boundary; calling the response coherent must not hide it. Because a system contains multiple interacting processes, coherence may differ among them rather than becoming one final label for the whole system. Within an explicit boundary, a process that develops a workable route toward the unmet need can be described as more coherent than one that only records it. This is a qualified comparison, not a claim that every dimension belongs on one universal scale.
 

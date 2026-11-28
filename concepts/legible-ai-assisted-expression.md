@@ -151,7 +151,7 @@ This principle should travel by transformation, not by copying the same disclosu
 
 The core sentence—“AI should reduce the cost of expression without reducing the visibility of thought”—was established by Rae in the 2026-09-19 request to canonize this conversation's principle. It develops an earlier discussion of AI “showing its work,” writing as an expression bottleneck for some people, and AI helping externalize and organize thought.
 
-The distinction among human-originated material, AI-added inference, synthesis, wording, transformations, factual support, uncertainty, and decision points was also explicitly requested. The name of this page, its tables, authoring pattern, design test, failure modes, and connections are an AI-assisted synthesis prepared to make that direction inspectable and revisable. The page does not claim that the broader traditions of accessible writing support, provenance, editorial disclosure, or computer-supported authorship originated in Root Sequence.
+The distinction among human-originated material, AI-added inference, synthesis, wording, transformations, factual support, uncertainty, and decision points was also explicitly requested. The name of this page, its tables, authoring pattern, design test, failure modes, and connections are a synthesis prepared to make that direction inspectable and revisable. The page does not claim that the broader traditions of accessible writing support, provenance, editorial disclosure, or computer-supported authorship originated in Root Sequence.
 
 ## November 27 integration connection
 

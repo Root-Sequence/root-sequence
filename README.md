@@ -8,9 +8,9 @@ Root Sequence is an independent interdisciplinary research initiative exploring 
 
 This repository holds research and developing ideas that connect different parts of Root Sequence. Individual projects keep their own direction and maintain their detailed work separately.
 
-Work here ranges from research notes to experimental tools. Evidence and review status vary, and the working paper is AI-assisted and still awaits author review. The material does not establish a finished theory or a validated universal framework.
+Work here ranges from research notes to experimental tools. Evidence and review status vary, and the paper is a working draft. The material does not establish a finished theory or a validated universal framework.
 
-Rae Lovejoy, who started Root Sequence, uses AI both as an accessibility aid and as a tool for developing the work. Read about [accessibility, contributions, and review](research/README.md#accessibility-ai-assistance-and-contributions).
+[Development and contribution history](WORK-RECORD.md) explains how the work is developed.
 
 ## Where to begin
 
@@ -77,8 +77,8 @@ The Liberation Cycle, Visibility Loop, and Roots → Signals → Growth → Frui
 Suggested entry points:
 
 - [Public Seed website source](site/README.md) — approved professional refresh, publication workflow, and deployment records
-- [Coherence Is a Systems Property](research/papers/coherent-systems/README.md) — v0.1-dev living-paper scaffold; AI-assisted and awaiting author review
-- [Conscious Systems](research/conscious-systems/README.md) — exploratory research question on experience, physical organization, and possible artificial systems; AI-assisted and awaiting author review
+- [Coherence Is a Systems Property](research/papers/coherent-systems/README.md) — v0.1-dev living-paper scaffold; a working draft
+- [Conscious Systems](research/conscious-systems/README.md) — exploratory research question on experience, physical organization, and possible artificial systems; a working draft
 - [Ecosystem Map](ECOSYSTEM.md) — understand the wider project family  
 - [Root Sequence Wiki](https://github.com/Root-Sequence/wiki) — browse terms, phrases, projects, provenance, and conceptual archaeology  
 - [Idea Trails](IDEA_TRAILS.md) — understand the recurring questions and how each project transforms them  
@@ -88,8 +88,8 @@ Suggested entry points:
 - [Thought Routing (`RS?`)](THOUGHT_ROUTING.md) — capture a thought once, find one canonical home, and add deliberate cross-project links without duplicate substance
 - [Epistemic Contrast](research/methods/epistemic-contrast.md) — compare differently situated accounts to expose assumptions, mechanisms, convergence, disagreement, and missing evidence
 - [Deliberative Inquiry](research/methods/deliberative-inquiry.md) — build sufficient shared understanding before consequential collective judgment or authorization
-- [Design Grammar](concepts/design-grammar.md) — review-pending map of recurring cross-project design questions
-- [Agency and Automation](concepts/agency-and-automation.md) — review-pending treatment of delegation, chosen activity, compulsory labor, and collective authority
+- [Design Grammar](concepts/design-grammar.md) — map of recurring cross-project design questions
+- [Agency and Automation](concepts/agency-and-automation.md) — treatment of delegation, chosen activity, compulsory labor, and collective authority
 - [Legible Systems](concepts/legible-systems.md) — design systems that can be simple to use without remaining mysterious
 - [Founding texts and early orientations](founding-texts/README.md) — browse exploratory models, manifestos, normative essays, and historical project pointers by role
 
@@ -149,3 +149,5 @@ Root Sequence’s own material is released under [CC0 1.0](license). Check the o
 ## Collaborating on the inquiry
 
 The [commons collaboration proposal](commons/README.md#collaboration-as-a-living-experiment) explores how people can contribute and disagree while keeping clear boundaries around responsibility and decisions. The practices remain proposals for review.
+
+[Development record](WORK-RECORD.md)

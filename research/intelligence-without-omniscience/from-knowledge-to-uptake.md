@@ -2,7 +2,7 @@
 ## Transactive memory, boundary objects, epistemic justice, and the conditions of consequential inquiry
 
 **Document role:** Source-aware companion study to [Intelligence Without Omniscience](README.md).  
-**Status:** WORKING / AI-assisted / author review pending, 2026-10-07.  
+**Status:** WORKING, 2026-10-07.  
 **Claim type:** Interdisciplinary synthesis and experimental questions. Established terms and their distinct literatures must not be assimilated into one new theory.  
 **Privacy:** Public-safe conceptual material; do not reproduce private project records, personal history, or community testimony without separate permission.
 **Idea Trails:** [Intelligence and Authority](../../IDEA_TRAILS.md#trail-9--intelligence-automation-and-legitimate-authority) · [Collective Judgment and Dissent](../../IDEA_TRAILS.md#trail-15--collective-judgment-dissent-and-manufactured-consensus) · [Accessibility and Participation](../../IDEA_TRAILS.md#trail-5--accessibility-dependence-and-participation) · [Commons and Shared Capacity](../../IDEA_TRAILS.md#trail-6--commons-ownership-and-shared-capacity).  
@@ -279,4 +279,4 @@ If established tools already capture the necessary mechanisms, their work should
 
 These formulations are exploratory synthesis, not proof of novelty or direct quotes from scholarly sources.
 
-**Next:** compare original sources in depth; ask outside disciplinary reviewers whether the translation is faithful; freeze a Coherent World *paper test* against competent alternatives. Until then this document remains review-pending.
+**Next:** compare original sources in depth; ask outside disciplinary reviewers whether the translation is faithful; freeze a Coherent World *paper test* against competent alternatives. The proposed interpretation remains open to correction.

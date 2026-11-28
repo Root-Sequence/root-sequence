@@ -2,12 +2,12 @@
 ## A governance and infrastructure inquiry, not a universal data pool
 
 **Document role:** Focused research/design question within [Intelligence Without Omniscience](README.md).  
-**Status:** OPEN PROPOSAL / AI-assisted / review-pending, 2026-10-07.  
+**Status:** OPEN PROPOSAL, 2026-10-07.  
 **Not:** an incorporated institution, a product promise, authorization to scrape or pool data, a blanket open-source requirement, a proposed central AI authority, or a governance charter for any existing Root Sequence community project.
 
 ## The question
 
-The focused companion [AI Commons: Agency, Safety, Infrastructure, and Paths to Independence](ai-commons.md) develops AI-specific ownership, evaluation, resource, and transition questions. It is an AI-assisted open proposal with author review pending and no completed experiments. This parent inquiry continues to cover knowledge and cooperation beyond AI.
+The focused companion [AI Commons: Agency, Safety, Infrastructure, and Paths to Independence](ai-commons.md) develops AI-specific ownership, evaluation, resource, and transition questions. It is an open proposal with no completed experiments. This parent inquiry continues to cover knowledge and cooperation beyond AI.
 
 > What would it take for knowledge, tools, learning, and coordination to become widely usable capabilities—not merely resources held by those able to pay, search with expert vocabulary, or obtain institutional permission?
 

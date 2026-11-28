@@ -1,6 +1,6 @@
 # UCF reconciliation for the living paper
 
-**Second development pass, 2026-09-16. AI-assisted; author review pending.**
+**Second development pass, 2026-09-16.**
 
 The first paper scaffold used Root Sequence's general coherence model but did not read the dedicated UCF model into its source map. This pass corrects that omission. It does not make UCF the paper's governing theory.
 

@@ -1,6 +1,5 @@
 # IA-02 — Sergent 2021: Partial Methods Extraction
 
-**Status:** AI-assisted; author review pending<br>
 **Scope:** Abstract, introduction, selected results, and indexed primary-text methods excerpts inspected (participants, tasks, controls, MVPA, and report prediction). Complete methods, supplements, source data, and code have not been audited; no reanalysis. Direct full-text retrieval remains unreliable; indexed excerpts supplied the updates below.
 
 ## Compact evidence record

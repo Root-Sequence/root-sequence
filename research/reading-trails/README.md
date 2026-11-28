@@ -1,7 +1,7 @@
 # Reading Trails
 
 **Document role:** Curated research-rabbit-hole index  
-**Status:** Developing; new starter trails are AI-assisted and author review pending  
+**Scope:** Developing collection of orientation routes.
 **Purpose:** Preserve the sites, archives, societies, reading lists, courses, magazines, papers, and other intellectual neighborhoods that surface during Root Sequence research.
 
 ## Why this exists

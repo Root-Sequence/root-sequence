@@ -138,7 +138,7 @@ These are public summaries of intended applications. Several projects are develo
 ## See also
 
 - [Research methods, evidence, and AI use](../research/README.md)
-- [Related working paper](../research/papers/coherent-systems/README.md) — AI-assisted draft; author review incomplete.
+- [Related working paper](../research/papers/coherent-systems/README.md) — draft.
 - [Intelligence in the Working Vocabulary](working-vocabulary.md#intelligence)
 - [`../systems/emergence/applications/ai.md`](../systems/emergence/applications/ai.md)
 - [`../commons/humane-design-review.md`](../commons/humane-design-review.md)

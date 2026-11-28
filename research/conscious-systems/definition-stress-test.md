@@ -1,7 +1,7 @@
 # CS-Q01 — Definition Stress Test
 
 **Document role:** First bounded research pass<br>
-**Status:** v0.1-dev; AI-assisted, author review pending<br>
+**Status:** v0.1-dev<br>
 **Question:** What is the smallest definition of subjective experience that does not depend on report, intelligence, selfhood, or memory?<br>
 **Evidence status:** Conceptual decision supported by selected empirical edge cases; not a measurement standard or finding
 

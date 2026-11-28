@@ -6,7 +6,7 @@
 **Project:** Root Sequence  
 **Version:** v0.1-dev  
 **Started:** 2026-09-16  
-**Status:** AI-assisted research scaffold; author review pending; not peer reviewed  
+**Status:** research scaffold; not peer reviewed  
 **Release status:** No reviewed v0.1 release, DOI, or website publication is created by this scaffold.
 
 > Root Sequence tests, complicates, and revises the paper—not vice versa.

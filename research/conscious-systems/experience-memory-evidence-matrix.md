@@ -1,7 +1,7 @@
 # CS-Q13–14 — Experience, Memory, and Trace Evidence Matrix
 
 **Document role:** Second bounded research pass<br>
-**Status:** v0.1-dev; AI-assisted, author review pending<br>
+**Status:** v0.1-dev<br>
 **Questions:** Can experience occur without later retrievable memory? What is preserved when someone remembers only that an experience occurred?<br>
 **Evidence status:** Provisional answers and inference rules grounded in selected studies; not a validated test of consciousness
 

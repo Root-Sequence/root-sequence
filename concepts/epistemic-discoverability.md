@@ -1,7 +1,7 @@
 # Epistemic Discoverability and Knowledge Routing
 
 **Document role:** Working cross-domain design concept  
-**Status:** Active / developing; AI-assisted synthesis for author review, 2026-09-24  
+**Status:** Active / developing; synthesis, 2026-09-24  
 **Canonical scope:** Shared Root Sequence treatment of how people discover, navigate, evaluate, and build knowledge when they do not yet know the field's vocabulary or structure.  
 **Evidence boundary:** The component ideas have established predecessors in information retrieval, information foraging, sensemaking, learning sciences, epistemic-agency research, libraries, HCI, and knowledge organization. This page proposes a Root Sequence synthesis and design vocabulary; it does not claim novelty for those components or establish one universal model of learning.
 
@@ -344,7 +344,7 @@ Map:
 
 ### 2. Explain why a route is relevant
 
-"This field studies X because..." is more useful than a bare link.
+"This field studies X because.." is more useful than a bare link.
 
 ### 3. Preserve query evolution
 
