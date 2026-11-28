@@ -54,7 +54,7 @@ The checklist is shortest here. Word counts do not establish lower review burden
 
 ## A next comparison that could change this account
 
-Use new fragments with initial responses produced without foreknowledge of the later clarification. Preserve those outputs before applying the same clarification to each. Have a separately situated evaluator inspect source fidelity and unsupported commitments without format labels where practical. A later voluntary walkthrough would be needed to observe actual correction effort. Retain cases where a concise fluent draft or ordinary editing is equally effective, and cases where alternatives add burden. Do not choose a permanent Wingbot format from this exercise.
+Use new fragments with initial responses produced without foreknowledge of the later clarification. Preserve those outputs before applying the same clarification to each. Have a separately situated evaluator inspect source fidelity and unsupported commitments without format labels where practical. To test presentation itself, hold facts, proposed meanings and candidate count fixed across layouts. To test generation, allow responses to differ, but do not attribute any difference solely to layout. A later voluntary walkthrough would be needed to observe actual correction effort. Retain cases where a concise fluent draft or ordinary editing is equally effective, and cases where alternatives add burden. Do not choose a permanent Wingbot format from this exercise.
 
 ## Exact responses
 

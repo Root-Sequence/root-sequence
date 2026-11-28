@@ -42,6 +42,6 @@ The first constructed written case is recorded in [UT-001](../research/integrati
 
 A fluent completion can preserve uncertainty; several alternatives are not inherently more faithful. The design question is which distinctions remain visible and correctable in any format: source expression, proposed wording, corrected evidence, unresolved meaning, a scoped choice and authority to act. In UT-001, accepting “photos first” for one visit did not settle companion choice, create physical access or authorize an invitation. Consolidating a resolved branch should not silently create a standing preference. These are working implications of an inspectable case, not observed behavior of people or an implemented assistant.
 
-The next comparison should separate response production from later clarification and independent evaluation. Measure actual correction work before prescribing a format; word counts alone cannot substitute for that evidence.
+The next comparison should separate response production from later clarification and independent evaluation. A presentation comparison should hold semantic content and candidate count fixed. A generation comparison may vary those, but cannot attribute its outcome to layout alone. Measure actual correction work before prescribing a format; word counts alone cannot substitute for that evidence.
 
 [Possibility and participation](../research/possibility-and-participation.md) · [Integration record and coverage](../research/integration-reviews/README.md)
