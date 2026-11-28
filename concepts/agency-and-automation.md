@@ -1,7 +1,7 @@
 # Agency and Automation
 
 **Document role:** Working cross-project design principle and open-question map<br>
-**Status:** AI-assisted draft for author review, 2026-09-24<br>
+**Status:** draft, 2026-09-24<br>
 **Canonical scope:** Shared Root Sequence treatment; project-specific authority, implementation, and validation belong to each project.<br>
 **Idea Trails:** [Intelligence, Automation & Legitimate Authority](../IDEA_TRAILS.md#trail-9--intelligence-automation-and-legitimate-authority) · [Maintenance, Repair & Invisible Labor](../IDEA_TRAILS.md#trail-8--maintenance-repair-and-invisible-labor) · [Commons, Ownership & Shared Capacity](../IDEA_TRAILS.md#trail-6--commons-ownership-and-shared-capacity)<br>
 **Trail role:** analytical lens
@@ -95,4 +95,4 @@ These are invitations for local work, not evidence that those changes are implem
 6. Who receives the productivity gains and material necessities during a transition away from compulsory work?
 7. How do ecological costs and the possible interests of nonhuman intelligences alter the delegation boundary?
 
-**Source note:** The author's 2026-09-24 clarification about balance, friction, limited energy, necessary jobs, and meaningful life supplied the direction. No durable conversation URL was supplied. The modes, safeguards, and wording are AI-assisted proposals awaiting author review.
+**Source note:** The author's 2026-09-24 clarification about balance, friction, limited energy, necessary jobs, and meaningful life supplied the direction. No durable conversation URL was supplied. The modes, safeguards, and wording are proposals.

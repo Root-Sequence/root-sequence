@@ -2,7 +2,7 @@
 ## Source-aware causal questions, competing explanations, and a first bounded probe
 
 **Document role:** Focused mechanism investigation linked to [Intelligence Without Omniscience](README.md).  
-**Status:** WORKING / AI-assisted / review pending — 2026-10-07.  
+**Status:** WORKING — 2026-10-07.  
 **Epistemic boundary:** Do not confuse original source results, illustrative mathematics, proposed mechanisms, or causal claims about actual groups.  
 **Method:** [Root Sequence Research Method](../method.md) — preserve → decompose → route → compare competent baselines → test → revise.  
 **Idea Trails:** Intelligence & Authority; Collective Judgment & Dissent; Commons & Shared Capacity; Accessibility & Participation.  

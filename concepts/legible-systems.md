@@ -475,3 +475,7 @@ Exploration can branch before every question is resolved. Before a consequential
 Use the existing [thought-routing convention](../THOUGHT_ROUTING.md) to record these distinctions without another tracking system. The [paper's drafting instructions](../research/papers/coherent-systems/AGENTS.md) apply them to passage-level author review. These links describe saved process guidance, not an implemented or validated interface.
 
 [^sensemaking2005]: Karl E. Weick, Kathleen M. Sutcliffe, and David Obstfeld (2005), *Organizing and the Process of Sensemaking*, Organization Science 16(4), 409–421. DOI: 10.1287/orsc.1050.0133. [Publisher abstract and citation](https://pubsonline.informs.org/doi/10.1287/orsc.1050.0133). No claim that an intelligible interpretation is therefore correct.
+
+## November 27 integration connection
+
+[Coherent Communication](coherent-communication.md) adds a related test: can a newcomer reconstruct relevant context, contest an interpretation and repair a misunderstanding without compulsory disclosure? Shared vocabulary can reduce insider work while increasing entry costs. Intelligibility and successful coordination do not establish truth or legitimacy.

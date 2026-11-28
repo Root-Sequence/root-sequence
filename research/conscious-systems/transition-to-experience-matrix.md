@@ -1,7 +1,7 @@
 # CS-Q06–07 — Transition to Experience Matrix
 
 **Document role:** Third bounded research pass  
-**Status:** v0.1-dev; AI-assisted, author review pending  
+**Status:** v0.1-dev
 **Questions:** What distinguishes nonconscious processing from experienced processing? Is the transition graded, abrupt, or scale-dependent?  
 **Evidence status:** Provisional synthesis and theory-specific failure conditions grounded in selected studies; not a validated detector of consciousness
 

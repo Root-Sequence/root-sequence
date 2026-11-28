@@ -1,7 +1,7 @@
 # Coherence Model
 
 **Document role:** Developing systems model for examining alignment, mismatch, feedback, and revisability over time  
-**Status:** AI-assisted revision for author review, 2026-09-24  
+**Status:** draft, 2026-09-24  
 **Scope:** Cross-domain analytical model; not a universal score, scientific law, or automatic moral judgment  
 **Related concept:** [Dynamic Coherence and Adaptive Continuity](../../concepts/dynamic-coherence.md)
 
@@ -77,7 +77,7 @@ They are different relations.
 
 This yields a language rule:
 
-> **Prefer "coherent with respect to..." or "coherence among..." over an unqualified "this system is coherent."**
+> **Prefer "coherent with respect to.." or "coherence among.." over an unqualified "this system is coherent."**
 
 When the qualifier is obvious from a tightly bounded local context, prose need not become cumbersome. The analytical record should still make it recoverable.
 

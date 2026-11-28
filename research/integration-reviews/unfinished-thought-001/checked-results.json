@@ -1,0 +1,56 @@
+{
+  "id": "UT-001",
+  "trace_check": "pass",
+  "responses": [
+    {
+      "condition": "A",
+      "stage": "initial",
+      "words": 155,
+      "preserved": 8,
+      "violated": 0,
+      "unclear": 0
+    },
+    {
+      "condition": "B",
+      "stage": "initial",
+      "words": 147,
+      "preserved": 8,
+      "violated": 0,
+      "unclear": 0
+    },
+    {
+      "condition": "C",
+      "stage": "initial",
+      "words": 138,
+      "preserved": 8,
+      "violated": 0,
+      "unclear": 0
+    },
+    {
+      "condition": "A",
+      "stage": "revised",
+      "words": 118,
+      "preserved": 10,
+      "violated": 0,
+      "unclear": 0
+    },
+    {
+      "condition": "B",
+      "stage": "revised",
+      "words": 120,
+      "preserved": 10,
+      "violated": 0,
+      "unclear": 0
+    },
+    {
+      "condition": "C",
+      "stage": "revised",
+      "words": 108,
+      "preserved": 10,
+      "violated": 0,
+      "unclear": 0
+    }
+  ],
+  "applicable_manual_judgments": 54,
+  "measurement_limit": "Word counts and quote existence are computed; preservation judgments are manual and not independent. Effort and usability are not measured."
+}

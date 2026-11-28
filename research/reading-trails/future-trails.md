@@ -1,7 +1,7 @@
 # Future Trails
 
 **Document role:** Curated discovery backlog  
-**Status:** Proposed routes; AI-assisted; author review pending  
+**Status:** Proposed routes
 **Updated:** 2026-09-25
 
 These are **questions worth opening**, not completed reading lists, validated theories, or commitments to create twelve new projects. The original eight future topics now have [starter trails](README.md#new-starter-trails).

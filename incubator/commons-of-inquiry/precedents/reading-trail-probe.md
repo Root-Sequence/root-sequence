@@ -1,6 +1,6 @@
 # Reading Trail probe — shared work, solitude, and participation
 
-**Status:** Proposed research/design probe; AI-assisted; author review pending  
+**Status:** Proposed research/design probe
 **Date:** 2026-09-25  
 **Canonical destination:** This temporary Commons of Inquiry seed; migrate with it if its standalone home is established.  
 **Execution:** NOT RUN. No participants recruited, venue selected, or event scheduled.

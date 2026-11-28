@@ -1,7 +1,7 @@
 # Agency under stress
 
 **Document role:** Bounded cross-domain research synthesis and design-input note<br>
-**Status:** AI-assisted working synthesis for author review; first drafted 2026-10-05<br>
+**Status:** working synthesis; first drafted 2026-10-05<br>
 **Scope:** Human stress, coercion, controllability, cognition, recovery, and the design of systems people must use under reduced capacity<br>
 **Evidence boundary:** This note is not a clinical model, diagnosis, treatment guide, interrogation manual, or claim that one mechanism explains trauma or resilience. It connects several research literatures while preserving their differences.
 
@@ -299,7 +299,7 @@ The design prompts and project translations above are Root Sequence proposals. T
 
 ### Source-check checkpoint: 2026-10-24
 
-This was an AI-assisted check of the passages used here, not a systematic literature search, reanalysis, or independent clinical review. Author review remains pending. An accessible full text does not mean the entire source was read.
+This check examined selected passages used here, not a systematic literature search, reanalysis, or independent clinical review. An accessible full text does not mean the entire source was read.
 
 | Source | Material inspected and limit |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Related work and the proposed contribution
 
-**Pass:** external evidence, 2026-09-16. **Status:** AI-assisted, author review pending. This is a targeted reading note, not a systematic review or an exhaustive account of any field.
+**Pass:** external evidence, 2026-09-16. This is a targeted reading note, not a systematic review or an exhaustive account of any field.
 
 ## What the argument inherits
 

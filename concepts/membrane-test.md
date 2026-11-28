@@ -1,7 +1,7 @@
 # The Membrane Test
 
 **Document role:** provisional cross-project design filter  
-**Status:** AI-assisted working synthesis for author review  
+**Status:** working synthesis  
 **Canonical scope:** general questions about boundaries, interfaces, permeability, refusal, and relationship; project-specific mechanisms remain owned by their native projects and disciplines  
 **Evidence boundary:** this is a normative and analytical prompt, not a validated universal model and not a claim that biological, social, technical, and political boundaries share one mechanism.
 

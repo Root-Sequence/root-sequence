@@ -1,7 +1,7 @@
 # Adaptation — Working Analysis Model
 
 **Document role:** Reusable systems model for describing how a system changes its responses, structure, or environment over time  
-**Status:** AI-assisted draft for author review, revised 2026-10-01<br>
+**Status:** draft, revised 2026-10-01<br>
 **Scope:** Cross-domain systems analysis; not a validated universal scientific model and not a clinical model of human behavior  
 **Conceptual parent:** [Dynamic Coherence and Adaptive Continuity](../../concepts/dynamic-coherence.md)
 

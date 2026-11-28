@@ -2,7 +2,7 @@
 ## Organizational learning, governing assumptions, problem boundaries, and the conditions for consequential change
 
 **Document role:** Focused research companion to [Intelligence Without Omniscience](README.md), building on [Mechanisms of Collective Knowledge](mechanisms-of-collective-knowledge.md) and [From Knowledge to Uptake](from-knowledge-to-uptake.md).  
-**Status:** SOURCE-AWARE WORKING INQUIRY / AI-assisted / author review pending (2026-10-07).  
+**Status:** SOURCE-AWARE WORKING INQUIRY (2026-10-07).  
 **Claim type:** Research literature + explicit analytical translations and case design. **Not** a new "RS learning level," a validated method of organizational transformation, or proof that an AI has agency, experience, or consciousness.  
 **Boundary:** Root Sequence routes to native methods. Coherent World translates selected causal distinctions into declared fictional mechanisms without claiming real-world validation. Community governance remains local and cannot be decided by a research document.
 

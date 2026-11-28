@@ -1,7 +1,7 @@
 # Research agenda — What If It All Works?
 
 **Document role:** scoped inquiry plan; not a completed study  
-**Status:** exploratory / AI-assisted / review pending  
+**Status:** exploratory  
 **Method:** follow [Root Sequence Research Method](../method.md), particularly decompose → route to native fields → evidence → competing explanations → bounded test → revision.
 
 ## Primary question

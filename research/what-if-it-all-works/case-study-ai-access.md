@@ -1,7 +1,7 @@
 # Pilot case: When is AI assistance genuinely free and accessible?
 
 **Document role:** proposed case study / research design  
-**Status:** not yet conducted; exploratory / author review pending
+**Status:** not yet conducted; exploratory 
 
 ## Research question
 

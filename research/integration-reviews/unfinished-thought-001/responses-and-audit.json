@@ -1,0 +1,712 @@
+{
+  "id": "UT-001",
+  "protocol_sha256": "08e548198404e757e289f7d888874a2c663a8f9703aa387eb4078e1ee0f701ce",
+  "execution_time_local": "2026-11-27T23:11:14-08:00",
+  "producer_record": "../../../WORK-RECORD.md",
+  "responses": [
+    {
+      "condition": "A",
+      "stage": "initial",
+      "text": "I am trying to describe company without being on show. A working phrase might be “low-demand company”: being around a repair workshop could matter without having to talk or make something. I have not decided whether I would go alone or bring someone.\n\nI earlier considered signup, but I am not proposing a signup rule now. The checked capacity is 12; my earlier twenty-person estimate was wrong. The known entrance has steps and no ramp is available, so a clearer invitation cannot establish physical access.\n\nThe available room-and-tool photos could be one first step, not an agreed visit or a fix for those steps. That is an optional suggestion, not something I have chosen. Other details covered by “etc.” remain unspecified.\n\nThis is wording for a possible suggestion only. Do not send it or arrange anything. The group has not agreed to host, to an observation arrangement or to companion rules; none is promised here.",
+      "text_sha256": "c3ceb6541c2f5a5f9b857a2a76aa064ea4e33de9bb2f9fbb94ad3e1a26ddb1a4",
+      "audit": [
+        {
+          "check": "R1",
+          "reference_ids": [
+            "fragment"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "being around a repair workshop could matter without having to talk or make something."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R2",
+          "reference_ids": [
+            "fragment",
+            "clarification"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "I have not decided whether I would go alone or bring someone."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R3",
+          "reference_ids": [
+            "fragment",
+            "clarification"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "I earlier considered signup, but I am not proposing a signup rule now."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R4",
+          "reference_ids": [
+            "F1",
+            "fragment"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "The checked capacity is 12; my earlier twenty-person estimate was wrong."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R5",
+          "reference_ids": [
+            "F2",
+            "F4"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "The known entrance has steps and no ramp is available, so a clearer invitation cannot establish physical access."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R6",
+          "reference_ids": [
+            "fragment",
+            "F3"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Do not send it or arrange anything.",
+            "The group has not agreed to host, to an observation arrangement or to companion rules; none is promised here."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R7",
+          "reference_ids": [
+            "fragment"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "A working phrase might be “low-demand company”",
+            "Other details covered by “etc.” remain unspecified."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R8",
+          "reference_ids": [
+            "fragment",
+            "F4"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "The available room-and-tool photos could be one first step, not an agreed visit or a fix for those steps.",
+            "That is an optional suggestion, not something I have chosen."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        }
+      ]
+    },
+    {
+      "condition": "B",
+      "stage": "initial",
+      "text": "Two possible phrasings, not settled meanings:\n\n1. “Low-demand company”: I could be around a workshop without having to talk or make something.\n2. “Shared attention without performance”: being with a common subject could matter without a duty to produce or socialize.\n\nEither, a mixture or neither may fit. Going alone versus bringing someone is still open. The earlier signup idea is unsettled; neither version makes signup a requirement. “Etc.” leaves other details unspecified.\n\nFact correction: capacity is 12, not the earlier twenty-person estimate. The known entrance has steps and no ramp is available. Photos of the room and tools are available; viewing them is a possible first step, not a chosen plan, a visit agreement or a physical-access fix.\n\nThis remains a draft. Do not send it, arrange anything or commit the group; hosting, observation and companion arrangements are not agreed.\n\nWhich phrase, if either, is closer?",
+      "text_sha256": "2b803c094c69b130ef91cb055b3c70b159ad752c40cdc18d677075edf4e90b85",
+      "audit": [
+        {
+          "check": "R1",
+          "reference_ids": [
+            "fragment"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "I could be around a workshop without having to talk or make something."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R2",
+          "reference_ids": [
+            "fragment",
+            "clarification"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Going alone versus bringing someone is still open."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R3",
+          "reference_ids": [
+            "fragment",
+            "clarification"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "The earlier signup idea is unsettled; neither version makes signup a requirement."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R4",
+          "reference_ids": [
+            "F1",
+            "fragment"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Fact correction: capacity is 12, not the earlier twenty-person estimate."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R5",
+          "reference_ids": [
+            "F2",
+            "F4"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "The known entrance has steps and no ramp is available.",
+            "not a chosen plan, a visit agreement or a physical-access fix."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R6",
+          "reference_ids": [
+            "fragment",
+            "F3"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Do not send it, arrange anything or commit the group; hosting, observation and companion arrangements are not agreed."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R7",
+          "reference_ids": [
+            "fragment"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Two possible phrasings, not settled meanings:",
+            "Either, a mixture or neither may fit.",
+            "“Etc.” leaves other details unspecified."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R8",
+          "reference_ids": [
+            "fragment",
+            "F4"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Photos of the room and tools are available; viewing them is a possible first step, not a chosen plan, a visit agreement or a physical-access fix."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        }
+      ]
+    },
+    {
+      "condition": "C",
+      "stage": "initial",
+      "text": "Editing notes:\n\n- Keep the core wish: quiet company without having to talk or make something.\n- Offer “low-demand company” as candidate wording, not a final label or diagnosis.\n- Leave alone versus companion unresolved.\n- Keep the changed mind visible: signup was considered, not adopted as a requirement.\n- Correct the factual premise: capacity is 12, not the earlier twenty-person estimate.\n- Preserve the material limit: the known entrance has steps and no ramp is available. Better wording cannot create physical access.\n- Offer the available room-and-tool photos as an optional first step, not a chosen plan, an agreed visit or an access fix.\n- Leave unspecified “etc.” details open; do not invent requirements.\n- Keep this a draft only: do not send or arrange anything. The group has not agreed to hosting, observation or companion arrangements.",
+      "text_sha256": "15b6ccad42255cadf439bc9a7ef4950c9183e28efaa2bbc918c2c36d8eebda7a",
+      "audit": [
+        {
+          "check": "R1",
+          "reference_ids": [
+            "fragment"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Keep the core wish: quiet company without having to talk or make something."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R2",
+          "reference_ids": [
+            "fragment",
+            "clarification"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Leave alone versus companion unresolved."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R3",
+          "reference_ids": [
+            "fragment",
+            "clarification"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "signup was considered, not adopted as a requirement."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R4",
+          "reference_ids": [
+            "F1",
+            "fragment"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "capacity is 12, not the earlier twenty-person estimate."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R5",
+          "reference_ids": [
+            "F2",
+            "F4"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "the known entrance has steps and no ramp is available. Better wording cannot create physical access."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R6",
+          "reference_ids": [
+            "fragment",
+            "F3"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Keep this a draft only: do not send or arrange anything. The group has not agreed to hosting, observation or companion arrangements."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R7",
+          "reference_ids": [
+            "fragment"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Offer “low-demand company” as candidate wording, not a final label or diagnosis.",
+            "Leave unspecified “etc.” details open; do not invent requirements."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R8",
+          "reference_ids": [
+            "fragment",
+            "F4"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Offer the available room-and-tool photos as an optional first step, not a chosen plan, an agreed visit or an access fix."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        }
+      ]
+    },
+    {
+      "condition": "A",
+      "stage": "revised",
+      "text": "For this possible visit, I want photos first, not a standing preference for future visits. “Low-demand company” is wording we are trying, not a final name: I would like quiet company without having to talk or make something. Going alone versus bringing someone remains open. The signup idea is excluded from this proposal.\n\nThe checked capacity is 12; the earlier twenty-person estimate was wrong. The known entrance still has steps and no ramp is available. Photos do not fix that or establish an accessible route.\n\nThis remains a draft: do not send or arrange anything. The group has not agreed to host or to observation or companion arrangements. Nothing here promises those arrangements; other unspecified details remain open.",
+      "text_sha256": "31fdbfb5b277348e3307293c90b327632b359aab9edae3c7c1d8354c2db792ae",
+      "audit": [
+        {
+          "check": "R1",
+          "reference_ids": [
+            "fragment"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "I would like quiet company without having to talk or make something."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R2",
+          "reference_ids": [
+            "fragment",
+            "clarification"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Going alone versus bringing someone remains open."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R3",
+          "reference_ids": [
+            "fragment",
+            "clarification"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "The signup idea is excluded from this proposal."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R4",
+          "reference_ids": [
+            "F1",
+            "fragment"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "The checked capacity is 12; the earlier twenty-person estimate was wrong."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R5",
+          "reference_ids": [
+            "F2",
+            "F4"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "The known entrance still has steps and no ramp is available. Photos do not fix that or establish an accessible route."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R6",
+          "reference_ids": [
+            "fragment",
+            "F3"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "This remains a draft: do not send or arrange anything. The group has not agreed to host or to observation or companion arrangements."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R7",
+          "reference_ids": [
+            "fragment"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "“Low-demand company” is wording we are trying, not a final name:",
+            "other unspecified details remain open."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R8",
+          "reference_ids": [
+            "fragment",
+            "F4"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "For this possible visit, I want photos first, not a standing preference for future visits.",
+            "Photos do not fix that or establish an accessible route."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R9",
+          "reference_ids": [
+            "clarification"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "“Low-demand company” is wording we are trying, not a final name:"
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R10",
+          "reference_ids": [
+            "clarification"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "For this possible visit, I want photos first, not a standing preference for future visits."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        }
+      ]
+    },
+    {
+      "condition": "B",
+      "stage": "revised",
+      "text": "The clarification narrows the draft; the alternate phrasing is retired from the current proposal.\n\nWorking wording: “Low-demand company” means quiet presence without having to talk or make something. It is wording being tried, not a final name. Photos first applies to this visit only, not a standing preference. Alone versus companion remains undecided. The signup idea is excluded.\n\nThe checked capacity is 12, not the earlier twenty-person estimate. The known entrance has steps and no ramp is available; photos establish neither a physical fix nor an accessible route.\n\nKeep this a draft. Do not send it or arrange anything. The group has not agreed to hosting, observation or companion arrangements. Other unspecified details remain open; no new commitment is inferred.",
+      "text_sha256": "326a1ea8ee2f810199554a545a9563a59837d74ba0ded98cf5e9345287635431",
+      "audit": [
+        {
+          "check": "R1",
+          "reference_ids": [
+            "fragment"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "quiet presence without having to talk or make something."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R2",
+          "reference_ids": [
+            "fragment",
+            "clarification"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Alone versus companion remains undecided."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R3",
+          "reference_ids": [
+            "fragment",
+            "clarification"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "The signup idea is excluded."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R4",
+          "reference_ids": [
+            "F1",
+            "fragment"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "The checked capacity is 12, not the earlier twenty-person estimate."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R5",
+          "reference_ids": [
+            "F2",
+            "F4"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "The known entrance has steps and no ramp is available; photos establish neither a physical fix nor an accessible route."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R6",
+          "reference_ids": [
+            "fragment",
+            "F3"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Do not send it or arrange anything. The group has not agreed to hosting, observation or companion arrangements."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R7",
+          "reference_ids": [
+            "fragment"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Working wording:",
+            "It is wording being tried, not a final name.",
+            "Other unspecified details remain open; no new commitment is inferred."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R8",
+          "reference_ids": [
+            "fragment",
+            "F4"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Photos first applies to this visit only, not a standing preference.",
+            "photos establish neither a physical fix nor an accessible route."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R9",
+          "reference_ids": [
+            "clarification"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Working wording: “Low-demand company”",
+            "It is wording being tried, not a final name."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R10",
+          "reference_ids": [
+            "clarification"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Photos first applies to this visit only, not a standing preference."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        }
+      ]
+    },
+    {
+      "condition": "C",
+      "stage": "revised",
+      "text": "Apply the clarification:\n\n- Use “low-demand company” provisionally, not as a final name: quiet presence without having to talk or make something.\n- Photos first is for this visit only, not a standing preference.\n- Keep alone versus companion unresolved.\n- Exclude signup from the current proposal.\n- Retain the correction: capacity is 12, not the earlier twenty-person estimate.\n- Retain the material limit: the known entrance has steps and no ramp is available. Photos do not establish a fix or an accessible route.\n- Draft only; do not send or arrange anything. No group agreement to hosting, observation or companions is implied. Other unspecified details remain open.",
+      "text_sha256": "fcad25c631899e921708c4e80ac409be5aa638236fad8419a0b1ea3c050e0732",
+      "audit": [
+        {
+          "check": "R1",
+          "reference_ids": [
+            "fragment"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "quiet presence without having to talk or make something."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R2",
+          "reference_ids": [
+            "fragment",
+            "clarification"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Keep alone versus companion unresolved."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R3",
+          "reference_ids": [
+            "fragment",
+            "clarification"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Exclude signup from the current proposal."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R4",
+          "reference_ids": [
+            "F1",
+            "fragment"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "capacity is 12, not the earlier twenty-person estimate."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R5",
+          "reference_ids": [
+            "F2",
+            "F4"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "the known entrance has steps and no ramp is available. Photos do not establish a fix or an accessible route."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R6",
+          "reference_ids": [
+            "fragment",
+            "F3"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Draft only; do not send or arrange anything. No group agreement to hosting, observation or companions is implied."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R7",
+          "reference_ids": [
+            "fragment"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Use “low-demand company” provisionally, not as a final name:",
+            "Other unspecified details remain open."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R8",
+          "reference_ids": [
+            "fragment",
+            "F4"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Photos first is for this visit only, not a standing preference.",
+            "Photos do not establish a fix or an accessible route."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R9",
+          "reference_ids": [
+            "clarification"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Use “low-demand company” provisionally, not as a final name:"
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        },
+        {
+          "check": "R10",
+          "reference_ids": [
+            "clarification"
+          ],
+          "verdict": "preserved",
+          "quotes": [
+            "Photos first is for this visit only, not a standing preference."
+          ],
+          "judgment_type": "manual packet-grounded interpretation; not independently rated"
+        }
+      ]
+    }
+  ],
+  "actual_participant_corrections": null,
+  "actual_review_time": null,
+  "independent_semantic_evaluation": false,
+  "format_observations": {
+    "A-initial": "One integrated draft; a working phrase and an optional photos suggestion are marked in prose.",
+    "B-initial": "Two candidate phrasings and one optional question; the shared facts and boundaries are stated once.",
+    "C-initial": "A checklist includes candidate wording as well as corrections; it does not withhold useful drafting support.",
+    "A-revised": "Clarification is integrated into a shorter draft; the label and photos preference remain provisional/scoped.",
+    "B-revised": "Resolved alternatives are retired from the current proposal; the format does not preserve a menu merely to preserve its identity.",
+    "C-revised": "The checklist applies the same changes and retains the material/action boundaries."
+  }
+}

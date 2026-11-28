@@ -2,7 +2,7 @@
 
 **Question:** When information cannot be compared across brain systems, does that establish separate conscious subjects?
 
-**Status:** AI-assisted, author review pending. Bounded primary-study audit, not a systematic review or theory verdict.
+Bounded primary-study audit, not a systematic review or theory verdict.
 
 Source: [Pinto et al. (2017), Brain 140, 1231–1237](https://doi.org/10.1093/brain/aww358), including the publisher-linked supplement. Main-text methods, results, and discussion inspected; supplementary pp. 1–3 inspected. Remaining supplementary analyses and underlying data not audited; no reanalysis.
 

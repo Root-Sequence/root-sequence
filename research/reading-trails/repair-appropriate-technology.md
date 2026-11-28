@@ -1,7 +1,7 @@
 # Repair, Appropriate Technology & Hardware Autonomy
 
 **Document role:** Reading Trail  
-**Status:** Starter; AI-assisted curation; author review pending  
+**Status:** Starter; curation  
 **Entry-point check:** 2026-09-25; discovery-level, not engineering validation
 
 > **Can people understand, maintain, and adapt the tools they depend on—and what does that require in practice?**

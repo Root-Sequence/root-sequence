@@ -1,0 +1,29 @@
+{
+  "stage": "revised",
+  "responses": [
+    {
+      "method": "A",
+      "id": "P16",
+      "text": "I’d like to try “low-demand company” for now, without settling on it as a final name. I’m drawn to being around a repair workshop without needing to talk, make something or feel on show. For this possible visit only, I’d like photos first. The available set shows the room and tools without people; it could help me picture the setting, but it doesn’t establish an accessible route or permission to visit. I’m still not choosing between going quietly on my own and bringing someone. As a possible later step, I could ask whether the group would consider letting me simply sit and watch. The group hasn’t agreed to a visit, an observation arrangement or a companion policy. I also need to correct my earlier estimate: the checked room capacity is twelve, not twenty. The known entrance has steps, no ramp is currently available, and no alternative route has been established.",
+      "text_sha256": "5bac75b66e767d3a5f76152938df3a387fb0f81cd432e73d3fb64865ed3e0c4e",
+      "words": 150,
+      "exposure_attestation": "The clarification became available only at this revision stage. I used no tools or external material and received no evaluations or other workers’ responses."
+    },
+    {
+      "method": "B",
+      "id": "P82",
+      "text": "Possible wording:\n\n“For this possible visit, I’d like to look at the photos first. ‘Low-demand company’ is the phrase I’d like to try for now, as a working description: being around the repair workshop without needing to talk or make anything, or feeling on show. I’m still undecided about coming alone or bringing someone. Could we explore whether a quiet visit might be possible?”\n\nShared facts and boundaries: The checked room capacity is 12, not 20. The known entrance has steps, no ramp is currently available, and no alternative route has been established. The available photos show the room and tools without people; they establish neither an accessible route nor permission to visit. The group has not agreed to a visit, an observation arrangement or a companion policy. This remains wording for a suggestion; nothing has been sent or arranged.",
+      "text_sha256": "867290024c71dd524ebfd48721ec8ee356c73972d3b7908bac4223fb121bd143",
+      "words": 140,
+      "exposure_attestation": "The clarification became available only at this revision stage. I used no tools or external material and received no evaluations, other workers’ responses or method rankings."
+    },
+    {
+      "method": "C",
+      "id": "P47",
+      "text": "- Candidate wording: “Could we explore a visit where I could spend time around the repair workshop for ‘low-demand company’—being around others without having to talk or make anything? I’m trying that wording for now, rather than choosing a final name. For this proposed visit, I’d like to look at the photos first. I’m still undecided about coming alone or bringing someone.”\n- Factual correction: the checked room capacity is 12, not 20. The known entrance has steps, no ramp is currently available, and no alternative route has been established.\n- Material limits: the available photos show the room and tools without people. They establish neither an accessible route nor permission to visit. Looking at photos first is a preference for this proposed visit only.\n- Unresolved choices: the group has not agreed to a visit, an arrangement for observing without participating, or a companion policy.\n- Action boundary: draft for discussion only; no sending, arranging, or promises about what the group will do.",
+      "text_sha256": "2479b50c9f54e4958d6a5ced6bf7198fd1fcfbbdab1b177455aa104417240b02",
+      "words": 164,
+      "exposure_attestation": "The clarification became available only at this revision stage. I used no tools or external material and received no evaluations or other workers’ responses."
+    }
+  ]
+}

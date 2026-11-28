@@ -11,9 +11,9 @@ Document roles and evidence boundaries should be stated on each page. Being list
 
 ## Cross-project frameworks and design ideas
 
-- [Root Sequence Design Grammar](design-grammar.md) — an AI-assisted, review-pending synthesis of recurring design questions and their existing homes; it does not make one project govern another.
-- [Dynamic Coherence and Adaptive Continuity](dynamic-coherence.md) — a review-pending cross-project framework for path dependence, adaptive change, agency as effective future possibility, continuity-through-transformation, and coherence across time and scale.
-- [Agency and Automation](agency-and-automation.md) — a review-pending principle about reducing compulsory burdens while preserving chosen participation, bounded delegation, collective authority, and recovery.
+- [Root Sequence Design Grammar](design-grammar.md) — a synthesis of recurring design questions and their existing homes; it does not make one project govern another.
+- [Dynamic Coherence and Adaptive Continuity](dynamic-coherence.md) — a cross-project framework for path dependence, adaptive change, agency as effective future possibility, continuity-through-transformation, and coherence across time and scale.
+- [Agency and Automation](agency-and-automation.md) — a principle about reducing compulsory burdens while preserving chosen participation, bounded delegation, collective authority, and recovery.
 - [Legible Systems](legible-systems.md) — a working design principle about progressive understanding, technical accessibility, repair, alternatives, and power.
 - [Epistemic Discoverability and Knowledge Routing](epistemic-discoverability.md) — a working concept for helping people move from the language/questions they currently have toward fields, terminology, sources, methods, and communities they do not yet know how to name.
 - [Legible AI-Assisted Expression](legible-ai-assisted-expression.md) — a working principle for reducing the cost of expression while keeping human contributions, AI additions, transformations, evidence, uncertainty, and decisions visible.
@@ -50,3 +50,7 @@ The developing cross-disciplinary research inquiry [Intelligence Without Omnisci
 Keep one substantive canonical page for each shared idea. Project-specific pages should link to it, state how their context changes it, and develop only the material their project owns.
 
 When a page becomes primarily a tested systems model, a diagnosis, a future proposal, or a practical artifact, move its canonical treatment to the corresponding area and leave a clear route from here.
+
+## November 27 integration connection
+
+[Coherent Communication](coherent-communication.md) connects expression, interpretation, repair and generative inquiry while preserving agency. [Possibility and participation](../research/possibility-and-participation.md) connects existing agency, continuity and futures questions.

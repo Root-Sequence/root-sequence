@@ -1,6 +1,6 @@
 # Developmental origins and conscious-system boundaries
 
-**Status:** AI-assisted source note; author review pending. No original experiment or systematic review.
+**Status:** source note. No original experiment or systematic review.
 
 ## Finding and scope
 

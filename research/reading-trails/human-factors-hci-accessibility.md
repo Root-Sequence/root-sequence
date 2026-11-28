@@ -1,7 +1,7 @@
 # Human Factors, HCI & Accessibility
 
 **Document role:** Reading Trail  
-**Status:** Starter; AI-assisted curation; author review pending  
+**Status:** Starter; curation  
 **Entry-point check:** 2026-09-25; discovery-level, not a usability evaluation
 
 > **When does a tool expand what people can do, and when does it quietly take away understanding, control, or the ability to recover?**

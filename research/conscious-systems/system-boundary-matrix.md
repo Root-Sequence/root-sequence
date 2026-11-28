@@ -1,7 +1,7 @@
 # CS-Q16 — Where Is the Conscious System?
 
 **Document role:** Fourth bounded research pass<br>
-**Status:** v0.1-dev; AI-assisted, author review pending<br>
+**Status:** v0.1-dev<br>
 **Evidence status:** Selected primary-study evidence and conceptual distinctions; not a systematic review or a demonstrated minimal substrate
 
 ## Provisional answer

@@ -1,7 +1,7 @@
 # Community Infrastructure, Commons & Mutual Aid
 
 **Document role:** Reading Trail  
-**Status:** Starter; AI-assisted curation; author review pending  
+**Status:** Starter; curation  
 **Entry-point check:** 2026-09-25; discovery-level, not a literature review
 
 > **How can people provision and govern shared resources without hiding the work, power, or exclusions that make the arrangement possible?**

@@ -2,7 +2,7 @@
 ## Generality, situated capability, distributed cognition, epistemic justice, and an intelligence commons
 
 **Document role:** Bounded, cross-disciplinary research synthesis and question map.  
-**Status:** WORKING / AI-assisted draft / author review pending (2026-10-07).  
+**Status:** WORKING / draft (2026-10-07).  
 **Claim:** Not a validated theory, a new psychometric construct, an established "intelligence commons" institution, or a conclusion that distributed intelligence equals AGI.  
 **Scope:** Connect established research without replacing the fields, methods, and projects that own particular mechanisms.  
 **Public boundary:** This is a public-safe research draft; source dialogue is paraphrased, not reproduced as a personal transcript. No private project materials or story canon are imported.
@@ -28,7 +28,7 @@ This is the **one broad research home**; the companion pages are distinct source
 | What makes criticism and new evidence actually change a shared model? | [From Knowledge to Uptake](from-knowledge-to-uptake.md) |
 | When should one trust information or expert advice one cannot rederive? | [Epistemic Trust and Collective Verification](epistemic-trust-and-collective-verification.md) |
 | How could shared knowledge capabilities be built without compulsory data extraction or one central authority? | [Intelligence Commons](intelligence-commons.md) |
-| How could AI assistance, safety evaluation, and infrastructure remain accountable without compulsory commercial dependence? | [AI Commons](ai-commons.md), an open research/design proposal with transition tests; author review pending, no experiments completed |
+| How could AI assistance, safety evaluation, and infrastructure remain accountable without compulsory commercial dependence? | [AI Commons](ai-commons.md), an open research/design proposal with transition tests, no experiments completed |
 | When can institutions revise their operative goals rather than only their tactics, and who has authority? | [Learning to Revise the Rules](learning-to-revise-the-rules.md) |
 
 **Current work:** Research synthesis, several bounded analytical/paper probes, and a separate research-only scripted information-elicitation model. The [Learning to Revise the Rules](learning-to-revise-the-rules.md#8a-the-feedback-can-be-accurate-and-still-describe-the-wrong-success) companion now distinguishes **measurement validity**, truthful but limited indicators, adversarial proxy manipulation, valid feedback, institutional goal revision, resources, and legitimate implementation. Toy arithmetic and logic checks do **not** constitute real-person, AI-agent, organizational, or social-science experiments. Review protocols remain pending, and Coherent World's Neighborhood v0.2 remains its active game-development frontier.
@@ -484,7 +484,7 @@ Compare one bounded hidden-profile/source-dependence case against an established
 
 ## Source-check checkpoint: 2026-10-24
 
-This AI-assisted pass reviewed the seven research pages and their navigation changes. It checked selected source claims and the public two-fact calculation. It was not a systematic literature review or independent domain appraisal. Author review remains pending. The table records the material actually inspected; access to a full text is not a claim to have read the whole work.
+This AI-assisted pass reviewed the seven research pages and their navigation changes. It checked selected source claims and the public two-fact calculation. It was not a systematic literature review or independent domain appraisal. The table records the material actually inspected; access to a full text is not a claim to have read the whole work.
 
 | Source | Inspection scope and remaining limit |
 | --- | --- |

@@ -3,7 +3,7 @@
 *An exploratory essay about possibility, benefit, perfection, and the rest.*
 
 **Document role:** expressive, normative reflection  
-**Status:** AI-assisted editorial reconstruction / author review pending  
+**Status:** editorial reconstruction 
 **Provenance:** Developed from the original questions preserved in [source-questions.md](source-questions.md), October 22, 2026. Not a verbatim quotation or a claim of scholarly originality.
 
 We spend a lot of time imagining what could go wrong. With technology, politics, the environment, humanity, and the future. Often with good reason.

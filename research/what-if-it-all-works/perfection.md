@@ -1,7 +1,7 @@
 # The Problem of Perfection
 
 **Document role:** conceptual analysis and unresolved questions  
-**Status:** exploratory / AI-assisted / author review pending  
+**Status:** exploratory 
 **Evidence status:** philosophical distinctions and normative hypotheses, not empirical findings
 
 ## Starting tensions

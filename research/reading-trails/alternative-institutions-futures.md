@@ -1,7 +1,7 @@
 # Alternative Institutions & Abandoned Futures
 
 **Document role:** Reading Trail  
-**Status:** Starter; AI-assisted curation; author review pending  
+**Status:** Starter; curation  
 **Entry-point check:** 2026-09-25; discovery-level, not an institutional evaluation
 
 > **What have people tried instead of the institutions we take for granted—and what can we learn without turning their histories into myths?**

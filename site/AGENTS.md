@@ -10,7 +10,7 @@ Apply its editing guidance to Rae's project voice. Don't imitate Rossmann's pers
 
 Use ordinary verbs and natural contractions. Cut stock contrast slogans, staged revelations, vague declarations of importance, intensifiers, filler transitions, em dashes in new website prose, and headings that conceal their subject. Vary paragraph length where the material calls for it. Don't replace every sentence with a fragment or force every page into three sections.
 
-Keep meaning, sources, and real qualifications. Never invent a quote, outcome, milestone, statistic, or lived experience to make the writing sound human. Preserve quotations. Identify fictional examples as fiction. Keep AI-assistance disclosures; editing the voice doesn't change authorship or review status.
+Keep meaning, sources, and real qualifications. Never invent a quote, outcome, milestone, statistic, or lived experience to make the writing sound human. Preserve quotations. Identify fictional examples as fiction. Place contribution and AI-assistance history in a linked development record; keep claim-specific evidence limits and fiction status beside the text. Editing prose does not authorize publication or story adoption.
 
 ## Page structure
 

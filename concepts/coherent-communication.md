@@ -1,0 +1,47 @@
+# Coherent Communication
+
+How can people develop, express, interpret and change meaning together while retaining authority over their own expression? Communication may carry an existing thought, help form an unfinished one, or change what participants can subsequently notice. These functions can coexist; none guarantees truth, agreement or consent.
+
+## The problem worth investigating
+
+Expression depends on the relationship among a person, a recipient, a medium and circumstances. Vocabulary, attention, energy, sensory conditions, familiarity and available context can vary. A fluent explanation can misrepresent a sound understanding; an incomplete expression can contain an important question. Neither eloquence nor simplicity settles understanding.
+
+The initiating discussion sought enough specificity to save clarification and repairs, while asking for help when vocabulary was missing or a thought slipped away. A request to fill in “etc.” leaves the intended scope unsettled; helpful completion must make its additions correctable.
+
+The proposal is to reduce unnecessary work in articulation, interpretation, clarification and repair without transferring that work invisibly to recipients or reviewers. Precision should fit the consequence and purpose. A poem, exploratory conversation and consequential instruction need different treatment. No optimal precision percentage is established.
+
+## Distinctions that the design must preserve
+
+| Distinction | Consequence for inquiry and design |
+| --- | --- |
+| Expressing, exploring, endorsing, requesting and authorizing | A tentative thought is not a durable preference, commitment or permission. |
+| Fidelity and generativity | Preserve what was meant; identify what an interpreter added; allow an intention to remain unsettled. |
+| Intelligibility, agreement and truth | Participants can understand a disagreement; they can agree on a false account. |
+| Ambiguity and consequential omission | Ambiguity can invite exploration, creativity or privacy; unresolved authority needs a different response. |
+| Access to context and compulsory exposure | Offer a route into background without requiring a personal history or transparent interior life. |
+| Familiarity and newcomer access | Shorthand can reduce insider effort while excluding others. Make its relevant background reconstructible. |
+| Understanding and manipulation | Examine incentives, contestability and refusal alongside communicative effectiveness. |
+
+An assistance system should offer candidate words, interpretations, questions, drawings or structures that can be corrected. It should preserve meaningful uncertainty and disagreement rather than turn every fragment into a finished argument. Revision history should distinguish an original expression, an interpretation and a later accepted formulation. Correction must remain possible without making all private thinking permanently inspectable.
+
+## Existing homes and intellectual precedents
+
+[Epistemic discoverability](epistemic-discoverability.md) concerns finding relevant knowledge before knowing its vocabulary. [Legible Systems](legible-systems.md) concerns understanding and contesting arrangements. [Legible AI-Assisted Expression](legible-ai-assisted-expression.md) owns the detailed contribution and transformation record. [Deliberative Inquiry](../research/methods/deliberative-inquiry.md) owns inquiry before consequential collective judgment. Coherent Communication connects these questions; it does not replace their methods or claim a new discipline.
+
+Participatory sense-making supplies an established account of meaning developing through interaction; boundary objects supply a precedent for cooperation across different interpretations. These are theoretical and historical connections, not evidence that current AI understands or experiences interaction like a person. See the [source register](../research/integration-reviews/sources-2026-11-27.md) for inspected coverage and further leads into pragmatics, repair, communication access and epistemic injustice.
+
+## Three bounded comparisons
+
+1. **Unfinished expression:** compare immediate polished completion, several labeled interpretations, and a competent human-editing/checklist baseline on the same fictional fragment. Record preserved constraints, introduced claims, author corrections, discarded branches and total review effort. A neutral reviewer should be able to locate what was added. Null: the alternatives add burden without improving fidelity. Reverse the preference if polished completion is equally faithful and easier to correct.
+2. **Navigable context:** compare a flat explanation with optional routes through an example, definition, evidence, assumptions and counterexample. Match content and reading time; include newcomers and experienced readers only in a separately approved voluntary study. Measure accurate reconstruction, correction and effort rather than clicks. More layers may distract or conceal an essential caveat.
+3. **Repair and dissent:** compare a shared vocabulary with a boundary-object task in which participants retain incompatible interpretations. Hold task information constant. Record successful coordination, unresolved factual error, visible disagreement and who performs repair. Coordination with concealed disagreement is an adverse outcome, not success.
+
+The first constructed written case is recorded in [UT-001](../research/integration-reviews/unfinished-thought-001/README.md). Under the same packet and scripted clarification, a polished draft, labeled alternatives and an ordinary checklist all retained the stated constraints. This does not establish a format advantage or measured improvement in repair effort. Navigable-context and repair/dissent comparisons remain proposed; participant activity needs its own protocol, consent, privacy and stopping rules. Wingbot remains a project-owned design application.
+
+### What the written case changes
+
+A fluent completion can preserve uncertainty; several alternatives are not inherently more faithful. The design question is which distinctions remain visible and correctable in any format: source expression, proposed wording, corrected evidence, unresolved meaning, a scoped choice and authority to act. In UT-001, accepting “photos first” for one visit did not settle companion choice, create physical access or authorize an invitation. Consolidating a resolved branch should not silently create a standing preference. These are working implications of an inspectable case, not observed behavior of people or an implemented assistant.
+
+[UT-002](../research/integration-reviews/unfinished-thought-002/README.md) now separates initial generation from the later clarification and uses separate, label-masked evaluation contexts. Evaluators supported the packet constraints across all three formats and their revisions; this remains one synthetic case, not independent model families or a human effort study. The ordinary checklist was longest in this run, so the earlier length ordering did not persist. Neither ordering demonstrates review burden. A presentation comparison should hold semantic content and candidate count fixed. A generation comparison may vary those, but cannot attribute its outcome to layout alone. Measure actual correction work before prescribing a format; word counts alone cannot substitute for that evidence.
+
+[Possibility and participation](../research/possibility-and-participation.md) · [Integration record and coverage](../research/integration-reviews/README.md)

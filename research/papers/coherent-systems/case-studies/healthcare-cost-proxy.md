@@ -2,7 +2,7 @@
 
 **Source:** Ziad Obermeyer, Brian Powers, Christine Vogeli, and Sendhil Mullainathan, *Dissecting racial bias in an algorithm used to manage the health of populations*, Science 366(6464), 447–453 (2019), DOI `10.1126/science.aax2342`. [Author-hosted article](https://sendhil.org/wp-content/uploads/2020/01/Publication-67.pdf).
 
-**Status:** AI-assisted retrospective reading, 2026-09-16; author review pending. Not a replication, clinical recommendation, or claim about current products.
+**Status:** retrospective reading, 2026-09-16. Not a replication, clinical recommendation, or claim about current products.
 
 ## Attributed findings
 

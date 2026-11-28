@@ -1,7 +1,7 @@
 # Deliberative Inquiry
 
 **Document role:** shared Root Sequence research and decision method  
-**Status:** working / review-pending  
+**Status:** working 
 **Scope:** collective learning, judgment, and consequential decisions  
 **Not:** a universal voting rule, a demand for unanimity, or a substitute for expertise
 
@@ -244,3 +244,7 @@ Not every decision needs every field. Privacy, data minimization, and the right 
 > **Reality gets veto power over the model.**
 
 These are prompts for inquiry, not sacred slogans. Any of them can be challenged if they stop helping Root Sequence detect error or preserve agency.
+
+## November 27 integration connection
+
+[Coherent Communication](../../concepts/coherent-communication.md) supplies adjacent questions about incomplete expression, context reconstruction, repair and interpretive power. Before a consequential decision, distinguish understanding a proposal, endorsing it and authorizing action. Preserve dissent and direct access to evidence; polished consensus can conceal an unresolved misunderstanding.

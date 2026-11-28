@@ -1,6 +1,5 @@
 # IA-01 — Pitts 2014: Methods Extraction
 
-**Status:** AI-assisted; author review pending<br>
 **Scope:** Main-text methods, results, and relevant discussion inspected; supplements, participant-level data, and code not inspected. No reanalysis performed.
 
 ## Compact evidence record

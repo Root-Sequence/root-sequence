@@ -1,6 +1,6 @@
 # Access, memory, and subject unity — evidence consolidation
 
-**Status:** AI-assisted exploratory synthesis; author review pending, 2026-09-23. Selected sources, not a systematic review. No participant data reanalysis or new human experiment.
+**Status:** synthesis, 2026-09-23. Selected sources, not a systematic review. No participant data reanalysis or new human experiment.
 
 **Contribution:** Distinguish information transfer from recollection and subject unity; record the limited overlap between AWARE II recordings and survivor interviews. Consolidates the follow-up discussion without treating repeated summaries as independent evidence.
 

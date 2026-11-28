@@ -2,7 +2,7 @@
 ## How can finite knowers rely on knowledge none can check entirely alone?
 
 **Document role:** Bounded research companion to [Intelligence Without Omniscience](README.md), especially [From Knowledge to Uptake](from-knowledge-to-uptake.md).  
-**Status:** WORKING / AI-assisted / author review pending — 2026-10-07.  
+**Status:** WORKING — 2026-10-07.  
 **Scope:** Philosophy of testimony and expertise, division of cognitive labor, cognitive/epistemic vigilance, reproducibility, AI-advised decisions, and failures of multi-agent information integration.  
 **Evidence boundary:** Empirical results apply to studied tasks and cohorts, not all AI deployments, scientific inquiry, or human collectives. The proposed Root Sequence synthesis is not a new validated general intelligence construct.  
 **Governance boundary:** Expertise may be evidence; reliable prediction is not automatic political authority; knowledge-sharing is constrained by consent and contributor rights.

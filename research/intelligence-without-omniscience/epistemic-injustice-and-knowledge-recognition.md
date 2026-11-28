@@ -2,7 +2,7 @@
 ## When relevant knowledge is present but fails to change the system
 
 **Role:** Focused research extension of [Intelligence Without Omniscience](README.md).  
-**Status:** PROVISIONAL / source-aware, AI-assisted / author review pending, 2026-10-07.  
+**Status:** PROVISIONAL / source-aware, 2026-10-07.  
 **Boundary:** A case-specific injustice claim needs evidence about prejudice, social power, interpretive resources, or silencing—not merely an unsuccessful conversation.
 
 ## The first distinction: information deficit or recognition failure?

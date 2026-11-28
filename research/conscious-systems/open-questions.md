@@ -1,7 +1,7 @@
 # Conscious Systems — Open Questions
 
 **Document role:** Living question and decision ledger<br>
-**Status:** v0.1-dev; AI-assisted research scaffold, author review pending<br>
+**Status:** v0.1-dev; research scaffold<br>
 **Evidence status:** Questions and provisional positions; not findings
 
 This ledger turns the broad question *“What can we change about a mind while preserving consciousness?”* into smaller questions that can be defined, compared, and tested. A question belongs here when answering it would change the research program, an experiment, or an ethical judgment.
@@ -18,7 +18,7 @@ These positions record the inquiry's present direction. They remain revisable.
 6. **Ethical separation:** Consciousness, moral consideration, personhood, capability, and legitimate authority require separate judgments.
 7. **Death/consciousness separation:** Life, death, current experience, capacity for experience, responsiveness, and recoverability are different variables. Neither absent experience nor absent report is by itself death.
 
-Positions 2–4 and 7 originate in the initiating discussion and follow-up author clarifications. Their formulation here is AI-assisted and awaiting review.
+Positions 2–4 and 7 originate in the initiating discussion and follow-up author clarifications. The formulations here are proposed interpretations of those clarifications.
 
 ## A. What phenomenon are we trying to explain?
 
