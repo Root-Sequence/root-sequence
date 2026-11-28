@@ -69,7 +69,6 @@ The paper has a [detailed contribution and accessibility record](research/papers
 | [research/papers/coherent-systems/case-studies/healthcare-emergence-and-agency.md](research/papers/coherent-systems/case-studies/healthcare-emergence-and-agency.md) | Relocated repeated assistance and generic review wording; subject and evidence limits retained |
 | [research/papers/coherent-systems/claims.md](research/papers/coherent-systems/claims.md) | Relocated repeated assistance and generic review wording; subject and evidence limits retained |
 | [research/papers/coherent-systems/notes/related-work.md](research/papers/coherent-systems/notes/related-work.md) | Relocated repeated assistance and generic review wording; subject and evidence limits retained |
-| [research/papers/coherent-systems/notes/t003-editorial-pilot-001-registration.md](research/papers/coherent-systems/notes/t003-editorial-pilot-001-registration.md) | Relocated repeated assistance and generic review wording; subject and evidence limits retained |
 | [research/papers/coherent-systems/notes/ucf-reconciliation.md](research/papers/coherent-systems/notes/ucf-reconciliation.md) | Relocated repeated assistance and generic review wording; subject and evidence limits retained |
 | [research/papers/coherent-systems/paper.md](research/papers/coherent-systems/paper.md) | Relocated repeated assistance and generic review wording; subject and evidence limits retained |
 | [research/possibility-and-participation.md](research/possibility-and-participation.md) | Source-grounded integration / design proposal |
