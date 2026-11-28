@@ -19,7 +19,7 @@ This is the shared home for dated cross-project integration: what changed in the
 
 Weekly status asks what is happening and blocked. The research digest records external findings in its existing archive. Monthly integration examines connections, contradictions, absences, possibilities and consequences across both. Refer to existing status/finding records rather than copy their reports or create a second finding archive.
 
-The monthly review should update this ledger cumulatively, carry unresolved row IDs forward and report meaningful changes only. It should not repeatedly reconstruct the whole history, treat archived ideas as commitments or start another recurring review. The source conversation reports a first-Sunday monthly review beginning December 6, 2026; its live scheduling record was not accessible during this pass. This document defines the intended input and method, not a verified schedule change.
+The monthly review should update this ledger cumulatively, carry unresolved row IDs forward and report meaningful changes only. It should not repeatedly reconstruct the whole history, treat archived ideas as commitments or start another recurring review. The existing hosted monthly review was subsequently configured to read these same ledger IDs; its saved instructions and unchanged recurrence were checked in the source-recovery follow-up. Carry executed comparisons such as UT-001 forward from their linked records rather than repeating the original proposal or assuming participant results.
 
 ## Record shape and visibility
 

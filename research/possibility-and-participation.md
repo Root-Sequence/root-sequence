@@ -48,3 +48,7 @@ Prediction asks what may follow specified conditions; imaginative work can vary 
 Use the [Design Grammar](../concepts/design-grammar.md) for patterns rather than create a parallel pattern catalog. Compare a bounded case before and after an intervention: what is available, discoverable, practically reachable, chosen, refused and newly generated? Identify affected actors, costs, authority, observation limits and what would reverse the proposed benefit. Include loss of support, transferred labor, privacy invasion and reduced future capacity among adverse outcomes. A null or a failed cross-domain connection can narrow or retire a working phrase.
 
 The [coverage ledger](integration-reviews/coverage-2026-11-27.md) records routing, not proof that these connections work. Project-owned comparisons may reject this synthesis. Coherence is an inquiry among others, not an authority over autonomous research, humanistic or creative projects.
+
+## Return from the unfinished-thought case
+
+[UT-001](integration-reviews/unfinished-thought-001/README.md) makes one distinction concrete without demonstrating a broader mechanism: proposed language, an available photo set, a choice to view it, practical physical access and permission for a visit are different things. All three constructed response formats preserved those separations. Better expression did not supply the missing ramp or a group agreement. The case therefore supplies no evidence that a more elaborate representation expands practical agency; it clarifies what a later comparison must keep separate.

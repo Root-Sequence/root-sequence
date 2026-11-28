@@ -36,6 +36,12 @@ Participatory sense-making supplies an established account of meaning developing
 2. **Navigable context:** compare a flat explanation with optional routes through an example, definition, evidence, assumptions and counterexample. Match content and reading time; include newcomers and experienced readers only in a separately approved voluntary study. Measure accurate reconstruction, correction and effort rather than clicks. More layers may distract or conceal an essential caveat.
 3. **Repair and dissent:** compare a shared vocabulary with a boundary-object task in which participants retain incompatible interpretations. Hold task information constant. Record successful coordination, unresolved factual error, visible disagreement and who performs repair. Coordination with concealed disagreement is an adverse outcome, not success.
 
-Begin with written cases. These comparisons have not been run; participant activity requires its own protocol, consent, privacy and stopping rules. Wingbot is an appropriate project-owned design application; no interface, representation service or implementation is selected here.
+The first constructed written case is recorded in [UT-001](../research/integration-reviews/unfinished-thought-001/README.md). Under the same packet and scripted clarification, a polished draft, labeled alternatives and an ordinary checklist all retained the stated constraints. This does not establish a format advantage or measured improvement in repair effort. Navigable-context and repair/dissent comparisons remain proposed; participant activity needs its own protocol, consent, privacy and stopping rules. Wingbot remains a project-owned design application.
+
+### What the written case changes
+
+A fluent completion can preserve uncertainty; several alternatives are not inherently more faithful. The design question is which distinctions remain visible and correctable in any format: source expression, proposed wording, corrected evidence, unresolved meaning, a scoped choice and authority to act. In UT-001, accepting “photos first” for one visit did not settle companion choice, create physical access or authorize an invitation. Consolidating a resolved branch should not silently create a standing preference. These are working implications of an inspectable case, not observed behavior of people or an implemented assistant.
+
+The next comparison should separate response production from later clarification and independent evaluation. Measure actual correction work before prescribing a format; word counts alone cannot substitute for that evidence.
 
 [Possibility and participation](../research/possibility-and-participation.md) · [Integration record and coverage](../research/integration-reviews/README.md)
