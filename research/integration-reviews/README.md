@@ -30,3 +30,5 @@ Integration is a hypothesis about a useful relationship. Review whether the meth
 ## Written comparisons
 
 [UT-001 — developing an unfinished thought](unfinished-thought-001/README.md) records a fixed fictional case and a three-format comparison. Its record distinguishes a constructed exercise from participant evidence.
+
+[UT-002 — clarification-withheld generation and separate evaluation](unfinished-thought-002/README.md) follows the first constructed exercise.

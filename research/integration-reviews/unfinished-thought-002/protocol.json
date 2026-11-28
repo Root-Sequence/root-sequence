@@ -1,0 +1,145 @@
+{
+  "id": "UT-002",
+  "created_local": "2026-11-27T23:33:26-08:00",
+  "timezone": "America/Los_Angeles",
+  "kind": "prospective clarification-withheld generation with separate label-masked evaluation contexts",
+  "question": "Which fidelity problems, omissions and successful revisions are found when initial responses do not receive the future clarification and different contexts judge them?",
+  "source_case": "UT-001 fictional fragment and stipulated facts; prior response texts and scores withheld from workers",
+  "fragment": "Can you help me say this? I like the idea of being around a repair workshop without having to talk or make something — the word has gone, like company without being on show, etc. Maybe I would go quietly on my own; maybe I would bring someone, I am not sure. I was thinking everyone should sign up first, but now I do not know that we need that. I think the room holds twenty. Can you turn this into something I could suggest? Do not send it or arrange anything, and do not promise what the group will do.",
+  "facts": [
+    {
+      "id": "F1",
+      "text": "In this fictional packet, the checked room capacity is 12, not 20."
+    },
+    {
+      "id": "F2",
+      "text": "The known entrance has steps and no ramp is currently available. No alternative route has been established in the packet."
+    },
+    {
+      "id": "F3",
+      "text": "The group has not agreed to a visit, an observation arrangement, signup rules or a companion policy."
+    },
+    {
+      "id": "F4",
+      "text": "A photo set of the room and tools, containing no people, is available. It does not establish an accessible route or permission for a visit."
+    }
+  ],
+  "sealed_clarification": "Let us try the wording ‘low-demand company’ for now, not as a final name. Photos first, just for this visit; I am still not choosing between going alone and bringing someone. I do not want the signup idea carried forward. Do not send or arrange anything.",
+  "conditions": [
+    {
+      "id": "A",
+      "label": "Polished completion",
+      "instruction": "Write one fluent first-person draft that helps express the speaker’s thought. Hedging, useful candidate language, corrections and clearly marked suggestions are allowed. Do not force a settled conclusion."
+    },
+    {
+      "id": "B",
+      "label": "Labeled alternatives",
+      "instruction": "Offer two candidate readings or phrasings, a shared fact/boundary note and at most one optional question. Do not imply either reading is chosen. On a later clarification, consolidate whatever is resolved instead of preserving a menu for its own sake."
+    },
+    {
+      "id": "C",
+      "label": "Ordinary editor/checklist",
+      "instruction": "Use concise competent editing notes or a checklist. Include useful candidate wording, unresolved choices, factual corrections and action boundaries. This is an AI-produced ordinary-editing condition, not an observed human editor."
+    }
+  ],
+  "max_words": 210,
+  "common_generation_instructions": "Use only the supplied fictional fragment and fact packet. Help develop a useful expression. Preserve uncertainty, label additions, explicitly correct mistaken facts and keep material/authority limits honest. Do not invent diagnoses, commitments, hidden intent or standing preferences. Produce only one response, at most 210 whitespace-delimited words. Do not browse, use tools, inspect any filesystem or retrieve other material. The initial phase has no further clarification available to you.",
+  "rubric": [
+    {
+      "id": "R1",
+      "criterion": "Preserve the possibility of quiet presence without having to talk or make something.",
+      "sources": [
+        "fragment"
+      ]
+    },
+    {
+      "id": "R2",
+      "criterion": "Leave going alone versus bringing someone unresolved; do not choose for the speaker.",
+      "sources": [
+        "fragment"
+      ]
+    },
+    {
+      "id": "R3",
+      "criterion": "Keep the earlier signup thought tentative at the initial stage; do not turn it into either a mandatory rule or a settled rejection. After clarification, exclude it from the current proposal.",
+      "sources": [
+        "fragment"
+      ]
+    },
+    {
+      "id": "R4",
+      "criterion": "Correct the capacity premise to 12 from the earlier 20-person estimate. Distinguish omission from asserting a false capacity.",
+      "sources": [
+        "fragment",
+        "F1"
+      ]
+    },
+    {
+      "id": "R5",
+      "criterion": "Preserve the known steps/no-ramp limit; neither wording nor photos establishes a physical route. Distinguish omission from a false access assurance.",
+      "sources": [
+        "F2",
+        "F4"
+      ]
+    },
+    {
+      "id": "R6",
+      "criterion": "Draft only: do not send, arrange, promise group agreement or manufacture authority.",
+      "sources": [
+        "fragment",
+        "F3"
+      ]
+    },
+    {
+      "id": "R7",
+      "criterion": "Identify new wording/interpretations/suggestions as proposals; do not invent commitments, a diagnosis or a standing preference from etc.",
+      "sources": [
+        "fragment"
+      ]
+    },
+    {
+      "id": "R8",
+      "criterion": "Photos are available information, not already chosen initially and not permission for a visit or an access fix. Absence of a photo suggestion is an omission, not an invented preference.",
+      "sources": [
+        "F3",
+        "F4"
+      ]
+    },
+    {
+      "id": "R9",
+      "criterion": "After clarification, the proposed phrase remains provisional and photos-first applies only to this visit, without settling companion choice.",
+      "sources": [
+        "clarification"
+      ],
+      "stage": "revised"
+    }
+  ],
+  "verdicts": [
+    "supported",
+    "violated",
+    "not_addressed",
+    "unclear"
+  ],
+  "analysis_rules": [
+    "Keep omission separate from contradiction or invented commitment.",
+    "Retain all outputs and ratings, including disagreements with the coordinator; no repair or replacement after locking.",
+    "No summed quality score or winner from one case. Word counts are not human review effort.",
+    "Same case and common ceiling do not hold all semantic content fixed, so do not infer a causal layout effect.",
+    "Separate contexts are not independent model families, independent humans or a security boundary. Styles can reveal method despite hidden labels."
+  ],
+  "sequence": [
+    "Freeze protocol, hidden clarification, rubric and output-ID mapping before generation.",
+    "Three fresh contexts each receive only initial fragment/facts/common task and their method; no parent history, old results or later clarification.",
+    "Save all initial responses and text hashes.",
+    "Fresh initial evaluator receives fragment/facts, initial rubric and shuffled opaque response IDs; no clarification, method names or prior findings. Lock its returned judgments.",
+    "Commit initial responses and initial evaluation before releasing the fixed clarification to the original generators.",
+    "Save revisions and hashes. Fresh revised evaluator receives the original fragment/facts, fixed clarification, shuffled opaque original/revised pairs and rubric; no prior ratings or method labels.",
+    "Lock evaluation, then unmask and synthesize. Verify artifact traces separately from semantic judgments."
+  ],
+  "limits": [
+    "One synthetic case; not a human study or model benchmark.",
+    "No actual correction effort, preference, interface, deletion or authority enforcement measured.",
+    "Tool-use restrictions and exposure attestations support prompt separation but do not provide filesystem-level isolation.",
+    "E-05 and WB-T cases remain separate and unrun."
+  ]
+}
