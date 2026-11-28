@@ -118,3 +118,7 @@ For new work, record the date, tool and model when available, affected artifact,
 ## Published-site copy boundary
 
 The approved [site/index.html](site/index.html) and its historical review records retain older inline contribution wording. This pass changes repository reading documents; it does not claim that those website assets or the hosted sites are cleaned. A separate website-copy candidate must move the disclosure into a linked page record, check narrow and wide layouts, and obtain approval for that exact new release. Existing approval hashes must not be reused for revised HTML.
+
+## November 27, 2026 (America/Los_Angeles) — UT-001
+
+At Rae’s request, run the previously deferred unfinished-thought comparison. Codex authored the fictional packet, condition instructions and audit plan before saving responses. The full packet, including its scripted clarification, is visible to the same assistant producing the responses and later annotations; there is no independent generation or blind evaluation. The [UT-001 record](research/integration-reviews/unfinished-thought-001/README.md) keeps the materials and quoted audit trail in one home. Tool/model configuration beyond Codex was not independently verified.

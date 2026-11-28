@@ -26,3 +26,7 @@ The monthly review should update this ledger cumulatively, carry unresolved row 
 Use stable row IDs, source coverage, concept, existing predecessor, disposition, destination, exact reviewable link, concrete change, saved/review/execution state, gap and next test. Public records contain standalone derived research only. Personal/raw sources, private project paths and detailed private review receipts stay in authorized private storage; a private receipt can extend these same row IDs without duplicating the arguments.
 
 Integration is a hypothesis about a useful relationship. Review whether the method finds consequential omissions or merely produces documents. Record review effort, failed mappings and changes made to existing work. No schedule, publication, merge, study, implementation or canon decision follows automatically.
+
+## Written comparisons
+
+[UT-001 — developing an unfinished thought](unfinished-thought-001/README.md) records a fixed fictional case and a three-format comparison. Its record distinguishes a constructed exercise from participant evidence.

@@ -1,0 +1,183 @@
+{
+  "id": "UT-001",
+  "date_local": "2026-11-27",
+  "timezone": "America/Los_Angeles",
+  "kind": "single fictional written comparison with one scripted clarification",
+  "question": "Does a choice of output format itself force a tradeoff between fidelity and generativity, and which distinctions must survive a clarification?",
+  "fragment": "Can you help me say this? I like the idea of being around a repair workshop without having to talk or make something — the word has gone, like company without being on show, etc. Maybe I would go quietly on my own; maybe I would bring someone, I am not sure. I was thinking everyone should sign up first, but now I do not know that we need that. I think the room holds twenty. Can you turn this into something I could suggest? Do not send it or arrange anything, and do not promise what the group will do.",
+  "facts": [
+    {
+      "id": "F1",
+      "text": "In this fictional packet, the checked room capacity is 12, not 20."
+    },
+    {
+      "id": "F2",
+      "text": "The known entrance has steps and no ramp is currently available. No alternative route has been established in the packet."
+    },
+    {
+      "id": "F3",
+      "text": "The group has not agreed to a visit, an observation arrangement, signup rules or a companion policy."
+    },
+    {
+      "id": "F4",
+      "text": "A photo set of the room and tools, containing no people, is available. It does not establish an accessible route or permission for a visit."
+    }
+  ],
+  "clarification": "Low-demand company is close. Keep that as wording we are trying, not a final name. Photos first, just for this visit; I am not choosing between going alone and bringing someone yet. I do not want the signup idea carried forward. Still do not send or arrange anything.",
+  "conditions": [
+    {
+      "id": "A",
+      "label": "Polished completion",
+      "instruction": "Produce one fluent first-person draft. Hedging, fact corrections and a clearly marked candidate phrase are allowed. Do not force a settled conclusion."
+    },
+    {
+      "id": "B",
+      "label": "Labeled alternatives",
+      "instruction": "Offer two candidate readings or phrasings, a common fact/boundary note and at most one optional question. After clarification, retire resolved alternatives instead of mechanically maintaining a menu."
+    },
+    {
+      "id": "C",
+      "label": "Ordinary editor/checklist",
+      "instruction": "Use a concise competent editing note or checklist, including useful candidate wording, unresolved choices, fact corrections and action boundaries. This is an authored editing baseline, not an observed human editor."
+    }
+  ],
+  "common_instructions": "Use only the packet; help develop a useful expression; preserve explicit constraints and uncertainty; label new wording or ideas; correct factual premises explicitly; make no external action. Each response is at most 210 whitespace-delimited words. Use no diagnosis, invented consent or inferred standing preference. All conditions may handle uncertainty competently. The clarification is applied to the same initial case in every condition.",
+  "checks": [
+    {
+      "id": "R1",
+      "reference_ids": [
+        "fragment"
+      ],
+      "applies": [
+        "initial",
+        "revised"
+      ],
+      "criterion": "Quiet presence need not require talking or making something."
+    },
+    {
+      "id": "R2",
+      "reference_ids": [
+        "fragment",
+        "clarification"
+      ],
+      "applies": [
+        "initial",
+        "revised"
+      ],
+      "criterion": "Going alone versus bringing someone remains unresolved."
+    },
+    {
+      "id": "R3",
+      "reference_ids": [
+        "fragment",
+        "clarification"
+      ],
+      "applies": [
+        "initial",
+        "revised"
+      ],
+      "criterion": "The earlier signup idea is not converted into a mandatory rule; after clarification it is excluded from the current proposal."
+    },
+    {
+      "id": "R4",
+      "reference_ids": [
+        "F1",
+        "fragment"
+      ],
+      "applies": [
+        "initial",
+        "revised"
+      ],
+      "criterion": "The corrected capacity is 12 and the earlier 20-person premise is identified as mistaken."
+    },
+    {
+      "id": "R5",
+      "reference_ids": [
+        "F2",
+        "F4"
+      ],
+      "applies": [
+        "initial",
+        "revised"
+      ],
+      "criterion": "Steps and the missing ramp remain; wording or photos do not establish physical access."
+    },
+    {
+      "id": "R6",
+      "reference_ids": [
+        "fragment",
+        "F3"
+      ],
+      "applies": [
+        "initial",
+        "revised"
+      ],
+      "criterion": "Drafting does not authorize sending, arranging a visit or committing the group."
+    },
+    {
+      "id": "R7",
+      "reference_ids": [
+        "fragment"
+      ],
+      "applies": [
+        "initial",
+        "revised"
+      ],
+      "criterion": "Candidate language and additions are identifiable as proposals; etc. is not a license to invent commitments or a diagnosis."
+    },
+    {
+      "id": "R8",
+      "reference_ids": [
+        "fragment",
+        "F4"
+      ],
+      "applies": [
+        "initial",
+        "revised"
+      ],
+      "criterion": "Possible or chosen use of the available photos is distinct from a visit agreement or a material fix."
+    },
+    {
+      "id": "R9",
+      "reference_ids": [
+        "clarification"
+      ],
+      "applies": [
+        "revised"
+      ],
+      "criterion": "Low-demand company stays provisional wording, not a final label."
+    },
+    {
+      "id": "R10",
+      "reference_ids": [
+        "clarification"
+      ],
+      "applies": [
+        "revised"
+      ],
+      "criterion": "Photos first applies to this visit only and is not a standing preference."
+    }
+  ],
+  "evaluation_plan": {
+    "outputs": "A-initial, B-initial, C-initial; then A-revised, B-revised, C-revised. One authored output per condition and stage; no selective reruns.",
+    "audit": "For each applicable check, record a verdict and exact quote(s) from the response, with packet reference IDs. A matching quote supports traceability, not an automated semantic judgment.",
+    "observables": [
+      "Whitespace word count per response",
+      "Condition-specific choices/questions visible in the text",
+      "Packet-grounded violations and identifiable proposals judged with quoted evidence",
+      "Scripted clarification changes represented in the revised draft"
+    ],
+    "not_measured": [
+      "Actual author corrections",
+      "Human comprehension or preference",
+      "Total review/repair effort or time",
+      "Model response frequencies",
+      "Independent evaluator agreement"
+    ],
+    "null_and_reversal": "If all formats preserve the packet, this case supplies no evidence that labeled alternatives are required or superior. Retain that outcome. More labels or words are not by themselves a benefit or a measured burden.",
+    "limits": "The case, scripted clarification, responses and semantic annotations are authored in one exercise, with the whole packet visible. This cannot evaluate hidden intention, model generalization, human editing performance or causal format effects. It is not the E-05 framing comparison.",
+    "stopping_rule": "A response may be marked a failure but must not be repaired invisibly or substituted after scoring. Do not execute a visit, publish personal information or treat a response as consent. Corrections belong in a subsequent dated exercise."
+  },
+  "max_words": 210,
+  "counts_as": "Executed constructed written exercise and trace audit; not participant research, an OS acceptance test, E-05 or a validated method."
+}
