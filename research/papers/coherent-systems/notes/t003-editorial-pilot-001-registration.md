@@ -118,7 +118,7 @@ Method comparison is performed only after both outputs are frozen.
 
 ## Known conflicts of interest
 
-- framework and protocol are proposed and untested
+- framework and protocol remain working drafts
 - the same model family generates both outputs and coding;
 - the selected packet was prepared by the same research process;
 - the primary source is Cloudflare's own postmortem, not independent incident reconstruction.
